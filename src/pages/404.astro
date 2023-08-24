@@ -1,0 +1,22 @@
+---
+import LayoutWithLCP from '../layouts/LayoutWithLCP.astro';
+import Footer from '../components/Footer.astro';
+const description = "A Pokémon fan site dedicated to Centiskorch, a dual-type Fire/Bug Pokémon from the Galar region."
+const title = "centiskor.ch | A Pokémon fan site";
+const lcpMediaAs = "image";
+const lcpSrc = "/images/luxio-404.jpg";
+const lcpMediaType = "image/jpeg";
+---
+<LayoutWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} />
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">Hey, you found Luxio!</h1>
+			<section id="tcg-card">
+				<a href="/"><img src={lcpSrc} alt="Luxio" width="300px" height="300px"></a>
+			</section id="tcg-card">
+			<p>You're here because you hit a 404 and that's the Pokédex number for Luxio. Go ahead and admire its cuteness and, when you're ready, hit the back button or give it a tap on the head to take you back to the homepage.</p>
+		</main>
+		<Footer />
+	</div>
+</div>

@@ -15,7 +15,7 @@ const lcpMediaType = "image/gif";
 		<main class="box">
 			<h1 class="headings">Welcome</h1>
 			<section id="tcg-card">
-				<img src={lcpSrc} alt="Centiskorch TCG card" width="300px" height="300px">
+				<img src={lcpSrc} alt="Centiskorch" width="300px" height="300px">
 			</section id="tcg-card">
 			<p>Hey! This is centiskor.ch, my hybrid Pokémon fan site and homage to Centiskorch.</p>
 			<p>I've been heavily inspired by a variety of sites, which you can read more about on <a href="/about/">my About page</a>.</p>
@@ -28,3 +28,48 @@ const lcpMediaType = "image/gif";
 		<Footer>
 	</div>
 </div>
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebPage",
+		"mainEntityOfPage": "https://centiskor.ch/",
+		"description": "A Pokémon fan site dedicated to Centiskorch, a dual-type Fire/Bug Pokémon from the Galar region.",
+		"image": ["https://centiskor.ch/images/centiskorch.gif"],
+		"url": "https://centiskor.ch/",
+		"about": [
+			{
+				"@type": "Thing",
+				"name": "Centiskorch",
+				"sameAs": ["https://www.wikidata.org/wiki/Q79335562", "https://bulbapedia.bulbagarden.net/wiki/Centiskorch_(Pok%C3%A9mon)", "https://pokemondb.net/pokedex/centiskorch", "https://www.serebii.net/pokedex-swsh/centiskorch", "https://www.pokemon.com/uk/pokedex/centiskorch"],
+				"subjectOf": {
+					"@type": "VideoGame",
+					"name": "Pokémon Sword and Shield",
+					"alternateName": "SwSh",
+					"url": "https://swordshield.pokemon.com/en-gb/",
+					"gamePlatform": "Nintendo Switch",
+					"gameLocation": {
+						"@type": "Place",
+						"name": "Galar"
+					}
+				},
+				"author": {
+					"@type": "Organization",
+					"name": "Game Freak",
+					"url": "https://www.gamefreak.co.jp/"
+				},
+				"publisher": [
+					{
+						"@type": "Organization",
+						"name": "Nintendo",
+						"url": "https://www.nintendo.com"
+					},
+					{
+						"@type": "Organization",
+						"name": "The Pokémon Company",
+						"url": "https://pokemon.com"
+					}
+				]
+			}
+		]
+	}
+</script>

@@ -201,6 +201,13 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
+"12-facts-i-didnt-know-about-pokemon.mdx": {
+	id: "12-facts-i-didnt-know-about-pokemon.mdx";
+  slug: "12-facts-i-didnt-know-about-pokemon";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".mdx"] };
 "first-post.mdx": {
 	id: "first-post.mdx";
   slug: "first-post";
@@ -219,9 +226,23 @@ declare module 'astro:content' {
 } & { render(): Render[".mdx"] };
 };
 "logs": {
+"my-pokemon-teams.mdx": {
+	id: "my-pokemon-teams.mdx";
+  slug: "my-pokemon-teams";
+  body: string;
+  collection: "logs";
+  data: InferEntrySchema<"logs">
+} & { render(): Render[".mdx"] };
 "projects.mdx": {
 	id: "projects.mdx";
   slug: "projects";
+  body: string;
+  collection: "logs";
+  data: InferEntrySchema<"logs">
+} & { render(): Render[".mdx"] };
+"todolist.mdx": {
+	id: "todolist.mdx";
+  slug: "todolist";
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">

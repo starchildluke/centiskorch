@@ -30,7 +30,7 @@ const blog = defineCollection({
 	}),
 });
 
-const myFavourites = defineCollection({
+const favourites = defineCollection({
 	// Type-check frontmatter using a schema
 	schema: z.object({
 		title: z.string(),
@@ -38,4 +38,4 @@ const myFavourites = defineCollection({
 	}),
 });
 
-export const collections = { logs, blog, myFavourites };
+export const collections = { logs, blog, favourites };

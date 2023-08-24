@@ -209,6 +209,15 @@ declare module 'astro:content' {
   data: InferEntrySchema<"blog">
 } & { render(): Render[".mdx"] };
 };
+"favourites": {
+"my-favourite-gen-1-pokemon.mdx": {
+	id: "my-favourite-gen-1-pokemon.mdx";
+  slug: "my-favourite-gen-1-pokemon";
+  body: string;
+  collection: "favourites";
+  data: InferEntrySchema<"favourites">
+} & { render(): Render[".mdx"] };
+};
 "logs": {
 "projects.mdx": {
 	id: "projects.mdx";
@@ -223,15 +232,6 @@ declare module 'astro:content' {
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">
-} & { render(): Render[".mdx"] };
-};
-"my-favourites": {
-"my-favourite-gen-1-pokemon.mdx": {
-	id: "my-favourite-gen-1-pokemon.mdx";
-  slug: "my-favourite-gen-1-pokemon";
-  body: string;
-  collection: "my-favourites";
-  data: any
 } & { render(): Render[".mdx"] };
 };
 

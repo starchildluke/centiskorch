@@ -2,7 +2,6 @@
 import { CollectionEntry, getCollection } from 'astro:content';
 import Favourites from '../../layouts/Favourites.astro';
 import Footer from '../../components/Footer.astro';
-import AsideLeft from '../../components/AsideLeft.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('logs');

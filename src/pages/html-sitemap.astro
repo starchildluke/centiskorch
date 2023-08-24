@@ -1,8 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.astro';
-import AsideLeft from '../components/AsideLeft.astro';
-import AsideRight from '../components/AsideRight.astro';
+import LeftSidebar from '../components/LeftSidebar.astro';
 import Sitemapper from 'sitemapper';
 
 const sitemap = new Sitemapper();
@@ -23,7 +22,7 @@ const sitemapURLs = await sitemap.fetch('https://centiskor.ch/sitemap-0.xml');
                 ))}
     </ul>
 		</main>
-		<AsideLeft />
+		<LeftSidebar />
 		<Footer>
 	</div>
 </div>

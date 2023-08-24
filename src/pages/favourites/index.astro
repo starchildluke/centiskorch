@@ -1,13 +1,13 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import Footer from '../../components/Footer.astro';
-import AsideLeft from '../../components/AsideLeft.astro';
+import LeftSidebar from '../../components/LeftSidebar.astro';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 const title = "My favourites";
 const description = "These are a few of my favourite things.";
 
-const posts = await getCollection('my-favourites');
+const posts = await getCollection('favourites');
 ---
 
 <Layout  title={title} description={description}/>
@@ -18,13 +18,13 @@ const posts = await getCollection('my-favourites');
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
 					<li>
-						<a href={`/my-favourites/${post.slug}/`} class="blog-listing-title">{post.data.title}</a>
+						<a href={`/favourites/${post.slug}/`} class="blog-listing-title">{post.data.title}</a>
 					</li>
 					))
 				}
 			</ul>
 		</main>
-		<AsideLeft />
+		<LeftSidebar />
 		<Footer />
 	</div>
 </div>

@@ -4,7 +4,7 @@ description: "Here is a list of my favourite Generation 1 Pokémon, with their s
 pubDate: "23 Aug 2023"
 altText: "a sprite of "
 ---
-import albums from '../../data/gen1.json'
+import pkmn from '../../data/gen1.json';
 
 Here is a list of my favourite Generation 1 Pokémon, with their sprites from Red/Blue/Yellow, and why I love them so much.
 
@@ -16,7 +16,7 @@ Here is a list of my favourite Generation 1 Pokémon, with their sprites from Re
 			<th>Reason</th>
 		</tr>
 	</thead>
-	{albums.favouritePokémon.map((item) => (
+	{pkmn.favouritePokémon.map((item) => (
 	<tr>
 		<td>{item.pokémon}</td>
 		<td><img src={item.sprite} alt={frontmatter.altText + item.pokémon} /></td>

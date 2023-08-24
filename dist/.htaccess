@@ -1,0 +1,40 @@
+# RewriteEngine On
+# RewriteCond %{HTTPS} off
+# RewriteCond %{HTTP:X-Forwarded-Proto} =http
+# RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.centiskor.ch [NC]
+RewriteRule ^(.*)$ https://centiskor.ch/$1 [L,R=301]
+
+ErrorDocument 404 /404.html
+
+# Set content-type for fonts
+AddType font/woff .woff
+AddType font/woff2 .woff2
+
+<IfModule mod_headers.c>
+Header add Access-Control-Allow-Origin "https://centiskor.ch/"
+</IfModule>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE font/woff2
+</IfModule> 
+
+# BEGIN Expire headers  
+<IfModule mod_expires.c>  
+  # Turn on the module.
+  ExpiresActive on
+  # Set the default expiry times.
+  ExpiresDefault "access plus 1 month"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/ico "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresByType font/woff "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+
+</IfModule>  
+# END Expire headers  

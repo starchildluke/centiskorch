@@ -201,20 +201,13 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
-"12-facts-i-didnt-know-about-pokemon.mdx": {
-	id: "12-facts-i-didnt-know-about-pokemon.mdx";
+"12-facts-i-didnt-know-about-pokemon.md": {
+	id: "12-facts-i-didnt-know-about-pokemon.md";
   slug: "12-facts-i-didnt-know-about-pokemon";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
-} & { render(): Render[".mdx"] };
-"first-post.mdx": {
-	id: "first-post.mdx";
-  slug: "first-post";
-  body: string;
-  collection: "blog";
-  data: InferEntrySchema<"blog">
-} & { render(): Render[".mdx"] };
+} & { render(): Render[".md"] };
 };
 "favourites": {
 "my-favourite-gen-1-pokemon.mdx": {
@@ -226,43 +219,43 @@ declare module 'astro:content' {
 } & { render(): Render[".mdx"] };
 };
 "logs": {
-"my-pokemon-teams.mdx": {
-	id: "my-pokemon-teams.mdx";
+"my-pokemon-teams.md": {
+	id: "my-pokemon-teams.md";
   slug: "my-pokemon-teams";
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">
-} & { render(): Render[".mdx"] };
-"projects.mdx": {
-	id: "projects.mdx";
+} & { render(): Render[".md"] };
+"projects.md": {
+	id: "projects.md";
   slug: "projects";
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">
-} & { render(): Render[".mdx"] };
-"todolist.mdx": {
-	id: "todolist.mdx";
+} & { render(): Render[".md"] };
+"todolist.md": {
+	id: "todolist.md";
   slug: "todolist";
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">
-} & { render(): Render[".mdx"] };
-"trainers-log.mdx": {
-	id: "trainers-log.mdx";
+} & { render(): Render[".md"] };
+"trainers-log.md": {
+	id: "trainers-log.md";
   slug: "trainers-log";
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">
-} & { render(): Render[".mdx"] };
+} & { render(): Render[".md"] };
 };
 "misc": {
-"cool-links.mdx": {
-	id: "cool-links.mdx";
+"cool-links.md": {
+	id: "cool-links.md";
   slug: "cool-links";
   body: string;
   collection: "misc";
   data: InferEntrySchema<"misc">
-} & { render(): Render[".mdx"] };
+} & { render(): Render[".md"] };
 };
 
 	};

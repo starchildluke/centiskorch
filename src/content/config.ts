@@ -1,7 +1,15 @@
 import { defineCollection, z } from 'astro:content';
 
 const logs = defineCollection({
-	// Type-check frontmatter using a schema
+	type: 'content',
+	schema: z.object({
+		title: z.string(),
+		description: z.string()
+	}),
+});
+
+const favourites = defineCollection({
+	type: 'content',
 	schema: z.object({
 		title: z.string(),
 		description: z.string()
@@ -9,7 +17,7 @@ const logs = defineCollection({
 });
 
 const misc = defineCollection({
-	// Type-check frontmatter using a schema
+	type: 'content',
 	schema: z.object({
 		title: z.string(),
 		description: z.string()
@@ -17,7 +25,7 @@ const misc = defineCollection({
 });
 
 const blog = defineCollection({
-	// Type-check frontmatter using a schema
+	type: 'content',
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -26,14 +34,6 @@ const blog = defineCollection({
 			.string()
 			.or(z.date())
 			.transform((val) => new Date(val))
-	}),
-});
-
-const favourites = defineCollection({
-	// Type-check frontmatter using a schema
-	schema: z.object({
-		title: z.string(),
-		description: z.string()
 	}),
 });
 

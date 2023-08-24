@@ -1,0 +1,29 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+import AsideLeft from '../components/AsideLeft.astro';
+import AsideRight from '../components/AsideRight.astro';
+import Sitemapper from 'sitemapper';
+
+const sitemap = new Sitemapper();
+
+const sitemapURLs = await sitemap.fetch('https://centiskor.ch/sitemap-0.xml');
+
+---
+<Layout title="Sitemap" description="All the pages on this site, in a map! I think they call it a sitemap?"/>
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">Sitemap</h1>
+			<ul>
+      {sitemapURLs.sites.map(( url ) => (
+                  <li>
+                    <a href={url}>{url}</a>
+                  </li>
+                ))}
+    </ul>
+		</main>
+		<AsideLeft />
+		<Footer>
+	</div>
+</div>

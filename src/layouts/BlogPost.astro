@@ -1,0 +1,42 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+import AsideLeft from '../components/AsideLeft.astro';
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate } = Astro.props;
+---
+
+<Layout title={title} description={description} />
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<article>
+				<section class="prose">
+					<section class="title">
+						<h1 class="headings">{title}</h1>
+					</section>
+					<section class="date">
+						<FormattedDate date={pubDate} />
+							{
+							updatedDate && (
+							<section class="last-updated-on">
+								Last updated on <FormattedDate date={updatedDate} />
+								</section>
+								)
+								}
+							</section>
+							<slot />
+						</section>
+					</article>
+				</main>
+				<AsideLeft />
+					<Footer />
+					</body>
+				</html>

@@ -1,0 +1,25 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+import AsideLeft from '../components/AsideLeft.astro';
+const description = "Learn more about centiskor.ch.";
+const title = "about centiskor.ch";
+---
+
+<Layout title={title} description={description}/>
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">{title}</h1>
+			<p>centiskor.ch was heavily inspired by <a href="pincurch.in">pincurch.in</a>, a site I stumbled upon while looking for cool domains, and sites from the 2000s where people just wrote stuff and had fun.</p>
+			<p>I've also had the pleasure of using Centiskorch in Pokémon Sword & Shield and it's one of my favourite designs in recent generations.</p>
+			<p>I want this site to be two things:</p>
+			<ol>
+				<li>A Centiskorch fan site.</li>
+				<li>A place for me to write about general Pokémon stuff, whether it be about media, VGC, my own playthroughs, nicknames, and general observations.</li>
+			</ol>
+		</main>
+		<AsideLeft />
+		<Footer />
+	</div>
+</div>

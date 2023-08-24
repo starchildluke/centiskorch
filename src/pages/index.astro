@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+import AsideLeft from '../components/AsideLeft.astro';
+import AsideRight from '../components/AsideRight.astro';
+const description = "A Pokémon fan site dedicated to Centiskorch, a dual-type Fire/Bug Pokémon from the Galar region."
+const title = "centiskor.ch | A Pokémon fan site";
+---
+<Layout title={title} description={description}/>
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">Welcome</h1>
+			<section id="tcg-card">
+				<img src="/images/centiskorch-vmax.jpeg" alt="Centiskorch TCG card" width="300px" height="418px">
+			</section id="tcg-card">
+			<p>Hey! This is centiskor.ch, my hybrid Pokémon fan site and homage to Centiskorch.</p>
+			<p>I've been heavily inspired by a variety of sites, which you can read more about on <a href="/about/">my About page</a>.</p>
+			<p>Pokémon has been my passion since 1998 and, despite a brief lull in the mid-to-late 00s, it's stronger than ever and this site is a manifestation of that obsession.</p>
+			<p>Anyway, have a great time and enjoy your time here!</p>
+		</main>
+		<AsideLeft />
+		<AsideRight />
+		<Footer>
+	</div>
+</div>

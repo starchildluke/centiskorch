@@ -1,0 +1,33 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Footer from '../../components/Footer.astro';
+import AsideLeft from '../../components/AsideLeft.astro';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+const title = "Logs";
+const description = "This is where I keep my logs. No, not the woooden type but that would be kinda cool.";
+
+const posts = (await getCollection('logs')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<Layout title={title} description={description}/>
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">{title}</h1>
+			<ul class="pokeball-icons">
+				{posts.map((post) => (
+					<li>
+						<a href={`/logs/${post.slug}/`} class="blog-listing-title">{post.data.title}</a>
+					</li>
+					))
+				}
+			</ul>
+		</main>
+		<AsideLeft />
+		<Footer />
+	</div>
+</div>
+			

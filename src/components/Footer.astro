@@ -1,0 +1,15 @@
+---
+let year = new Date().getFullYear()
+
+interface Props {
+	title: string;
+}
+---
+
+<footer class="box">
+	<nav>
+		<a href="/">home</a> | <a href="/about/">about</a> | <a href="/blog/">blog</a> | <a href="/html-sitemap/">sitemap</a> | <a href="#top">Back to top</a>
+	</nav>
+	<p><p>Copyright {year} © Luke Davis</p>
+	<p>Built with <a href="https://astro.build/">Astro</a></p>
+</footer>

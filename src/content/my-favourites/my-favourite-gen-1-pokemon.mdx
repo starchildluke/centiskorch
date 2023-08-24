@@ -1,0 +1,24 @@
+---
+title: "My favourite Gen 1 Pokémon"
+description: ""
+pubDate: "23 Aug 2023"
+altText: "a sprite of "
+---
+import albums from '../../data/albums.json'
+
+<table>
+	<thead>
+		<tr>
+			<th>Pokémon</th>
+			<th>Sprite</th>
+			<th>Reason</th>
+		</tr>
+	</thead>
+	{albums.favouritePokémon.map((item) => (
+	<tr>
+		<td>{item.pokémon}</td>
+		<td><img src={item.sprite} alt={frontmatter.altText + item.pokémon} /></td>
+		<td>{item.reason}</td>
+	</tr>
+	))}
+</table>

@@ -1,0 +1,24 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+	title: string;
+	description: string;
+	canonicalURL: string;
+	mediaAs: string;
+	mediaLink: string;
+	mediaType: string;
+}
+
+const { title, description, canonicalURL = Astro.url } = Astro.props;
+---
+
+<html lang="en" id="top">
+	<BaseHead title={title} description={description} canonicalURL={Astro.url} />
+	<body>
+	<Header />
+		<slot />
+	</body>
+</html>

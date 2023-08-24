@@ -39,7 +39,7 @@
     {
       "pokémon": "Poliwrath",
       "sprite": "/images/sprites/poliwrath_062_rby.png",
-      "reason": "This frog was had hands and it wasn't afraid to use them. Before Urshifu Rapid Strike, there was a Poliwrath as the chief Water/Fighting type. It's a shame that RBY relied so heavily on Speed because its stats aren't the worst (90 HP, 95 Defense, 90 Sp. Def, and 85 Attack)."
+      "reason": "This frog had hands and it wasn't afraid to use them. Before Urshifu Rapid Strike, there was a Poliwrath as the chief Water/Fighting type. It's a shame that RBY relied so heavily on Speed because its stats aren't the worst (90 HP, 95 Defense, 90 Sp. Def, and 85 Attack)."
     },
     {
       "pokémon": "Alakazam",
@@ -113,23 +113,23 @@
     },
    {
       "pokémon": "Porygon",
-      "sprite": "/images/sprites/blastoise_009_rby.png",
-      "reason": "Coming soon..."
+      "sprite": "/images/sprites/porygon_137_rby.png",
+      "reason": "There was a lot of talk about paywalled Pokémon in the 2023 World Championships but this thing? Super expensive (in Pokémon terms anyway). It cost 9999C in the Rocket Game Corner and, if you were to buy those coins rather than take your chances at the slots, it'd cost nearly 200,000 Pokédollars a lot of A button pressing (without a Turbo button). Aside from the expense, it was a unique Pokémon which got a bad rep because of the infamous Pokémon episode that caused seizure-like symptoms in over 600 children. But the digital duck wasn't to blame and, sadly, we'll probably never see it in the anime ever again. Free the duck!"
     },
    {
       "pokémon": "Aerodactyl",
-      "sprite": "/images/sprites/blastoise_009_rby.png",
-      "reason": "Coming soon..."
+      "sprite": "/images/sprites/aerodactyl_142_rby.png",
+      "reason": "A revived pterodactyl Pokémon with super speed? You bet I wanted this thing. You could get it by sneaking into the back of the Pewter City Museum and taking an Old Amber to a lab on Cinnabar Island. It was level 30 so not too far off your usual levels by that stage of the game so, if you need a quicker flier than Pidgeot or Fearow, it's worth a try. And Lance has one so that's the best endorsement you'd ever need."
     },
    {
       "pokémon": "Articuno",
-      "sprite": "/images/sprites/blastoise_009_rby.png",
-      "reason": "Coming soon..."
+      "sprite": "/images/sprites/articuno_144_rby.png",
+      "reason": "What a majestic bird. It's the only Gen 1 Legendary Bird in the list and therefore the best one because I said so. I often slotted it in my team with my other bird (Pidgeot) because Ice was so important for Lance. Using a legendary is cheating? Go tell your mummy because I DON'T CARE! Just look at that plumage and the cute little beak!"
     },
    {
       "pokémon": "Mewtwo",
-      "sprite": "/images/sprites/blastoise_009_rby.png",
-      "reason": "Coming soon..."
+      "sprite": "/images/sprites/mewtwo_150_rby.png",
+      "reason": "The First Pokémon movie remains the best and it was due to Mewtwo's story and majestic power. But anime fans' first exposure to Mewtwo was in the Indigo League series, where it was an unnamed creature in a mecha suit, controlled by Geovanni in the Viridian City gym and it took out any Pokémon it faced with ease. Still one of the coolest things about Pokémon and I'd love if they brought it back in an official capacity (outside of adding an Assault Vest)."
     }
   ]
 }

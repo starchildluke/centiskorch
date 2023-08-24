@@ -7,9 +7,6 @@ interface Props {
 	title: string;
 	description: string;
 	canonicalURL: string;
-	mediaAs: string;
-	mediaLink: string;
-	mediaType: string;
 }
 
 const { title, description, canonicalURL = Astro.url } = Astro.props;

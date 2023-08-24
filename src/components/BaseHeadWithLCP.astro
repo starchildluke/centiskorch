@@ -1,0 +1,29 @@
+---
+
+const {
+  site = "https://centiskor.ch/",
+  title,
+  description,
+  lcpMediaAs,
+  lcpSrc,
+  lcpMediaType,
+  canonicalURL = Astro.url
+} = Astro.props;
+
+const blogRssFeed = `${site}feed/blog.xml`;
+---
+<head>
+<meta charset="UTF-8" />
+<meta name="description" content={description}>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/ico" href="/favicon.ico" />
+<link rel="preload" as="image" href="/images/851.png" type="image/png">
+<link rel="preload" as={lcpMediaAs} href={lcpSrc} type={lcpMediaType}>
+<meta name="generator" content={Astro.generator} />
+<link rel="canonical" href={canonicalURL} />
+<link rel="preload" href="/fonts/Georama_Expanded-Black-subset.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" as="style" href="/style.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="/style.css">
+<title>{title}</title>
+<script defer data-domain="centiskor.ch" src="https://plausible.io/js/script.js"></script>
+</head>

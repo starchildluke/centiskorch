@@ -155,6 +155,10 @@ footer {
 	 width: 100%;
 }
 
+smaller {
+	font-size: smaller;
+}
+
 a {
 	color: #c4413b;
 	font-weight: 700;

@@ -1,0 +1,31 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Footer from '../../components/Footer.astro';
+import LeftSidebar from '../../components/LeftSidebar.astro';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+const title = "Miscellany";
+const description = "This is where I keep my miscellaneous links and tidbits.";
+
+const posts = await getCollection('misc');
+---
+
+<Layout title={title} description={description}/>
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">{title}</h1>
+			<ul class="pokeball-icons">
+				{posts.map((post) => (
+					<li>
+						<a href={`/misc/${post.slug}/`} class="blog-listing-title">{post.data.title}</a>
+					</li>
+					))
+				}
+			</ul>
+		</main>
+		<LeftSidebar />
+		<Footer />
+	</div>
+</div>
+			

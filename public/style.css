@@ -74,6 +74,10 @@ ul.pokeball-icons li, aside.right-sidebar ul li {
 	 text-align: center;
 }
 
+.headings a {
+	color: #fdee00;
+}
+
 .container {
 	margin: 0 auto;
 	max-width: 57rem;

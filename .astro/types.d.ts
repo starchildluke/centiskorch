@@ -234,6 +234,15 @@ declare module 'astro:content' {
   data: InferEntrySchema<"logs">
 } & { render(): Render[".mdx"] };
 };
+"misc": {
+"cool-links.mdx": {
+	id: "cool-links.mdx";
+  slug: "cool-links";
+  body: string;
+  collection: "misc";
+  data: InferEntrySchema<"misc">
+} & { render(): Render[".mdx"] };
+};
 
 	};
 

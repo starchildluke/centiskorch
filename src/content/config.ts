@@ -8,6 +8,14 @@ const logs = defineCollection({
 	}),
 });
 
+const misc = defineCollection({
+	// Type-check frontmatter using a schema
+	schema: z.object({
+		title: z.string(),
+		description: z.string()
+	}),
+});
+
 const blog = defineCollection({
 	// Type-check frontmatter using a schema
 	schema: z.object({
@@ -29,4 +37,4 @@ const favourites = defineCollection({
 	}),
 });
 
-export const collections = { logs, blog, favourites };
+export const collections = { logs, misc, blog, favourites };

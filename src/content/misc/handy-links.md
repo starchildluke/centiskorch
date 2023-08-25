@@ -9,6 +9,9 @@ pubDate: "24 Aug 2023"
 * [Pokémon team planner](https://richi3f.github.io/pokemon-team-planner/)
 * [PokéSprite](https://msikma.github.io/pokesprite/index.html)
 * [Trainer card maker](https://tcm.pokecharms.com/)
+* [Pokencyclopedia.info](https://www.pokencyclopedia.info/en/index.php) - Pokémon Encyclopedia, Pokédex, Sprites
+* [Sun/Moon Sprite Project](https://www.smogon.com/forums/threads/sun-moon-sprite-project.3577711/) - these have been used on my Pokémon teams page
+* [Photopea](https://www.photopea.com/) - for those who like to edit sprites or make cool Pokémon graphics and can't afford Adobe Photoshop CC
 
 ## R/B/Y
 * [Pokémon Red/Blue speedrunning guide](https://www.speedrun.com/pkmnredblue/resources)

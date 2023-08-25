@@ -39,6 +39,14 @@ p {
 	margin: 0 0 1rem;
 }
 
+li {
+	line-height: 1.4;
+}
+
+figcaption {
+	margin-top: 0.25rem;
+}
+
 .inner-header {
 	display: flex;
 	gap: calc(var(--gap) * 2);
@@ -222,5 +230,9 @@ table, th, td {
 
 	aside {
 		width: 100%;
+	}
+
+	img {
+		max-width: 100%;
 	}
 }

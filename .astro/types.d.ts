@@ -219,13 +219,13 @@ declare module 'astro:content' {
 } & { render(): Render[".mdx"] };
 };
 "logs": {
-"my-pokemon-teams.md": {
-	id: "my-pokemon-teams.md";
+"my-pokemon-teams.mdx": {
+	id: "my-pokemon-teams.mdx";
   slug: "my-pokemon-teams";
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">
-} & { render(): Render[".md"] };
+} & { render(): Render[".mdx"] };
 "projects.md": {
 	id: "projects.md";
   slug: "projects";

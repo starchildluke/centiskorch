@@ -256,6 +256,22 @@ declare module 'astro:content' {
   collection: "misc";
   data: InferEntrySchema<"misc">
 } & { render(): Render[".md"] };
+"handy-links.md": {
+	id: "handy-links.md";
+  slug: "handy-links";
+  body: string;
+  collection: "misc";
+  data: InferEntrySchema<"misc">
+} & { render(): Render[".md"] };
+};
+"rooms": {
+"blastoise.mdx": {
+	id: "blastoise.mdx";
+  slug: "blastoise";
+  body: string;
+  collection: "rooms";
+  data: InferEntrySchema<"rooms">
+} & { render(): Render[".mdx"] };
 };
 
 	};

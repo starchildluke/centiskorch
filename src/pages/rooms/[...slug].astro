@@ -1,0 +1,20 @@
+---
+import { CollectionEntry, getCollection } from 'astro:content';
+import Rooms from '../../layouts/Rooms.astro';
+
+export async function getStaticPaths() {
+	const rooms = await getCollection('rooms');
+	return rooms.map((room) => ({
+		params: { slug: room.slug },
+		props: room,
+	}));
+}
+type Props = CollectionEntry<'rooms'>;
+
+const room = Astro.props;
+const { Content } = await room.render();
+---
+
+<Rooms {...room.data}>
+	<Content />
+</Rooms>

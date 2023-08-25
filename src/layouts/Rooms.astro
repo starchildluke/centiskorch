@@ -1,0 +1,57 @@
+---
+import Footer from '../components/Footer.astro';
+import LeftSidebar from '../components/LeftSidebar.astro';
+import BaseHeadWithLCP from '../components/BaseHeadWithLCP.astro';
+import Header from '../components/Header.astro';
+import type { CollectionEntry } from 'astro:content';
+
+const {
+	title,
+	description,
+	lcpMediaAs,
+	lcpSrc, 
+	lcpMediaType,
+	bodyColour,
+	bgContentColour,
+	outlineContentColour,
+	borderContentColour,
+	headingTextColour,
+	canonicalURL = Astro.url } = Astro.props;
+---
+
+<style define:vars={{ bodyColour, bgContentColour, outlineContentColour, borderContentColour, headingTextColour }}>
+	body {
+		background: var(--bodyColour);
+	}
+
+	.flex-content {
+		background: var(--bgContentColour);
+		border-color: var(--borderContentColour);
+		outline-color: var(--outlineContentColour);
+	}
+
+	main h1.headings, main h2.headings, main h3.headings, main h4.headings {
+		background: var(--bodyColour);
+		color: var(--headingTextColour);
+	}
+</style>
+
+
+<html lang="en" id="top">
+	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={Astro.url} />
+	<body>
+		<Header />
+			<div class="container">
+				<div class="flex-content">
+					<main class="box">
+						<article>
+							<section>
+								<h1 class="headings">{title}</h1>
+							</section>
+							<slot />
+						</article>
+					</main>
+					<LeftSidebar />
+					<Footer />
+					</body>
+				</html>

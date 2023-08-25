@@ -10,3 +10,5 @@ Shout out to Seafare which has been a huge inspiration for the design and struct
 [![A black disc with the words "disc—content" next to it](/images/disc-content-button.gif)](https://disc-content.neocities.org/) [![A blue badge with the words "mattcolewilson.com" on it](/images/mcw-button.gif)](https://mattcolewilson.com/)
 
 Love PS1 fansites or projects so DISC-CONTENT is right up my street. And check out his awesome portfolio!
+
+[SB Nation reviews: Mewtwo](https://www.sbnation.com/2020/4/5/21201160/mewtwo-pokemon-movie-review) - Zito Madu wrote an awesome piece on Mewtwo that you should definitely read

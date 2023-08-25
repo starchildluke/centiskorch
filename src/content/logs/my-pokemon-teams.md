@@ -10,18 +10,23 @@ This page is dedicated to as many Pokémon teams as I can remember that I've had
 
 ![Blastoise, Graveler, Victreebel, Electrode, Pidgeot, and Articuno](/images/rby_team.gif)
 
-My default team.
+Blastoise, Graveler, Victreebel, Electrode, Pidgeot, and Articuno
 
 
 ## Pokémon Silver
 
 ![Feraligatr, Haunter, Pidgeot, Lugia, Graveler, and Ampharos](/images/gsc_team.gif)
 
+Feraligatr, Haunter, Pidgeot, Lugia, Graveler, and Ampharos
+
 ## Pokémon Sapphire
 
 ![Swampert, Swellow, Aggron, Kyogre, Hariyama, and Glalie](/images/rse_team.gif)
 
+Swampert, Swellow, Aggron, Kyogre, Hariyama, and Glalie
 
 ## Pokémon Violet
 
 <img src="/images/sv_team.gif" alt="Quaquaval, Scovillain, Bellibolt, Tauros, Grumpig, and Scizor" width="75%" loading="lazy"/>
+
+Quaquaval, Scovillain, Bellibolt, Tauros, Grumpig, and Scizor

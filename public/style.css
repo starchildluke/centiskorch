@@ -98,7 +98,7 @@ ul.pokeball-icons li, aside.right-sidebar ul li {
 	background: white;
 }
 
-#tcg-card {
+.img-center {
 	text-align: center;
 	margin-bottom: var(--gap);
 }

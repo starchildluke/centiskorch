@@ -24,6 +24,22 @@ const misc = defineCollection({
 	}),
 });
 
+const rooms = defineCollection({
+	type: 'content',
+	schema: z.object({
+		title: z.string(),
+		description: z.string(),
+		bodyColour: z.string(),
+		bgContentColour: z.string(),
+		outlineContentColour: z.string(),
+		borderContentColour: z.string(),
+		headingTextColour: z.string(),
+		lcpMediaAs: z.string(),
+		lcpSrc: z.string(),
+		lcpMediaType: z.string()	
+	}),
+});
+
 const blog = defineCollection({
 	type: 'content',
 	schema: z.object({
@@ -37,4 +53,4 @@ const blog = defineCollection({
 	}),
 });
 
-export const collections = { logs, misc, blog, favourites };
+export const collections = { logs, misc, blog, favourites, rooms };

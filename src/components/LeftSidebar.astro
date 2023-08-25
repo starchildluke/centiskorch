@@ -1,4 +1,11 @@
 ---
+import { getCollection } from 'astro:content';
+const posts = await getCollection('misc', ({slug}) => {
+	return slug.includes('links');
+}); 
+
+const rooms = await getCollection('rooms'); 
+
 ---
 
 <aside class="left-sidebar box">
@@ -17,7 +24,24 @@
 	<h2 class="headings"><a href="/misc/">Misc</a></h2>
 	<nav>
 		<ul class="pokeball-icons">
-			<li><a href="/misc/cool-links">cool links</a></li>
+			{posts.map((post) => (
+					<li>
+						<a href={`/misc/${post.slug}/`}>{post.data.title.toLowerCase()}</a>
+					</li>
+					))
+				}
+		</ul>
+	</nav>
+	<h2 class="headings"><a href="/rooms/">Rooms</a></h2>
+	<nav>
+		<ul class="pokeball-icons">
+			{rooms.map((room) => (
+					<li>
+						<a href={`/rooms/${room.slug}/`}>{room.data.title.toLowerCase()}</a>
+					</li>
+					))
+				}
+			<li><a href="https://www.youtube.com/watch?v=QcD_YXCxxZM">the third room</a></li>
 		</ul>
 	</nav>
 </aside>

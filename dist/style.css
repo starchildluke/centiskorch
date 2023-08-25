@@ -17,21 +17,23 @@ h1, h2, h3, h4, h5, .header-centered span { padding: 0; margin: 0; font-family: 
 
 h1 { font-size: 2rem; }
 
-h1.headings { margin-bottom: 1rem; }
+h1.headings, h2.headings { margin-bottom: var(--gap); }
+
+aside h2.headings { margin-bottom: 0; }
 
 h2 { font-size: 1.25rem; }
 
-p { line-height: 1.3; margin: 0 0 1rem; }
+p { line-height: 1.3; margin: 0 0 var(--gap); }
 
 ul.pokeball-icons, aside.right-sidebar ul { padding-left: 1.25rem; list-style-type: none; }
 
-ul.pokeball-icons li, aside.right-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png");   background-position: 0 0;   background-size: 1rem;   background-repeat: no-repeat; }
+ul.pokeball-icons li, aside.right-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png");   background-position: 0 0;   background-size: var(--gap);   background-repeat: no-repeat; }
 
 li { line-height: 1.4; }
 
 figcaption { margin-top: 0.25rem; }
 
-header { display: flex; padding: 1rem; background: #29191a; margin-bottom: calc(var(--gap) * 2); }
+header { display: flex; padding: var(--gap); background: #29191a; margin-bottom: calc(var(--gap) * 2); }
 
 aside { width: 300px; }
 
@@ -67,11 +69,11 @@ table, th, td { border: 1px solid black; border-collapse: collapse; padding: cal
 
 .img-center { text-align: center; margin-bottom: var(--gap); }
 
-.blog-listing-title { font-family: 'Georama Expanded Black'; font-size: 1rem; letter-spacing: 0.3px; }
+.blog-listing-title { font-family: 'Georama Expanded Black'; font-size: var(--gap); letter-spacing: 0.3px; }
 
 .date { font-size: 8pt; }
 
-.left-sidebar, .right-sidebar, main, footer { padding: 1rem; }
+.left-sidebar, .right-sidebar, main, footer { padding: var(--gap); }
 
 .left-sidebar, .right-sidebar { width: calc(100% * 0.2); }
 
@@ -99,7 +101,7 @@ table, th, td { border: 1px solid black; border-collapse: collapse; padding: cal
 
 	img { max-width: 100%; height: auto; }
 
-	.header-centered span { font-size: 1rem; }
+	.header-centered span { font-size: var(--gap); }
 
 	.left-sidebar { order: 2; }
 

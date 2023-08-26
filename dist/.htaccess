@@ -36,5 +36,9 @@ AddOutputFilterByType DEFLATE font/woff2
   ExpiresByType font/woff "access plus 1 year"
   ExpiresByType font/woff2 "access plus 1 year"
 
+<filesMatch ".(ico|jpeg|png|gif|woff|woff2)$">
+  Header set Cache-Control "max-age=31536000, public, must-revalidate"
+</filesMatch>
+
 </IfModule>  
 # END Expire headers  

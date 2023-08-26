@@ -31,7 +31,9 @@ ul.pokeball-icons li, aside.right-sidebar ul li { padding-left: 1.25rem; backgro
 
 li { line-height: 1.4; }
 
-figcaption { margin-top: 0.25rem; }
+figcaption { margin-top: 0.25rem; font-size: smaller; }
+
+figure { margin-bottom: calc(var(--gap) * 1.5) }
 
 header { display: flex; padding: var(--gap); background: #29191a; margin-bottom: calc(var(--gap) * 2); }
 
@@ -39,7 +41,9 @@ aside { width: 300px; }
 
 main { flex: 1; order: 2; width: calc(100% * 0.4); }
 
-footer {  margin-top: calc(var(--gap));  text-align: center;  order: 4;  width: 100%; }
+footer {  margin-top: var(--gap);  text-align: center;  order: 4;  width: 100%; }
+
+footer > * { margin-bottom: var(--gap); }
 
 smaller { font-size: smaller; }
 
@@ -48,6 +52,10 @@ a { color: #c4413b; font-weight: 700; }
 a:hover { text-decoration: none; }
 
 table, th, td { border: 1px solid black; border-collapse: collapse; padding: calc(var(--gap) * 0.5); }
+
+tbody img, img[src$=".gif"], img[src$=".png"] { image-rendering: pixelated; }
+
+img, figure { max-width: 100%; height: auto;  }
 
 /* CLASSES */
 

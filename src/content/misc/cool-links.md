@@ -11,6 +11,10 @@ Shout out to Seafare which has been a huge inspiration for the design and struct
 
 Love PS1 fansites or projects so DISC-CONTENT is right up my street. And check out his awesome portfolio!
 
+[![Pichu](/images/pichu100501.png)](https://rhythm-emotion.net/pichu/)
+
+It's a Pichu fansite!
+
 [SB Nation reviews: Mewtwo](https://www.sbnation.com/2020/4/5/21201160/mewtwo-pokemon-movie-review) - Zito Madu wrote an awesome piece on Mewtwo that you should definitely read
 
 [Johto Times](https://johto.substack.com/) - an awesome Pokémon-focused newsletter published every Thursday. If you were a fan growing up in the late 90s and early 2000s, you'll love the nostalgia kick.

@@ -217,6 +217,13 @@ declare module 'astro:content' {
   collection: "favourites";
   data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
+"my-favourite-gen-2-pokemon.mdx": {
+	id: "my-favourite-gen-2-pokemon.mdx";
+  slug: "my-favourite-gen-2-pokemon";
+  body: string;
+  collection: "favourites";
+  data: InferEntrySchema<"favourites">
+} & { render(): Render[".mdx"] };
 };
 "logs": {
 "my-pokemon-teams.mdx": {
@@ -233,13 +240,13 @@ declare module 'astro:content' {
   collection: "logs";
   data: InferEntrySchema<"logs">
 } & { render(): Render[".md"] };
-"todolist.md": {
-	id: "todolist.md";
+"todolist.mdx": {
+	id: "todolist.mdx";
   slug: "todolist";
   body: string;
   collection: "logs";
   data: InferEntrySchema<"logs">
-} & { render(): Render[".md"] };
+} & { render(): Render[".mdx"] };
 "trainers-log.md": {
 	id: "trainers-log.md";
   slug: "trainers-log";
@@ -262,6 +269,15 @@ declare module 'astro:content' {
   body: string;
   collection: "misc";
   data: InferEntrySchema<"misc">
+} & { render(): Render[".md"] };
+};
+"nicknames": {
+"centiskorch.md": {
+	id: "centiskorch.md";
+  slug: "centiskorch";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 };
 "rooms": {

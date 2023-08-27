@@ -1,0 +1,135 @@
+{
+  "favouritePokémon":
+  [
+    {
+      "pokémon": "Totodile",
+      "sprite": "/images/sprites/gen2/158.png",
+      "reason": "I have to start with my fave starter from Gen 2 and my partner's all-time fave. There's no gun at my head, I genuinely love this little croc. It's cheeky and always down to fight. And great for speedruns thanks to Rage mechanics."
+    },
+    {
+      "pokémon": "Feraligatr",
+      "sprite": "/images/sprites/gen2/160.png",
+      "reason": "I've broken tradition here by adding two Pokémon from the same line but I wanted to emphasise the fact that I love Feraligatr too. It's a big alligator and probably one of the more forgotten final evolutions in Pokémon, and especially in Gen 2. Meganium is a big green dinosaur and played a major role in New Pokémon Snap and Typhlosion got a new regional variant in Legends: Arceus. Feraligatr has nothing so far. It's a shame but I love it all the same."
+    },
+    {
+      "pokémon": "Sentret",
+      "sprite": "/images/sprites/gen2/161.png",
+      "reason": "Sentret was the first Pokémon I ever encountered in Johto. I was 10, living in Atlanta, and visited Toys 'R Us for the first time. There was a Game Boy Color on display with Pokémon Gold and I played it for a few minutes. It was the best thing ever and Sentret was adorable. I don't catch many in my playthroughs but maybe I will and actually use one. Unevolved. For the culture."
+    },
+    {
+      "pokémon": "Ariados",
+      "sprite": "/images/sprites/gen2/168.png",
+      "reason": "Bug types generally suck competitively but this isn't a VGC popularity contest (because Ariados certainly wouldn't in that). But I love its name and its gorgeous sprite."
+    },
+    {
+      "pokémon": "Crobat",
+      "sprite": "/images/sprites/gen2/169.png",
+      "reason": "I'm not a fan of Zubat or Golbat. But Crobat? Now that's good work. Not a huge fan of the sprite (later gens did it justice) but this Pokémon was awesome and super fast. I've yet to keep a Zubat alive long enough in a Nuzlocke to get it this far though. Maybe one day."
+    },
+    {
+      "pokémon": "Xatu",
+      "sprite": "/images/sprites/gen2/178.png",
+      "reason": "I always found Xatu so serene and I loved its Native American roots. Its based on the resplendent quetzal and features 'ancient art of Sun Gazing, a form of spiritual meditation practiced by the Aztec and Mayan peoples in the belief that it would give them supernatural power', according to Wikipedia. And its name derives from 'xat', a Native American carved pole. Love that attention to detail."
+    },
+    {
+      "pokémon": "Ampharos",
+      "sprite": "/images/sprites/gen2/181.png",
+      "reason": "The PokéGod we knew as Denryu, thought to be a pre-evolution [citation needed] of Dragonite, was a strange creature. Its previous stages were both sheep but this is Pokémon where things don't make sense as praxis. But it was a default pick for anyone who wanted an Electric type early in the game. 115 Special Attack and decent bulk made this electric dragon a beast."
+    },
+    {
+      "pokémon": "Politoed",
+      "sprite": "/images/sprites/gen2/186.png",
+      "reason": "A new evolution that I never got the chance to own because I didn't have a friend to trade with (story of my life). It's a big green frog and it always looks happy, what's not to love here? It has 500 base stats and it could pack a fair punch and take a few. I should know—I loved using Politoed in SwSh VGC."
+    },
+    {
+      "pokémon": "Sunflora",
+      "sprite": "/images/sprites/gen2/192.png",
+      "reason": "I'm gonna cheat a little here and say I didn't fall in love with Sunflora until I used it in a Black and White playthrough. What I didn't know is how strong it was. Yeah, it's frail but 105 Special Attack? And 85 Special Defense isn't anything to sniff at in Gen 2. I should have used this thing more often. And I think I will in future."
+    },
+    {
+      "pokémon": "Wooper",
+      "sprite": "/images/sprites/gen2/194.png",
+      "reason": "The cutest little axolotl in the world. Just happy to exist. No thoughts, just pleasant vibes. We need more of that in this world."
+    },
+    {
+      "pokémon": "Umbreon",
+      "sprite": "/images/sprites/gen2/197.png",
+      "reason": "I adore Umbreon. It reminds me of my old cat, a British/Blue cross and a cheeky little thing. Bulky as heck, a Dark type, and an all-round adorable Pokémon. And the shiny is *chef's kiss*."
+    },
+    {
+      "pokémon": "Misdreavus",
+      "sprite": "/images/sprites/gen2/200.png",
+      "reason": "It's wild that you can't access this Pokémon, a new Johto Pokémon and the first pure Ghost type, until the end of the game. That means unless someone trades with you, you're not gonna fit this into your team without dropping something and grinding for days. But it's a cutey with a pearl necklack. I feel like they were making amends for Jynx and the Blackface stuff in terms of feminine Ghost types."
+    },
+    {
+      "pokémon": "Forretress",
+      "sprite": "/images/sprites/gen2/205.png",
+      "reason": "The main reason this bagworm is here is because of its shiny which is my all-time favourite. But aside from that, I like that it's a giant steel orb that explodes and throws spikes around. It choose violence every day and I respect that. You know what you're getting with Forretress."
+    },
+    {
+      "pokémon": "Dunsparce",
+      "sprite": "/images/sprites/gen2/206.png",
+      "reason": "Take the bus! (IYKYK) This thing is a tank and I'm so glad it got an evolution. But before that, we have a Normal type land snake with a beard. It's such a Japanese design and I love it. This thing can Headbutt and Glare you to glory if you give it a chance."
+    },
+    {
+      "pokémon": "Scizor",
+      "sprite": "/images/sprites/gen2/212.png",
+      "reason": "They gave Scyther an incredible evolution in Scizor. A red Mech with chomping claws? Gimme gimme gimme!"
+    },
+    {
+      "pokémon": "Sneasel",
+      "sprite": "/images/sprites/gen2/215.png",
+      "reason": "A Dark/Ice weasel is exactly the kind of thing I'd expect from Game Freak in what was supposed to be the last Pokémon generation. My primary experience with Sneasel was facing my rival's and while it never posed a threat (4x weakness to Fighting and plenty of other 2x weaknesses), I liked the design choice."
+    },
+    {
+      "pokémon": "Ursaring",
+      "sprite": "/images/sprites/gen2/217.png",
+      "reason": "This bear looks angry that you've woken it up from hibernation and it's gonna let you know that it's not happy."
+    },
+    {
+      "pokémon": "Octillery",
+      "sprite": "/images/sprites/gen2/224.png",
+      "reason": "Octillery is one of the weirdest and most wonderful Pokémon Game Freak has ever created. It's movepool is remarkable for its type coverage, which only gets wilder through the gens. And it got an signature move in Octazooka which had 65 base power and had a 50% chance to lower the target's accuracy by one stage. Even the name is awesome (in Japanese, it's Okutank Cannon, where Okutank is Octillery's Japanese name)."
+    },
+    {
+      "pokémon": "Skarmory",
+      "sprite": "/images/sprites/gen2/227.png",
+      "reason": "Skarmory flapped so Corviknight could soar. It was part of the iconic SkarmBliss dueo in competitive battling and took one helluva beating. Great inclusion to the Steel type."
+    },
+   {
+      "pokémon": "Houndoom",
+      "sprite": "/images/sprites/gen2/229.png",
+      "reason": "A hound from Hell. With horns. Need I say more? It was the Pokémon of choice for the higher-ups in Team Rocket and for good reason. I lost a Pokémon in a Nuzlocke to one of these things. Dark/Fire was a great dual typing for the aesthetic."
+    },
+   {
+      "pokémon": "Donphan",
+      "sprite": "/images/sprites/gen2/232.png",
+      "reason": "Fans will remember seeing Donphan revealed in the First Movie as Ash challenged a trainer in the intro. A rolling elephant that was a Rock type? That's right up my street."
+    },
+   {
+      "pokémon": "Porygon2",
+      "sprite": "/images/sprites/gen2/233.png",
+      "reason": "Lemme upgrade ya but in Pokémon form. They literally smoothed out the rough edges of Porygon and I can't help but feel that this was a metaphor for its predecessor's controversies. A great Pokémon and a great upgrade to the digital duck."
+    },
+   {
+      "pokémon": "Entei",
+      "sprite": "/images/sprites/gen2/244.png",
+      "reason": "Is that you, Dad? (IYKYK) But seriously, a majestic looking Pokémon based on a lion (we'd eventually get a proper fire lion in the form of Litleo and Pyroar)."
+    },
+   {
+      "pokémon": "Suicune",
+      "sprite": "/images/sprites/gen2/245.png",
+      "reason": "Is that you, Sis? (Nothing to 'know' here; it's just that Suicune's hair reminds me of my sister's.) But seriously, another majestic looking Pokémon based on a leopard (we'd eventually get a proper leopard Pokémon in the form of Liepard)."
+    },
+   {
+      "pokémon": "Lugia",
+      "sprite": "/images/sprites/gen2/249.png",
+      "reason": "Is that you, Mum? (look up Lugia's sad origin story on YouTube to get the idea.) But seriously, yet another majestic looking Pokémon based on a plesiosaur and possibly Ryūjin, a Japanese dragon god of the sea that lived on the ocean floor."
+    },
+   {
+      "pokémon": "Ho-Oh",
+      "sprite": "/images/sprites/gen2/250.png",
+      "reason": "Is that you, Uncle? (I dunno, just got an uncle vibe from it.) But seriously, a majestic looking Pokémon once again, based on a Chinese phoenix. That rainbow plumage!"
+    }
+  ]
+}

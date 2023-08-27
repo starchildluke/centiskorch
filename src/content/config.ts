@@ -24,6 +24,14 @@ const misc = defineCollection({
 	}),
 });
 
+const nicknames = defineCollection({
+	type: 'content',
+	schema: z.object({
+		title: z.string(),
+		description: z.string()
+	}),
+});
+
 const rooms = defineCollection({
 	type: 'content',
 	schema: z.object({
@@ -53,4 +61,4 @@ const blog = defineCollection({
 	}),
 });
 
-export const collections = { logs, misc, blog, favourites, rooms };
+export const collections = { logs, misc, blog, favourites, rooms, nicknames };

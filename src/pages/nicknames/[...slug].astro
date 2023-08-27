@@ -1,0 +1,19 @@
+---
+import { CollectionEntry, getCollection } from 'astro:content';
+import Favourites from '../../layouts/Favourites.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('nicknames');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post, 
+	}));
+}
+type Props = CollectionEntry<'nicknames'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+<Favourites {...post.data}>
+	<Content />
+</Favourites>

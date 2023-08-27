@@ -1,7 +1,7 @@
 ---
 title: '12 facts I didn''t know about Pokémon'
 description: 'Well, I didn''t know at these facts when I first wrote this.'
-pubDate: '24 Aug 2022'
+pubDate: '24 Aug 2023'
 ---
 
 (The original date I published this on my personal site was 28 Sep 2017.)

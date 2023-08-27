@@ -208,6 +208,27 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"33-minutes-of-chill-pokemon-beats.md": {
+	id: "33-minutes-of-chill-pokemon-beats.md";
+  slug: "33-minutes-of-chill-pokemon-beats";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"julesdrawz-awesome-pokemon-illustrations.md": {
+	id: "julesdrawz-awesome-pokemon-illustrations.md";
+  slug: "julesdrawz-awesome-pokemon-illustrations";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"quick-thoughts-pokemon-fan-demands.md": {
+	id: "quick-thoughts-pokemon-fan-demands.md";
+  slug: "quick-thoughts-pokemon-fan-demands";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 };
 "favourites": {
 "my-favourite-gen-1-pokemon.mdx": {
@@ -220,6 +241,13 @@ declare module 'astro:content' {
 "my-favourite-gen-2-pokemon.mdx": {
 	id: "my-favourite-gen-2-pokemon.mdx";
   slug: "my-favourite-gen-2-pokemon";
+  body: string;
+  collection: "favourites";
+  data: InferEntrySchema<"favourites">
+} & { render(): Render[".mdx"] };
+"my-favourite-gen-3-pokemon.mdx": {
+	id: "my-favourite-gen-3-pokemon.mdx";
+  slug: "my-favourite-gen-3-pokemon";
   body: string;
   collection: "favourites";
   data: InferEntrySchema<"favourites">

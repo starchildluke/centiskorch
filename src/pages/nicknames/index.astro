@@ -7,7 +7,9 @@ import FormattedDate from '../../components/FormattedDate.astro';
 const title = "Nicknames";
 const description = "A collection of Pokémon nickname ideas.";
 
-const posts = await getCollection('nicknames');
+const posts = (await getCollection('nicknames')).sort(
+	(a, b) => a.data.pokedexNumber.valueOf() - b.data.pokedexNumber.valueOf()
+);
 ---
 
 <Layout title={title} description={description}/>

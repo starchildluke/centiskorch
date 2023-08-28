@@ -2,6 +2,7 @@
 title: "Blastoise nicknames"
 description: "A list of Blastoise nicknames, their origins, and why I think they're cool."
 pubDate: "28 Aug 2023"
+pokedexNumber: '0009'
 ---
 
 Blastoise's design lends itself to a variety of names based on its origins.

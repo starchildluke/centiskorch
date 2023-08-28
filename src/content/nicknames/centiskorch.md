@@ -2,6 +2,7 @@
 title: "Centiskorch nicknames"
 description: "A list of Centiskorch nicknames, their origins, and why I think they're cool."
 pubDate: "27 Aug 2023"
+pokedexNumber: '0851'
 ---
 
 Centiskorch's design lends itself to a variety of names based on its origins.
@@ -33,6 +34,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Forge** - you can't forge without fire!
 * **Crossfire** - There's a cross on its mouth and, you know, fire.
 * **Hector** - "Hecto-" is Greek for 100. Centi- is Latin for 100. And I read this nickname in Gus Fring's voice which makes it funnier.
+* **Box Box** - My son called his Sizzlipede this and the random cuteness makes it an Ubers pick by default. Not sorry, I DO make the rules around here!
 
 ### OU
 
@@ -40,6 +42,9 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Mustang** - FullMetal Alchemist fans should recognised this name with the click of a finger
 * **Paprika** - it's a red pepper spice, nuff said!
 * **Cayenne** - hot stuff coming through!
+* **Queen Pede** - based on the character from the Atari classic, Centipede
+* **Soot** - based on the Alpha Centipede from Nintendo game, Centipede: Infestation
+* **Scoot** - I dunno, it just fits.
 
 ### UU
 
@@ -57,6 +62,8 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Crimson** - shade of red
 * **Wildfire** - some centipedes live in forests and I could see a Centiskorch living up to this name
 * **FastFootFred** - Another language model suggestion. It's so out there and I kinda love it.
+* **Millie** - not a millipede. Not a millipede!!!
+* **Atari** - see "Queen Pede" above
 
 ### RU
 
@@ -75,3 +82,4 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **FrancisDrake** - see "Spain"
 * **Glowworm** - I know it's not a worm but it does glow
 * **Crawlzilla** - GPT-3.5 Turbo suggested this and it's so cheesy that I kept it in
+* **Fentyskorch** - would you put makeup on a flaming centipede?

@@ -18,3 +18,5 @@ It's a Pichu fansite!
 [SB Nation reviews: Mewtwo](https://www.sbnation.com/2020/4/5/21201160/mewtwo-pokemon-movie-review) - Zito Madu wrote an awesome piece on Mewtwo that you should definitely read
 
 [Johto Times](https://johto.substack.com/) - an awesome Pokémon-focused newsletter published every Thursday. If you were a fan growing up in the late 90s and early 2000s, you'll love the nostalgia kick.
+
+[The website for Pokémon The Movie 2000](https://web.archive.org/web/20010801143201/http://p2kmovie.warnerbros.com/index1.html) - some of the "cool downloads" are broken but it's functional!

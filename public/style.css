@@ -97,6 +97,22 @@ img, figure { max-width: 100%; height: auto;  }
 
 .right-sidebar { order: 3; margin-left: calc(var(--gap)); }
 
+.post-pagination { display: flex; margin: var(--gap) 0; padding: var(--gap) 0; border-top:  1px solid #ddd; border-bottom:  1px solid #ddd; }
+
+.post-pagination-item { flex-grow: 1; flex-basis: 0; padding: 0.75rem; border-radius: 3px; border: 1px solid transparent; font-size: smaller; }
+
+.post-pagination-item:hover { border-color: currentColor; }
+
+.post-pagination-prev::before { content: "\2190 "; display: inline-block; padding-right: var(--gap); }
+
+.post-pagination-prev { text-align: left; }
+
+.post-pagination-next { text-align: right; }
+
+.post-pagination-next::after { content:  " \2192"; display: inline-block; padding-left: var(--gap) }
+
+.post-pagination-divider { border: 0.5px solid #ddd; margin: 0 var(--gap); }
+
 /* CLASSES */
 
 @media only screen and (max-width: 800px) {

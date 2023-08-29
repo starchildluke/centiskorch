@@ -7,7 +7,10 @@ import FormattedDate from '../../components/FormattedDate.astro';
 const title = "My favourites";
 const description = "These are a few of my favourite things.";
 
-const posts = await getCollection('favourites');
+const posts = await getCollection('favourites', ({data}) => {
+	return data.draft !== true;
+}
+);
 ---
 
 <Layout title={title} description={description}/>

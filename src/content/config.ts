@@ -4,7 +4,8 @@ const logs = defineCollection({
 	type: 'content',
 	schema: z.object({
 		title: z.string(),
-		description: z.string()
+		description: z.string(),
+		draft: z.boolean().optional()
 	}),
 });
 
@@ -12,7 +13,8 @@ const favourites = defineCollection({
 	type: 'content',
 	schema: z.object({
 		title: z.string(),
-		description: z.string()
+		description: z.string(),
+		draft: z.boolean().optional()
 	}),
 });
 
@@ -20,7 +22,8 @@ const misc = defineCollection({
 	type: 'content',
 	schema: z.object({
 		title: z.string(),
-		description: z.string()
+		description: z.string(),
+		draft: z.boolean().optional()
 	}),
 });
 
@@ -29,7 +32,8 @@ const nicknames = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
-		pokedexNumber: z.string()
+		pokedexNumber: z.string(),
+		draft: z.boolean().optional()
 	}),
 });
 
@@ -38,6 +42,7 @@ const rooms = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
+		draft: z.boolean().optional(),
 		bodyColour: z.string(),
 		bgContentColour: z.string(),
 		outlineContentColour: z.string(),
@@ -54,7 +59,7 @@ const blog = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
-		// Transform string to Date object
+		draft: z.boolean().optional(),
 		pubDate: z
 			.string()
 			.or(z.date())

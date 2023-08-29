@@ -252,6 +252,34 @@ declare module 'astro:content' {
   collection: "favourites";
   data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
+"my-favourite-gen-4-pokemon.mdx": {
+	id: "my-favourite-gen-4-pokemon.mdx";
+  slug: "my-favourite-gen-4-pokemon";
+  body: string;
+  collection: "favourites";
+  data: InferEntrySchema<"favourites">
+} & { render(): Render[".mdx"] };
+"my-favourite-gen-9-pokemon.mdx": {
+	id: "my-favourite-gen-9-pokemon.mdx";
+  slug: "my-favourite-gen-9-pokemon";
+  body: string;
+  collection: "favourites";
+  data: InferEntrySchema<"favourites">
+} & { render(): Render[".mdx"] };
+"my-favourite-pokemon-games.md": {
+	id: "my-favourite-pokemon-games.md";
+  slug: "my-favourite-pokemon-games";
+  body: string;
+  collection: "favourites";
+  data: InferEntrySchema<"favourites">
+} & { render(): Render[".md"] };
+"my-favourite-pokemon-gens.md": {
+	id: "my-favourite-pokemon-gens.md";
+  slug: "my-favourite-pokemon-gens";
+  body: string;
+  collection: "favourites";
+  data: InferEntrySchema<"favourites">
+} & { render(): Render[".md"] };
 };
 "logs": {
 "my-pokemon-teams.mdx": {

@@ -29,11 +29,11 @@ aside h2.headings { margin-bottom: 0; }
 
 h2 { font-size: 1.25rem; }
 
-p { line-height: 1.4; margin: 0 0 var(--gap); }
+p { line-height: 1.4; margin: 0;}
 
 ul.pokeball-icons, aside.right-sidebar ul { padding-left: 1.25rem; list-style-type: none; }
 
-ul.pokeball-icons li, aside.right-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png");   background-position: 0 0;   background-size: var(--gap);   background-repeat: no-repeat; }
+ul.pokeball-icons li, aside.right-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png");   background-position: 0 0; background-size: var(--gap); background-repeat: no-repeat; }
 
 li { line-height: 1.4; }
 
@@ -43,7 +43,7 @@ figcaption, smaller, .caption { font-size: smaller; }
 
 figure { margin-bottom: calc(var(--gap) * 1.5) }
 
-header { display: flex; padding: var(--gap); background: #29191a; margin-bottom: calc(var(--gap) * 2); }
+header { display: flex; background: #29191a; margin-bottom: calc(var(--gap) * 2); }
 
 aside { width: 300px; }
 
@@ -51,7 +51,7 @@ main { flex: 1; order: 2; width: calc(100% * .4); }
 
 footer {  margin-top: var(--gap);  text-align: center;  order: 4;  width: 100%; }
 
-footer > *, h1.headings, h2.headings { margin-bottom: var(--gap); }
+footer > *, h1.headings, h2.headings, .img-center, .date, .right-sidebar img, p, .banner { margin-bottom: var(--gap); }
 
 a { color: #c4413b; font-weight: 700; }
 
@@ -73,6 +73,8 @@ img, figure { max-width: 100%; height: auto;  }
 
 .header-centered span { font-size: 3rem; }
 
+.banner { width: 100%; padding: 1rem 1rem 0 1rem; }
+
 .headings, article :is(h1, h2, h3, h4) { padding: .5rem;  background: #c3413b;  text-align: center; }
 
 .headings a { color: #fdee00; }
@@ -83,19 +85,35 @@ img, figure { max-width: 100%; height: auto;  }
 
 .box { overflow-wrap: break-word; min-width: 0; outline: 6px solid black; background: white; }
 
-.img-center { text-align: center; margin-bottom: var(--gap); }
+.img-center { text-align: center; }
 
 .blog-listing-title { font-family: 'Georama Expanded Black'; font-size: var(--gap); letter-spacing: .3px; }
 
-.date { font-size: 8pt; margin-bottom: var(--gap);}
+.date { font-size: 8pt; }
 
-.left-sidebar, .right-sidebar, main, footer { padding: var(--gap); }
+.left-sidebar, .right-sidebar, main, footer, header { padding: var(--gap); }
 
 .left-sidebar, .right-sidebar { width: calc(100% * .2); }
 
 .left-sidebar { order: 1; margin-right: calc(var(--gap)); }
 
 .right-sidebar { order: 3; margin-left: calc(var(--gap)); }
+
+.post-pagination { display: flex; margin: var(--gap) 0; padding: var(--gap) 0; border-top:  1px solid #ddd; border-bottom:  1px solid #ddd; }
+
+.post-pagination-item { flex-grow: 1; flex-basis: 0; padding: 0.75rem; border-radius: 3px; border: 1px solid transparent; font-size: smaller; }
+
+.post-pagination-item:hover { border-color: currentColor; }
+
+.post-pagination-prev::before { content: "\2190 "; display: inline-block; padding-right: var(--gap); }
+
+.post-pagination-prev { text-align: left; }
+
+.post-pagination-next { text-align: right; }
+
+.post-pagination-next::after { content:  " \2192"; display: inline-block; padding-left: var(--gap) }
+
+.post-pagination-divider { border: 0.5px solid #ddd; margin: 0 var(--gap); }
 
 /* CLASSES */
 

@@ -43,7 +43,7 @@ figcaption, smaller, .caption { font-size: smaller; }
 
 figure { margin-bottom: calc(var(--gap) * 1.5) }
 
-header { display: flex; padding: var(--gap); background: #29191a; margin-bottom: calc(var(--gap) * 2); }
+header { display: flex; background: #29191a; margin-bottom: calc(var(--gap) * 2); }
 
 aside { width: 300px; }
 
@@ -51,7 +51,7 @@ main { flex: 1; order: 2; width: calc(100% * .4); }
 
 footer {  margin-top: var(--gap);  text-align: center;  order: 4;  width: 100%; }
 
-footer > *, h1.headings, h2.headings, .img-center, .date, .right-sidebar img, p { margin-bottom: var(--gap); }
+footer > *, h1.headings, h2.headings, .img-center, .date, .right-sidebar img, p, .banner { margin-bottom: var(--gap); }
 
 a { color: #c4413b; font-weight: 700; }
 
@@ -73,6 +73,8 @@ img, figure { max-width: 100%; height: auto;  }
 
 .header-centered span { font-size: 3rem; }
 
+.banner { width: 100%; padding: 1rem 1rem 0 1rem; }
+
 .headings, article :is(h1, h2, h3, h4) { padding: .5rem;  background: #c3413b;  text-align: center; }
 
 .headings a { color: #fdee00; }
@@ -89,7 +91,7 @@ img, figure { max-width: 100%; height: auto;  }
 
 .date { font-size: 8pt; }
 
-.left-sidebar, .right-sidebar, main, footer { padding: var(--gap); }
+.left-sidebar, .right-sidebar, main, footer, header { padding: var(--gap); }
 
 .left-sidebar, .right-sidebar { width: calc(100% * .2); }
 

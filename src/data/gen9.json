@@ -1,128 +1,128 @@
 {
-    "favouritePokémon": [
+    "favouritePokémon":[
         {
             "pokémon": "Fuecoco",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/fuecoco.png",
             "reason": ""
         },
         {
             "pokémon": "Quaquaval",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/quaquaval.png",
             "reason": ""
         },
         {
             "pokémon": "Dachsbun",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/dachsbun.png",
             "reason": ""
         },
         {
             "pokémon": "Smoliv",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/smoliv.png",
             "reason": ""
         },
         {
             "pokémon": "Squawkabilly",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/squawkabilly.png",
             "reason": ""
         },
         {
             "pokémon": "Ceruledge",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/ceruledge.png",
             "reason": "When they showed this Pokémon in the SV trailers, I was HYPED. The colours, the design, the swords. It was my kind of warrior and, even though I've used its counterpart in VGC (Armarouge), I love Ceruledge much more. I love that it has Flash Fire as an Ability, that Grass Tera baits it out and prevents it from sleep, and it has access to moves like Bitter Blade, Shadow Sneak, and Solar Blade. If anything, I wish it had Sharpness as a Hidden Ability given its design but we can't have everything."
         },
         {
             "pokémon": "Bellibolt",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/bellibolt.png",
             "reason": ""
         },
         {
             "pokémon": "Kilowattrel",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/kilowattrel.png",
             "reason": ""
         },
         {
             "pokémon": "Paldean Tauros",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/paldean-tauros.png",
             "reason": "Game Freak kinda revealed a regional Tauros via a NPC's t-shirt during a trailer and I was excited for the prospect of one (but I took it with a pinch of salt). When it came out, I knew I had to use it in my playthrough. I'd fallen in love with Tauros in Sword/Shield as an alternative Intimidater. It was super fast (base 110 Speed) and was good for proccing Weakness Policies with Bulldoze or Surf (although I haven't used that yet). It's a shame the shiny isn't more distinct."
         },
         {
             "pokémon": "Brambleghast",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/brambleghast.png",
             "reason": ""
         },
         {
             "pokémon": "Scovillain",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/scovillain.png",
             "reason": "I prayed for a Grass/Fire type and envisaged a burning bush Tangela. Instead, I got a walking chili pepper with two heads and I love this damn thing. The typing works really well into the core types."
         },
         {
             "pokémon": "Rabsca",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/rabsca.png",
             "reason": ""
         },
         {
             "pokémon": "Tinkaton",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/tinkaton.png",
             "reason": ""
         },
         {
             "pokémon": "Wugtrio",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/wugtrio.png",
             "reason": ""
         },
         {
             "pokémon": "Palafin",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/palafin.png",
             "reason": ""
         },
         {
             "pokémon": "Orthworm",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/orthworm.png",
             "reason": ""
         },
         {
             "pokémon": "Glimmora",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/glimmora.png",
             "reason": ""
         },
         {
             "pokémon": "Flamigo",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/flamigo.png",
             "reason": ""
         },
         {
             "pokémon": "Cetitan",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/cetitan.png",
             "reason": ""
         },
         {
             "pokémon": "Dudunsparce",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/dudunsparce.png",
             "reason": ""
         },
         {
             "pokémon": "Kingambit",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/kingambit.png",
             "reason": ""
         },
         {
             "pokémon": "Flutter Mane",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/flutter-mane.png",
             "reason": ""
         },
         {
             "pokémon": "Iron Jugulis",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/iron-jugulis.png",
             "reason": ""
         },
         {
             "pokémon": "Iron Moth",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/iron-moth.png",
             "reason": ""
         },
         {
             "pokémon": "Gholdengo",
-            "sprite": "",
+            "sprite": "/images/sprites/gen9/gholdengo.png",
             "reason": "For a start, it looks like the Cheese String mascot which is cool on its own. Lots of nostalgia there. But then it also has a golden surfboard which adds even more cool points. Competitively, it's a beast with a huge Special Attack stat and that means I can use it to AFK the Ace Tournament (for the most part; it's not perfect). People hate it for some reason but I love this thing."
         }
     ]

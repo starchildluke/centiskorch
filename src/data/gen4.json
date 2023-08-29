@@ -2,72 +2,72 @@
     "favouritePokémon": [
         {
             "pokémon": "Empoleon",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/395.png",
             "reason": "I didn't put it on the front of an album cover for nothing. A Water/Steel Emperor penguin. What an awesome starter evolution."
         },
         {
             "pokémon": "Luxray",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/405.png",
             "reason": "One of the best early route Electric Pokémon."
         },
         {
             "pokémon": "Floatzel",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/419.png",
             "reason": "It's a cute otter/weasel."
         },
         {
             "pokémon": "Spiritomb",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/442.png",
             "reason": ""
         },
         {
             "pokémon": "Hippowdon",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/450.png",
             "reason": "HIPPO!"
         },
         {
             "pokémon": "Weavile",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/461.png",
             "reason": ""
         },
         {
             "pokémon": "Tangrowth",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/465.png",
             "reason": ""
         },
         {
             "pokémon": "Magmortar",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/467.png",
             "reason": ""
         },
         {
             "pokémon": "Togekiss",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/468.png",
             "reason": ""
         },
         {
             "pokémon": "Glaceon",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/471.png",
             "reason": ""
         },
         {
             "pokémon": "Rotom",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/479.png",
             "reason": ""
         },
         {
             "pokémon": "Dialga",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/483.png",
             "reason": "I grew to love Dialga in Gen 9 but whatever. It's huge, it eats hits for breakfast and it'll knock you down with a host of Dragon or Steel moves."
         },
         {
             "pokémon": "Heatran",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/485.png",
             "reason": "A Fire/Steel type immune to Fire moves?"
         },
         {
             "pokémon": "Cresselia",
-            "sprite": "",
+            "sprite": "/images/sprites/gen4/488.png",
             "reason": "This crescent duck won't go down easy and that's why I love it."
         }
     ]

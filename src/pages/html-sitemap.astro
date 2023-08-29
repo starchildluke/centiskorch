@@ -3,8 +3,14 @@ import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
 import Sitemapper from 'sitemapper';
+import { getCollection } from 'astro:content';
 
 const sitemap = new Sitemapper();
+
+const drafts = await getCollection('favourites', ({data}) => {
+	return data.draft === true;
+}
+);
 
 const sitemapURLs = await sitemap.fetch('https://centiskor.ch/sitemap-0.xml');
 

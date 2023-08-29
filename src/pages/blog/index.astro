@@ -18,6 +18,7 @@ const posts = (await getCollection('blog')).sort(
 	<div class="flex-content">
 		<main class="box">
 			<h1 class="headings">{title}</h1>
+			<p>You can follow the blog via an <a href="/rss.xml">RSS feed</a>.</p>
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
 					<li>

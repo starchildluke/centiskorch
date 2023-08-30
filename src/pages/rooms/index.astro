@@ -16,6 +16,9 @@ const rooms = await getCollection('rooms');
 	<div class="flex-content">
 		<main class="box">
 			<h1 class="headings">{title}</h1>
+			<p>Welcome to the doorway of rooms. Each room is dedicated to a particular Pokémon or Pokémon-related thing. Or just a thing or person!</p>
+			<p>I wanted something like shrines or zones from Neocities but didn't want to copy and, in my search for something different, I came up with rooms. It's a homage to internet chatrooms from the 90s and 00s (but safer).</p>
+			<p>Enjoy your stay!</p>
 			<ul class="pokeball-icons">
 				{rooms.map((room) => (
 					<li>

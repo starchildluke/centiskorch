@@ -15,6 +15,8 @@ const posts = await getCollection('logs');
 	<div class="flex-content">
 		<main class="box">
 			<h1 class="headings">{title}</h1>
+			<p>This page features various logs and updates to the site. My favourite is the Pokémon teams log where I showcase all the teams I've used in every game I've played.</p>
+			<p>I also note down site updates in the Trainer's Log, as well as my todolist for the site and the projects I'm working on.</p>
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
 					<li>

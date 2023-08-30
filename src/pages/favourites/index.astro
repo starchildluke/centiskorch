@@ -18,6 +18,8 @@ const posts = await getCollection('favourites', ({data}) => {
 	<div class="flex-content">
 		<main class="box">
 			<h1 class="headings">{title}</h1>
+			<p>This page features all my favourites in Pokémon. It'll be mainly favourite Pokémon from each generation but I'll add other categories over time.</p>
+			<p>You may notice that some of the pages look unfinished. For some reason, drafts don't quite work how I want them to so they end up published. So bare that in mind and eventually, I'll get round to finishing a list.</p>
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
 					<li>

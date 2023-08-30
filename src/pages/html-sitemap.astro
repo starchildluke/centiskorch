@@ -20,6 +20,8 @@ const sitemapURLs = await sitemap.fetch('https://centiskor.ch/sitemap-0.xml');
 	<div class="flex-content">
 		<main class="box">
 			<h1 class="headings">Sitemap</h1>
+			<p>This is my HTML sitemap. It contains all the pages from my XML sitemap that Google can crawl and (hopefully) index.</p>
+			<p>If I've lost you, tl;dr - every page on the site is listed below.</p>
 			<ul>
       {sitemapURLs.sites.map(( url ) => (
                   <li>

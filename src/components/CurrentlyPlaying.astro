@@ -1,0 +1,33 @@
+---
+const badges = ['boulderbadge.gif', 'cascadebadge.gif', 'earthbadge.gif', 'marshbadge.gif', 'rainbowbadge.gif', 'soulbadge.gif', 'thunderbadge.gif', 'volcanobadge.gif', 'coalbadge.gif', 'forestbadge.gif', 'relicbadge.gif', 'cobblebadge.gif', 'fenbadge.gif', 'minebadge.gif', 'iciclebadge.gif', 'beaconbadge.gif'];
+
+const { sectionBackground, sectionColour, h2Colour, h3Colour, gameTitle, team, firstBadge, lastBadge } = Astro.props;
+---
+
+<style define:vars={{ sectionBackground, sectionColour, h2Colour, h3Colour }}>
+	.currently-playing {
+		background: var(--sectionBackground);
+		color: var(--sectionColour);
+	}
+
+	.currently-playing h2 {
+		color: var(--h2Colour);
+	}
+
+	.currently-playing h3 {
+		color: var(--h3Colour);
+	}
+</style>
+
+<section class="currently-playing">
+				<h2>Currently playing:</h2>
+				<h3>{gameTitle}</h3>
+				<h2>Team:</h2>
+				<p>{team}</p>
+				<h2>Badges:</h2>
+				<p>{badges.slice(firstBadge, lastBadge).map((badge) => (
+									<img src={"/images/sprites/badges/" + badge + "/"} width="28px" height="28px" />
+									)
+								)
+							}
+		</p>

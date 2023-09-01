@@ -18,6 +18,7 @@ pubDate: "24 Aug 2023"
 
 ## G/S/C
 * [How to breed shinies with red Gyarados](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4vbh98sq1x711.png)
+* [GSC Save Converter for Virtual Console](https://bluemoonfalls.com/pages/tools/gsc-save-converter)
 
 ## Sw/Sh
 * [Candy calculator](https://richi3f.github.io/candy-calc/)

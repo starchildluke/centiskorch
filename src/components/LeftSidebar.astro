@@ -6,6 +6,8 @@ const posts = await getCollection('misc', ({slug}) => {
 
 const rooms = await getCollection('rooms'); 
 
+import { Content } from './Resources.mdx';
+
 ---
 
 <aside class="left-sidebar box">
@@ -45,4 +47,8 @@ const rooms = await getCollection('rooms');
 			<li><a href="https://www.youtube.com/watch?v=QcD_YXCxxZM">the third room</a></li>
 		</ul>
 	</nav>
+	<h2 class="headings">Resources</h2>
+		<nav>
+			<Content class="pokeball-icons"/>
+		</nav>
 </aside>

@@ -20,3 +20,19 @@ It's a Pichu fansite!
 [Johto Times](https://johto.substack.com/) - an awesome Pokémon-focused newsletter published every Thursday. If you were a fan growing up in the late 90s and early 2000s, you'll love the nostalgia kick.
 
 [The website for Pokémon The Movie 2000](https://web.archive.org/web/20010801143201/http://p2kmovie.warnerbros.com/index1.html) - some of the "cool downloads" are broken but it's functional!
+
+[Marriland](https://bulbapedia.bulbagarden.net/wiki/Marriland) - one of the longest running Pokémon resource sites
+
+[The PokeMasters](https://www.pokemasters.net/) - this hasn't been updated since 2016 but I wanted to put it here for posterity. It was all about Pokémon X & Y.
+
+[Azure Heights](https://www.math.miami.edu/~jam/azure/) - I was obsessed with this site back in college. Lots of cool Gen 1 info, research, analysis, and advice. And the forum is still up after all these years.
+
+[Garyland](https://garyland.neocities.org/) - an adult perspective on the Pokémon franchise. And yes, James is gay.
+
+[The Cave of Dragonflies](https://www.dragonflycave.com/) - another longstanding Pokémon fansite run by "Butterfree"
+
+[Blue Moon Falls](https://bluemoonfalls.com/) - a really awesome site dedicated to Gen 1 and 2
+
+[Nose Club](https://noseclub.bluwiikoon.art/index.shtml) - A Pokemon fan-website focusing on Nosepass and creativity. Art, tutorials, game mechanics, and more!
+
+[Nautoum](https://www.youtube.com/channel/UCcGs4-D40PZVMjPYZsq0Bvw) - a full odds shiny hunter with a soft spot for Gen 1

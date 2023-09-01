@@ -22,7 +22,7 @@ const posts = (await getCollection('blog')).sort(
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
 					<li>
-						<a href={`/blog/${post.slug}/`} class="blog-listing-title">{post.data.title}</a>
+						<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
 						<p class="date">
 							<FormattedDate date={post.data.pubDate} />
 						</p>

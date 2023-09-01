@@ -3,132 +3,132 @@
   [
     {
       "pokémon": "Blastoise",
-      "sprite": "/images/sprites/blastoise_009_rby.png",
+      "sprite": "/images/sprites/gen1/blastoise_009_rby.png",
       "reason": "It's the Pokémon I first fell in love with, ever since I owned a copy of Pokémon blue. That box art still gives me butterflies. Iconic."
     },
     {
       "pokémon": "Beedrill",
-      "sprite": "/images/sprites/beedrill_015_rby.png",
+      "sprite": "/images/sprites/gen1/beedrill_015_rby.png",
       "reason": "I actually don't like wasps (which Beedrill is based on despite the name) but the design is so cool and it's such a maligned Pokémon, I love them. Unfortunately, a regular casualty in my Nuzlockes."
     },
     {
       "pokémon": "Pidgeot",
-      "sprite": "/images/sprites/pidgeot_012_rby.png",
+      "sprite": "/images/sprites/gen1/pidgeot_012_rby.png",
       "reason": "My ride or die bird. Not many Route 1 birds have come close to Pidgeot in terms of appeal and it's a shame that we've been deprived of its presence in over 4 years."
     },
     {
       "pokémon": "Nidoking",
-      "sprite": "/images/sprites/nidoking_034_rby.png",
+      "sprite": "/images/sprites/gen1/nidoking_034_rby.png",
       "reason": "The Gen 1 speedrun champ. What kind of animal is it? Who cares? It's a beast and packs a punch when it counts. I also love that its shiny is the same colour as Nidoqueen. Is the king a drag... queen??"
     },
     {
       "pokémon": "Persian",
-      "sprite": "/images/sprites/persian_053_rby.png",
+      "sprite": "/images/sprites/gen1/persian_053_rby.png",
       "reason": "I always wanted to use Persian in a playthrough but it was available too late in the game to justify the grind (without speed up). Outside that, I have a personal connection to Persian via my partner's old cat, Sheldon."
     },
     {
       "pokémon": "Golduck",
-      "sprite": "/images/sprites/golduck_055_rby.png",
+      "sprite": "/images/sprites/gen1/golduck_055_rby.png",
       "reason": "Don't let that weird foot-faced sprite fool you—Golduck is awesome. It also suffered from the Persian syndrome of being somewhat inaccessible for a general playthrough but subsequent games have made it available much earlier."
     },
     {
       "pokémon": "Arcanine",
-      "sprite": "/images/sprites/arcanine_059_rby.png",
+      "sprite": "/images/sprites/gen1/arcanine_059_rby.png",
       "reason": "Look at the good dog, sitting and smiling! It might not be an official legendary but it's a legend in my eyes. Picking Blue over Red meant I never got to use Arcanine as a kid but despite it being a late Pokémon to get, I would have taken the time to train one up in a playthrough. And BLUE the Champion had one so you know it was good."
     },
     {
       "pokémon": "Poliwrath",
-      "sprite": "/images/sprites/poliwrath_062_rby.png",
+      "sprite": "/images/sprites/gen1/poliwrath_062_rby.png",
       "reason": "This frog had hands and it wasn't afraid to use them. Before Urshifu Rapid Strike, there was a Poliwrath as the chief Water/Fighting type. It's a shame that RBY relied so heavily on Speed because its stats aren't the worst (90 HP, 95 Defense, 90 Sp. Def, and 85 Attack)."
     },
     {
       "pokémon": "Alakazam",
-      "sprite": "/images/sprites/alakazam_065_rby.png",
+      "sprite": "/images/sprites/gen1/alakazam_065_rby.png",
       "reason": "Having no friends who played Pokémon meant no trading and no access to Alakazam. It was utterly broken in Gen 1 and would only be eclipsed for damage and overall power by Mewtwo, which was also a Psychic type. That moustachioed spoon bender was a telekenetic beast."
     },
     {
       "pokémon": "Victreebel",
-      "sprite": "/images/sprites/victreebel_071_rby.png",
+      "sprite": "/images/sprites/gen1/victreebel_071_rby.png",
       "reason": "A mainstay in my playthrough teams as I almost never picked Bulbasaur. It was a Razor Leafing machine and worth grinding with Bellsprout to get. Quite frail but a mixed attacker with 105 Attack and 100 Special. Shame it didn't have the movepool to use both with STAB (Poison was physical in Gen 1 and Victreebel only got Acid) but it did get Swords Dance, Body Slam, and Double Edge so swings and roundabouts."
     },
     {
       "pokémon": "Golem",
-      "sprite": "/images/sprites/golem_076_rby.png",
+      "sprite": "/images/sprites/gen1/golem_076_rby.png",
       "reason": "Another Alakazam—a Pokémon I could never get because of damn trade evolutions. I was stuck with Graveler but I wanted that weird rock ball creature so bad. It was 4x weak to two of the most prevalent types in Gen 1 and couldn't take a Psychic move if its life depended on it but what it did have was Explosion and Selfdestruct to get rid of them. 110 Attack and 130 Defense made it an unstoppable force against everything excluding the above. Love you, Golem x"
     },
     {
       "pokémon": "Dewgong",
-      "sprite": "/images/sprites/dewgong_087_rby.png",
+      "sprite": "/images/sprites/gen1/dewgong_087_rby.png",
       "reason": "It's a cute dugong and an overlooked Pokémon. That's all I need to enjoy it."
     },
     {
       "pokémon": "Cloyster",
-      "sprite": "/images/sprites/cloyster_091_rby.png",
+      "sprite": "/images/sprites/gen1/cloyster_091_rby.png",
       "reason": "As above, I like Water/Ice types and Cloyster is as good as a titanium in this game with a Defense stat of 180, which is the highest in Gen 1 and remains in the top 10 in ALL gens."
     },
     {
       "pokémon": "Gengar",
-      "sprite": "/images/sprites/gengar_094_rby.png",
+      "sprite": "/images/sprites/gen1/gengar_094_rby.png",
       "reason": "Ah, Gengar. The cheeky ghost. The spectre jester. It should have been the answer to Psychic types but they coded Ghost types wrong and it was just a cool glass cannon. But I don't care because Gengar is awesome and it has inspired a lot of my albums."
     },
     {
       "pokémon": "Kingler",
-      "sprite": "/images/sprites/kingler_099_rby.png",
+      "sprite": "/images/sprites/gen1/kingler_099_rby.png",
       "reason": "Being a pure Water type and having a monstrous Attack stat was unfortunate in this Gen but we have a huge crab with a huge claw and that's cool enough for me."
     },
     {
       "pokémon": "Electrode",
-      "sprite": "/images/sprites/electrode_101_rby.png",
+      "sprite": "/images/sprites/gen1/electrode_101_rby.png",
       "reason": "The fastest Pokémon in Gen 1. It's a big sentient Poké Ball. It likes to grin and explode. No thoughts, just boom. I can respect that and that's why I used it so often in my playthrough teams."
     },
     {
       "pokémon": "Tangela",
-      "sprite": "/images/sprites/tangela_114_rby.png",
+      "sprite": "/images/sprites/gen1/tangela_114_rby.png",
       "reason": "Firstly, look at this little red booties! Adorable. The vines could be creepy to some—and they are—but to me, they're small enough to be cute and given its original name being Meduza and how her story has been revised by men to make her seem worse than she was, I'm happy to love this little Pokémon."
     },
     {
       "pokémon": "Starmie",
-      "sprite": "/images/sprites/starmie_121_rby.png",
+      "sprite": "/images/sprites/gen1/starmie_121_rby.png",
       "reason": "I always wanted to use a Starmie, even if I had my Blastoise with me. It was super fast, had an awesome movepool, and it was Water/Psychic. And that jewel on the front. Top tier Pokémon."
     },
     {
       "pokémon": "Magmar",
-      "sprite": "/images/sprites/magmar_126_rby.png",
+      "sprite": "/images/sprites/gen1/magmar_126_rby.png",
       "reason": "Fire types were a rarity in Gen 1 so having Magmar in your team was a blessing. I love that little butt/booby head."
     },
    {
       "pokémon": "Tauros",
-      "sprite": "/images/sprites/tauros_128_rby.png",
+      "sprite": "/images/sprites/gen1/tauros_128_rby.png",
       "reason": "The bull that could. So fast, so strong, and 'the most iconic Pokemon in RBY OU', according to Smogon."
     },
    {
       "pokémon": "Gyarados",
-      "sprite": "/images/sprites/gyarados_130_rby.png",
+      "sprite": "/images/sprites/gen1/gyarados_130_rby.png",
       "reason": "Probably the best Gen 1 sprite of them all, and maybe even of every sprite in Pokémon. Gyarados is what happens when you make fun of a weakling and they train to be better. It was worth paying $500 for that Magikarp outside Mt. Moon to grind away and get an incredible Pokémon."
     },
    {
       "pokémon": "Jolteon",
-      "sprite": "/images/sprites/jolteon_135_rby.png",
+      "sprite": "/images/sprites/gen1/jolteon_135_rby.png",
       "reason": "The second fastest in Gen 1, an Eeveelution, and a better Electric type than its faster counterpart, Electrode. The crits go brrrrrr."
     },
    {
       "pokémon": "Porygon",
-      "sprite": "/images/sprites/porygon_137_rby.png",
+      "sprite": "/images/sprites/gen1/porygon_137_rby.png",
       "reason": "There was a lot of talk about paywalled Pokémon in the 2023 World Championships but this thing? Super expensive (in Pokémon terms anyway). It cost 9999C in the Rocket Game Corner and, if you were to buy those coins rather than take your chances at the slots, it'd cost nearly 200,000 Pokédollars a lot of A button pressing (without a Turbo button). Aside from the expense, it was a unique Pokémon which got a bad rep because of the infamous Pokémon episode that caused seizure-like symptoms in over 600 children. But the digital duck wasn't to blame and, sadly, we'll probably never see it in the anime ever again. Free the duck!"
     },
    {
       "pokémon": "Aerodactyl",
-      "sprite": "/images/sprites/aerodactyl_142_rby.png",
+      "sprite": "/images/sprites/gen1/aerodactyl_142_rby.png",
       "reason": "A revived pterodactyl Pokémon with super speed? You bet I wanted this thing. You could get it by sneaking into the back of the Pewter City Museum and taking an Old Amber to a lab on Cinnabar Island. It was level 30 so not too far off your usual levels by that stage of the game so, if you need a quicker flier than Pidgeot or Fearow, it's worth a try. And Lance has one so that's the best endorsement you'd ever need."
     },
    {
       "pokémon": "Articuno",
-      "sprite": "/images/sprites/articuno_144_rby.png",
+      "sprite": "/images/sprites/gen1/articuno_144_rby.png",
       "reason": "What a majestic bird. It's the only Gen 1 Legendary Bird in the list and therefore the best one because I said so. I often slotted it in my team with my other bird (Pidgeot) because Ice was so important for Lance. Using a legendary is cheating? Go tell your mummy because I DON'T CARE! Just look at that plumage and the cute little beak!"
     },
    {
       "pokémon": "Mewtwo",
-      "sprite": "/images/sprites/mewtwo_150_rby.png",
+      "sprite": "/images/sprites/gen1/mewtwo_150_rby.png",
       "reason": "The First Pokémon movie remains the best and it was due to Mewtwo's story and majestic power. But anime fans' first exposure to Mewtwo was in the Indigo League series, where it was an unnamed creature in a mecha suit, controlled by Geovanni in the Viridian City gym and it took out any Pokémon it faced with ease. Still one of the coolest things about Pokémon and I'd love if they brought it back in an official capacity (outside of adding an Assault Vest)."
     }
   ]

@@ -1,6 +1,7 @@
 ---
 import LayoutWithLCP from '../layouts/LayoutWithLCP.astro';
 import Footer from '../components/Footer.astro';
+import CurrentlyPlaying from '../components/CurrentlyPlaying.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
 import RightSidebar from '../components/RightSidebar.astro';
 const description = "A Pokémon fan site dedicated to Centiskorch, a dual-type Fire/Bug Pokémon from the Galar region."
@@ -8,6 +9,7 @@ const title = "centiskor.ch | A Pokémon fan site";
 const lcpMediaAs = "image";
 const lcpSrc = "/images/centiskorch2.png";
 const lcpMediaType = "image/gif";
+
 ---
 <LayoutWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} />
 <div class="container">
@@ -17,11 +19,13 @@ const lcpMediaType = "image/gif";
 			<div class="img-center">
 				<img src={lcpSrc} alt="Centiskorch, a Fire/Bug Pokémon. It is based on a centipede and it is red and dark brown with a flame-shaped X on its face." width="250px" height="250px">
 			</div>
+			<p><smaller>Image credit: adapted from (<a href="https://www.pngmart.com/image/364905" target="_blank">Centiskorch Pokemon PNG Image</a>)</smaller></p>
 			<p>Hey! This is centiskor.ch, my hybrid Pokémon fan site and homage to Centiskorch.</p>
 			<p>I've been heavily inspired by a variety of sites, which you can read more about on <a href="/about/">my About page</a>.</p>
 			<p>Pokémon has been my passion since 1998 and, despite a brief lull in the mid-to-late 00s, it's stronger than ever and this site is a manifestation of that obsession.</p>
 			<p>Anyway, have a great time and enjoy your time here!</p>
-			<p><smaller>Image credit: adapted from (<a href="https://www.pngmart.com/image/364905" target="_blank">Centiskorch Pokemon PNG Image</a>)</smaller></p>
+			<CurrentlyPlaying sectionBackground="#fdee00" sectionColour="#282a50" h2Colour="#282a50" h3Colour="#c3413b" gameTitle="Pokémon Yellow" team="Pikachu // Torrent the Wartortle // Viktor the Charmeleon // Jeff the Mankey // Eighteen the Paras" firstBadge="0" lastBadge="4"/>
+			<CurrentlyPlaying sectionBackground="#e5e4e2" sectionColour="#282a50" h2Colour="#282a50" h3Colour="#c3413b" gameTitle="Pokémon Platinum" team="Horne the Prinplup // Gelco the Geodude // Carsten the Staravia // Party the Pachirisu // Chandra the Ponyta // Rafferty the Togepi" firstBadge="8" lastBadge="11"/>
 		</main>
 		<LeftSidebar />
 		<RightSidebar />

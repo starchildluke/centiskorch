@@ -1,0 +1,59 @@
+{
+   "favouritePokémon": [
+      {
+         "pokémon": "Victini",
+         "sprite": "/images/sprites/gen5/victini.png",
+         "reason": "I literally just added this now because I found out about its possible origins including Nike (or its Roman equivalent, Victoria), the winged goddess of victory, the Fire typing possibly linked to the concept of the eternal flame and its connection to Liberty Gardens > Liberty Island > Statue of Liberty's torch. All conjecture without official confirmation but the pieces are there and that makes it really cool. Oh, and moves like V-create."
+      },
+      {
+         "pokémon": "Samurott",
+         "sprite": "/images/sprites/gen5/samurott.png",
+         "reason": "When I played Black first time, I wasn't enamoured with the starters and I decided to pick Tepig. It was the first time I'd picked a non-Water starter in my first playthrough. I've picked Oshawatt in subsequent playthroughs and Samurott is a key reason why. It's a samurai otter (hence the name). And it's a water type so an instant win for me. And it got a Hisuian form (but more on that in my Gen 8 faves list)."
+      },
+      {
+         "pokémon": "Conkeldurr",
+         "sprite": "/images/sprites/gen5/conkeldurr.png",
+         "reason": "This one grew on me. It has a storied past in VGC and while I wasn't into competitive battling until SwSh, I respect its power and design. It's a beefed up creature with a chin beard, top knot, and two big concrete blocks it carries around for... some reason. It's an ode to brutalism, even if it didn't mean to be. It's a concrete hipster without the smarm. I dig it."
+      },
+      {
+         "pokémon": "Carracosta",
+         "sprite": "/images/sprites/gen5/carracosta.png",
+         "reason": "A Water/Rock turtle? In an bulletproof vest? Sign me up! Yeah, it's 4x weak to Grass and 2x to Fighting, Ground, and Electric—all prevalent in whatever meta you play—but it's a cool looking proto-turtle."
+      },
+      {
+         "pokémon": "Ducklett",
+         "sprite": "/images/sprites/gen5/ducklett.png",
+         "reason": "CUTE BLUE DUCKY WHO IS ALSO NAUGHTY ACCORDING TO A COUPLE OF EPISODES OF THE ANIME"
+      },
+      {
+         "pokémon": "Karrablast",
+         "sprite": "/images/sprites/gen5/karrablast.png",
+         "reason": "CUTE BLUE SCARAB WITH ITS LITTLE FANGS AND TUNE FORK HEAD"
+      },
+      {
+         "pokémon": "Ferroseed",
+         "sprite": "/images/sprites/gen5/ferroseed.png",
+         "reason": "CUTE SILVER FABERGÉ EGG WITH SPIKES!"
+      },
+      {
+         "pokémon": "Chandelure",
+         "sprite": "/images/sprites/gen5/chandelure.png",
+         "reason": "It has a lot of weaknesses and, besides its Special Attack, its kinda middling but it's not mid to me because it's a floating sentient chandelier. And Ghost/Fire is a cool typing."
+      },
+      {
+         "pokémon": "Tornadus",
+         "sprite": "/images/sprites/gen5/tornadus.png",
+         "reason": "I've had a lot of fun using Tornadus with its Prankster Tailwind."
+      },
+      {
+         "pokémon": "Thundurus",
+         "sprite": "/images/sprites/gen5/thundurus.png",
+         "reason": "When I wasn't using Zapdos as my electric bird, I was using Thundurus as my electric... cloud genie. I like the blue."
+      },
+      {
+         "pokémon": "Zekrom",
+         "sprite": "/images/sprites/gen5/zekrom.png",
+         "reason": "Ah, Zekrom. One of the coolest legendary designs in the game. It's a huge black electric dragon and its signature moves, Fusion Bolt and Bolt Strike, have epic animations. I love this thing and I can't wait to use it in VGC when legendaries are legal again."
+      }
+   ]
+}

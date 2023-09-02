@@ -5,15 +5,18 @@ import lastfm from '../data/lastfm.json'
 <aside class="right-sidebar box">
 	
 	
-	<h2 class="headings" style="background:#282a50;">My top albums right now</h2>
+	<h2 class="headings" style="background:#282a50;">My top songs this week</h2>
 		<div class="currently-listening">
 			<ul class="pokeball-icons">
-			{lastfm.map((album) => (
-					<li>{album.artist["#text"]} - <a href={album.url}>{album.name}</a></li>
+			{lastfm.map((track) => (
+					<li>{track.artist.name} - <a href={track.url}>{track.name}</a></li>
 				))
 			}
 			</ul>
 		</div>
+
+	<h2 class="headings" style="border-radius: 10px;background:#fdee00;border:4px solid #c4413b;margin:0.5rem 0 1rem 0;"><a href="" style="color:#c4413b;">Support me!</a></h2>
+
 	<div style="text-align:center;">
 		<img src="/images/gifs/skorch_banner.png" alt="four centiskorch sprites in a row" width="176px" height="40px"/>
 		<img src="/images/letsdance.gif" alt="blastoise and charizard holding hands with the caption 'let\'s dance'" width="150px" height="50px"/>

@@ -6,7 +6,7 @@ const posts = await getCollection('misc', ({slug}) => {
 
 const rooms = await getCollection('rooms'); 
 
-import { Content } from './Resources.mdx';
+import Resources from './Resources.mdx';
 
 ---
 
@@ -49,6 +49,6 @@ import { Content } from './Resources.mdx';
 	</nav>
 	<h2 class="headings">Resources</h2>
 		<nav>
-			<Content class="pokeball-icons"/>
+			<Resources/>
 		</nav>
 </aside>

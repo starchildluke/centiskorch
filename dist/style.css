@@ -25,15 +25,15 @@ blockquote p { font-family: Georgia, serif; font-style: italic; }
 
 cite::before { content: ' — '; }
 
-aside h2.headings { margin-bottom: 0; }
+aside h2.headings { margin-bottom: 0; font-size: 1rem; }
 
 h2 { font-size: 1.25rem; }
 
 p { line-height: 1.4; margin: 0;}
 
-ul.pokeball-icons, aside.right-sidebar ul { padding-left: 1.25rem; list-style-type: none; }
+ul.pokeball-icons, aside.right-sidebar ul, aside.left-sidebar ul { padding-left: 1.25rem; list-style-type: none; }
 
-ul.pokeball-icons li, aside.right-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png");   background-position: 0 0; background-size: var(--gap); background-repeat: no-repeat; }
+ul.pokeball-icons li, aside.right-sidebar ul li, aside.left-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png"); background-position: 0 0; background-size: var(--gap); background-repeat: no-repeat; }
 
 li { line-height: 1.4; }
 
@@ -57,13 +57,13 @@ a { color: #c4413b; font-weight: 700; }
 
 a:hover { text-decoration: none; }
 
-table, th, td { border: 1px solid black; border-collapse: collapse; padding: calc(var(--gap) * .5); }
-
 img[src$=".gif"], img[src$=".png"], tbody img { image-rendering: pixelated; }
 
 img, figure { max-width: 100%; height: auto;  }
 
 /* CLASSES */
+
+table.fave-pkmn, table.fave-pkmn th, table.fave-pkmn td { border-collapse: collapse; border: 1px solid black; padding: calc(var(--gap) * .5); }
 
 .header-centered span,h1,h2,h3,h4,h5 { padding: 0; margin: 0; font-family: 'Georama Expanded Black', 'Arial Black', sans-serif; -webkit-font-smoothing: antialiased;color:#fdee00;text-transform:uppercase;}
 

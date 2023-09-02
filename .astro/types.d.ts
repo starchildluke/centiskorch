@@ -200,6 +200,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"pokemon-excited-reg-e.md": {
+	id: "pokemon-excited-reg-e.md";
+  slug: "pokemon-excited-reg-e";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "quick-thoughts-pokemon-fan-demands.md": {
 	id: "quick-thoughts-pokemon-fan-demands.md";
   slug: "quick-thoughts-pokemon-fan-demands";

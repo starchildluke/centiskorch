@@ -4,11 +4,9 @@ import site from '../data/site.json';
 
 export async function GET(context) {
 	const posts = await getCollection('blog');
-	const allPosts = Object.values(posts).sort(
-	  (a, b) =>
-	    new Date(b.pubDate).valueOf() -
-	    new Date(a.pubDate).valueOf()
-	);
+	const allPosts = posts.sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 	return rss({
 		title: site.title,
 		description: site.description,

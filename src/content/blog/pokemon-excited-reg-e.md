@@ -1,7 +1,7 @@
 ---
 title: "10 Pokémon I'm excited to use in Regulation E"
 description: "Regulation E starts in October. I've picked out a few Pokémon from the upcoming DLC that I'd like to try."
-pubDate: '03 Sept 2023'
+pubDate: '03 Sep 2023'
 ---
 
 So this is the last month of Regulation D and, honestly, it has flown by. I remember when everyone was losing their minds in the run-up to its release and then it was the format for Worlds and eventually, people calmed down. But with Regulation E, we're getting a lot of new Pokémon available from HOME so I've picked out a few I'd love to try on the competitive ladder.

@@ -1,0 +1,26 @@
+---
+import LayoutWithLCP from '../layouts/LayoutWithLCP.astro';
+import LeftSidebar from '../components/LeftSidebar.astro';
+import Footer from '../components/Footer.astro';
+const description = "Here's how you can contact me."
+const title = "Contact me";
+const lcpMediaAs = "image";
+const lcpSrc = "/images/pikachu-mail.png";
+const lcpMediaType = "image/png";
+---
+<LayoutWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} />
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">{title}</h1>
+			<section class="img-center">
+				<a href="/"><img src={lcpSrc} alt="Pikachu, a yellow mouse Pokémon, holding an envelope" width="137px" height="125px"></a>
+			</section>
+			<p>You can send me an email at <a href="mailto:me@centiskor.ch">me@centiskor.ch</a>.</p>
+			<p>You can also skeet me on Bluesky. My name is <a href="https://bsky.app/profile/centiskor.ch">centiskor.ch</a>.</p>
+			<p>That's it for now. Don't spam me and be nice or I'll send Mewtwo to your house!</p>
+		</main>
+		<LeftSidebar />
+		<Footer />
+	</div>
+</div>

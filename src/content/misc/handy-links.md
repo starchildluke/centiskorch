@@ -4,12 +4,15 @@ description: "A collection of handy links."
 pubDate: "24 Aug 2023"
 ---
 ## All
+* [Pokémon attack analyzer](https://canary255.github.io/pokemon-attack-analyzer/)
 * [Nuzlocke tracker](https://nuzlocke.app/)
 * [Great guide to rain teams in VGC](https://pkmn.net/?action=content&page=viewpage&id=8729&parentsection=84&language=en)
 * [Pokémon team planner](https://richi3f.github.io/pokemon-team-planner/)
 * [PokéSprite](https://msikma.github.io/pokesprite/index.html)
 * [Trainer card maker](https://tcm.pokecharms.com/)
 * [Pokencyclopedia.info](https://www.pokencyclopedia.info/en/index.php) - Pokémon Encyclopedia, Pokédex, Sprites
+
+## Graphics
 * [Sun/Moon Sprite Project](https://www.smogon.com/forums/threads/sun-moon-sprite-project.3577711/) - these have been used on my Pokémon teams page
 * [Photopea](https://www.photopea.com/) - for those who like to edit sprites or make cool Pokémon graphics and can't afford Adobe Photoshop CC
 

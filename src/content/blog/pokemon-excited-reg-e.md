@@ -1,7 +1,7 @@
 ---
 title: "10 Pokémon I'm excited to use in Regulation E"
 description: "Regulation E starts in October. I've picked out a few Pokémon from the upcoming DLC that I'd like to try."
-pubDate: '3 Sept 2023'
+pubDate: '03 Sept 2023'
 ---
 
 So this is the last month of Regulation D and, honestly, it has flown by. I remember when everyone was losing their minds in the run-up to its release and then it was the format for Worlds and eventually, people calmed down. But with Regulation E, we're getting a lot of new Pokémon available from HOME so I've picked out a few I'd love to try on the competitive ladder.
@@ -9,9 +9,9 @@ So this is the last month of Regulation D and, honestly, it has flown by. I reme
 ## 1. Poliwhirl/Poliwrath/Politoed
 
 <div class="img-center" style="margin-top:1rem;">
-	<img src="/images/sprites/gen1/poliwhirl_061_rby.png" alt="Poliwhirl"/>
-	<img src="/images/sprites/gen1/poliwrath_062_rby.png" alt="Poliwrath"/>
-	<img src="/images/sprites/gen2/186.png" alt="Politoed"/>
+	<img src="/images/sprites/gen1/poliwhirl_061_rby.png" alt="Poliwhirl" width="56px" height="56px"/>
+	<img src="/images/sprites/gen1/poliwrath_062_rby.png" alt="Poliwrath" width="56px" height="56px"/>
+	<img src="/images/sprites/gen2/186.png" alt="Politoed" width="56px" height="56px"/>
 </div>
 
 That's three different Poliwag evolutions and they all do different things. Kinda. So you might be thinking "why would you use a middle stage evolution instead of Poliwrath or Politoed?" Well, Poliwhirl gets access to Eviolite which gives it more bulk than Poliwrath. It also gets abilities like Swift Swim and Water Absorb which, depending on your strat, can give you extra speed with your support or extra support with your support. The latter will be particularly hand for switching into Urshifu Surging Strikes. I was looking for an example of Eviolite Poliwhirl and found [a team made by Pokésports for the SwSh ladder back in Series 12 last year](https://www.youtube.com/watch?v=_5mBkSxKTLY). It wasn't the best showcase but [you can check out the Poképaste for move/spread ideas](https://pokepast.es/28751d2acb2c0ea9).
@@ -22,7 +22,7 @@ Finally, we have Politoed and I actually have a history with the big frog as I u
 
 ## 2. Snorlax
 <div class="img-center" style="margin-top:1rem;">
-	<img src="/images/sprites/gen1/snorlax_143_rby.png" alt="Snorlax"/>
+	<img src="/images/sprites/gen1/snorlax_143_rby.png" alt="Snorlax" width="56px" height="56px"/>
 </div>
 
 Snorlax has defined metas in the past and it's a great choice for extreme bulk and attack. And let's not forget that wide movepool and it'll be interesting to see how it fares in SV.
@@ -59,7 +59,7 @@ Yanmega intrigues me. It has decent speed and special offense and access to move
 ## 7. Conkeldurr
 
 <div class="img-center" style="margin-top:1rem;">
-	<img src="/images/sprites/gen5/conkledurr.png" alt="Chandelure"/>
+	<img src="/images/sprites/gen5/conkeldurr.png" alt="Conkeldurr" width="96px" height="96px"/>
 </div>
 
 As I wrote on [my Gen 5 faves page](/favourites/my-favourite-gen-5-pokemon/), I have a soft spot for Conkeldurr and I'd like to try it on ladder having seen what Wolfe Glick win an International Challenge with it in May 2020 and well, everyone else from 2011–2021. It's built a bit like Ursaluna with its super high attack, high HP and defense and slow speed. And it gets Guts. Like Ursaluna. But Iron Fists is also an option to boost its punching moves like Drain Punch. The possibilities are endless here.
@@ -67,7 +67,7 @@ As I wrote on [my Gen 5 faves page](/favourites/my-favourite-gen-5-pokemon/), I 
 ## 8. Chandelure
 
 <div class="img-center" style="margin-top:1rem;">
-	<img src="/images/sprites/gen5/chandelure.png" alt="Chandelure"/>
+	<img src="/images/sprites/gen5/chandelure.png" alt="Chandelure" width="96px" height="96px"/>
 </div>
 
 My flaming chandelier is back and ready to cause ghostly havoc on the meta. It's a glass cannon for sure but it's a powerful one at that. It's worth noting that Chandelure has a stronger Shadow Ball and more defence than Flutter Mane but that's where the comparisons end. It's a frail baby but maybe it could do something in the meta.
@@ -83,4 +83,3 @@ So apparently Eviolite Charjabug was a thing back in the day and I'd love to try
 And last but not least, it's Vikavolt. I used one in my Ultra sun playthrough and it's a beast. 145 Special Attack on a Bug type? That's more than Volcarona. Unfortunately, it's quite frail and very slow (45 Spe) so maybe it could be have Focus Sash and cause chaos in Trick Room? The potential is there anyway.
 
 What would you like to use in Reg E. Feel free to [email me](mailto:me@centiskor.ch) your suggestions!
-

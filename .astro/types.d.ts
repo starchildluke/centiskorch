@@ -200,6 +200,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"my-big-shiny-day.md": {
+	id: "my-big-shiny-day.md";
+  slug: "my-big-shiny-day";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "pokemon-excited-reg-e.md": {
 	id: "pokemon-excited-reg-e.md";
   slug: "pokemon-excited-reg-e";
@@ -330,6 +337,13 @@ declare module 'astro:content' {
 "centiskorch.md": {
 	id: "centiskorch.md";
   slug: "centiskorch";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
+"snorlax.md": {
+	id: "snorlax.md";
+  slug: "snorlax";
   body: string;
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">

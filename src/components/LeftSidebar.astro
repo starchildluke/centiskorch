@@ -4,9 +4,7 @@ const posts = await getCollection('misc', ({slug}) => {
 	return slug.includes('links');
 }); 
 
-const rooms = await getCollection('rooms'); 
-
-import Resources from './Resources.mdx';
+const rooms = await getCollection('rooms');
 
 ---
 
@@ -48,8 +46,4 @@ import Resources from './Resources.mdx';
 			<li><a href="https://www.youtube.com/watch?v=QcD_YXCxxZM">the third room</a></li>
 		</ul>
 	</nav>
-	<h2 class="headings">Resources</h2>
-		<nav>
-			<Resources/>
-		</nav>
 </aside>

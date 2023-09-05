@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/my-big-shiny-day/",
+        "link_data": [
+            {
+                "prev": "/blog/pokemon-excited-reg-e/",
+                "title": "10 Pok\u00e9mon I'm excited to use in Regulation E",
+                "date": "2023-09-03"
+            }
+        ]
+    },
+    {
         "url": "/blog/pokemon-excited-reg-e/",
         "link_data": [
             {
                 "prev": "/blog/33-minutes-of-chill-pokemon-beats/",
                 "title": "33+ minutes of chill Pok\u00e9mon beats",
                 "date": "2023-08-27"
+            },
+            {
+                "next": "/blog/my-big-shiny-day/",
+                "title": "My big shiny day",
+                "date": "2023-09-05"
             }
         ]
     },

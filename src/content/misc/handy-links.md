@@ -14,6 +14,7 @@ Here is a collection of handy links for every generation and some general resour
 * [bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
 * [serebii.net](https://www.serebii.net/)
 * [pokémon.com](https://www.pokemon.com)
+* [psypoke](http://www.psypokes.com/index.php)
 * [project pokémon](https://projectpokemon.org/home/)
 * [Trainer card maker](https://tcm.pokecharms.com/)
 * [Pokencyclopedia.info](https://www.pokencyclopedia.info/en/index.php) - Pokémon Encyclopedia, Pokédex, Sprites

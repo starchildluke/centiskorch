@@ -1,8 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
-const posts = await getCollection('misc', ({slug}) => {
+const miscPages = await getCollection('misc', ({slug}) => {
 	return slug.includes('links');
 }); 
+
+const logPages = await getCollection('logs'); 
 
 const rooms = await getCollection('rooms');
 
@@ -23,12 +25,23 @@ const rooms = await getCollection('rooms');
 			<li>music</li>
 		</ul>
 	</nav>
+	<h2 class="headings"><a href="/logs/">Logs</a></h2>
+	<nav>
+		<ul class="pokeball-icons">
+			{logPages.map((page) => (
+					<li>
+						<a href={`/logs/${page.slug}/`}>{page.data.title.toLowerCase()}</a>
+					</li>
+					))
+				}
+		</ul>
+	</nav>
 	<h2 class="headings"><a href="/misc/">Misc</a></h2>
 	<nav>
 		<ul class="pokeball-icons">
-			{posts.map((post) => (
+			{miscPages.map((page) => (
 					<li>
-						<a href={`/misc/${post.slug}/`}>{post.data.title.toLowerCase()}</a>
+						<a href={`/misc/${page.slug}/`}>{page.data.title.toLowerCase()}</a>
 					</li>
 					))
 				}

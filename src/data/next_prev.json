@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/vgc-law-and-disorder/",
+        "link_data": [
+            {
+                "prev": "/blog/my-big-shiny-day/",
+                "title": "My big shiny day",
+                "date": "2023-09-05"
+            }
+        ]
+    },
+    {
         "url": "/blog/my-big-shiny-day/",
         "link_data": [
             {
                 "prev": "/blog/pokemon-excited-reg-e/",
                 "title": "10 Pok\u00e9mon I'm excited to use in Regulation E",
                 "date": "2023-09-03"
+            },
+            {
+                "next": "/blog/vgc-law-and-disorder/",
+                "title": "VGC law and disorder",
+                "date": "2023-09-06"
             }
         ]
     },

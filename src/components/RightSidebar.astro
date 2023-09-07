@@ -9,7 +9,7 @@ import lastfm from '../data/lastfm.json'
 		<div class="currently-listening">
 			<ul class="pokeball-icons">
 			{lastfm.map((track) => (
-					<li>{track.artist.name} - <a href={track.url}>{track.name}</a></li>
+					<li>{track.artist['#text']} - <a href={track.url}>{track.name}</a></li>
 				))
 			}
 			</ul>

@@ -1,8 +1,8 @@
 [
     {
         "artist": {
-            "mbid": "",
-            "#text": "Ahwlee"
+            "mbid": "6b77d8ef-c405-4846-9d5f-2b93e6533101",
+            "#text": "Rei Harakami"
         },
         "image": [
             {
@@ -18,9 +18,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Ahwlee/_/0007",
-        "name": "0007",
+        "mbid": "01175d29-a887-436d-9bca-751735dbc25a",
+        "url": "https://www.last.fm/music/Rei+Harakami/_/Code",
+        "name": "Code",
         "@attr": {
             "rank": "1"
         },
@@ -28,8 +28,8 @@
     },
     {
         "artist": {
-            "mbid": "",
-            "#text": "Ahwlee"
+            "mbid": "6b77d8ef-c405-4846-9d5f-2b93e6533101",
+            "#text": "Rei Harakami"
         },
         "image": [
             {
@@ -45,9 +45,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Ahwlee/_/26",
-        "name": "26",
+        "mbid": "144c4a65-4e71-4bfe-8990-88011f2244e1",
+        "url": "https://www.last.fm/music/Rei+Harakami/_/Vice+Versa",
+        "name": "Vice Versa",
         "@attr": {
             "rank": "2"
         },
@@ -56,7 +56,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Ahwlee"
+            "#text": "Spitz"
         },
         "image": [
             {
@@ -73,8 +73,8 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/Ahwlee/_/alone+time",
-        "name": "alone time",
+        "url": "https://www.last.fm/music/Spitz/_/%E3%83%88%E3%83%B3%E3%82%AC%E3%83%AA+%E2%80%9995",
+        "name": "\u30c8\u30f3\u30ac\u30ea \u201995",
         "@attr": {
             "rank": "3"
         },
@@ -83,7 +83,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Ahwlee"
+            "#text": "Spitz"
         },
         "image": [
             {
@@ -99,9 +99,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Ahwlee/_/ask+me",
-        "name": "ask me",
+        "mbid": "675afb8d-6497-4eb0-afef-c602f7f391d9",
+        "url": "https://www.last.fm/music/+noredirect/Spitz/_/%E3%83%AB%E3%83%8A%E3%83%AB%E3%83%8A",
+        "name": "\u30eb\u30ca\u30eb\u30ca",
         "@attr": {
             "rank": "4"
         },
@@ -110,7 +110,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Ahwlee"
+            "#text": "Spitz"
         },
         "image": [
             {
@@ -127,8 +127,8 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/Ahwlee/_/felt",
-        "name": "felt",
+        "url": "https://www.last.fm/music/Spitz/_/%E3%83%AD%E3%83%93%E3%83%B3%E3%82%BD%E3%83%B3",
+        "name": "\u30ed\u30d3\u30f3\u30bd\u30f3",
         "@attr": {
             "rank": "5"
         },

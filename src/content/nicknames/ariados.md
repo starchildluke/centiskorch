@@ -5,8 +5,6 @@ pubDate: "24 Sep 2023"
 pokedexNumber: '0168'
 ---
 
-Ariados's design lends itself to a variety of names based on its origins.
-
 Ariados was introduced in Generation 2 with a Bug/Poison typing as the evolved form of Spinarak so there's lots of inspiration for nicknames.
 
 With that said, here are some info about Ariados and suggested nicknames.

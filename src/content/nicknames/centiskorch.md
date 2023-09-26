@@ -5,8 +5,6 @@ pubDate: "27 Aug 2023"
 pokedexNumber: '0851'
 ---
 
-Centiskorch's design lends itself to a variety of names based on its origins.
-
 Centiskorch was introduced in Generation 8 with a Bug/Fire typing and a Gigantamax form so there's plenty of inspiration for a nickname.
 
 With that said, here are some facts about Centiskorch and suggested nicknames.

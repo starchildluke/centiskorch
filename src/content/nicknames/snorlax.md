@@ -5,8 +5,6 @@ pubDate: "28 Aug 2023"
 pokedexNumber: '0143'
 ---
 
-Snorlax's design lends itself to a variety of names based on its origins.
-
 Snorlax was introduced in Generation 1 with a Normal typing and a Gigantamax form so there's plenty of inspiration for a nickname.
 
 With that said, here are some facts about Snorlax and suggested nicknames.

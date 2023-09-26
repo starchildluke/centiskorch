@@ -23,6 +23,10 @@ blockquote { border-left: 6px solid black; padding-left: var(--gap);}
 
 blockquote p { font-family: Georgia, serif; font-style: italic; }
 
+q { font-style: italic; }
+
+q:hover { background: rgba(195,65,59, 0.15); border-radius: 5px; }
+
 cite::before { content: ' — '; }
 
 aside h2.headings { margin-bottom: 0; font-size: 1rem; }

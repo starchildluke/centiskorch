@@ -5,8 +5,6 @@ pubDate: "28 Aug 2023"
 pokedexNumber: '0009'
 ---
 
-Blastoise's design lends itself to a variety of names based on its origins.
-
 Blastoise was introduced in Generation 1 with a Water typing and a Gigantamax form so there's plenty of inspiration for a nickname.
 
 With that said, here are some facts about Blastoise and suggested nicknames.

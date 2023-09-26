@@ -5,8 +5,6 @@ pubDate: "23 Sep 2023"
 pokedexNumber: '0979'
 ---
 
-Annihilape's design lends itself to a variety of names based on its origins.
-
 Annihilape was introduced in Generation 9 with a Fighting/Ghost typing as the evolved form of Primeape so there's lots of inspiration for nicknames.
 
 With that said, here are some info about Annihilape and suggested nicknames.

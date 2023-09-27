@@ -383,6 +383,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
+"yanma.md": {
+	id: "yanma.md";
+  slug: "yanma";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
 };
 "rooms": {
 "blastoise.mdx": {

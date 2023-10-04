@@ -24,9 +24,9 @@ As for its name, it's a portmanteau of "**centi**pede" and "**skorch**".
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
-### Ubers
+### S-Tier
 
 * **Flare Jordan** - Ooh, I like that one! Based on Air Jordan if you didn't know
 * **Forge** - you can't forge without fire!
@@ -34,7 +34,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Hector** - "Hecto-" is Greek for 100. Centi- is Latin for 100. And I read this nickname in Gus Fring's voice which makes it funnier.
 * **Box Box** - My son called his Sizzlipede this and the random cuteness makes it an Ubers pick by default. Not sorry, I DO make the rules around here!
 
-### OU
+### A-Tier
 
 * **Firecracker** - The one I used for my Centiskorch. It felt fitting given it's G-Max form.
 * **Mustang** - FullMetal Alchemist fans should recognised this name with the click of a finger
@@ -44,7 +44,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Soot** - based on the Alpha Centipede from Nintendo game, Centipede: Infestation
 * **Scoot** - I dunno, it just fits.
 
-### UU
+### B-Tier
 
 * **Flameboy** - [Thank Phoebe from Friends for that idea](https://www.youtube.com/watch?v=T7o7By0FlDU)
 * **Mushu** - A common nickname idea, based on the Chinese dragon from the movie Mulan
@@ -63,7 +63,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Millie** - not a millipede. Not a millipede!!!
 * **Atari** - see "Queen Pede" above
 
-### RU
+### C-Tier
 
 * **Pesto** - pesto can be red... that's all I've got and now I'm hungry
 * **Chargrilled** - You could probably grill burgers on a Centiskorch. I wouldn't though.
@@ -74,7 +74,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Corona** - not the virus
 * **Inferno** - It's G-Max move is Centiferno. Maybe a little on the nose? I'll leave that up to you.
 
-### NU
+### D-Tier
 
 * **Radiator** - A bit reductive perhaps but it was based on a radiator, so...
 * **FrancisDrake** - see "Spain"

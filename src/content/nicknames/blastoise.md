@@ -19,15 +19,16 @@ There was early concept art for a Pokémon called "Karabajio" which looked a hel
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
-### Ubers
+
+### S-Tier
 
 * **Torrent**
 * **Karabajio**
 * **Flo**
 
-### OU
+### A-Tier
 
 * **Leonardo/Raphael/Donatello/Michelangelo/Caravaggio**
 * **SprayCharles**
@@ -37,7 +38,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Busta**
 * **Heavy B**
 
-### UU
+### B-Tier
 
 * **Tidal**
 * **Hydro**
@@ -48,7 +49,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Geyser**
 * **Tank**
 
-### RU
+### C-Tier
 
 * **Deluge**
 * **Neptune**

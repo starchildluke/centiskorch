@@ -17,16 +17,16 @@ So let's look at some possible nicknames for this multi-footed bug.
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
-### Ubers
+### A-Tier
 
 * **Carnage**
 * **Siren** - see "Bermuda" for the rationale
 * **Bordeaux** - because of the wine colour
 * **Merlot** - see above
 
-### OU
+### B-Tier
 
 * **Slithe**
 * **Cholera**
@@ -39,7 +39,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Grim/Reaper** - inspired by a GPT-3.5 Turbo suggestion (Grim Reaper)
 * **Plum**
 
-### UU
+### C-Tier
 
 * **Body-ody-ody**
 * **Crouton**
@@ -57,7 +57,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Thorne** - adapted from a GPT-3.5 suggestion (Thorn)
 * **Amethyst**
 
-### RU
+### D-Tier
 
 * **Purple Rain** - shame it doesn't learn Rain Dance
 * **Purple Haze** - shame it doesn't learn Haze

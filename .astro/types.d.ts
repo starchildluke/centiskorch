@@ -214,6 +214,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"pokemon-learn-trick-room-tailwind.md": {
+	id: "pokemon-learn-trick-room-tailwind.md";
+  slug: "pokemon-learn-trick-room-tailwind";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "quick-thoughts-pokemon-fan-demands.md": {
 	id: "quick-thoughts-pokemon-fan-demands.md";
   slug: "quick-thoughts-pokemon-fan-demands";
@@ -365,6 +372,13 @@ declare module 'astro:content' {
 "dipplin.md": {
 	id: "dipplin.md";
   slug: "dipplin";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
+"ogerpon.md": {
+	id: "ogerpon.md";
+  slug: "ogerpon";
   body: string;
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">

@@ -19,14 +19,14 @@ Besides its insatiable appetite, Snorlax also loves to sleep hence the snor- par
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
-### Ubers
+### S-Tier
 
 * **Wimpy**
 * **Totoro**
 
-### OU
+### A-Tier
 
 * **Yokozuna**
 * **Gabagool**
@@ -34,7 +34,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Manitoba**
 * **RipVanWinkle**
 
-### UU
+### B-Tier
 
 * **Cushion**
 * **Slumber**
@@ -54,7 +54,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Winnipeg**
 * **Deadlift**
 
-### RU
+### C-Tier
 
 * **Mandible**
 * **Linebacker**

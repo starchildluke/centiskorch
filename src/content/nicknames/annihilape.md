@@ -17,14 +17,14 @@ Like Mankey and Primeape, Annihilape takes inspiration from snub-nosed monkeys, 
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
-### Ubers
+### S-Tier
 
 * **Nomad**
 * **Bandit**
 
-### OU
+### A-Tier
 
 * **Banshee**
 * **Rageous**
@@ -34,7 +34,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Phantom**
 * **Nope** - if you know, you know
 
-### UU
+### B-Tier
 
 * **Ben** - short for benevolent
 * **Mogwai**
@@ -53,7 +53,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Slugger**
 * **Knuckles**
 
-### RU
+### C-Tier
 
 * **Trouble**
 * **Mars**

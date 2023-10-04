@@ -21,15 +21,15 @@ Name-wise, Dipplin appears to be a portmanteau of dip + Applin. [According to Bu
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
 (**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM. If I have used an LLM for a nickname, I will mark it with an asterisk in brackets.*)
 
-### Ubers
+### S-Tier
 
 * **Caramel** - as its shiny is probably based on a caramel apple
 
-### OU
+### A-Tier
 
 * **Goldrush** - named after the apple cultivar
 * **Scrumpy/ Scrumpy Jack** - named after a type of cider - works best with the shiny
@@ -39,7 +39,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Jazz** - named after the apple cultivar
 * **Steve Bobs** - named after Steve Jobs and referencing the act of "bobbing" for apples
 
-### UU
+### B-Tier
 
 * **Candy** - as its a candy apple
 * **Adam** - named after the Adam's apple and Adam, the first man according to the Bible
@@ -53,7 +53,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Gooey Lewis** - named after Huey Lewis and its gooey, right?
 * **Ringo** - named after the Japanese word for apple and Ringo Starr was a founder of Apple Corps, a <q cite="https://en.wikipedia.org/wiki/Apple_Corps">multimedia corporation founded in London in January 1968 by the members of The Beatles</q>
 
-### RU
+### C-Tier
 
 * **Dazzler** - it kinda dazzles, no?
 * **TootyFruity** - word to Little Richard

@@ -21,16 +21,16 @@ Name-wise, it could be a mix of Ariadne, a princess from Greek mythology, which 
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
-### Ubers
+### S-Tier
 
 * **Widow**
 * **Daddy** - long legs
 * **The Tick** - loved that show
 * **Carnage** - it's red and Spider-Man reference!
 
-### OU
+### A-Tier
 
 * **Silky Nutmeg/Silky/Nutmeg/Ganache** - you already knooooow!
 * **Venoma**(\*) - it rhymes with Nemona too!
@@ -38,7 +38,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Anansi** - named after the African folkhero
 * **Anti-Venom/Auntie Venom** - gender depedent!
 
-### UU
+### B-Tier
 
 * **Kauai** - named after the region where the Kauai cave wolf spider lives. It is the rarest spider in the world so might be good for shiny with a rare mark?
 * **Cobweb**
@@ -51,7 +51,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Trapdoor** - named after the spider species
 * **Bagheera** - based on the bagheera kiplingi, a species of jumping spider
 
-### RU
+### C-Tier
 
 * **Charlotte**
 * **Combfoot** - named after the spider species

@@ -17,16 +17,16 @@ It appears to be based on a dragonfly but I definitely see elements of helicopte
 
 ## Nicknames
 
-I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favourite/best and NU was me phoning it in.
+I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
 (**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM. If I have used an LLM for a nickname, I will mark it with an asterisk in brackets.*)
 
-### Ubers
+### S-Tier
 
 * **Airwolf** - as it reminds me of the helicopter from Airwolf
 * **Chroma**(\*)
 
-### OU
+### A-Tier
 
 * **Belle** - from Bell, a helicopter manufacturer
 * **Jamjar** - derived from the Korean word "jamjari" (<span lang="ko">잠자리</span>) meaning "dragonfly"
@@ -43,7 +43,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Jade** - as above
 * **Opal** - as above
 
-### UU
+### B-Tier
 
 * **Jan** - pronounced "Yan", from Yanyanma, its Japanese name
 * **Sikorsky** - named after Sikorsky, a helicopter manufacturer
@@ -52,7 +52,7 @@ I'm gonna rank these in Smogon tiers: Ubers, OU, UU, RU, NU. Ubers are my favour
 * **Zenith**
 * **Gossamer**(\*) - something light, delicate, or insubstantial
 
-### RU
+### C-Tier
 
 * **Jessie** - after Jessie of Team Rocket who caught a Yanma that evolved into Yanmega
 * **Wings** - you'll never guess the origins of this name!

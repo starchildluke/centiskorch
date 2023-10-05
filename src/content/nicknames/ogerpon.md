@@ -50,6 +50,9 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Princess** - see "Fiona"
 * **Majora** - based on The Legend of Zelda: Majora's Mask
 * **Violet/Chachki** - [because of this](https://www.youtube.com/watch?v=QM3rgaRtVqo)
+* **Shy Girl** - inspired by Shy Guy from the Mario universe
+* **Handsome** - because she is!
+* **Queenie** - so my mind went: King (from Tekken) > Queen > Queenie
 
 ### C-Tier
 
@@ -58,6 +61,9 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Maiden** - I thought this worked since Ogerpon is a girl
 * **Chlorophyll** - chlorophyll is the green stuff that gives plants life and "phyll" is short for Phyllis, a woman's name
 * **PonDeReplay** - Hey Mr. DJ, won't you turn the music up?
+* **Samus** - because Samus wears a mask and she's a girl, right?
+* **Masquerade** - <q cite="https://en.wikipedia.org/wiki/Masquerade_ball">a masquerade ball is an special kind of formal ball which many participants attend in costume wearing masks.</q>
+* **Meta** - after Meta Knight, the masked villain from the Kirby universe
 
 ### D-Tier
 
@@ -65,3 +71,4 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Jungle** - I dunno lol
 * **Weapon** - Wea*PON*, geddit!?
 * **Nippon** - Nippon is the Japanese name for Japan and... pon lol
+* **Libre** - referencing [Lucha libre](https://en.wikipedia.org/wiki/Lucha_libre) and that fact that Libre means free and Ogerpon is "free" at the end of the DLC

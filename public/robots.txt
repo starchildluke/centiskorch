@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
+
+User-Agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://centiskor.ch/sitemap-index.xml
+
+#                              ,AAAAAAAAAAAAAAAAA                               
+#                              AAAAAAAAAAAAAAAAAAA                              
+#                             AAAAAAAAAAAAAAAAAAAAA                             
+#                            AAAAAAAAAAAAAAAAAAAAAAA                            
+#                           AAAAAAAAAAAA.AAAAAAAAAAA\                           
+#                          /AAAAAAAAAAA   AAAAAAAAAAA                           
+#                         /AAAAAAAAAAA    \AAAAAAAAAAA                          
+#                         AAAAAAAAAAA      AAAAAAAAAAAA                         
+#                        AAAAAAAAAAAA       AAAAAAAAAAA\                        
+#                       AAAAAAAAAAAA         AAAAAAAAAAA                        
+#                      .AAAAAAAAAAA          \AAAAAAAAAAA                       
+#                      AAAAAAAAAAA*           AAAAAAAAAAAA                      
+#                     AAAAAAAAAAAA             AAAAAAAAAAAA                     
+#                    AAAAAAAAAAAA               AAAAAAAAAAA                     
+#                   /AAAAAAAA/                    .#AAAAAAAA                    
+#                   AA*                                   *AA                   
+#                             /                                                 
+#                             (((/(/          /////                             
+#                             (((((((((((/////////*                             
+#                              ((// ,((((((((((//                               
+#                               .     ((((((((/                                 
+#                                     /(((/                                     
+#                                      (((                                      
+#                                        /.
+#
+#
+#                                BUILT WITH ASTRO!
+#                                   astro.build

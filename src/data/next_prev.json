@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/pokemon-learn-trick-room-tailwind/",
+        "link_data": [
+            {
+                "prev": "/blog/vgc-law-and-disorder/",
+                "title": "VGC law and disorder",
+                "date": "2023-09-06"
+            }
+        ]
+    },
+    {
         "url": "/blog/vgc-law-and-disorder/",
         "link_data": [
             {
                 "prev": "/blog/my-big-shiny-day/",
                 "title": "My big shiny day",
                 "date": "2023-09-05"
+            },
+            {
+                "next": "/blog/pokemon-learn-trick-room-tailwind/",
+                "title": "Pok\u00e9mon that learn Trick Room and Tailwind",
+                "date": "2023-10-02"
             }
         ]
     },

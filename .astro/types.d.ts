@@ -214,6 +214,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"pokemon-fatigue.md": {
+	id: "pokemon-fatigue.md";
+  slug: "pokemon-fatigue";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "pokemon-learn-trick-room-tailwind.md": {
 	id: "pokemon-learn-trick-room-tailwind.md";
   slug: "pokemon-learn-trick-room-tailwind";

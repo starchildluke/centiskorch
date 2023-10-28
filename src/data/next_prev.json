@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/pokemon-fatigue/",
+        "link_data": [
+            {
+                "prev": "/blog/pokemon-learn-trick-room-tailwind/",
+                "title": "Pok\u00e9mon that learn Trick Room and Tailwind",
+                "date": "2023-10-02"
+            }
+        ]
+    },
+    {
         "url": "/blog/pokemon-learn-trick-room-tailwind/",
         "link_data": [
             {
                 "prev": "/blog/vgc-law-and-disorder/",
                 "title": "VGC law and disorder",
                 "date": "2023-09-06"
+            },
+            {
+                "next": "/blog/pokemon-fatigue/",
+                "title": "Pok\u00e9mon fatigue",
+                "date": "2023-10-29"
             }
         ]
     },

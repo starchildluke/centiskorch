@@ -61,7 +61,7 @@ a { color: #c4413b; font-weight: 700; }
 
 a:hover { text-decoration: none; }
 
-img[src$=".gif"], img[src$=".png"], tbody img { image-rendering: pixelated; }
+img[src$="gif"], img[src$="png"] { image-rendering: pixelated; }
 
 img, figure { max-width: 100%; height: auto;  }
 

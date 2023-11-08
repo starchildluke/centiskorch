@@ -1,6 +1,60 @@
 [
     {
         "artist": {
+            "mbid": "",
+            "#text": "The Power Station"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/The+Power+Station/_/Some+Like+It+Hot+-+2005+Remaster",
+        "name": "Some Like It Hot - 2005 Remaster",
+        "@attr": {
+            "rank": "1"
+        },
+        "playcount": "4"
+    },
+    {
+        "artist": {
+            "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
+            "#text": "Robert Palmer"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "0cea314d-78aa-43fd-953f-06727521c706",
+        "url": "https://www.last.fm/music/Robert+Palmer/_/Can+We+Still+Be+Friends%3F",
+        "name": "Can We Still Be Friends?",
+        "@attr": {
+            "rank": "2"
+        },
+        "playcount": "3"
+    },
+    {
+        "artist": {
             "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
             "#text": "Robert Palmer"
         },
@@ -22,9 +76,36 @@
         "url": "https://www.last.fm/music/Robert+Palmer/_/You+Are+In+My+System",
         "name": "You Are In My System",
         "@attr": {
-            "rank": "1"
+            "rank": "3"
         },
-        "playcount": "7"
+        "playcount": "3"
+    },
+    {
+        "artist": {
+            "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
+            "#text": "Robert Palmer"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "6e28b9d0-b96a-3bae-a826-766c1fcce1e9",
+        "url": "https://www.last.fm/music/Robert+Palmer/_/Addicted+to+Love",
+        "name": "Addicted to Love",
+        "@attr": {
+            "rank": "4"
+        },
+        "playcount": "2"
     },
     {
         "artist": {
@@ -49,89 +130,8 @@
         "url": "https://www.last.fm/music/Robert+Palmer/_/I+Didn%27t+Mean+to+Turn+You+On",
         "name": "I Didn't Mean to Turn You On",
         "@attr": {
-            "rank": "2"
-        },
-        "playcount": "6"
-    },
-    {
-        "artist": {
-            "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
-            "#text": "Robert Palmer"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "4810fc40-5bf3-40c6-a06f-f7960da5224a",
-        "url": "https://www.last.fm/music/Robert+Palmer/_/Love+Takes+Time",
-        "name": "Love Takes Time",
-        "@attr": {
-            "rank": "3"
-        },
-        "playcount": "4"
-    },
-    {
-        "artist": {
-            "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
-            "#text": "Robert Palmer"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Robert+Palmer/_/You+Blow+Me+Away",
-        "name": "You Blow Me Away",
-        "@attr": {
-            "rank": "4"
-        },
-        "playcount": "4"
-    },
-    {
-        "artist": {
-            "mbid": "debabff3-2559-46e5-862d-ef2a906d7010",
-            "#text": "Daryl Hall & John Oates"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "fa440c67-f13f-482e-ab83-e9d89b32513b",
-        "url": "https://www.last.fm/music/Daryl+Hall+&+John+Oates/_/Say+It+Isn%27t+So",
-        "name": "Say It Isn't So",
-        "@attr": {
             "rank": "5"
         },
-        "playcount": "3"
+        "playcount": "2"
     }
 ]

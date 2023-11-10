@@ -5,6 +5,8 @@ pubDate: "23 Sep 2023"
 pokedexNumber: '0979'
 ---
 
+<div class="img-center"><img src="/images/annihilape.jpg" width="250px" height="250px" fetchpriority="high" alt="a dark grey simian Pokémon with broken shackles on its ankles and left wrist. Its hair is white and almost blazing."></div>
+
 Annihilape was introduced in Generation 9 with a Fighting/Ghost typing as the evolved form of Primeape so there's lots of inspiration for nicknames.
 
 With that said, here are some info about Annihilape and suggested nicknames.

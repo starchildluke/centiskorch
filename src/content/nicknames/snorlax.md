@@ -5,6 +5,8 @@ pubDate: "28 Aug 2023"
 pokedexNumber: '0143'
 ---
 
+<div class="img-center"><img src="/images/snorlax.jpg" width="250px" height="183px" fetchpriority="high" alt="a big bear-like creature with a big belly, laying on its back."></div>
+
 Snorlax was introduced in Generation 1 with a Normal typing and a Gigantamax form so there's plenty of inspiration for a nickname.
 
 With that said, here are some facts about Snorlax and suggested nicknames.

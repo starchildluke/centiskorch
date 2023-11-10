@@ -5,6 +5,8 @@ pubDate: "24 Sep 2023"
 pokedexNumber: '0168'
 ---
 
+<div class="img-center"><img src="/images/ariados.jpg" width="250px" height="214px" fetchpriority="high" alt="a red arachnid Pokémon with purple eyes, four purple and yellow striped legs, two fangs, a stinger on its head. On its back is a face made from black spots and markings. It also has two protuding purple and yellow antennae-like structures."></div>
+
 Ariados was introduced in Generation 2 with a Bug/Poison typing as the evolved form of Spinarak so there's lots of inspiration for nicknames.
 
 With that said, here are some info about Ariados and suggested nicknames.

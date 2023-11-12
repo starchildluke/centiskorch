@@ -38,42 +38,37 @@
         {
             "pokémon": "Cacnea",
             "sprite": "/images/sprites/gen3/331.png",
-            "reason": ""
+            "reason": "It's a cactus scarecrow which I think is a really cool design. Grass/Dark fits perfectly, even if it isn't the best dual type for resistances but whatever, it looks good and it'd scare me if I lived in Hoenn."
         },
         {
             "pokémon": "Claydol",
             "sprite": "/images/sprites/gen3/344.png",
-            "reason": ""
+            "reason": "There's just something about Claydol that I really like. It's based on the Shakōki-dogū—a from Japanese lore and its name comes from clay + doll, as well as having some design elements from a dreidel. It looks scary and I guess that's point so job done."
         },
         {
             "pokémon": "Milotic",
             "sprite": "/images/sprites/gen3/350.png",
-            "reason": ""
+            "reason": "A graceful sea serpent in contrast to Gyarados's monstrous design."
         },
         {
             "pokémon": "Shuppet",
             "sprite": "/images/sprites/gen3/353.png",
-            "reason": ""
-        },
-        {
-            "pokémon": "Banette",
-            "sprite": "/images/sprites/gen3/354.png",
-            "reason": ""
+            "reason": "A cheeky shadow puppet, what's not to love?"
         },
         {
             "pokémon": "Glalie",
             "sprite": "/images/sprites/gen3/362.png",
-            "reason": ""
+            "reason": "It's Jason Voorhees but just his head and he's floating! So cool (no pun intended)!"
         },
         {
             "pokémon": "Salamence",
             "sprite": "/images/sprites/gen3/373.png",
-            "reason": ""
+            "reason": "God, I loved Salamence when I first got one. It was Gen 3's Dragonite analog (Dragalog? Dranalog? Draganolog?) and the design was so cool and worth the grinding to get."
         },
         {
             "pokémon": "Metagross",
             "sprite": "/images/sprites/gen3/376.png",
-            "reason": ""
+            "reason": "A giant steel spider? I'm not even into spiders like that but it's cool as heck and an amazing Steel type design. I've used Metagross in subsequent games and I can't wait to use one in Scarlet/Violet."
         },
         {
             "pokémon": "Regirock",
@@ -83,27 +78,27 @@
         {
             "pokémon": "Regice",
             "sprite": "/images/sprites/gen3/378.png",
-            "reason": ""
+            "reason": "Arguably my favourite Regi for some reason. Maybe it's the crystalline design or the fact that I love Ice types because of their underdog status. Nowhere near the best Regi but my fave nonetheless."
         },
         {
             "pokémon": "Kyogre",
             "sprite": "/images/sprites/gen3/382.png",
-            "reason": ""
+            "reason": "The Water legendary GOAT (since Lugia's water typing got taken away from us). It's an absolute beast in every conceivable way and my #1 VGC legendary in Sword and Shield. And that's before we even go into the primals."
         },
         {
             "pokémon": "Groudon",
             "sprite": "/images/sprites/gen3/383.png",
-            "reason": ""
+            "reason": "The Ground legendary GOAT. It's an absolute beast in every conceivable way and my #2 VGC legendary in Sword and Shield. And that's before we even go into the primals."
         },
         {
             "pokémon": "Rayquaza",
             "sprite": "/images/sprites/gen3/384.png",
-            "reason": ""
+            "reason": "The Dragon/Flying legendary GOAT. It's an absolute beast in every conceivable way and a fantastic design. And that's before we even go into the Megas. My big Sky Noodle."
         },
         {
             "pokémon": "Deoxys",
             "sprite": "/images/sprites/gen3/386-normal.png",
-            "reason": ""
+            "reason": "I never got a legit one but I liked its various Formes. I have a plush now that I got at the Worlds 2022 pop up shop and it's cool."
         }
     ]
 }

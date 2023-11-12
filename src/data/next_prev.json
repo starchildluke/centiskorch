@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/review-pokemon-crystal-legacy/",
+        "link_data": [
+            {
+                "prev": "/blog/pokemon-fatigue/",
+                "title": "Pok\u00e9mon fatigue",
+                "date": "2023-10-29"
+            }
+        ]
+    },
+    {
         "url": "/blog/pokemon-fatigue/",
         "link_data": [
             {
                 "prev": "/blog/pokemon-learn-trick-room-tailwind/",
                 "title": "Pok\u00e9mon that learn Trick Room and Tailwind",
                 "date": "2023-10-02"
+            },
+            {
+                "next": "/blog/review-pokemon-crystal-legacy/",
+                "title": "Review: Pok\u00e9mon Crystal Legacy",
+                "date": "2023-11-12"
             }
         ]
     },

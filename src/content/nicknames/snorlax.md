@@ -35,6 +35,7 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Edvard Munch**
 * **Manitoba**
 * **RipVanWinkle**
+* **Bear McLane**
 
 ### B-Tier
 
@@ -60,3 +61,4 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 
 * **Mandible**
 * **Linebacker**
+* **Ursakov**

@@ -1,33 +1,6 @@
 [
     {
         "artist": {
-            "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
-            "#text": "Robert Palmer"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "020682e5-294b-34b5-947c-2552ca1ee888",
-        "url": "https://www.last.fm/music/Robert+Palmer/_/You+Are+In+My+System",
-        "name": "You Are In My System",
-        "@attr": {
-            "rank": "1"
-        },
-        "playcount": "3"
-    },
-    {
-        "artist": {
             "mbid": "",
             "#text": "The Power Station"
         },
@@ -49,7 +22,7 @@
         "url": "https://www.last.fm/music/The+Power+Station/_/Some+Like+It+Hot+-+2005+Remaster",
         "name": "Some Like It Hot - 2005 Remaster",
         "@attr": {
-            "rank": "2"
+            "rank": "1"
         },
         "playcount": "3"
     },
@@ -76,7 +49,7 @@
         "url": "https://www.last.fm/music/Al+Dobson+Jr./_/Cigar+Box",
         "name": "Cigar Box",
         "@attr": {
-            "rank": "3"
+            "rank": "2"
         },
         "playcount": "2"
     },
@@ -103,7 +76,7 @@
         "url": "https://www.last.fm/music/Dego/_/She+Is+Virgo",
         "name": "She Is Virgo",
         "@attr": {
-            "rank": "4"
+            "rank": "3"
         },
         "playcount": "2"
     },
@@ -129,6 +102,33 @@
         "mbid": "",
         "url": "https://www.last.fm/music/Dego/_/We+Are+Virgo",
         "name": "We Are Virgo",
+        "@attr": {
+            "rank": "4"
+        },
+        "playcount": "2"
+    },
+    {
+        "artist": {
+            "mbid": "15a3b89e-f5dd-42ca-8097-f12c3fdc10c3",
+            "#text": "Dego"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "8c70771c-094f-4bc9-aece-503876c76b16",
+        "url": "https://www.last.fm/music/Dego/_/You+Are+Virgo",
+        "name": "You Are Virgo",
         "@attr": {
             "rank": "5"
         },

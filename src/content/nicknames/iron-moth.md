@@ -9,8 +9,6 @@ Iron Moth was introduced in Generation 9 with a Fire/Poison typing and appears t
 
 Let's have a look at Iron Moth's origins and some of those nicknames.
 
-**Please note**: at the time of writing, this may contain spoilers for the DLC but nothing connected to the storyline.
-
 ## Origins
 
 Iron Moth is a robotic-looking moth Pokémon that looks very similar to Volcarona. The main difference is its six diamond-shaped wings that are orange with white speckles and a single black triangle marking on each, and they levitate away from its body.

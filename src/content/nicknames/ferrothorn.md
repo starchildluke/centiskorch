@@ -5,6 +5,8 @@ pubDate: "15 Nov 2023"
 pokedexNumber: '0598'
 ---
 
+<div class="img-center"><img src="/images/ferrothorn.jpg" width="250px" height="250px" fetchpriority="high" alt="a durian-like Pokémon with a silver metallic body covered in thorns"></div>
+
 Ferrothorn was introduced in Generation 5 with a Grass/Steel typing and judging by its appearance, there's a lot to use for nickname inspiration.
 
 Let's have a look at Ferrothorn's origins and some of those nicknames.

@@ -61,3 +61,4 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Barbed Wire** - [don't call them babe!](https://www.youtube.com/watch?v=6LsYAC32Ul8) (NSFW)
 * **Barbarella** - Barbs, metal, you get the deal.
 * **Talus** - named after the Talus Dome, a sculpture in Canada made up of nearly 1000 stainless steel balls
+* **Karlsburg** - based on Carlsberg because their Export beer is a silver can with green writing

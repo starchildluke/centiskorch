@@ -21,7 +21,7 @@ I also love Johto as a region. Game Freak really dug deep into the Japanese lore
 
 If I had one significant gripe, it'd be that grinding is beyond frustrating&mdash;especially if you're doing a Nuzlocke
 
-## 2. Gen I
+## 2. Gen 1
 
 **Games**: Red/Green*/Blue/Yellow
 
@@ -29,31 +29,31 @@ If I had one significant gripe, it'd be that grinding is beyond frustrating&mdas
 
 **Why I love it**: It's the gen that started it all. I have some of the fondest memories of playing Blue as a kid and I always go back to it when I need an easy playthrough. A lot of my favourite Pokémon are from the first games and while the bugs and glitches aren't ideal, they give the games a certain charm that were of their time. You can also give them exceptions due to the extreme working conditions that Game Freak made Gen 1 under (and that would continue into the present; looking at you, [Gen IX!](#6-gen-ix))
 
-## 3. Gen VIII
+## 3. Gen 8
 
-**Games**: Sword/Shield/Legends: Arceus*
+**Games**: Sword/Shield/Legends: Arceus/Brilliant Diamond**/Shining Pearl
 
 **Score**: 8.5/10
 
-**Why I love it**: 
+**Why I love it**: People HATED Gen 8. I was not one of them. They were the most fun I'd had in the franchise since the Gen 6 remakes and, excluding them, the first 2 gens. The Pokémon were fun, the stadium battles were awesome, Dynamax was a fun mechanic (until I hated it in VGC), it introduced me to Centiskorch. Gen 8 was great! I like to ignore the DP remakes but Legends: Arceus was also an incredible game and I wish they'd gone in that direction for Scarlet/Violet. Alas, they didn't but Gen 8 is a firm Top 3 generation as far as I'm concerned.
 
-## 4. Gen IV
+## 4. Gen 4
 
-**Games**: Diamond*/Pearl*/Platinum**/HeartGold/SoulSilver
-
-**Score**: 8/10 (only for HGSS)
-
-**Why I love it**:
-
-## 5. Gen IX 
-
-**Games**: Scarlet/Violet
+**Games**: Diamond*/Pearl*/Platinum/HeartGold/SoulSilver
 
 **Score**: 7.5/10
 
-**Why I love it**:
+**Why I love it**: Generation 4 has been a gen of two halves. I didn't play DPP until a few weeks ago (Platinum) so my only experience was HGSS, and I adored those games. As you've seen, Gen 2 is my all-time gen and seeing it recreated on the DS in 3D in such expanse was phenomenal. However, when I finally got round to playing and completing Platinum, I didn't feel the same way. I purposely skipped Diamond/Pearl because I knew how slow they were and that Platinum was the superior game, and that was true. But it felt long-winded and didn't captivate me like the Gen 2 remakes. To all those Gen 4 lovers, sorry not sorry!
 
-## 6. Gen VI 
+## 5. Gen 9 
+
+**Games**: Scarlet/Violet**
+
+**Score**: 7.5/10
+
+**Why I love it**: At the time of writing this (2023), Gen 9 is the current gen and I've enjoyed most of it but the bugs and lagging in SV has been annoying over time. They also seemed to peak quite early in terms of the main game and having to wait for more content in the DLCs. The first DLC felt like a glorified expansion pack and was done in a matter of hours. I'm excited for the second DLC but mainly for the returning Pokémon and new Paradox forms/regional variants/divergent Pokémon. It's another case of time will tell and, if there are Gen 5 remakes next, this placing could go way up or come crashing down.
+
+## 6. Gen 6 
 
 **Games**: X*/Y*/Omega Ruby/Alpha Sapphire
 
@@ -61,15 +61,17 @@ If I had one significant gripe, it'd be that grinding is beyond frustrating&mdas
 
 **Why I love it**: 
 
-## 7. Gen V
+## 7. Gen 5
 
 **Games**: Black/White/Black 2/White 2
 
-**Score**: 6.5/10
+**Score**: 7/10
 
-**Why I love it**: This used to be at the bottom of the list because I really didn't enjoy Black and White. However, Game Freak did the thing with Black 2/White 2. It felt like a modern JRPG and they went hard with the dragon-mech-dystopia lore in a way I didn't expect. The cutscenes aren't too invasive and the bits with the frigate and the Kyurem vs Reshiram/Zekrom are spectactular. That said, I still don't like BW so that's why it's down here.
+**Why I love it**: This used to be at the bottom of the list because I really didn't enjoy Black and White. However, Game Freak did the thing with Black 2/White 2. It felt like a modern JRPG and they went hard with the dragon-mech-dystopia lore in a way I didn't expect. The cutscenes aren't too invasive and the bits with the frigate and the Kyurem vs Reshiram/Zekrom are spectactular. <del>That said, I still don't like BW so that's why it's down here.</del>
 
-## 8. Gen III
+And now I like BW. Just needed me to emulate the games on a 720p screen with speed up and a better team to enjoy it.
+
+## 8. Gen 3
 
 **Games**: Ruby/Sapphire/Emerald*/FireRed/LeafGreen
 
@@ -77,7 +79,7 @@ If I had one significant gripe, it'd be that grinding is beyond frustrating&mdas
 
 **Why I love it**:
 
-## 9. Gen VII
+## 9. Gen 7
 
 **Games**: Sun/Moon/Ultra Sun/Ultra Moon
 

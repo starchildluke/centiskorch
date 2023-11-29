@@ -1,6 +1,60 @@
 [
     {
         "artist": {
+            "mbid": "b0a53552-bddc-4c04-9839-be03f42b4cdf",
+            "#text": "\u03a3tella"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "7ab47476-32d2-4bb1-885c-cd52b8db6064",
+        "url": "https://www.last.fm/music/%CE%A3tella/_/Charmed",
+        "name": "Charmed",
+        "@attr": {
+            "rank": "1"
+        },
+        "playcount": "6"
+    },
+    {
+        "artist": {
+            "mbid": "c4a1d94a-b37b-4d1a-8449-e3f8c65beecb",
+            "#text": "Neil Frances"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "3df61721-3ad3-4209-8fb0-b20b1bdd72ab",
+        "url": "https://www.last.fm/music/Neil+Frances/_/dancing",
+        "name": "dancing",
+        "@attr": {
+            "rank": "2"
+        },
+        "playcount": "3"
+    },
+    {
+        "artist": {
             "mbid": "",
             "#text": "allem iversom"
         },
@@ -22,7 +76,7 @@
         "url": "https://www.last.fm/music/allem+iversom/_/Mink",
         "name": "Mink",
         "@attr": {
-            "rank": "1"
+            "rank": "3"
         },
         "playcount": "2"
     },
@@ -49,34 +103,7 @@
         "url": "https://www.last.fm/music/George+Benson/_/Midnight+Love+Affair",
         "name": "Midnight Love Affair",
         "@attr": {
-            "rank": "2"
-        },
-        "playcount": "2"
-    },
-    {
-        "artist": {
-            "mbid": "c4a1d94a-b37b-4d1a-8449-e3f8c65beecb",
-            "#text": "Neil Frances"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "3df61721-3ad3-4209-8fb0-b20b1bdd72ab",
-        "url": "https://www.last.fm/music/Neil+Frances/_/dancing",
-        "name": "dancing",
-        "@attr": {
-            "rank": "3"
+            "rank": "4"
         },
         "playcount": "2"
     },
@@ -102,33 +129,6 @@
         "mbid": "",
         "url": "https://www.last.fm/music/Pufuleti/_/Canili",
         "name": "Canili",
-        "@attr": {
-            "rank": "4"
-        },
-        "playcount": "2"
-    },
-    {
-        "artist": {
-            "mbid": "",
-            "#text": "Pufuleti"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Pufuleti/_/Umi",
-        "name": "Umi",
         "@attr": {
             "rank": "5"
         },

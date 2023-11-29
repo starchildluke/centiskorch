@@ -2,7 +2,7 @@
 title: 'My favourite Pokémon games'
 description: "Here is a list of my favourite Pokémon games along with the reasons why."
 draft: true
-pubDate: ''
+pubDate: '29 Nov 2023'
 ---
 
 I thought I'd compile a list of my favourite Pokémon games. As I've not played every single main series game yet, I'll be updating this as I go. Here are the games I've not played/finished yet:
@@ -23,9 +23,9 @@ I thought I'd compile a list of my favourite Pokémon games. As I've not played 
 ## 11. Pokémon Omega Ruby/Alpha Sapphire
 ## 12. Pokémon Emerald
 ## 13. Pokémon Ruby/Sapphire
-## 14. Pokémon FireRed/LeafGreen
-## 15. Pokémon Platinum
-## 16. Pokémon Diamond/Pearl
-## 17. Pokémon Ultra Sun/Ultra Moon
-## 18. Pokémon Sun/Moon 
-## 19. Pokémon Black/White
+## 14. Pokémon Black/White
+## 15. Pokémon FireRed/LeafGreen
+## 16. Pokémon Platinum
+## 17. Pokémon Diamond/Pearl
+## 18. Pokémon Ultra Sun/Ultra Moon
+## 19. Pokémon Sun/Moon

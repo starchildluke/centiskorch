@@ -21,11 +21,14 @@ As its name and evolution line suggests, Kingdra takes inspiration from the seah
 
 I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
 
+Anything with an asterisk next to it was inspired by a large language model.
+
 ### S-Tier
 
 * **Neptune** - for obvious reasons
 * **Poseidon** - Greek version of above
 * **Joe Peixe** - if it amuses you
+
 
 ### A-Tier
 
@@ -36,6 +39,8 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Piers**
 * **Azulejo** - named after the famous Portuguese tiles
 * **Lapis**
+* **Abyss***
+* **Leviathan***
 
 ### B-Tier
 
@@ -46,7 +51,11 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Marina**
 * **Wharf**
 * **Blurple**
-* **Delf**
+* **Delf** - related to a shade of blue taken from Dutch ceramics
+* **Majesty*** - because it's a king!
+* **Tyrant***
+* **DeepBlueSea*** - named after one of my partner's favourite films
+* **Tidal***
 
 ### C-Tier
 

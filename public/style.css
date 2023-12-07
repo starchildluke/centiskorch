@@ -65,6 +65,8 @@ img[src$="gif"], img[src$="png"] { image-rendering: pixelated; }
 
 img, figure { max-width: 100%; height: auto;  }
 
+details p { margin-top:1rem; }
+
 /* CLASSES */
 
 table.fave-pkmn, table.fave-pkmn th, table.fave-pkmn td { border-collapse: collapse; border: 1px solid black; padding: calc(var(--gap) * .5); }

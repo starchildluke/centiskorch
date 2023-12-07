@@ -20,7 +20,7 @@ When you look at Centiskorch, you see two things: a centipede and fire and lucki
 
 As for its name, it's a portmanteau of "**centi**pede" and "**skorch**".
 
-(**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM.*)
+(**Please note**: *some of Centiskorch's nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM.*)
 
 ## Nicknames
 

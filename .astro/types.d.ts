@@ -417,6 +417,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
+"magmortar.md": {
+	id: "magmortar.md";
+  slug: "magmortar";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
 "ogerpon.md": {
 	id: "ogerpon.md";
   slug: "ogerpon";

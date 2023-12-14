@@ -1,6 +1,6 @@
 ---
 import { CollectionEntry, getCollection } from 'astro:content';
-import Favourites from '../../layouts/Favourites.astro';
+import Nicknames from '../../layouts/Nicknames.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('nicknames');
@@ -14,6 +14,6 @@ type Props = CollectionEntry<'nicknames'>;
 const post = Astro.props;
 const { Content } = await post.render();
 ---
-<Favourites {...post.data}>
+<Nicknames {...post.data}>
 	<Content />
-</Favourites>
+</Nicknames>

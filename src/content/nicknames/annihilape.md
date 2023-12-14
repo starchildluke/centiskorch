@@ -3,9 +3,12 @@ title: "Annihilape nicknames"
 description: "A list of Annihilape nicknames, their origins, and why I think they're cool."
 pubDate: "23 Sep 2023"
 pokedexNumber: '0979'
+lcpSrc: "/images/annihilape.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/jpg"
 ---
 
-<div class="img-center"><img src="/images/annihilape.jpg" width="250px" height="250px" fetchpriority="high" alt="a dark grey simian Pokémon with broken shackles on its ankles and left wrist. Its hair is white and almost blazing."></div>
+<div class="img-center"><img src="/images/annihilape.jpg" width="250px" height="250px" alt="a dark grey simian Pokémon with broken shackles on its ankles and left wrist. Its hair is white and almost blazing."></div>
 
 Annihilape was introduced in Generation 9 with a Fighting/Ghost typing as the evolved form of Primeape so there's lots of inspiration for nicknames.
 

@@ -3,9 +3,12 @@ title: "Magmortar nicknames"
 description: "A list of Magmortar nicknames, their origins, and why I think they're cool."
 pubDate: "14 Dec 2023"
 pokedexNumber: '0467'
+lcpSrc: "/images/magmortar.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/jpg"
 ---
 
-<div class="img-center"><img src="/images/magmortar.jpg" width="250px" height="250px" fetchpriority="high" alt="a large, vaguely humanoid, red-and-yellow-striped Pokémon with an egg-shaped body and pink lips"></div>
+<div class="img-center"><img src="/images/magmortar.jpg" width="250px" height="250px" alt="a large, vaguely humanoid, red-and-yellow-striped Pokémon with an egg-shaped body and pink lips"></div>
 
 Magmortar was introduced in Generation 4 with a pure Fire typing and, more importantly, as the evolved form of Magmar so there's lots of inspiration for nicknames.
 

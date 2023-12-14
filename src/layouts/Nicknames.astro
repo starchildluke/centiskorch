@@ -1,5 +1,5 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import LayoutWithLCP from '../layouts/LayoutWithLCP.astro';
 import Footer from '../components/Footer.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
 import type { CollectionEntry } from 'astro:content';
@@ -9,10 +9,10 @@ import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'favourites'>['data'];
 
-const { title, description, pubDate, updatedDate } = Astro.props;
+const { title, description, pubDate, updatedDate, lcpSrc, lcpMediaAs, lcpMediaType } = Astro.props;
 ---
 
-<Layout title={title} description={description} />
+<LayoutWithLCP title={title} description={description} lcpSrc={lcpSrc} lcpMediaAs={lcpMediaAs} lcpMediaType={lcpMediaType} />
 <div class="container">
 	<div class="flex-content">
 		<main class="box">

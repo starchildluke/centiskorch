@@ -33,6 +33,9 @@ const nicknames = defineCollection({
 		title: z.string(),
 		description: z.string(),
 		pokedexNumber: z.string(),
+		lcpSrc: z.string().optional(),
+		lcpMediaAs: z.string().optional(),
+		lcpMediaType: z.string().optional(),
 		draft: z.boolean().optional()
 	}),
 });

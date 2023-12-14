@@ -3,9 +3,12 @@ title: "Blastoise nicknames"
 description: "A list of Blastoise nicknames, their origins, and why I think they're cool."
 pubDate: "28 Aug 2023"
 pokedexNumber: '0009'
+lcpSrc: "/images/blastoise.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/jpg"
 ---
 
-<div class="img-center"><img src="/images/blastoise.jpg" fetchpriority="high"></div>
+<div class="img-center"><img src="/images/blastoise.jpg" width="250px" height="248px" alt="a giant turtle with water cannons on its back"></div>
 
 Blastoise was introduced in Generation 1 with a Water typing and a Gigantamax form so there's plenty of inspiration for a nickname.
 

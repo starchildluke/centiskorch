@@ -3,9 +3,12 @@ title: "Yanma nicknames"
 description: "A list of Yanma nicknames, their origins, and why I think they're cool."
 pubDate: "27 Sep 2023"
 pokedexNumber: '0468'
+lcpSrc: "/images/yanma.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/jpg"
 ---
 
-<div class="img-center"><img src="/images/yanma.jpg" width="250px" height="128px" fetchpriority="high" alt="a red dragonfly-like Pokémon with a green head, four white wings with a single orange stripe on each one, and six legs. Its tail has two flat extensions on either side, similar to a helicopter or light aircraft"></div>
+<div class="img-center"><img src="/images/yanma.jpg" width="250px" height="128px" alt="a red dragonfly-like Pokémon with a green head, four white wings with a single orange stripe on each one, and six legs. Its tail has two flat extensions on either side, similar to a helicopter or light aircraft"></div>
 
 Yanma was introduced in Generation 2 with a Bug/Flying typing and evolves into Yanmega when leveled up while knowing the move Ancient Power.
 

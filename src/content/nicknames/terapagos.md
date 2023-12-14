@@ -3,11 +3,14 @@ title: "Terapagos nicknames"
 description: "A list of Terapagos nicknames, their origins, and why I think they're cool."
 pubDate: "10 Nov 2023"
 pokedexNumber: '????'
+lcpSrc: "/images/terapagos-normal-form.png"
+lcpMediaAs: "image"
+lcpMediaType: "image/png"
 ---
 
 <div class="img-center">
-	<img src="/images/terapagos-normal-form.png" width="250px" height="250px" fetchpriority="high" alt="a dark grey simian Pokémon with broken shackles on its ankles and left wrist. Its hair is white and almost blazing.">
-	<img src="/images/terapagos-terastal-form.png" width="250px" height="250px" fetchpriority="high" alt="a dark grey simian Pokémon with broken shackles on its ankles and left wrist. Its hair is white and almost blazing.">
+	<img src="/images/terapagos-normal-form.png" width="250px" height="250px" alt="a dark grey simian Pokémon with broken shackles on its ankles and left wrist. Its hair is white and almost blazing.">
+	<img src="/images/terapagos-terastal-form.png" width="250px" height="250px" alt="a dark grey simian Pokémon with broken shackles on its ankles and left wrist. Its hair is white and almost blazing.">
 </div>
 
 (Note: at the original time of writing, some details about Terapagos have not been revealed. Once they have, I will amend the copy.)

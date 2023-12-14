@@ -3,9 +3,12 @@ title: "Kingdra nicknames"
 description: "A list of Kingdra nicknames, their origins, and why I think they're cool."
 pubDate: "6 Dec 2023"
 pokedexNumber: '0230'
+lcpSrc: "/images/kingdra.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/jpg"
 ---
 
-<div class="img-center"><img src="/images/kingdra.jpg" width="250px" height="250px" fetchpriority="high" alt="a large, blue Pokémon that is similar to a seahorse with a tightly curled tail"></div>
+<div class="img-center"><img src="/images/kingdra.jpg" width="250px" height="250px" alt="a large, blue Pokémon that is similar to a seahorse with a tightly curled tail"></div>
 
 Kingdra was introduced in Generation 2 with a Water/Dragon typing as the evolved form of Seadra so there's lots of inspiration for nicknames.
 

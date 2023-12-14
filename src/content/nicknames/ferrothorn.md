@@ -3,9 +3,12 @@ title: "Ferrothorn nicknames"
 description: "A list of Ferrothorn nicknames, their origins, and why I think they're cool."
 pubDate: "15 Nov 2023"
 pokedexNumber: '0598'
+lcpSrc: "/images/ferrothorn.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/jpg"
 ---
 
-<div class="img-center"><img src="/images/ferrothorn.jpg" width="250px" height="250px" fetchpriority="high" alt="a durian-like Pokémon with a silver metallic body covered in thorns"></div>
+<div class="img-center"><img src="/images/ferrothorn.jpg" width="250px" height="250px" alt="a durian-like Pokémon with a silver metallic body covered in thorns"></div>
 
 Ferrothorn was introduced in Generation 5 with a Grass/Steel typing and judging by its appearance, there's a lot to use for nickname inspiration.
 

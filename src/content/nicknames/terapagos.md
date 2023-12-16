@@ -2,7 +2,7 @@
 title: "Terapagos nicknames"
 description: "A list of Terapagos nicknames, their origins, and why I think they're cool."
 pubDate: "10 Nov 2023"
-pokedexNumber: '????'
+pokedexNumber: '1024'
 lcpSrc: "/images/terapagos-normal-form.png"
 lcpMediaAs: "image"
 lcpMediaType: "image/png"

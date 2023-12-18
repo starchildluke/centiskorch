@@ -63,6 +63,7 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Don**
 * **Khalifa**
 * **Gabion** - a gabion is a <q cite="https://blog.enerpac.com/bridge-terminology-a-to-z-glossary-for-engineers/">basket of galvanized steel wire holding rocks together to reduce erosion of embankments.</q>
+* **Liealga** - lie + Dialga, in reference to it sharing the same dual typing
 
 ### C-Tier
 

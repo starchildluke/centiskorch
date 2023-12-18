@@ -53,6 +53,7 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Rent's Dew**
 * **Geyser**
 * **Tank**
+* **Gabagool**
 
 ### C-Tier
 

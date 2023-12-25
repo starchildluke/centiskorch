@@ -410,6 +410,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
+"iron-crown.md": {
+	id: "iron-crown.md";
+  slug: "iron-crown";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".md"] };
 "iron-moth.md": {
 	id: "iron-moth.md";
   slug: "iron-moth";

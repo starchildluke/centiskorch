@@ -4,7 +4,7 @@ import Footer from '../../components/Footer.astro';
 import LeftSidebar from '../../components/LeftSidebar.astro';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
-const title = "Nicknames";
+const title = "Pokémon nicknames";
 const description = "A collection of Pokémon nickname ideas.";
 
 const posts = (await getCollection('nicknames')).sort(
@@ -23,7 +23,7 @@ const posts = (await getCollection('nicknames')).sort(
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
 					<li>
-						#{post.data.pokedexNumber} - <a href={`/nicknames/${post.slug}/`} class="blog-listing-title">{post.data.title}</a>
+						#{post.data.pokedexNumber} - <a href={`/nicknames/${post.slug}/`} class="blog-listing-title">{post.data.title.replace(" nicknames","")}</a>
 					</li>
 					))
 				}

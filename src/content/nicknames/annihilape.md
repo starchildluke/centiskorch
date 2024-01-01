@@ -12,7 +12,7 @@ lcpMediaType: "image/jpg"
 
 Annihilape was introduced in Generation 9 with a Fighting/Ghost typing as the evolved form of Primeape so there's lots of inspiration for nicknames.
 
-With that said, here are some info about Annihilape and suggested nicknames.
+Let's look at some info on Annihilape and suggested nicknames.
 
 ## Origins
 
@@ -22,12 +22,19 @@ Like Mankey and Primeape, Annihilape takes inspiration from snub-nosed monkeys, 
 
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
+
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Annihilape nicknames!
 
 ### S-Tier
 
 * **Nomad**
 * **Bandit**
+* **RATM** - because Rage Against The Machine doesn't fit
 
 ### A-Tier
 
@@ -70,3 +77,5 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Melee**
 * **Bruiser**
 * **Hooligan**
+
+Do you have a favourite Annihilape nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

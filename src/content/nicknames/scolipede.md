@@ -7,17 +7,21 @@ pokedexNumber: '0545'
 
 Scolipede was introduced in Generation 5 with a Bug/Poison typing which isn't particularly unique but there's still scope for great nicknames.
 
+Let's look at some info on Scolipede and suggested nicknames.
+
 ## Origins
 
 Scolipede is basically a purple centipede with a shape that doesn't necessary scream "centipede" like our good friend, [Centiskorch](/nicknames/centiskorch/). It's bulky, stands on four legs(?), and it's a red/magenta/purple kind of colour. And apparently, Centiskorch preys on Scolipede. Uh oh!
 
-So let's look at some possible nicknames for this multi-footed bug.
-
-(**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM.*)
-
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
+
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Scolipede nicknames!
 
 ### A-Tier
 
@@ -41,7 +45,7 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 
 ### C-Tier
 
-* **Body-ody-ody**
+* **Bodyodyody**
 * **Crouton**
 * **Britney** - because Toxic?
 * **Prey**
@@ -62,3 +66,5 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Purple Rain** - shame it doesn't learn Rain Dance
 * **Purple Haze** - shame it doesn't learn Haze
 * **Rollover** - shame it doesn't learn Rollo— oh, it does learn Rollout
+
+Do you have a favourite Scolipede nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

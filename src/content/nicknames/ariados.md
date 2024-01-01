@@ -12,7 +12,7 @@ lcpMediaType: "image/jpg"
 
 Ariados was introduced in Generation 2 with a Bug/Poison typing as the evolved form of Spinarak so there's lots of inspiration for nicknames.
 
-With that said, here are some info about Ariados and suggested nicknames.
+Let's look at some info on Ariados and suggested nicknames.
 
 ## Origins
 
@@ -22,11 +22,15 @@ In terms of its origins, it's of course based on a spider, particularly the Myrm
 
 Name-wise, it could be a mix of Ariadne, a princess from Greek mythology, which lead to terms like arachnid (the Latin for spider), and _maybe_ dos for two because it was the second Pokémon in its evolutionary line and it has two stinger thingies on its back? It could also derive from the Japanese <span lang="ja">脅す</span> (odosu) meaning "to threaten".
 
-(**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM. If I have used an LLM for a nickname, I will mark it with an asterisk in brackets.*)
-
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
+
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Ariados nicknames!
 
 ### S-Tier
 
@@ -66,3 +70,5 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Weaver**(\*)
 * **Webber**(\*)
 * **Wallwalker**
+
+Do you have a favourite Ariados nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

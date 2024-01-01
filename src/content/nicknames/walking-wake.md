@@ -20,11 +20,15 @@ Walking Wake is a two-legged dinosaur Pokémon with white, diamond-shaped markin
 
 Inspiration wise, Walking Wake is likely based on dinosaurs like the velociraptor and other theropod dinosaurs. And Suicune of course.
 
-(**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM.*)
-
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
+
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Walking Wake nicknames!
 
 ### S-Tier
 
@@ -64,3 +68,5 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Aegir**
 * **Hydro**
 * **Geyser**
+
+Do you have a favourite Walking Wake nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

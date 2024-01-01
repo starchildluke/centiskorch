@@ -22,9 +22,13 @@ Like Magby and Magmar, Magmortar takes inspiration from the booby (a seabird) an
 
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
 
-Anything with an asterisk next to it was inspired by a large language model.
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Magmortar nicknames!
 
 ### S-Tier
 
@@ -67,3 +71,5 @@ Anything with an asterisk next to it was inspired by a large language model.
 * **Barrel**
 * **Ballistic**
 * **Karura** - per the Origins section
+
+Do you have a favourite Annihilape nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

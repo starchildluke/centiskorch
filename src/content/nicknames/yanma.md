@@ -22,9 +22,13 @@ It appears to be based on a dragonfly but I definitely see elements of helicopte
 
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
 
-(**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM. If I have used an LLM for a nickname, I will mark it with an asterisk in brackets.*)
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Yanma nicknames!
 
 ### S-Tier
 
@@ -63,3 +67,5 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Wings** - you'll never guess the origins of this name!
 * **Peekaboo** - I dunno, it just sounds cute
 * **Gen Z** - because it's a zoomer? I dunno, I've run out of ideas
+
+Do you have a favourite Yanma nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

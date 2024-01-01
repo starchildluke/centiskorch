@@ -12,7 +12,7 @@ lcpMediaType: "image/jpg"
 
 Kingdra was introduced in Generation 2 with a Water/Dragon typing as the evolved form of Seadra so there's lots of inspiration for nicknames.
 
-With that said, here are some info about Kingdra and suggested nicknames.
+Let's look at some info on Kingdra and suggested nicknames.
 
 ## Origins
 
@@ -22,16 +22,19 @@ As its name and evolution line suggests, Kingdra takes inspiration from the seah
 
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
 
-Anything with an asterisk next to it was inspired by a large language model.
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Kingdra nicknames!
 
 ### S-Tier
 
 * **Neptune** - for obvious reasons
 * **Poseidon** - Greek version of above
 * **Joe Peixe** - if it amuses you
-
 
 ### A-Tier
 
@@ -67,3 +70,5 @@ Anything with an asterisk next to it was inspired by a large language model.
 * **Dodger** - named after the LA Dodgers
 * **Puerto Rico**
 * **Celeste**
+
+Do you have a favourite Kingdra nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

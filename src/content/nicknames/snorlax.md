@@ -12,19 +12,23 @@ lcpMediaType: "image/jpg"
 
 Snorlax was introduced in Generation 1 with a Normal typing and a Gigantamax form so there's plenty of inspiration for a nickname.
 
-With that said, here are some facts about Snorlax and suggested nicknames.
+Let's look at some info on Snorlax and suggested nicknames.
 
 ## Origins
 
 Snorlax is a big bear-like creature who loves to eat. And its Japanese name (Kabigon) is based on Kirby's Japanese name (<span lang="ja">Kābī</span>). Did I mention that Snorlax loves to eat?
 
-Besides its insatiable appetite, Snorlax also loves to sleep hence the snor- part of its name. A random but interesting fact: Snorlax is the only black Pokémon introduced in Generation I, according to Bulbapedia but I guess you wouldn't have known/considered that given Gen 1 games were in monochrome (unless you played Yellow on a Game Boy Color).
-
-(**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM.*)
+Besides its insatiable appetite, Snorlax also loves to sleep hence the snor- part of its name. A random but interesting fact: Snorlax is the only black Pokémon introduced in Generation I, according to Bulbapedia.
 
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+My methodology for nicknames is as follows:
+
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Snorlax nicknames!
 
 ### S-Tier
 
@@ -65,3 +69,5 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 * **Mandible**
 * **Linebacker**
 * **Ursakov**
+
+Do you have a favourite Snorlax nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -21,9 +21,13 @@ Name-wise, Dipplin appears to be a portmanteau of dip + Applin. [According to Bu
 
 ## Nicknames
 
-I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the worst.
+y methodology for nicknames is as follows:
 
-(**Please note**: *some nicknames were suggested by GPT-3.5 Turbo, a large language model [LLM] created by OpenAI. I usually prompt it to give me two lots of lists and I prune them. Most of them don't make the cut and I'll always note if they were from an LLM. If I have used an LLM for a nickname, I will mark it with an asterisk in brackets.*)
+* I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
+* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
+* I'll usually list my inspiration for a nickname so you know where they came from
+
+With all that said, let's look at those Dipplin nicknames!
 
 ### S-Tier
 
@@ -57,3 +61,5 @@ I'm gonna rank these by tiers: S, A, B, C, and D. S is the best and D is the wor
 
 * **Dazzler** - it kinda dazzles, no?
 * **TootyFruity** - word to Little Richard
+
+Do you have a favourite Dipplin nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -18,26 +18,19 @@ const posts = (await getCollection('nicknames')).sort(
 	<div class="flex-content">
 		<main class="box">
 			<h1 class="headings">{title}</h1>
-			<p>Welcome to the Pokémon nicknames index page. Here, you will find a list of all the Pokémon nickname pages on the site.</p>
-			<p>The index is ordered by Pokédex number and will cover mostly final evolutions where applicable. That means any nicknames you see for fully-evolved Pokémon can apply for their unevolved forms too.</p>
-			<h2 class="headings">Index</h2>
-			<Dropdown />
-
+				<p>Welcome to the Pokémon nicknames index page. Here, you will find a list of all the Pokémon nickname pages on the site.</p>
+				<p>The index is ordered by Pokédex number and will cover mostly final evolutions where applicable. That means any nicknames you see for fully-evolved Pokémon can apply for their unevolved forms too.</p>
+			<h2 class="headings">Nickname page list</h2>
+				<Dropdown />
 			<h2 class="headings">Nicknames FAQ</h2>
-
-			<details>
-				<summary><strong>Why should you nickname your Pokémon?</strong></summary>
-			  		<p>Nicknaming by default didn't start for me until Sword and Shield and, after replaying all the games and doing Nuzlockes, I got into the habit of nicknaming.</p>
-					<p>While nicknaming is a personal preference, I think giving your Pokémon unique names can add a certain charm and whimsy to the gameplay. You might care a bit more for them if they have a name you grow attached to, and it's a fundamental rule in a Nuzlocke so the habit is bound to stick.</p>
-			</details>
-			<details>
-				<summary><strong>How do you choose a good nickname for a Pokémon?</strong></summary>
-			  		<p>The best nicknames can come from anywhere and it depends on whether you're picking a name at random or following a theme. The easiest method of nicknaming is to decide on a theme and match that theme's characteristics with your Pokémon's traits or style. For example, if you have a colour theme, and you had a Squirtle as your starter, you could name it after a shade of blue. And then Pidgey could have a brown/creme-inspired nickname.</p>
-			  		<p>Alternatively, you could use something like a random word/name generator to pick the names for you.</p>
-			</details>
+				<p><strong>Why should you nickname your Pokémon?</strong></p>
+				<p>Nicknaming by default didn't start for me until Sword and Shield and, after replaying all the games and doing Nuzlockes, I got into the habit of nicknaming.</p>
+				<p>While nicknaming is a personal preference, I think giving your Pokémon unique names can add a certain charm and whimsy to the gameplay. You might care a bit more for them if they have a name you grow attached to, and it's a fundamental rule in a Nuzlocke so the habit is bound to stick.</p>
+				<p><strong>How do you choose a good nickname for a Pokémon?</strong></p>
+				<p>The best nicknames can come from anywhere and it depends on whether you're picking a name at random or following a theme. The easiest method of nicknaming is to decide on a theme and match that theme's characteristics with your Pokémon's traits or style. For example, if you have a colour theme, and you had a Squirtle as your starter, you could name it after a shade of blue. And then Pidgey could have a brown/creme-inspired nickname.</p>
+				<p>Alternatively, you could use something like a random word/name generator to pick the names for you.</p>
 		</main>
 		<LeftSidebar />
 		<Footer />
+		</div>
 	</div>
-</div>
-			

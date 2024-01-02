@@ -40,17 +40,17 @@ Ball 3: 1... 2... 3...
 And here it is.
 
 <div class="img-center">
-	<img src="/images/spectra-lunala.jpeg" alt="a screenshot of Lunala" width="630px"/>
+	<img src="/images/spectra-lunala.jpeg" alt="a screenshot of Lunala" width="630px" loading="lazy"/>
 </div>
 
 I named it Spectra, after the Spectral bat, one of the largest bat species in world.
 
 <div class="img-center">
-	<img src="/images/me-lunala-pose-1.jpeg" alt="my character in Pokémon Violet, posing with Lunala" width="630px"/>
+	<img src="/images/me-lunala-pose-1.jpeg" alt="my character in Pokémon Violet, posing with Lunala" width="630px" loading="lazy"/>
 </div>
 
 <div class="img-center">
-	<img src="/images/me-lunala-pose-2.jpeg" alt="my character in Pokémon Violet, posing with Lunala who is asleep" width="630px"/>
+	<img src="/images/me-lunala-pose-2.jpeg" alt="my character in Pokémon Violet, posing with Lunala who is asleep" width="630px" loading="lazy"/>
 </div>
 
 I'm excited to use Lunala when they allow Restricted Pokémon in VGC. It's a bit of a beast.

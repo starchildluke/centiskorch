@@ -42,6 +42,11 @@ With all that said, let's look at those Dipplin nicknames!
 * **AbramLincoln** - named after the Abram cultivar and the former US president
 * **Jazz** - named after the apple cultivar
 * **Steve Bobs** - named after Steve Jobs and referencing the act of "bobbing" for apples
+* **Snapple**
+* **Appletini**
+* **Strudel**
+* **Honeycrisp**
+* **Cider**
 
 ### B-Tier
 
@@ -56,6 +61,10 @@ With all that said, let's look at those Dipplin nicknames!
 * **Waffle** - and what is a waffle without some syrup?
 * **Gooey Lewis** - named after Huey Lewis and its gooey, right?
 * **Ringo** - named after the Japanese word for apple and Ringo Starr was a founder of Apple Corps, a <q cite="https://en.wikipedia.org/wiki/Apple_Corps">multimedia corporation founded in London in January 1968 by the members of The Beatles</q>
+* **Orchard**
+* **Apple Juice**
+* **Cobbler** - as in apple cobbler
+* **Cinnamon** - because cinnamon goes with apple!
 
 ### C-Tier
 

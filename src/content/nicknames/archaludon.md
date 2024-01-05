@@ -57,6 +57,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Pharos** - after Pharos of Alexandria, the first "tallest" tower
 * **Barrier**
 * **Defender**
+* **Marvelous** - after the Marvelous Bridge in Unova
 
 ### B-Tier
 
@@ -70,6 +71,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Khalifa**
 * **Gabion** - a gabion is a <q cite="https://blog.enerpac.com/bridge-terminology-a-to-z-glossary-for-engineers/">basket of galvanized steel wire holding rocks together to reduce erosion of embankments.</q>
 * **Liealga** - lie + Dialga, in reference to it sharing the same dual typing
+* **Nugget**
 
 ### C-Tier
 
@@ -79,5 +81,13 @@ With all that said, let's look at those Archaludon nicknames!
 * **Mies** - after Mies van der Rohe, a famous German architect
 * **Highrise**
 * **Strat**
+* **Bridget** - if it's a girl
+
+### D-Tier
+
+* **Driftveil/Hodomoe**
+* **Skyarrow**
+* **Tubeline**
+* **Silence** - after the bridge on Route 12 in Kanto (which I didn't know even had a name!)
 
 Do you have a favourite Archuladon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

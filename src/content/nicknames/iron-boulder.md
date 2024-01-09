@@ -34,6 +34,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 
 * **FerreroRochr** - So a Ferrero Rocher is a chocolate ball covered in hazelnuts with a praline centre. Rocher is French for boulder. It all fits (except the full name which I had to shorten. And it might not be allowed in VGC so be careful)!
 * **Walter** - named after Walter Sobchak, a character from The Big Lebowski (I chose this name as I imagined Iron Boulder's shape as a bowling ball and that film's theme is ten-pin bowling)
+* **Boulderdash** - because it's a boulder and its base speed is high (124)
 
 ### A-Tier
 
@@ -43,6 +44,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Pebbles** - ironic name, given its size and name
 * **Bam Bam** - because Pebbles is a Flintstones character and so is Bam Bam
 * **Moeraki** - a place where you'll find the Moeraki Boulders, a group of large spherical boulders lying along a stretch of Koekohe Beach in New Zealand
+
 
 ### B-Tier
 
@@ -63,6 +65,6 @@ With all that said, let's look at those Iron Boulder nicknames!
 ### D-Tier
 
 * **Massimo** - masso is Italian for boulder and I know Massimo is an Italian name so why not?
-* **Blade Runner** - because of the blade horns on its head and its base speed is quite high (124)
+* **Blade Runner** - because of the blade horns on its head and it's fast
 
 Do you have a favourite Annihilape nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

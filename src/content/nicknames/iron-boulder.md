@@ -3,7 +3,7 @@ title: 'Iron Boulder nicknames'
 description: "A list of Iron Boulder nicknames, their origins, and why I think they're cool."
 pubDate: '09 Jan 2024'
 pokedexNumber: '1022'
-lcpSrc: 'iron-boulder.jpg'
+lcpSrc: '/images/iron-boulder.jpg'
 lcpMediaAs: 'image'
 lcpMediaType: 'image/jpeg'
 ---

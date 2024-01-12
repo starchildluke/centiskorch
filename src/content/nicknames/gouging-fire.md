@@ -44,6 +44,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Lionhearth**
 * **Sekhmet** - a solar deity from Ancient Egypt with the head of a lionness and a sun disk on her head
 * **Sinhala** - a Sanskrit word, meaning "of lions"
+* **GougingTiger** - (Hidden Dragon, courtesy of my partner <3)
 
 ### B-Tier
 
@@ -56,6 +57,8 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Marmalade** - an ironically cute name for a very dangerous cat/dog/dinosaur
 * **Pierce** - a synonym for gouge and a IRL name, didn'tchaknow?
 * **Babylon**
+* **It'sANoDawg**
+* **Gouge Rouge**
 
 ### C-Tier
 

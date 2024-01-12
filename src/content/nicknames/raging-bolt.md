@@ -39,7 +39,8 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Nimra** - from Nimravidae, the extinct family where sabre-toothed cats come from
 * **Melman** - named after Melman the Giraffe from [Madagascar](https://letterboxd.com/film/madagascar/)
 * **Tall Boy**
-
+* **Shock & Awe** - the nickname that Alex Underhill used on the Raging Bolt from his Portland Regional winning team in January 2024
+* **CultureShock**
 
 ### B-Tier
 
@@ -66,6 +67,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Catastrophe**
 * **Plasma Cat**
 * **Beeeg Toofs**
+* **Zeus**
 
 ### D-Tier
 

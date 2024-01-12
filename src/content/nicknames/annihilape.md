@@ -35,6 +35,7 @@ With all that said, let's look at those Annihilape nicknames!
 * **Nomad**
 * **Bandit**
 * **RATM** - because Rage Against The Machine doesn't fit
+* **Dr. Zaius** - [I had to](https://www.youtube.com/watch?v=JlmzUEQxOvA)
 
 ### A-Tier
 
@@ -45,6 +46,9 @@ With all that said, let's look at those Annihilape nicknames!
 * **Berserker**
 * **Phantom**
 * **Nope** - if you know, you know
+* **Scathing Ape**
+* **Mojo Jojo**
+* **Grodd** - based on [Gorilla Grodd](https://en.wikipedia.org/wiki/Gorilla_Grodd)
 
 ### B-Tier
 
@@ -77,5 +81,6 @@ With all that said, let's look at those Annihilape nicknames!
 * **Melee**
 * **Bruiser**
 * **Hooligan**
+* **Marmoset** - a species of monkey
 
 Do you have a favourite Annihilape nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -47,6 +47,7 @@ With all that said, let's look at those Dipplin nicknames!
 * **Strudel**
 * **Honeycrisp**
 * **Cider**
+* **Treacle**
 
 ### B-Tier
 

@@ -45,6 +45,7 @@ With all that said, let's look at those Ogerpon nicknames!
 
 * **MF DOOM** - because of the masks, and just remember all caps when you spell the 'Mon name
 * **Pebbles** - as Ogerpon is a girl and I couldn't name it Bam-Bam (the Flintstones character with the club), I went with Pebbles instead
+* **Girlboss**
 
 ### B-Tier
 
@@ -57,6 +58,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Shy Girl** - inspired by Shy Guy from the Mario universe
 * **Handsome** - because she is!
 * **Queenie** - so my mind went: King (from Tekken) > Queen > Queenie
+* **Mask Up**
 
 ### C-Tier
 
@@ -76,5 +78,8 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Weapon** - Wea*PON*, geddit!?
 * **Nippon** - Nippon is the Japanese name for Japan and... pon lol
 * **Libre** - referencing [Lucha libre](https://en.wikipedia.org/wiki/Lucha_libre) and that fact that Libre means free and Ogerpon is "free" at the end of the DLC
+* **Red Face/Blue Face/Green Face/Grey Face**
+* **John Cena**
+* **Burned Up/Washed Up/Grown Up/Hard Up** - themed nicknames for the Fire/Water/Grass/Rock masks
 
 Do you have a favourite Ogerpon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

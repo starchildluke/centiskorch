@@ -199,6 +199,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"how-i-caught-lunala-moon-ball.md": {
+	id: "how-i-caught-lunala-moon-ball.md";
+  slug: "how-i-caught-lunala-moon-ball";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "julesdrawz-awesome-pokemon-illustrations.md": {
 	id: "julesdrawz-awesome-pokemon-illustrations.md";
   slug: "julesdrawz-awesome-pokemon-illustrations";
@@ -410,6 +417,20 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
+"gouging-fire.md": {
+	id: "gouging-fire.md";
+  slug: "gouging-fire";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
+"iron-boulder.md": {
+	id: "iron-boulder.md";
+  slug: "iron-boulder";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
 "iron-crown.md": {
 	id: "iron-crown.md";
   slug: "iron-crown";
@@ -438,16 +459,23 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
-"missingno.md": {
-	id: "missingno.md";
-  slug: "missingno";
+"ogerpon.md": {
+	id: "ogerpon.md";
+  slug: "ogerpon";
   body: string;
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
-"ogerpon.md": {
-	id: "ogerpon.md";
-  slug: "ogerpon";
+"pecharunt.md": {
+	id: "pecharunt.md";
+  slug: "pecharunt";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
+"raging-bolt.md": {
+	id: "raging-bolt.md";
+  slug: "raging-bolt";
   body: string;
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
@@ -469,6 +497,13 @@ declare module 'astro:content' {
 "terapagos.md": {
 	id: "terapagos.md";
   slug: "terapagos";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
+"walking-wake.md": {
+	id: "walking-wake.md";
+  slug: "walking-wake";
   body: string;
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">

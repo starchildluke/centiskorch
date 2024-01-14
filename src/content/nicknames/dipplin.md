@@ -48,6 +48,7 @@ With all that said, let's look at those Dipplin nicknames!
 * **Honeycrisp**
 * **Cider**
 * **Treacle**
+* **BoneAppleTea**
 
 ### B-Tier
 

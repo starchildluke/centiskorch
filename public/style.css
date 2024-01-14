@@ -15,7 +15,7 @@ body { margin: 0; background: #e46047; color: #472a2d; font-family: 'Verdana', s
 
 h1 { font-size: 2rem; }
 
-:is(h2, h3, h4) + p {
+:is(h2, h3, h4, div.float-right-img, div.float-left-img) + p {
 	margin-top: var(--gap);
 }
 
@@ -128,6 +128,10 @@ table.fave-pkmn, table.fave-pkmn th, table.fave-pkmn td { border-collapse: colla
 .currently-playing h3 { margin-bottom: var(--gap); }
 
 .currently-playing p { margin-top: 0; }
+
+.float-left-img { float: left; padding: 1rem; }
+
+.float-right-img { float: right; padding: 1rem; }
 
 /* CLASSES */
 

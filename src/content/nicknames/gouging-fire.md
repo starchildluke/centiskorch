@@ -59,6 +59,8 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Babylon**
 * **It'sANoDawg**
 * **Gouge Rouge**
+* **Clifford** - the big red dog? (If you're one of _those_ people who think it's a dog)
+* **Cameroon** - their national soccer team are known as the Indomitable Lions
 
 ### C-Tier
 
@@ -69,7 +71,9 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Bonfire**
 * **Pspspsps** - cat lovers will understand
 * **Aslan**
-* **Leo**
+* **Leo/Leon/Lyon/Leonidas/Leonard/Leopold**
+* **GougingFuDog** - a fu dog (or foo dog) is a <q cite="https://en.wiktionary.org/wiki/foo_dog#Noun">stylized lion statue similar to those usually placed in male and female pairs outside imperial Chinese palaces, tombs, temples, etc.</q>. It's likely a Western thing
+* **Wildcat**
 
 ### D-Tier
 

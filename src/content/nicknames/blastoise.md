@@ -45,6 +45,7 @@ With all that said, let's look at those Blastoise nicknames!
 * **Bubba**
 * **Busta**
 * **Heavy B**
+* **Rainer**
 
 ### B-Tier
 

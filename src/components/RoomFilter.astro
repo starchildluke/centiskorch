@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+
+const { query } = Astro.props;
+
+const allBlogs = await getCollection('blog', ({slug}) => {
+	return slug.includes(query);
+}); 
+
+const allFaves = await getCollection('favourites', ({slug}) => {
+	return slug.includes(query);
+}); 
+
+const allLogs = await getCollection('logs', ({slug}) => {
+	return slug.includes(query);
+}); 
+
+const allMisc = await getCollection('misc', ({slug}) => {
+	return slug.includes(query);
+});
+
+const allNames = await getCollection('nicknames', ({slug}) => {
+	return slug.includes(query);
+});
+
+const allPages = [].concat(allBlogs, allFaves, allLogs, allMisc, allNames)
+
+---
+
+<ul class="pokeball-icons">
+	{allPages.map((post) => (
+		<li>
+			<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+		</li>
+		))
+	}
+</ul>

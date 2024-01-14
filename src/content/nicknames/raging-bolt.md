@@ -41,6 +41,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Tall Boy**
 * **Shock & Awe** - the nickname that Alex Underhill used on the Raging Bolt from his Portland Regional winning team in January 2024
 * **CultureShock**
+* **Bon Voltage**
 
 ### B-Tier
 

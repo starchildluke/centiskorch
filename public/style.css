@@ -15,6 +15,8 @@ body { margin: 0; background: #e46047; color: #472a2d; font-family: 'Verdana', s
 
 h1 { font-size: 2rem; }
 
+h2 { font-size: 1.75rem; }
+
 :is(h2, h3, h4, div.float-right-img, div.float-left-img) + p {
 	margin-top: var(--gap);
 }
@@ -30,8 +32,6 @@ q:hover { background: rgba(195,65,59, 0.15); border-radius: 5px; }
 cite::before { content: ' — '; }
 
 aside h2.headings { margin-bottom: 0; font-size: 1rem; }
-
-h2 { font-size: 1.25rem; }
 
 p { line-height: 1.4; margin: 0;}
 
@@ -81,7 +81,9 @@ table.fave-pkmn, table.fave-pkmn th, table.fave-pkmn td { border-collapse: colla
 
 .banner { width: 100%; padding: 1rem 1rem 0 1rem; }
 
-.headings, article :is(h1, h2, h3, h4) { padding: .5rem;  background: #c3413b;  text-align: center; }
+.headings, article :is(h1, h2) { padding: .5rem;  background: #c3413b;  text-align: center; }
+
+article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center; font-size: 1.25rem; }
 
 .headings a { color: #fdee00; }
 

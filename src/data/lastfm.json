@@ -1,33 +1,6 @@
 [
     {
         "artist": {
-            "mbid": "",
-            "#text": "Carrtoons"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Carrtoons/_/Sparkle",
-        "name": "Sparkle",
-        "@attr": {
-            "rank": "1"
-        },
-        "playcount": "3"
-    },
-    {
-        "artist": {
             "mbid": "b0a53552-bddc-4c04-9839-be03f42b4cdf",
             "#text": "\u03a3tella"
         },
@@ -49,9 +22,63 @@
         "url": "https://www.last.fm/music/%CE%A3tella/_/Charmed",
         "name": "Charmed",
         "@attr": {
+            "rank": "1"
+        },
+        "playcount": "4"
+    },
+    {
+        "artist": {
+            "mbid": "",
+            "#text": "Carrtoons"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/Carrtoons/_/Sparkle",
+        "name": "Sparkle",
+        "@attr": {
             "rank": "2"
         },
         "playcount": "3"
+    },
+    {
+        "artist": {
+            "mbid": "",
+            "#text": "Darius"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/Darius/_/Equilibrium",
+        "name": "Equilibrium",
+        "@attr": {
+            "rank": "3"
+        },
+        "playcount": "2"
     },
     {
         "artist": {
@@ -76,7 +103,7 @@
         "url": "https://www.last.fm/music/Exile/_/It%27s+Coming+Down",
         "name": "It's Coming Down",
         "@attr": {
-            "rank": "3"
+            "rank": "4"
         },
         "playcount": "2"
     },
@@ -102,33 +129,6 @@
         "mbid": "",
         "url": "https://www.last.fm/music/Jakatta/_/my+vision+-+summer+in+white+edit",
         "name": "my vision - summer in white edit",
-        "@attr": {
-            "rank": "4"
-        },
-        "playcount": "2"
-    },
-    {
-        "artist": {
-            "mbid": "96b1d906-0fda-406d-beb6-19c6758998df",
-            "#text": "Robert Palmer"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "f5662de6-9ac5-4aa8-8ba1-574f538b8cfb",
-        "url": "https://www.last.fm/music/Robert+Palmer/_/Know+By+Now",
-        "name": "Know By Now",
         "@attr": {
             "rank": "5"
         },

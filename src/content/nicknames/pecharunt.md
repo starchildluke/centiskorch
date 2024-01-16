@@ -3,13 +3,13 @@ title: 'Pecharunt nicknames'
 description: "A list of Pecharunt nicknames, their origins, and why I think they're cool."
 pubDate: '13 Jan 2024'
 pokedexNumber: '1025'
-lcpSrc: '/images/pecharunt.jpg'
+lcpSrc: '/images/pecharunt.png'
 lcpMediaAs: 'image'
-lcpMediaType: 'image/jpeg'
+lcpMediaType: 'image/png'
 ---
 
 <div class="img-center">
-	<img src="/images/pecharunt.jpg" width="250px" height="250px" alt="a small purple Pokémon resembling a piece of mochi"><img src="/images/pecharunt-closed.jpg" width="250px" height="250px" alt="a small purple Pokémon resembling a piece of mochi" loading="eager">
+	<img src="/images/pecharunt.png" width="250px" height="250px" alt="a small purple Pokémon resembling a piece of mochi"><img src="/images/pecharunt-closed.jpg" width="250px" height="250px" alt="a small purple Pokémon resembling a piece of mochi" loading="eager">
 </div>
 
 <details style="margin-bottom:1rem;background: #fdee00;">
@@ -55,6 +55,7 @@ With all that said, let's look at those Pecharunt nicknames!
 * **Elberta**
 * **Melba**
 * **Daphne** - a <q cite="https://www.cookist.com/the-top-ten-poisonous-fruits/">deciduous shrub with clusters of red berries</q>
+* **Pe$ha** - kinda like Ke$ha and Pecha mashed together?
 
 ### B-Tier
 

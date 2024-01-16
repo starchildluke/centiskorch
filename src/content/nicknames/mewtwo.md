@@ -59,6 +59,7 @@ With all that said, let's look at those Mewtwo nicknames!
 * **Gene Grey**
 * **Amino**
 * **Adenine/Cytosine/Guanine/Thymine** - the four bases of DNA
+* **Master Boi**
 
 ### C-Tier
 
@@ -72,6 +73,8 @@ With all that said, let's look at those Mewtwo nicknames!
 * **Haploid**
 * **Protein**
 * **Genera**
+* **Thicc Thighs**
+* **Leg Day**
 
 ### D-Tier
 
@@ -82,5 +85,7 @@ With all that said, let's look at those Mewtwo nicknames!
 * **Romeow** - digging deep for any kind of silly cat nicknames
 * **Mewscarada**
 * **Cogent**
+* **Sigh Kick**
+* **Chun Li**
 
 Do you have a favourite Mewtwo nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

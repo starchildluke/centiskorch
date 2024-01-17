@@ -56,6 +56,7 @@ With all that said, let's look at those Pecharunt nicknames!
 * **Melba**
 * **Daphne** - a <q cite="https://www.cookist.com/the-top-ten-poisonous-fruits/">deciduous shrub with clusters of red berries</q>
 * **Pe$ha** - kinda like Ke$ha and Pecha mashed together?
+* **Petty Davis/Petty Boop/Petty White**
 
 ### B-Tier
 
@@ -67,6 +68,7 @@ With all that said, let's look at those Pecharunt nicknames!
 * **Peach Fuzz**
 * **Péitseog** - Irish for "peach"
 * **Momo** - from Momotarō
+* **Big Sulk**
 
 ### C-Tier
 

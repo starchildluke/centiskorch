@@ -42,6 +42,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Shock & Awe** - the nickname that Alex Underhill used on the Raging Bolt from his Portland Regional winning team in January 2024
 * **CultureShock**
 * **Bon Voltage**
+* **ProtecYaNeck** - [Watch your step, kid!](https://www.youtube.com/watch?v=1_-3Bh1VFI8)
 
 ### B-Tier
 
@@ -53,6 +54,9 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Kinoi** - based on a manga character called Kinoi Natsuki who can stretch her neck at will
 * **Shock Ness** - shock + Loch Ness
 * **Big&Tall**
+* **Neck&Neck**
+* **Breakneck**
+* **Pole Volt**
 
 ### C-Tier
 
@@ -69,9 +73,16 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Plasma Cat**
 * **Beeeg Toofs**
 * **Zeus**
+* **Chin Up**
 
 ### D-Tier
 
 * **Xneckutor** - this might be my worst one yet
+* **LongNDaTooth**
+* **Long Haul**
+* **Long Story**
+* **LongDistance**
+* **Long Leash**
+* **Long Game**
 
 Do you have a favourite Raging Bolt nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -70,6 +70,7 @@ With all that said, let's look at those Terapagos nicknames!
 * **Baena** - the name of a prehistoric turtle
 * **Karma** - apparently, my colour picker app said the deep purpley blue colour of Terapagos's skin is called Good Karma
 * **Pacific** - the Galápagos Islands are in the Pacific Ocean so it seems fitting
+* **Turtleneck**
 
 ### D-Tier
 

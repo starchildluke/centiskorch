@@ -62,6 +62,7 @@ With all that said, let's look at those Annihilape nicknames!
 * **Springbok** - if you're a rugby fan
 * **Nyala**
 * **Chamiroquai** - a terrible portmanteau of chamois + Jamiroquai
+* **Carobo** - kinda like caribou + robo?
 
 ### C-Tier
 

@@ -199,6 +199,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
+"best-pokemon-games-hp-bar-goes-down.md": {
+	id: "best-pokemon-games-hp-bar-goes-down.md";
+  slug: "best-pokemon-games-hp-bar-goes-down";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".md"] };
 "how-i-caught-lunala-moon-ball.md": {
 	id: "how-i-caught-lunala-moon-ball.md";
   slug: "how-i-caught-lunala-moon-ball";

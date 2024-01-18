@@ -3,7 +3,7 @@ title: 'Beautifly nicknames'
 description: "A list of Beautifly nicknames, their origins, and why I think they're cool."
 pubDate: '18 Jan 2024'
 pokedexNumber: '0267'
-lcpSrc: '/images/beautifly.jpg'
+lcpSrc: '/images/beautifly.jpeg'
 lcpMediaAs: 'image'
 lcpMediaType: 'image/jpeg'
 ---

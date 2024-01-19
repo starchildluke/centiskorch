@@ -82,8 +82,8 @@
     },
     {
         "artist": {
-            "mbid": "",
-            "#text": "AFTA-1"
+            "mbid": "7fd1abac-2626-41e5-abaf-1408a337bb3f",
+            "#text": "George Van Eps"
         },
         "image": [
             {
@@ -99,18 +99,18 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/AFTA-1/_/Tip+Toe+Through",
-        "name": "Tip Toe Through",
+        "mbid": "05ca8497-e3c7-423b-892d-3469c38d204f",
+        "url": "https://www.last.fm/music/George+Van+Eps/_/I+Hadn%27t+Anyone+Till+You",
+        "name": "I Hadn't Anyone Till You",
         "@attr": {
             "rank": "4"
         },
-        "playcount": "2"
+        "playcount": "3"
     },
     {
         "artist": {
-            "mbid": "48ec5d0d-6fe4-42d4-a554-2aa0008c9edc",
-            "#text": "AK420"
+            "mbid": "7fd1abac-2626-41e5-abaf-1408a337bb3f",
+            "#text": "George Van Eps"
         },
         "image": [
             {
@@ -126,12 +126,12 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/AK420/_/Clockwork",
-        "name": "Clockwork",
+        "mbid": "b5f5ed82-b3ba-4cc1-a90f-d01b47d26105",
+        "url": "https://www.last.fm/music/George+Van+Eps/_/Sunny",
+        "name": "Sunny",
         "@attr": {
             "rank": "5"
         },
-        "playcount": "2"
+        "playcount": "3"
     }
 ]

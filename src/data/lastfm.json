@@ -1,8 +1,8 @@
 [
     {
         "artist": {
-            "mbid": "b0a53552-bddc-4c04-9839-be03f42b4cdf",
-            "#text": "\u03a3tella"
+            "mbid": "2f43e416-f1bf-4f04-8853-a0019aa12441",
+            "#text": "Joe Pass"
         },
         "image": [
             {
@@ -18,9 +18,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "7ab47476-32d2-4bb1-885c-cd52b8db6064",
-        "url": "https://www.last.fm/music/%CE%A3tella/_/Charmed",
-        "name": "Charmed",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Joe+Pass/_/Nuages",
+        "name": "Nuages",
         "@attr": {
             "rank": "1"
         },
@@ -55,8 +55,8 @@
     },
     {
         "artist": {
-            "mbid": "",
-            "#text": "Darius"
+            "mbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+            "#text": "Chet Baker"
         },
         "image": [
             {
@@ -73,8 +73,8 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/Darius/_/Equilibrium",
-        "name": "Equilibrium",
+        "url": "https://www.last.fm/music/Chet+Baker/_/Carson+City+Stage",
+        "name": "Carson City Stage",
         "@attr": {
             "rank": "3"
         },
@@ -82,8 +82,8 @@
     },
     {
         "artist": {
-            "mbid": "7fd1abac-2626-41e5-abaf-1408a337bb3f",
-            "#text": "George Van Eps"
+            "mbid": "",
+            "#text": "Chet Baker Quartet"
         },
         "image": [
             {
@@ -99,9 +99,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "05ca8497-e3c7-423b-892d-3469c38d204f",
-        "url": "https://www.last.fm/music/George+Van+Eps/_/I+Hadn%27t+Anyone+Till+You",
-        "name": "I Hadn't Anyone Till You",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Chet+Baker+Quartet/_/But+Not+For+Me+-+Instrumental",
+        "name": "But Not For Me - Instrumental",
         "@attr": {
             "rank": "4"
         },
@@ -109,8 +109,8 @@
     },
     {
         "artist": {
-            "mbid": "7fd1abac-2626-41e5-abaf-1408a337bb3f",
-            "#text": "George Van Eps"
+            "mbid": "",
+            "#text": "Chet Baker Quartet"
         },
         "image": [
             {
@@ -126,9 +126,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "b5f5ed82-b3ba-4cc1-a90f-d01b47d26105",
-        "url": "https://www.last.fm/music/George+Van+Eps/_/Sunny",
-        "name": "Sunny",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Chet+Baker+Quartet/_/Long+Ago+(And+Far+Away)+-+12%22+LP+Take",
+        "name": "Long Ago (And Far Away) - 12\" LP Take",
         "@attr": {
             "rank": "5"
         },

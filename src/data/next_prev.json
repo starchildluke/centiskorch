@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/quick-thoughts-pokemon-cards/",
+        "link_data": [
+            {
+                "prev": "/blog/how-i-caught-lunala-moon-ball/",
+                "title": "How I spent 10,000 Pok\u00e9dollars to catch a Lunala in a Moon Ball",
+                "date": "2024-01-02"
+            }
+        ]
+    },
+    {
         "url": "/blog/how-i-caught-lunala-moon-ball/",
         "link_data": [
             {
                 "prev": "/blog/review-pokemon-crystal-legacy/",
                 "title": "Review: Pok\u00e9mon Crystal Legacy",
                 "date": "2023-11-12"
+            },
+            {
+                "next": "/blog/quick-thoughts-pokemon-cards/",
+                "title": "Quick thoughts on Pok\u00e9mon cards",
+                "date": "2024-01-18"
             }
         ]
     },

@@ -14,12 +14,16 @@ const blogRssFeed = `${site}/feed/blog.xml`;
 ---
 <head>
 <meta charset="UTF-8" />
-<meta name="description" content={description}>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" type="image/ico" href="/favicon.ico" />
+<title>{title}</title>
+<link rel="stylesheet" type="text/css" href="/style.css">
+<link rel="preload" href="/fonts/Georama_Expanded-Black-subset.woff2" as="font" type="font/woff2" crossorigin="">
 <link rel="preload" as="image" href="/images/851.png" type="image/png">
 <link rel="preload" as="image" href="/images/Cherish_Ball_Sprite.png" type="image/png">
 <link rel="preload" as={lcpMediaAs} href={lcpSrc} type={lcpMediaType}>
+<script defer data-domain="centiskor.ch" src="https://plausible.io/js/script.js"></script>
+<meta name="description" content={description}>
+<link rel="icon" type="image/ico" href="/favicon.ico" />
 <meta name="generator" content={Astro.generator} />
 <meta property="og:type" content="website">
 <meta property="og:title" content={title}>
@@ -27,10 +31,4 @@ const blogRssFeed = `${site}/feed/blog.xml`;
 <meta property="og:url" content={canonicalURL}>
 <meta property="og:image" content={site + lcpSrc}>
 <link rel="canonical" href={canonicalURL} />
-<link rel="preload" href="/fonts/Georama_Expanded-Black-subset.woff2" as="font" type="font/woff2" crossorigin="">
-<link rel="preload" as="style" href="/style.css" type="text/css">
-<link rel="stylesheet" type="text/css" href="/style.css">
-<title>{title}</title>
-<script defer data-domain="centiskor.ch" src="https://plausible.io/js/script.js"></script>
-<script>/*to prevent Firefox FOUC*/ let FF_FOUC_FIX;</script>
 </head>

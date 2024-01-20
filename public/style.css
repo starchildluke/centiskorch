@@ -91,7 +91,7 @@ article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center;
 
 .flex-content { display: flex; flex-wrap: wrap; background: #813637; border: 14px solid #813637; outline: 10px solid #472a2d; }
 
-.box { overflow-wrap: break-word; min-width: 0; outline: 6px solid black; background: white; }
+.box { overflow-wrap: break-word; outline: 6px solid black; background: white; }
 
 .img-center { text-align: center; }
 

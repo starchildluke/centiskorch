@@ -13,5 +13,3 @@ The artwork has been amazing for decades now, but if it's not a pull, a lot of p
 Imagine, as one of those artists, seeing that happen to your work because it's not worth lots of money or good for clout. But TPCi likely doesn't care as long as money is made and Pokémon remains relevant. And it saddens me to see. 
 
 I have a collection of my own and I enjoy looking at all the cards, especially the cards that aren't worth much. The lines, the colours, the details, the creativity. I'd be more likely to buy up all the cheap cards based on the art or my fave Pokémon than spending £££ on some rares.
-
-I have a collection of my own and I enjoy looking at all the cards, especially the cards that aren't worth much. The lines, the colours, the details, the creativity. I'd be more likely to buy up all the cheap cards based on the art or my fave Pokémon than spending £££ on some rares.

@@ -62,6 +62,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Clifford** - the big red dog? (If you're one of _those_ people who think it's a dog)
 * **Cameroon** - their national soccer team are known as the Indomitable Lions
 * **Lion King**
+* **Dragon Kitty**
 
 ### C-Tier
 

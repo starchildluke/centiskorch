@@ -60,6 +60,7 @@ With all that said, let's look at those Walking Wake nicknames!
 * **Eva** - short for evaporation
 * **El Tatio** - named after a Chilean geyser
 * **Mudpot**
+* **Steam Kitty**
 
 ### C-Tier
 
@@ -68,5 +69,6 @@ With all that said, let's look at those Walking Wake nicknames!
 * **Aegir**
 * **Hydro**
 * **Geyser**
+* **BoiledKettle**
 
 Do you have a favourite Walking Wake nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -350,13 +350,6 @@ declare module 'astro:content' {
   collection: "logs";
   data: InferEntrySchema<"logs">
 } & { render(): Render[".mdx"] };
-"trainers-log.md": {
-	id: "trainers-log.md";
-  slug: "trainers-log";
-  body: string;
-  collection: "logs";
-  data: InferEntrySchema<"logs">
-} & { render(): Render[".md"] };
 };
 "misc": {
 "cool-links.mdx": {
@@ -511,6 +504,13 @@ declare module 'astro:content' {
 "snorlax.md": {
 	id: "snorlax.md";
   slug: "snorlax";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
+"stoutland.md": {
+	id: "stoutland.md";
+  slug: "stoutland";
   body: string;
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">

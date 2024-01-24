@@ -57,6 +57,7 @@ With all that said, let's look at those Deoxys nicknames!
 * **Iron Man** - crystal-like organ in its chest? Check. Flew out of the Earth? Check. Kinda menacing if you're on its bad side? Check. Multiple forms? Check. Constantly battling \*something\*? Check.
 * **Moon-Watcher** - from 2001: A Space Odyssey
 * **Jupiter**
+* **Samus**
 
 ### B-Tier
 

@@ -74,6 +74,15 @@ With all that said, let's look at those Deoxys nicknames!
 * **Brainiac**
 * **Doomsday**
 * **Prometheus**
+* **Spaghetti** - because of the arms
+* **Linguine** - as above
+* **SpaceNoodles** - as above
+* **Bigoli** - as above
+* **Bucatini** - as above
+* **Ziti** - as above
+* **Spätzle** - as above
+* **Ramen** - as above
+* **Udon** - as above
 
 ### C-Tier
 

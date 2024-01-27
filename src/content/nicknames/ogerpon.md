@@ -2,7 +2,7 @@
 title: "Ogerpon nicknames"
 description: "A list of Ogerpon nicknames, their origins, and why I think they're cool."
 pubDate: "26 Sep 2023"
-pokedexNumber: '1011'
+pokedexNumber: '1017'
 ---
 
 Ogerpon was Legendary Pokémon introduced in Generation 9 with a Grass typing that has a ton of inspiration for nicknames owing to its different forms.

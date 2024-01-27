@@ -47,6 +47,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Queen Pede** - based on the character from the Atari classic, Centipede
 * **Soot** - based on the Alpha Centipede from Nintendo game, Centipede: Infestation
 * **Scoot** - I dunno, it just fits.
+* **Colgera**
 
 ### B-Tier
 

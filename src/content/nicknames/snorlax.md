@@ -34,6 +34,7 @@ With all that said, let's look at those Snorlax nicknames!
 
 * **Wimpy**
 * **Totoro**
+* **Breadbelt** - inspired by a YouTuber called Osirus in [his LeafGreen Nuzlocke](https://www.youtube.com/watch?v=men_EOoYM5g)
 
 ### A-Tier
 

@@ -1,11 +1,41 @@
 [
     {
+        "url": "/blog/prediction-pokemon-day-2024/",
+        "link_data": [
+            {
+                "prev": "/blog/2023-suckers-2024-dragons/",
+                "title": "2023 WAS FOR SUCKERS 2024 IS FOR DRAGONS",
+                "date": "2024-01-31"
+            }
+        ]
+    },
+    {
+        "url": "/blog/2023-suckers-2024-dragons/",
+        "link_data": [
+            {
+                "prev": "/blog/quick-thoughts-pokemon-cards/",
+                "title": "Quick thoughts on Pok\u00e9mon cards",
+                "date": "2024-01-18"
+            },
+            {
+                "next": "/blog/prediction-pokemon-day-2024/",
+                "title": "A prediction for Pok\u00e9mon Day 2024",
+                "date": "2024-02-01"
+            }
+        ]
+    },
+    {
         "url": "/blog/quick-thoughts-pokemon-cards/",
         "link_data": [
             {
                 "prev": "/blog/how-i-caught-lunala-moon-ball/",
                 "title": "How I spent 10,000 Pok\u00e9dollars to catch a Lunala in a Moon Ball",
                 "date": "2024-01-02"
+            },
+            {
+                "next": "/blog/2023-suckers-2024-dragons/",
+                "title": "2023 WAS FOR SUCKERS 2024 IS FOR DRAGONS",
+                "date": "2024-01-31"
             }
         ]
     },

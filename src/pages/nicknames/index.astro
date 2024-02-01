@@ -5,12 +5,9 @@ import LeftSidebar from '../../components/LeftSidebar.astro';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Dropdown from '../../components/Dropdown.astro';
+import ThemeDropdown from '../../components/ThemeDropdown.astro';
 const title = "Pokémon nicknames";
 const description = "A collection of Pokémon nickname ideas.";
-
-const posts = (await getCollection('nicknames')).sort(
-	(a, b) => a.data.pokedexNumber.valueOf() - b.data.pokedexNumber.valueOf()
-);
 ---
 
 <Layout title={title} description={description}/>
@@ -22,6 +19,7 @@ const posts = (await getCollection('nicknames')).sort(
 				<p>The index is ordered by Pokédex number and will cover mostly final evolutions where applicable. That means any nicknames you see for fully-evolved Pokémon can apply for their unevolved forms too.</p>
 			<h2 class="headings">Nickname page list</h2>
 				<Dropdown />
+				<ThemeDropdown />
 			<h2 class="headings">Nicknames FAQ</h2>
 				<p><strong>Why should you nickname your Pokémon?</strong></p>
 				<p>Nicknaming by default didn't start for me until Sword and Shield and, after replaying all the games and doing Nuzlockes, I got into the habit of nicknaming.</p>

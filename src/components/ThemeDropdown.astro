@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+
+const themePosts = await getCollection('nicknames', ({ data }) => {
+  return data.theme;
+});
+---
+
+<form id="themeNicknamePageForm" style="margin-bottom:1rem;">
+  <label for="pages">Or select a theme:</label>
+  <select id="themePages" name="pages">
+  	{themePosts.map((post) => (
+  		<option value={`/nicknames/${post.slug}/`}>
+        {post.data.title.replace(" nicknames","")}
+      </option>
+      ))}
+  </select>
+
+  <input type="submit" value="Go to page">
+</form>
+
+<script type="text/javascript">
+  document.getElementById('themeNicknamePageForm').onsubmit = function() {
+     let selectedPage = document.getElementById('themePages').value;
+     window.location.href = selectedPage;
+     return false; // prevent the default form submission
+  };
+</script>

@@ -1,17 +1,21 @@
 ---
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('nicknames')).sort(
-	(a, b) => a.data.pokedexNumber.valueOf() - b.data.pokedexNumber.valueOf()
+const posts = await getCollection('nicknames', ({ data }) => {
+  return data.pokedexNumber;
+});
+
+const allPosts = posts.sort(
+	(a, b) => a.data.pokedexNumber?.valueOf() - b.data.pokedexNumber?.valueOf()
 );
 ---
 
 <form id="nicknamePageForm" style="margin-bottom:1rem;">
   <label for="pages">Select a nickname page:</label>
   <select id="pages" name="pages">
-  	{posts.map((post) => (
+  	{allPosts.map((post) => (
   		<option value={`/nicknames/${post.slug}/`}>
-        #{post.data.pokedexNumber} - {post.data.title.replace(" nicknames","")}
+        #{post.data?.pokedexNumber} - {post.data.title.replace(" nicknames","")}
       </option>
       ))}
   </select>

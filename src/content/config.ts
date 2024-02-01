@@ -32,7 +32,8 @@ const nicknames = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
-		pokedexNumber: z.string(),
+		theme: z.string().optional(),
+		pokedexNumber: z.string().optional(),
 		lcpSrc: z.string().optional(),
 		lcpMediaAs: z.string().optional(),
 		lcpMediaType: z.string().optional(),

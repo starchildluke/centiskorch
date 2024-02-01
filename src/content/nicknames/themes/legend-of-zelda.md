@@ -3,6 +3,9 @@ title: "The Legend of Zelda nicknames"
 theme: "The Legend of Zelda"
 description: "A list of nicknames inspired by The Legend of Zelda that I think would work well with Pokémon."
 pubDate: "01 Feb 2024"
+lcpSrc: "/images/zelda1850.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/jpg"
 ---
 
 The Legend of Zelda is an action-adventure franchise published by Nintendo. Because of its proximity to Pokémon both in certain stylistic features and both helping Nintendo assert its dominance in the video games market, it makes sense to look at the franchise for some nickname inspiration.

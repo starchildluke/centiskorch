@@ -33,5 +33,57 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Nereid** - Lugia, Suicune, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask)
 * **Neptune** - Lugia, Suicune, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
 * **Boreas** - Tornadus, Drifblim, Pidgeot, Ninetales (Alolan), Regice, Abomasnow, Beartic, Kyurem, Avalugg, Baxcalibur, Chien-Pao
+* **Alex** - Suicune, Ogerpon (Wellspring Mask)
+* **Babi** - Gengar, Cacturne, Banette, Giratina
+* **Dodonpa** - Honchkrow, Farfetch'd (Kantonian), Liepard, Thievul
+* **Hama** - Gothitelle, Gardevoir, Articuno (Galarian), Espeon, Slowking (Galarian), Uxie, Mespirit, Azelf, Cresselia, Musharna, Delphox, Meowstic, Iron Valiant
+* **Hammet** - Gholdengo
+* **Kraden** - Oranguru, Slowking
+* **Menardi** - Salazzle, Delphox, Blacephalon, Armarouge, Ogerpon (Hearthflame Mask)
+* **Saturos** - Ceruledge, Chandelure
+* **The Wise One** - Unown, Solrock, Golem
+* **Tret** - Trevenant, Sudowoodo, Exeggutor (Alolan), Tropius, Arboliva
+* **Laurel** - Trevenant, Sudowoodo, Exeggutor (Alolan), Tropius, Arboliva
+* **Isaac and all Venus Djinn** - any Ground-type
+* **Garet and all Fire Djinn** - any Fire-type
+* **Ivan and all Jupiter Djinn** - any Electric or Flying-type
+* **Mia and all Mercury Djinn** - any Water or Ice-type
+* **Amaze** - Froslass, Vanilluxe, Cursola, Darmanitan (Galarian)
+* **Ant Lion, Roach, and Doodle Bug** - Durant, Trapinch, Drapion, Rabsca, Orbeetle
+* **Ape** - Annihilape, Oranguru, Passimian, Ambipom, Infernape, Darmanitan, Rillaboom, Zarude, Simipour/Simisear/Simisage
+* **Bat** - Crobat, Noivern, Lunala, Swoobat, Gliscor
+* **Chimera** - Silvally
+* **Cuttle, Calamar, Man o' War, and Aqua Jelly** - Tentacruel, Nihilego, Jellicent, Malamar
+
+### Golden Sun: the Lost Age (2002)
+
+* **Agatio** - Ceruledge
+* **Karst** - Ogerpon (Hearthflame Mask)
+* **Briggs** - Dhelmise, Milotic
+* **Hydros** - Suicune, Milotic
+* **Moapa** - Xatu, Sigilpyh
+* **Puelle** - Grimmsnarl, Xatu, Lilligant, Hawlucha, Flapple, Dragapult, Basculegion (Male), Scovillain, Hydrapple
+* **Felix** - any Ground-type
+* **Jenna** - any Fire-type
+* **Sheba** - any Electric or Flying-type
+* **Piers** - any Water or Ice-type
+
+### Golden Sun: Dark Dawn (2010)
+
+* **Blados** - Ceruledge
+* **Chalis** - Clefable, Wigglytuff, Blissey, Milotic, Oricorio (Pa'u Style), Lurantis, Hatterene, Tinkaton, Scream Tail, Alcremie
+* **King Wo** - Wo-Chien
+* **Nowell** - Suicune, Ogerpon (Wellspring Mask)
+* **Vande** - Lycanroc, Zacian, Zamazenta, Mightyena, Absol
+* **Volechek** - Gogoat, Dubwool, Ampharos, Iron Crown, Cobalion, Iron Leaves, Virizion, Calyrex
+* **Matthew** - any Ground-type
+* **Tyrell** - any Fire-type
+* **Karis** - any Electric or Flying-type
+* **Rief** - any Water or Ice-type
+* **Himi** - any Ground-type
+* **Eoleo** - any Fire-type
+* **Sveta** - any Electric or Flying-type
+* **Amiti** - any Water or Ice-type
+
 
 Do you have any Golden Sun themed nickname suggestions? Then head over to the contact me link on the left and email me your ideas!

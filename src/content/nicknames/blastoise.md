@@ -46,6 +46,8 @@ With all that said, let's look at those Blastoise nicknames!
 * **Busta**
 * **Heavy B**
 * **Rainer**
+* **CharginChuck**
+* **King Koopa**
 
 ### B-Tier
 

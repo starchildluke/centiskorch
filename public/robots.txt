@@ -1,5 +1,7 @@
 User-agent: *
-Allow: /
+Disallow: /nicknames/?pages=*
+
+
 
 User-Agent: ChatGPT-User
 Disallow: /

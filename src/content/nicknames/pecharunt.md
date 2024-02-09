@@ -19,6 +19,8 @@ Pecharunt was introduced in Generation 9 with a Poison/Ghost typing and as the t
 
 Let's look at some info on Pecharunt and suggested nicknames.
 
+Note: You can't nickname your Pecharunt "Dokutaro", which was its codename. Not sure why this is but keep that in mind!
+
 ## Origins
 
 Pecharunt is a small purple Pokémon that looks like a piece of mochi. In its shell, it has two ear-like protusions on the top and a small point at the bottom. There is a small black circle in the middle of its face with two white crescent-shaped markings, which look like eyes. When opened, we see the Pokémon inside which looks more like a dark purple radish. It has a long "ponytail" with a pink coloured end, a white band-like mark across its forehead, two blobs for eyebrows, white eyes and a bowtie-shaped mouth. And two little pink hands. You can also see the inside of the shell segments which are light pink.

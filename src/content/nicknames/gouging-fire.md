@@ -16,7 +16,7 @@ Let's look at some info on Gouging Fire and suggested nicknames.
 
 ## Origins
 
-Gouging Fire is a dinosaur-like, hybrid Pokémon with canine and feline features that measures 3.5m in height and weighs 590.0kg. It has brown fur, like Entei, with three green spike lines on its back legs, cream fur on its chest, and five grey spikes on its back. There are black cuffs around its ankles and it has a predominately yellow crest on its head, with green and red in the centre. Honestly, look up Entei and just add more colour, fur, and prehistoric features.
+Gouging Fire is a dinosaur-like, hybrid Pokémon with both canine and feline features. It has brown fur, like Entei, with three green spike lines on its back legs, cream fur on its chest, and five grey spikes on its back. There are black cuffs around its ankles and it has a predominately yellow crest on its head, with green and red in the centre. Honestly, look up Entei and just add more colour, fur, and prehistoric features.
 
 Gouging Fire is said to be an ancient Pokémon that is related to Entei but also could be an ancient _version_ of Entei from an alternate timeline. We still don't know which is true.
 
@@ -45,6 +45,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Sekhmet** - a solar deity from Ancient Egypt with the head of a lionness and a sun disk on her head
 * **Sinhala** - a Sanskrit word, meaning "of lions"
 * **GougingTiger** - (Hidden Dragon, courtesy of my partner <3)
+* **Lynel** - from [The Legend of Zelda franchise](/nicknames/themes/legend-of-zelda/)
 
 ### B-Tier
 

@@ -23,14 +23,36 @@ const allNames = await getCollection('nicknames', ({slug}) => {
 	return slug.includes(query);
 });
 
-const allPages = [].concat(allBlogs, allFaves, allLogs, allMisc, allNames)
-
 ---
 
 <ul class="pokeball-icons">
-	{allPages.map((post) => (
+	{allBlogs.map((post) => (
 		<li>
 			<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+		</li>
+		))
+	}
+	{allFaves.map((post) => (
+		<li>
+			<a href={`/favourites/${post.slug}/`}>{post.data.title}</a>
+		</li>
+		))
+	}
+	{allLogs.map((post) => (
+		<li>
+			<a href={`/logs/${post.slug}/`}>{post.data.title}</a>
+		</li>
+		))
+	}
+	{allMisc.map((post) => (
+		<li>
+			<a href={`/misc/${post.slug}/`}>{post.data.title}</a>
+		</li>
+		))
+	}
+	{allNames.map((post) => (
+		<li>
+			<a href={`/nicknames/${post.slug}/`}>{post.data.title}</a>
 		</li>
 		))
 	}

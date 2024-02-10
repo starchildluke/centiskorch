@@ -25,7 +25,7 @@ Finally, we have Politoed and I actually have a history with the big frog as I u
 	<img src="/images/sprites/gen1/snorlax_143_rby.png" alt="Snorlax" width="56px" height="56px"/>
 </div>
 
-Snorlax has defined metas in the past and it's a great choice for extreme bulk and attack. And let's not forget that wide movepool and it'll be interesting to see how it fares in SV.
+[Snorlax](/nicknames/snorlax/) has defined metas in the past and it's a great choice for extreme bulk and attack. And let's not forget that wide movepool and it'll be interesting to see how it fares in SV.
 
 ## 3. Sentret
 

@@ -24,16 +24,16 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Ramses** - Cofagrigus, Lucario, Umbreon, Espeon, Heliolisk, Sigilyph, Ampharos
 * **Cybele** - Kangaskhan, Lugia
 * **Judgment** - Arceus, Giratina, Gengar, Gyarados, Hoopa, Mewtwo, Dialga, Palkia
-* **Kirin** - Raikou, Suicune, Arcanine, Keldeo
+* **Kirin** - Raikou, Suicune, [Walking Wake](/nicknames/walking-wake/), Arcanine, Keldeo
 * **Tiamat** - Lugia
-* **Meteor** - Minior, Solrock, Lunatone, Deoxys, Clefable
+* **Meteor** - Minior, Solrock, Lunatone, [Deoxys](/nicknames/deoxys/), Clefable
 * **Atalanta** - Blissey, Enamorus, Florges, Froslass, Hatterene, Lilligant, Nidoqueen, Salazzle, Tsareena, Vespiquen, Gardevoir
 * **Procne** - Enamorus, Froslass, Hatterene, Lilligant, Tsareena, Vespiquen, Gardevoir, Diancie
-* **Thor** - Zapdos, Tinkaton, Raikou, Raging Bolt, Zekrom, Thundurus
-* **Nereid** - Lugia, Suicune, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask)
-* **Neptune** - Lugia, Suicune, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
+* **Thor** - Zapdos, Tinkaton, Raikou, [Raging Bolt](/nicknames/raging-bolt/), Zekrom, Thundurus
+* **Nereid** - Lugia, Suicune, Walking Wake, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask)
+* **Neptune** - Lugia, Suicune, Walking Wake, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
 * **Boreas** - Tornadus, Drifblim, Pidgeot, Ninetales (Alolan), Regice, Abomasnow, Beartic, Kyurem, Avalugg, Baxcalibur, Chien-Pao
-* **Alex** - Suicune, Ogerpon (Wellspring Mask)
+* **Alex** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
 * **Babi** - Gengar, Cacturne, Banette, Giratina
 * **Dodonpa** - Honchkrow, Farfetch'd (Kantonian), Liepard, Thievul
 * **Hama** - Gothitelle, Gardevoir, Articuno (Galarian), Espeon, Slowking (Galarian), Uxie, Mespirit, Azelf, Cresselia, Musharna, Delphox, Meowstic, Iron Valiant
@@ -60,7 +60,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Agatio** - Ceruledge
 * **Karst** - Ogerpon (Hearthflame Mask)
 * **Briggs** - Dhelmise, Milotic
-* **Hydros** - Suicune, Milotic
+* **Hydros** - Suicune, Walking Wake, Milotic
 * **Moapa** - Xatu, Sigilpyh
 * **Puelle** - Grimmsnarl, Xatu, Lilligant, Hawlucha, Flapple, Dragapult, Basculegion (Male), Scovillain, Hydrapple
 * **Felix** - any Ground-type
@@ -73,9 +73,9 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Blados** - Ceruledge
 * **Chalis** - Clefable, Wigglytuff, Blissey, Milotic, Oricorio (Pa'u Style), Lurantis, Hatterene, Tinkaton, Scream Tail, Alcremie
 * **King Wo** - Wo-Chien
-* **Nowell** - Suicune, Ogerpon (Wellspring Mask)
+* **Nowell** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
 * **Vande** - Lycanroc, Zacian, Zamazenta, Mightyena, Absol
-* **Volechek** - Gogoat, Dubwool, Ampharos, Iron Crown, Cobalion, Iron Leaves, Virizion, Calyrex
+* **Volechek** - Gogoat, Dubwool, Ampharos, [Iron Crown](/nicknames/iron-crown./), Cobalion, Iron Leaves, Virizion, Calyrex
 * **Matthew** - any Ground-type
 * **Tyrell** - any Fire-type
 * **Karis** - any Electric or Flying-type

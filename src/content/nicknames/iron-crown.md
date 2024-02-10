@@ -63,6 +63,7 @@ With all that said, let's look at those Annihilape nicknames!
 * **Nyala**
 * **Chamiroquai** - a terrible portmanteau of chamois + Jamiroquai
 * **Carobo** - kinda like caribou + robo?
+* **Volechek** - a character in [Golden Sun](/nicknames/themes/golden-sun/)
 
 ### C-Tier
 

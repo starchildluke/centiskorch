@@ -29,11 +29,11 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Armos** - Probopass, Bastiodon, Golurk
 * **Ghini** - Gengar, Mimikyu, Banette, Dusknoir, Mismagius, Froslass, Giratina
 * **Leever** - Palossand, Hippodown, Cradily, Maractus, Cacturne
-* **Lynel** - Pyroar, Palkia (Origin Forme), Solgaleo, [Gouging Fire](/nicknames/gouging-fire), Entei, Luxray
+* **Lynel** - Pyroar, Palkia (Origin Forme), Solgaleo, [Gouging Fire](/nicknames/gouging-fire/), Entei, Luxray
 * **Octorok** - Octillery, Grapploct
 * **Peahat** - Jumpluff, Florges, Eldegoss, Roserade, Vileplume, Cherrim, Comfey, Maractus
 * **River Zora/Zola** - Seaking, Overqwil, Basculegion, Elektross, Barraskewda
-* **Tektite** - Metagross, Araquanid, Ariados, Galvantula, Spidops
+* **Tektite** - Metagross, Araquanid, [Ariados](/nicknames/ariados/), Galvantula, Spidops
 * **Aquamentus** - Aurorus, Dragonite, Dialga, Giratina, Tropius, Meganium
 * **Dodongo** - Bastiodon
 * **Manhandla** - Metagross, Hydreigon, Guzzlord
@@ -50,7 +50,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Bago-Bago** - Relicanth
 * **Basilisk** - Dracovish, Kecleon, Heliolisk
 * **Bit** - Parasect, Magcargo
-* **Boon** - Butterfree, Beedrill, Venomoth, Yanmega, Beautifly, Dustox, Ninjask, Mothim, Frosmoth, Ribombee
+* **Boon** - Butterfree, Beedrill, Venomoth, Yanmega, [Beautifly](/nicknames/beautifly/), Dustox, Ninjask, Mothim, Frosmoth, Ribombee
 * **Bot** - Gastrodon, Stunfisk
 * **Daira** - Feraligatr, Krookodile, Garchomp
 * **Deeler** - Ledian, Volbeat, Illumise, Orbeetle, Parasect, Ariados, Metagross, Araquanid, Galvantula, Spidops

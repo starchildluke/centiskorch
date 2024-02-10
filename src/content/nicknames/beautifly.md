@@ -50,6 +50,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Joseph** - from Joseph and the Amazing Technicolor Dreamcoat, referencing its wings
 * **Bugaboo**
 * **Bug Eyed**
+* **Boon** - a character from [The Legend of Zelda](/nicknames/themes/legend-of-zelda/)
 
 ### C-Tier
 

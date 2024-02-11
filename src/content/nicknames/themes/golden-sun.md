@@ -67,6 +67,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Jenna** - any Fire-type
 * **Sheba** - any Electric or Flying-type
 * **Piers** - any Water or Ice-type
+* **Pyrodra** - [Hydrapple](/nicknames/hydrapple/), Hydreigon
 
 ### Golden Sun: Dark Dawn (2010)
 
@@ -75,7 +76,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **King Wo** - Wo-Chien
 * **Nowell** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
 * **Vande** - Lycanroc, Zacian, Zamazenta, Mightyena, Absol
-* **Volechek** - Gogoat, Dubwool, Ampharos, [Iron Crown](/nicknames/iron-crown./), Cobalion, Iron Leaves, Virizion, Calyrex
+* **Volechek** - Gogoat, Dubwool, Ampharos, [Iron Crown](/nicknames/iron-crown/), Cobalion, Iron Leaves, Virizion, Calyrex
 * **Matthew** - any Ground-type
 * **Tyrell** - any Fire-type
 * **Karis** - any Electric or Flying-type

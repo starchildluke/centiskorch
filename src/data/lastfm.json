@@ -73,39 +73,12 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/J+Dilla/_/Jay+Dee+28+-+Instrumental",
-        "name": "Jay Dee 28 - Instrumental",
+        "url": "https://www.last.fm/music/J+Dilla/_/Detroit+Madness+-+Instrumental",
+        "name": "Detroit Madness - Instrumental",
         "@attr": {
             "rank": "3"
         },
-        "playcount": "4"
-    },
-    {
-        "artist": {
-            "mbid": "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931",
-            "#text": "J Dilla"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "074250c1-b12a-4bed-a797-b2d6d482b43b",
-        "url": "https://www.last.fm/music/J+Dilla/_/Let%27s+Take+It+Back",
-        "name": "Let's Take It Back",
-        "@attr": {
-            "rank": "4"
-        },
-        "playcount": "4"
+        "playcount": "2"
     },
     {
         "artist": {
@@ -127,11 +100,38 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/J+Dilla/_/City+of+Boom+-+Instrumental",
-        "name": "City of Boom - Instrumental",
+        "url": "https://www.last.fm/music/J+Dilla/_/Jay+Dee+15+-+Instrumental",
+        "name": "Jay Dee 15 - Instrumental",
+        "@attr": {
+            "rank": "4"
+        },
+        "playcount": "2"
+    },
+    {
+        "artist": {
+            "mbid": "",
+            "#text": "J Dilla"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/J+Dilla/_/Jay+Dee+17+-+Instrumental",
+        "name": "Jay Dee 17 - Instrumental",
         "@attr": {
             "rank": "5"
         },
-        "playcount": "3"
+        "playcount": "2"
     }
 ]

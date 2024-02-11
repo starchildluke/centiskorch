@@ -355,7 +355,7 @@
         "Sprite": "/images/shinies/poke_capture_0125_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0125",
         "Species": "Electabuzz",
-        "Nickname": "Honey Monster / Lightyear",
+        "Nickname": "Honey Monster",
         "Method": "-",
         "Game Obtained": "-"
     },
@@ -725,6 +725,14 @@
         "Dex #": "#0225",
         "Species": "Delibird",
         "Nickname": "Guardian",
+        "Method": "-",
+        "Game Obtained": "-"
+    },
+    {
+        "Sprite": "/images/shinies/poke_capture_0229_000_md_n_00000000_f_r.webp",
+        "Dex #": "#0229",
+        "Species": "Houndoom",
+        "Nickname": "Dark Puppy",
         "Method": "-",
         "Game Obtained": "-"
     },
@@ -1222,7 +1230,7 @@
         "Species": "Excadrill",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "-"
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1230,7 +1238,7 @@
         "Species": "Timburr",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "-"
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1238,7 +1246,7 @@
         "Species": "Gurdurr",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "-"
+        "Game Obtained": "Pokémon Go"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1246,7 +1254,7 @@
         "Species": "Conkeldurr",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "-"
+        "Game Obtained": "Pokémon Violet and Go"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1263,6 +1271,14 @@
         "Nickname": "-",
         "Method": "-",
         "Game Obtained": "-"
+    },
+    {
+        "Sprite": "/images/shinies/",
+        "Dex #": "#0559",
+        "Species": "Scraggy",
+        "Nickname": "Green Girl",
+        "Method": "-",
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1823,6 +1839,14 @@
         "Nickname": "-",
         "Method": "-",
         "Game Obtained": "-"
+    },
+    {
+        "Sprite": "/images/shinies/",
+        "Dex #": "#0937",
+        "Species": "Ceruledge",
+        "Nickname": "Moonshine",
+        "Method": "-",
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/",

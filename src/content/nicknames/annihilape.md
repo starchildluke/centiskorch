@@ -49,6 +49,8 @@ With all that said, let's look at those Annihilape nicknames!
 * **Scathing Ape**
 * **Mojo Jojo**
 * **Grodd** - based on [Gorilla Grodd](https://en.wikipedia.org/wiki/Gorilla_Grodd)
+* **Bob N. Weave**
+* **Slugfest/Slugger**
 
 ### B-Tier
 
@@ -68,6 +70,14 @@ With all that said, let's look at those Annihilape nicknames!
 * **Brawler**
 * **Slugger**
 * **Knuckles**
+* **Fistfight**
+* **Calzaghe**
+* **Rocky/Balboa/Marciano**
+* **Nikolai**
+* **Klitschko**
+* **Bare Knuckle**
+* **Granite Chin**
+* **Main Event**
 
 ### C-Tier
 
@@ -82,5 +92,8 @@ With all that said, let's look at those Annihilape nicknames!
 * **Bruiser**
 * **Hooligan**
 * **Marmoset** - a species of monkey
+* **Champ**
+* **Heavyweight**
+* **Ringside**
 
 Do you have a favourite Annihilape nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

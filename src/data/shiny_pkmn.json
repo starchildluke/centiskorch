@@ -1362,6 +1362,14 @@
     },
     {
         "Sprite": "/images/shinies/",
+        "Dex #": "#0678",
+        "Species": "Meowstic",
+        "Nickname": "Swansea",
+        "Method": "-",
+        "Game Obtained": "Pokémon Violet"
+    },
+    {
+        "Sprite": "/images/shinies/",
         "Dex #": "#0691",
         "Species": "Dragalge",
         "Nickname": "-",

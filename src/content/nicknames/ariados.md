@@ -71,5 +71,14 @@ With all that said, let's look at those Ariados nicknames!
 * **Webber**(\*)
 * **Wallwalker**
 * **Tektite** - an enemy from [The Legend of Zelda](/nicknames/themes/legend-of-zelda)
+* **Eensy Weensy**
+* **Silk Road**
+
+### D-Tier
+
+* **Spinneret**
+* **Web Slinger**
+* **Hello Legs**
+* **WorldWideWeb**
 
 Do you have a favourite Ariados nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

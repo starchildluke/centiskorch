@@ -46,6 +46,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **MF DOOM** - because of the masks, and just remember all caps when you spell the 'Mon name
 * **Pebbles** - as Ogerpon is a girl and I couldn't name it Bam-Bam (the Flintstones character with the club), I went with Pebbles instead
 * **Girlboss**
+* **It's So Oger**
 
 ### B-Tier
 
@@ -70,6 +71,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Samus** - because Samus wears a mask and she's a girl, right?
 * **Masquerade** - <q cite="https://en.wikipedia.org/wiki/Masquerade_ball">a masquerade ball is an special kind of formal ball which many participants attend in costume wearing masks.</q>
 * **Meta** - after Meta Knight, the masked villain from the Kirby universe
+* **Olga Pond** - subtitles fail
 
 ### D-Tier
 

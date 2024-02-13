@@ -58,6 +58,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Barrier**
 * **Defender**
 * **Marvelous** - after the Marvelous Bridge in Unova
+* **Oi Palloy** - a play on Oi Pollio, a Scottish punk band from the 80s
 
 ### B-Tier
 

@@ -200,6 +200,14 @@
         "Game Obtained": "Pokémon Alpha Sapphire / Pokémon Go"
     },
     {
+        "Sprite": "/images/shinies/poke_capture_0073_000_mf_n_00000000_f_r.webp",
+        "Dex #": "#0073",
+        "Species": "Tentacruel",
+        "Nickname": "Tentadude",
+        "Method": "Mass Outbreak",
+        "Game Obtained": "Pokémon Violet"
+    },
+    {
         "Sprite": "/images/shinies/poke_capture_0075_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0075",
         "Species": "Graveler (Kantonian)",

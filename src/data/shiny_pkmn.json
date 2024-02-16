@@ -200,6 +200,14 @@
         "Game Obtained": "Pokémon Alpha Sapphire / Pokémon Go"
     },
     {
+        "Sprite": "/images/shinies/poke_capture_0073_000_mf_n_00000000_f_r.webp",
+        "Dex #": "#0073",
+        "Species": "Tentacruel",
+        "Nickname": "Tentadude",
+        "Method": "Mass Outbreak",
+        "Game Obtained": "Pokémon Violet"
+    },
+    {
         "Sprite": "/images/shinies/poke_capture_0075_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0075",
         "Species": "Graveler (Kantonian)",
@@ -270,6 +278,14 @@
         "Nickname": "Siren",
         "Method": "-",
         "Game Obtained": "-"
+    },
+    {
+        "Sprite": "/images/shinies/poke_capture_0089_001_mf_n_00000000_f_r.webp",
+        "Dex #": "#0089",
+        "Species": "Muk (Alolan)",
+        "Nickname": "Trashgirl",
+        "Method": "Shiny Sandwich",
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/poke_capture_0091_000_mf_n_00000000_f_r.webp",
@@ -355,7 +371,7 @@
         "Sprite": "/images/shinies/poke_capture_0125_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0125",
         "Species": "Electabuzz",
-        "Nickname": "Honey Monster",
+        "Nickname": "Honey Monster / Lightyear",
         "Method": "-",
         "Game Obtained": "-"
     },
@@ -729,14 +745,6 @@
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/poke_capture_0229_000_md_n_00000000_f_r.webp",
-        "Dex #": "#0229",
-        "Species": "Houndoom",
-        "Nickname": "Dark Puppy",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
         "Sprite": "/images/shinies/poke_capture_0230_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0230",
         "Species": "Kingdra",
@@ -757,8 +765,16 @@
         "Dex #": "#0233",
         "Species": "Porygon2",
         "Nickname": "Cyberduck",
-        "Method": "-",
-        "Game Obtained": "-"
+        "Method": "Community Day",
+        "Game Obtained": "Pokémon Go"
+    },
+    {
+        "Sprite": "/images/shinies/poke_capture_0237_000_mo_n_00000000_f_r.webp",
+        "Dex #": "#0237",
+        "Species": "Hitmontop",
+        "Nickname": "Solomon",
+        "Method": "Mass Outbreak (Evolved from Tyrogue)",
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/poke_capture_0242_000_fo_n_00000000_f_r.webp",
@@ -809,143 +825,127 @@
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0258",
-        "Species": "Mudkip",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0260_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0260",
         "Species": "Swampert",
         "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
+        "Method": "Community Day",
+        "Game Obtained": "Pokémon Go"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0261_000_mf_n_00000000_f_r.webp",
+        "Dex #": "#0261",
+        "Species": "Poochyena",
+        "Nickname": "Golden Pooch",
+        "Method": "Random Encounter",
+        "Game Obtained": "Pokémon Violet"
+    },
+    {
+        "Sprite": "/images/shinies/poke_capture_0262_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0262",
         "Species": "Mightyena",
-        "Nickname": "-",
+        "Nickname": "MickyBluEyes",
+        "Method": "Mass Outbreak",
+        "Game Obtained": "Pokémon Violet"
+    },
+    {
+        "Sprite": "/images/shinies/poke_capture_0270_000_mf_n_00000000_f_r.webp",
+        "Dex #": "#0270",
+        "Species": "Lotad",
+        "Nickname": "Partyman",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0272",
-        "Species": "Ludicolo",
-        "Nickname": "-",
+        "Sprite": "/images/shinies/poke_capture_0280_000_mf_n_00000000_f_r.webp",
+        "Dex #": "#0280",
+        "Species": "Ralts",
+        "Nickname": "Somersault",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0282",
-        "Species": "Gardevoir",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0285_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0285",
         "Species": "Shroomish",
-        "Nickname": "-",
+        "Nickname": "Maury",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0297_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0297",
         "Species": "Hariyama",
-        "Nickname": "-",
+        "Nickname": "TransRights",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0308_000_fd_n_00000000_f_r.webp",
         "Dex #": "#0308",
         "Species": "Medicham",
-        "Nickname": "-",
+        "Nickname": "Woosah",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0317_000_fd_n_00000000_f_r.webp",
         "Dex #": "#0317",
         "Species": "Swalot",
-        "Nickname": "-",
+        "Nickname": "Juice",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0323_000_md_n_00000000_f_r.webp",
         "Dex #": "#0323",
         "Species": "Camerupt",
-        "Nickname": "-",
+        "Nickname": "Bedrock",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0324",
-        "Species": "Torkoal",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0325_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0325",
         "Species": "Spoink",
-        "Nickname": "-",
+        "Nickname": "Puh-Earl",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0326",
-        "Species": "Grumpig",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0328",
-        "Species": "Trapinch",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0329",
-        "Species": "Vibrava",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0330_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0330",
         "Species": "Flygon",
-        "Nickname": "-",
+        "Nickname": "Terracotta",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0333_000_mf_n_00000000_f_r.webp",
+        "Dex #": "#0333",
+        "Species": "Swablu",
+        "Nickname": "The Cloud",
+        "Method": "-",
+        "Game Obtained": "-"
+    },
+    {
+        "Sprite": "/images/shinies/poke_capture_0334_000_mf_n_00000000_f_r.webp",
+        "Dex #": "#0334",
+        "Species": "Altaria",
+        "Nickname": "Goldeldegook",
+        "Method": "-",
+        "Game Obtained": "-"
+    },
+    {
+        "Sprite": "/images/shinies/poke_capture_0336_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0336",
         "Species": "Seviper",
-        "Nickname": "-",
+        "Nickname": "Zygarde 1%",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0350_000_fd_n_00000000_f_r.webp",
         "Dex #": "#0350",
         "Species": "Milotic",
         "Nickname": "-",
@@ -953,31 +953,23 @@
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0353_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0353",
         "Species": "Shuppet",
-        "Nickname": "-",
+        "Nickname": "Cardi",
         "Method": "-",
         "Game Obtained": "-"
     },
     {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0354",
-        "Species": "Banette",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0371_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0371",
         "Species": "Bagon",
-        "Nickname": "-",
+        "Nickname": "Huo",
         "Method": "Gift",
         "Game Obtained": "Pokémon Black"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0372_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0372",
         "Species": "Shelgon",
         "Nickname": "Charlotte",
@@ -985,7 +977,7 @@
         "Game Obtained": "Pokémon Violet"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0373_000_mf_n_00000000_f_r.webp",
         "Dex #": "#0373",
         "Species": "Salamence",
         "Nickname": "Rap Scallion",
@@ -993,7 +985,7 @@
         "Game Obtained": "Pokémon Violet"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0376_000_uk_n_00000000_f_r.webp",
         "Dex #": "#0376",
         "Species": "Metagross",
         "Nickname": "-",
@@ -1001,7 +993,7 @@
         "Game Obtained": "Pokémon Alpha Sapphire"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0384_000_uk_n_00000000_f_r.webp",
         "Dex #": "#0384",
         "Species": "Rayquaza",
         "Nickname": "-",
@@ -1009,7 +1001,7 @@
         "Game Obtained": "Pokémon Alpha Sapphire"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0385_000_uk_n_00000000_f_r.webp",
         "Dex #": "#0385",
         "Species": "Jirachi",
         "Nickname": "-",
@@ -1017,7 +1009,7 @@
         "Game Obtained": "Pokémon Alpha Sapphire"
     },
     {
-        "Sprite": "/images/shinies/",
+        "Sprite": "/images/shinies/poke_capture_0386_002_uk_n_00000000_f_r.webp",
         "Dex #": "#0386",
         "Species": "Deoxys",
         "Nickname": "CosmicBOOM",
@@ -1212,7 +1204,7 @@
         "Sprite": "/images/shinies/",
         "Dex #": "#0500",
         "Species": "Emboar",
-        "Nickname": "-",
+        "Nickname": "Pilot Light",
         "Method": "-",
         "Game Obtained": "-"
     },
@@ -1230,7 +1222,7 @@
         "Species": "Excadrill",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "Pokémon Violet"
+        "Game Obtained": "-"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1238,7 +1230,7 @@
         "Species": "Timburr",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "Pokémon Violet"
+        "Game Obtained": "-"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1246,7 +1238,7 @@
         "Species": "Gurdurr",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "Pokémon Go"
+        "Game Obtained": "-"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1254,7 +1246,7 @@
         "Species": "Conkeldurr",
         "Nickname": "-",
         "Method": "-",
-        "Game Obtained": "Pokémon Violet and Go"
+        "Game Obtained": "-"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1271,14 +1263,6 @@
         "Nickname": "-",
         "Method": "-",
         "Game Obtained": "-"
-    },
-    {
-        "Sprite": "/images/shinies/",
-        "Dex #": "#0559",
-        "Species": "Scraggy",
-        "Nickname": "Green Girl",
-        "Method": "-",
-        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/",
@@ -1362,10 +1346,18 @@
     },
     {
         "Sprite": "/images/shinies/",
+        "Dex #": "#0677",
+        "Species": "Espurr",
+        "Nickname": "AngelDelight",
+        "Method": "Random Encounter",
+        "Game Obtained": "Pokémon Violet"
+    },
+    {
+        "Sprite": "/images/shinies/",
         "Dex #": "#0678",
         "Species": "Meowstic",
         "Nickname": "Swansea",
-        "Method": "-",
+        "Method": "Random Encounter",
         "Game Obtained": "Pokémon Violet"
     },
     {
@@ -1842,18 +1834,18 @@
     },
     {
         "Sprite": "/images/shinies/",
-        "Dex #": "#0934",
-        "Species": "Garganacl",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
+        "Dex #": "#0932",
+        "Species": "Nacli",
+        "Nickname": "Butter Knob",
+        "Method": "Mass Outbreak",
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/",
-        "Dex #": "#0937",
-        "Species": "Ceruledge",
-        "Nickname": "Moonshine",
-        "Method": "-",
+        "Dex #": "#0934",
+        "Species": "Garganacl",
+        "Nickname": "Birmingham",
+        "Method": "Mass Outbreak",
         "Game Obtained": "Pokémon Violet"
     },
     {
@@ -1908,9 +1900,9 @@
         "Sprite": "/images/shinies/",
         "Dex #": "#0950",
         "Species": "Klawf",
-        "Nickname": "-",
-        "Method": "-",
-        "Game Obtained": "-"
+        "Nickname": "KlawfRichard",
+        "Method": "Shiny Sandwich",
+        "Game Obtained": "Pokémon Violet"
     },
     {
         "Sprite": "/images/shinies/",

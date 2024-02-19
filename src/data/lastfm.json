@@ -72,11 +72,38 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
+        "mbid": "9e961922-f3da-45fd-8ffa-2ecc05fff46c",
+        "url": "https://www.last.fm/music/Justice/_/Generator",
+        "name": "Generator",
+        "@attr": {
+            "rank": "3"
+        },
+        "playcount": "3"
+    },
+    {
+        "artist": {
+            "mbid": "",
+            "#text": "Justice"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
         "mbid": "01492e36-f10e-48ca-8d5c-4aa120da646b",
         "url": "https://www.last.fm/music/Justice/_/Genesis",
         "name": "Genesis",
         "@attr": {
-            "rank": "3"
+            "rank": "4"
         },
         "playcount": "3"
     },
@@ -102,33 +129,6 @@
         "mbid": "",
         "url": "https://www.last.fm/music/Justice/_/One+Night%2FAll+Night",
         "name": "One Night/All Night",
-        "@attr": {
-            "rank": "4"
-        },
-        "playcount": "3"
-    },
-    {
-        "artist": {
-            "mbid": "c23b637b-97c6-41eb-8ef6-6c724efc80a8",
-            "#text": "Zero 7"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Zero+7/_/Shadows+(feat.+Lou+Stone)",
-        "name": "Shadows (feat. Lou Stone)",
         "@attr": {
             "rank": "5"
         },

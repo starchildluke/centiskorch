@@ -73,6 +73,8 @@ With all that said, let's look at those Ariados nicknames!
 * **Tektite** - an enemy from [The Legend of Zelda](/nicknames/themes/legend-of-zelda)
 * **Eensy Weensy**
 * **Silk Road**
+* **Seamstress**
+* **Tangled**
 
 ### D-Tier
 
@@ -80,5 +82,6 @@ With all that said, let's look at those Ariados nicknames!
 * **Web Slinger**
 * **Hello Legs**
 * **WorldWideWeb**
+* **Strung Up**
 
 Do you have a favourite Ariados nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

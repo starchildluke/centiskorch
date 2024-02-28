@@ -48,8 +48,6 @@ With all that said, let's look at those Terapagos nicknames!
 ### A-Tier
 
 * **Pax** - so GPT-3.5 suggested "Carapax" (which happens to be a DC supervillain) but I didn't think it quite fit so I shortened it to Pax.
-* **Shelley** - take a wild guess. Also my partner's name
-* **Sprinklelight** - My partner's online nickname
 
 ### B-Tier
 

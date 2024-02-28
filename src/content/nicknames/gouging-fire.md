@@ -44,7 +44,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Lionhearth**
 * **Sekhmet** - a solar deity from Ancient Egypt with the head of a lionness and a sun disk on her head
 * **Sinhala** - a Sanskrit word, meaning "of lions"
-* **GougingTiger** - (Hidden Dragon, courtesy of my partner <3)
+* **GougingTiger** - (Hidden Dragon)
 * **Lynel** - from [The Legend of Zelda franchise](/nicknames/themes/legend-of-zelda/)
 
 ### B-Tier

@@ -29,7 +29,7 @@ Finally, we have Politoed and I actually have a history with the big frog as I u
 
 ## 3. Sentret
 
-Now, this was a joke I had with my partner. Sentret, for all intents and purposes, sucks in VGC. It was a Little Cup Pokémon but it sucked there too. But I thought: what if I tried it anyway? And so I theorycrafted a team:
+Sentret, for all intents and purposes, sucks in VGC. Even in Little Cup it sucks. But I thought: what if I tried it anyway? And so I theorycrafted a team:
 
 **Sentret @ Focus Sash  
 Ability: Frisk  

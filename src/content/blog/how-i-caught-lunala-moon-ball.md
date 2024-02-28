@@ -54,5 +54,3 @@ I named it Spectra, after the Spectral bat, one of the largest bat species in wo
 </div>
 
 I'm excited to use Lunala when they allow Restricted Pokémon in VGC. It's a bit of a beast.
-
-And a shout out to my partner who encouraged me to keep going ❤️

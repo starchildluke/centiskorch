@@ -60,7 +60,7 @@ With all that said, let's look at those Kingdra nicknames!
 * **Delf** - related to a shade of blue taken from Dutch ceramics
 * **Majesty*** - because it's a king!
 * **Tyrant***
-* **DeepBlueSea*** - named after one of my partner's favourite films
+* **DeepBlueSea**
 * **Tidal***
 
 ### C-Tier

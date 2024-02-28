@@ -32,7 +32,7 @@ With all that said, let's look at those Ferrothorn nicknames!
 
 ### S-Tier
 
-* **Hawn** - after Goldie Hawn and because my partner picked it so it has to go in S-Tier
+* **Hawn** - after Goldie Hawn
 * **Tripod** - with three sturdy legs (arms?), it just makes sense
 
 ### A-Tier

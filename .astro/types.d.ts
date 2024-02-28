@@ -515,6 +515,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
+"themes/ice-type.md": {
+	id: "themes/ice-type.md";
+  slug: "themes/ice-type";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
 "themes/legend-of-zelda.md": {
 	id: "themes/legend-of-zelda.md";
   slug: "themes/legend-of-zelda";

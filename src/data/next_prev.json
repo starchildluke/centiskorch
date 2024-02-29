@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/my-pokemon-day-2024/",
+        "link_data": [
+            {
+                "prev": "/blog/prediction-pokemon-day-2024/",
+                "title": "A prediction for Pok\u00e9mon Day 2024",
+                "date": "2024-02-01"
+            }
+        ]
+    },
+    {
         "url": "/blog/prediction-pokemon-day-2024/",
         "link_data": [
             {
                 "prev": "/blog/2023-suckers-2024-dragons/",
                 "title": "2023 WAS FOR SUCKERS 2024 IS FOR DRAGONS",
                 "date": "2024-01-31"
+            },
+            {
+                "next": "/blog/my-pokemon-day-2024/",
+                "title": "My Pok\u00e9mon Day 2024",
+                "date": "2024-02-29"
             }
         ]
     },

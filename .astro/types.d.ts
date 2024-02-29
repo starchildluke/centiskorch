@@ -178,6 +178,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"my-pokemon-day-2024.mdx": {
+	id: "my-pokemon-day-2024.mdx";
+  slug: "my-pokemon-day-2024";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".mdx"] };
 "pokemon-excited-reg-e.md": {
 	id: "pokemon-excited-reg-e.md";
   slug: "pokemon-excited-reg-e";

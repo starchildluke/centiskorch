@@ -1,5 +1,5 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import LayoutWithLCP from '../layouts/LayoutWithLCP.astro';
 import Footer from '../components/Footer.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
 import type { CollectionEntry } from 'astro:content';
@@ -10,10 +10,9 @@ import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate } = Astro.props;
+const { title, description, pubDate, updatedDate, ogimage, imgtype } = Astro.props;
 ---
-
-<Layout title={title} description={description} />
+<LayoutWithLCP title={title} description={description} lcpSrc={ogimage} lcpMediaAs="image" lcpMediaType={imgtype} />
 <div class="container">
 	<div class="flex-content">
 		<main class="box">

@@ -131,9 +131,9 @@ article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center;
 
 .currently-playing p { margin-top: 0; }
 
-.float-left-img { float: left; padding: 1rem; }
+.float-left-img { float: left; padding-right: 1rem; }
 
-.float-right-img { float: right; padding: 1rem; }
+.float-right-img { float: right; padding-left: 1rem; }
 
 /* CLASSES */
 

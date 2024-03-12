@@ -23,6 +23,7 @@ Here is a collection of handy links for every generation and some general resour
 * [Sun/Moon Sprite Project](https://www.smogon.com/forums/threads/sun-moon-sprite-project.3577711/) - these have been used on my Pokémon teams page
 * [Photopea](https://www.photopea.com/) - for those who like to edit sprites or make cool Pokémon graphics and can't afford Adobe Photoshop CC
 * [PokéSprite](https://msikma.github.io/pokesprite/index.html)
+* [SVG Flag Icons](https://nucleoapp.com/svg-flag-icons) - for those who want to represent their home country, or any for that matter
 
 ## R/B/Y
 * [Pokémon Red/Blue speedrunning guide](https://www.speedrun.com/pkmnredblue/resources)

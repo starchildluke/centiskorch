@@ -1,11 +1,26 @@
 [
     {
+        "url": "/blog/miraidon-pokemon-motorbike/",
+        "link_data": [
+            {
+                "prev": "/blog/my-pokemon-day-2024/",
+                "title": "My Pok\u00e9mon Day 2024",
+                "date": "2024-02-29"
+            }
+        ]
+    },
+    {
         "url": "/blog/my-pokemon-day-2024/",
         "link_data": [
             {
                 "prev": "/blog/prediction-pokemon-day-2024/",
                 "title": "A prediction for Pok\u00e9mon Day 2024",
                 "date": "2024-02-01"
+            },
+            {
+                "next": "/blog/miraidon-pokemon-motorbike/",
+                "title": "Toyota made a Miraidon motorcycle",
+                "date": "2024-03-12"
             }
         ]
     },

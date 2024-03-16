@@ -2,7 +2,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Justice"
+            "#text": "Air"
         },
         "image": [
             {
@@ -18,9 +18,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "b9ac53c5-61e7-42ec-b8ca-c2acfd66a4df",
-        "url": "https://www.last.fm/music/Justice/_/Generator",
-        "name": "Generator",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Air/_/All+I+Need+(feat.+Beth+Hirsch)",
+        "name": "All I Need (feat. Beth Hirsch)",
         "@attr": {
             "rank": "1"
         },
@@ -29,7 +29,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Justice"
+            "#text": "Air"
         },
         "image": [
             {
@@ -46,8 +46,8 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/Justice/_/One+Night%2FAll+Night",
-        "name": "One Night/All Night",
+        "url": "https://www.last.fm/music/Air/_/Ce+matin-l%C3%A0+-+From+%22L%27uomo+in+pi%C3%B9%22",
+        "name": "Ce matin-l\u00e0 - From \"L'uomo in pi\u00f9\"",
         "@attr": {
             "rank": "2"
         },
@@ -56,7 +56,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Lambchop"
+            "#text": "Air"
         },
         "image": [
             {
@@ -72,9 +72,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Lambchop/_/Up+With+People+-+Zero7+Remix",
-        "name": "Up With People - Zero7 Remix",
+        "mbid": "cf2392da-8a5d-4fe5-8294-a2ef2a64d622",
+        "url": "https://www.last.fm/music/Air/_/Kelly+Watch+the+Stars",
+        "name": "Kelly Watch the Stars",
         "@attr": {
             "rank": "3"
         },
@@ -83,7 +83,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Lambchop"
+            "#text": "Air"
         },
         "image": [
             {
@@ -99,9 +99,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Lambchop/_/Up+With+People+-+Zero7+Reprise+Remix",
-        "name": "Up With People - Zero7 Reprise Remix",
+        "mbid": "0e397897-b6bc-45e9-9479-f712ab07604b",
+        "url": "https://www.last.fm/music/Air/_/Le+Voyage+de+P%C3%A9n%C3%A9lope",
+        "name": "Le Voyage de P\u00e9n\u00e9lope",
         "@attr": {
             "rank": "4"
         },
@@ -110,7 +110,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Seal"
+            "#text": "Air"
         },
         "image": [
             {
@@ -126,9 +126,9 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Seal/_/Colour+-+Acoustic",
-        "name": "Colour - Acoustic",
+        "mbid": "f0d99529-8d33-4430-8ceb-d5ffd8050fcf",
+        "url": "https://www.last.fm/music/Air/_/New+Star+in+the+Sky",
+        "name": "New Star in the Sky",
         "@attr": {
             "rank": "5"
         },

@@ -8,7 +8,9 @@ Firstly, happy new year!
 
 Ever since Game Freak made it easier to catch Pokémon in pretty much any Poké Ball, I've tried to match the ball's colours/themes with the Pokémon itself. This comes in handy when the Pokémon is red/orange/yellow, already in my Pokédex, and I have Repeat Balls. But for legendaries (outside of Tera Raids where the catch rate is 100% on all balls), it's a little trickier.
 
-My latest attempt was at catching Lunala in a Moon Ball. A purple ball would have worked just fine but the only purple Poké Ball is a Master Ball which would have felt like a waste when I didn't _need_ to use it. So the next best option was a Moon Ball. I quickly looked up the odds of catching it in a Moon Ball while in the red and asleep and found that there was about a 6–7% chance per throw. Not great but not the worst. My problem? **I only had three of them.**
+My latest attempt was at catching Lunala in a Moon Ball (because aesthetic). If you're wondering where Lunala is located in Pokémon Violet, it's on the west coast of Paldea, north of Porto Marinada at the edge of a cliff ([this YouTube video by astephen68 should help you find the precise location](https://www.youtube.com/watch?v=K5hFqMuk1Xk)). You'll need to complete 10 BBQ's before talking to Snacksworth and he will tell you a story of how he saw Lunala when he was younger.
+
+After I'd done all that, I quickly looked up the odds of catching it in a Moon Ball while in the red and asleep and found that there was about a 6–7% chance per throw. Lunala's regular catch rate is 3 (or 1.567% with a Poké Ball at full health) so better but not great. My problem? **I only had three Moon Balls.**
 
 I already had Pokémon ready to bring it into the red and put it to sleep:
 
@@ -53,4 +55,6 @@ I named it Spectra, after the Spectral bat, one of the largest bat species in wo
 	<img src="/images/me-lunala-pose-2.jpeg" alt="my character in Pokémon Violet, posing with Lunala who is asleep" width="630px" loading="lazy"/>
 </div>
 
-I'm excited to use Lunala when they allow Restricted Pokémon in VGC. It's a bit of a beast.
+So, to those asking if the Moon Ball is the best ball for Lunala, I say... hell yeah! I'm also excited to use Lunala when they allow Restricted Pokémon in VGC. It's a bit of a beast.
+
+If you're struggling to find Lunala

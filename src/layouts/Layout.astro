@@ -1,7 +1,6 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 
 interface Props {
 	title: string;
@@ -13,7 +12,7 @@ const { title, description, canonicalURL = Astro.url } = Astro.props;
 ---
 
 <html lang="en" id="top">
-	<BaseHead title={title} description={description} canonicalURL={Astro.url} />
+	<BaseHead title={title} description={description} canonicalURL={canonicalURL} />
 	<body>
 	<Header />
 		<slot />

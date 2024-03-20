@@ -70,7 +70,7 @@ With all that said, let's look at those Ariados nicknames!
 * **Weaver**(\*)
 * **Webber**(\*)
 * **Wallwalker**
-* **Tektite** - an enemy from [The Legend of Zelda](/nicknames/themes/legend-of-zelda)
+* **Tektite** - an enemy from [The Legend of Zelda](/nicknames/themes/legend-of-zelda/)
 * **Eensy Weensy**
 * **Silk Road**
 * **Seamstress**

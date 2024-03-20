@@ -3,7 +3,6 @@ import Footer from '../components/Footer.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
 import BaseHeadWithLCP from '../components/BaseHeadWithLCP.astro';
 import Header from '../components/Header.astro';
-import type { CollectionEntry } from 'astro:content';
 
 const {
 	title,
@@ -38,7 +37,7 @@ const {
 
 
 <html lang="en" id="top">
-	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={Astro.url} />
+	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={canonicalURL} />
 	<body>
 		<Header />
 			<div class="container">

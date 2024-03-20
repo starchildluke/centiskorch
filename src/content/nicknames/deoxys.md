@@ -83,7 +83,7 @@ With all that said, let's look at those Deoxys nicknames!
 * **Spätzle** - as above
 * **Ramen** - as above
 * **Udon** - as above
-* **Meteor** - space themed and a Summon from [Golden Sun](/nicknames/themes/golden-sun)
+* **Meteor** - space themed and a Summon from [Golden Sun](/nicknames/themes/golden-sun/)
 
 ### C-Tier
 

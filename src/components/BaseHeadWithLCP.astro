@@ -10,7 +10,7 @@ const {
   canonicalURL = Astro.url
 } = Astro.props;
 
-const blogRssFeed = `${site}/feed/blog.xml`;
+const blogRssFeed = site + "/rss.xml";
 ---
 <head>
 <meta charset="UTF-8" />
@@ -31,4 +31,5 @@ const blogRssFeed = `${site}/feed/blog.xml`;
 <meta property="og:url" content={canonicalURL}>
 <meta property="og:image" content={site + lcpSrc}>
 <link rel="canonical" href={canonicalURL} />
+<link rel="alternate" type="application/rss+xml" title="Subscribe to the centiskor.ch blog!" href={blogRssFeed} />
 </head>

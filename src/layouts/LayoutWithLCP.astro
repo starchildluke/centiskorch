@@ -1,7 +1,6 @@
 ---
 import BaseHeadWithLCP from '../components/BaseHeadWithLCP.astro';
 import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 
 interface Props {
 	title: string;
@@ -16,7 +15,7 @@ const { title, description, lcpMediaAs, lcpSrc, lcpMediaType, canonicalURL = Ast
 ---
 
 <html lang="en" id="top">
-	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={Astro.url} />
+	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={canonicalURL} />
 	<body>
 	<Header />
 		<slot />

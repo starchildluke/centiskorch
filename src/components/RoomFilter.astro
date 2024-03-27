@@ -23,9 +23,11 @@ const allNames = await getCollection('nicknames', ({slug}) => {
 	return slug.includes(query);
 });
 
+const combinedColl = allBlogs.concat(allFaves, allLogs, allMisc, allNames);
+
 ---
 
-<ul class="pokeball-icons">
+{combinedColl.length > 0 ? <ul class="pokeball-icons">
 	{allBlogs.map((post) => (
 		<li>
 			<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
@@ -56,4 +58,4 @@ const allNames = await getCollection('nicknames', ({slug}) => {
 		</li>
 		))
 	}
-</ul>
+</ul> : "Coming soon!"}

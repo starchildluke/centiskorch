@@ -573,6 +573,13 @@ declare module 'astro:content' {
   collection: "rooms";
   data: any
 } & { render(): Render[".mdx"] };
+"dragon-quest.mdx": {
+	id: "dragon-quest.mdx";
+  slug: "dragon-quest";
+  body: string;
+  collection: "rooms";
+  data: any
+} & { render(): Render[".mdx"] };
 "glitches.mdx": {
 	id: "glitches.mdx";
   slug: "glitches";

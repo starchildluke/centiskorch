@@ -4,6 +4,17 @@ import Flags from '../components/Flags.astro';
 let year = new Date().getFullYear();
 ---
 
+<style>
+	
+	.footer-buttons {
+		display: flex;
+		gap: 0.5rem;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+</style>
+
 <footer class="box">
 	<nav>
 		<a href="/">home</a> | <a href="/about/">about</a> | <a href="/blog/">blog</a> <a href="/rss.xml">[rss feed]</a> | <a href="/html-sitemap/">sitemap</a> | <a href="#top">Back to top</a>
@@ -24,7 +35,7 @@ let year = new Date().getFullYear();
 
 	<Flags />
 
-	<div>
+	<div class="footer-buttons">
 		<img src="/images/pepsi.gif" alt="this site best viewed with pepsi" width="100px" height="31px" loading="lazy"/>
 		<img src="/images/gifs/ab-white.gif" alt="best viewed with any browser" width="88px" height="31px" loading="lazy"/>
 		<img src="/images/gifs/free-palestine-88x31.gif" alt="a grey button with the palestine flag and the words 'free palestine' next to it" width="88px" height="31px" loading="lazy"/>
@@ -32,6 +43,9 @@ let year = new Date().getFullYear();
 		<img src="/images/gifs/madeonamac.gif" alt="a grey button that says 'made on a Mac'" width="88px" height="31px" loading="lazy"/>
 		<img src="/images/gifs/antinft_002.gif" alt="a grey button that says 'This is an anti-NFT site'" width="88px" height="31px" loading="lazy"/>
 		<img src="/images/gba_now.png" alt="a grey button with a GBA on it and the words 'gba now' next to it" width="88px" height="31px" loading="lazy"/>
+		<img src="/images/gifs/Area51_Nebula_7492_jamnow.gif" alt="a grey button with the Jamiroquai logo flashing black and white" width="88px" height="31px" loading="lazy"/>
+		<img src="/images/gifs/Athens_Aegean_8479_Links_tucows.gif" alt="a grey button with a blakc and white cow, green grass, and the word TUCOWS at the top" width="88px" height="31px" loading="lazy"/>
+		<img src="/images/gifs/baja_dunes_2918_lycos.gif" alt="a button showing the Lycos logo from the 90s" width="88px" height="31px" loading="lazy"/>
 	</div>
 
 	<img src="/images/substitutes.gif" alt="a web badge with a purple background and white speckles. the text overlay says 'partying like it\'s 1999" width="92px" height="20px" loading="lazy"/>

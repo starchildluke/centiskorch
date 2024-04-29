@@ -14,19 +14,19 @@ const allPosts = posts.sort(
   <label for="pages">Select a nickname page:</label>
   <select id="pages" name="pages">
   	{allPosts.map((post) => (
-  		<option value={`/nicknames/${post.slug}/`}>
+  		<option value={`/nicknames/${post.slug}/`} id="nicknameOption">
         #{post.data?.pokedexNumber} - {post.data.title.replace(" nicknames","")}
       </option>
       ))}
   </select>
-
   <input type="submit" value="Go to page">
 </form>
 
 <script type="text/javascript">
-  document.getElementById('nicknamePageForm').onsubmit = function() {
-     let selectedPage = document.getElementById('pages').value;
-     window.location.href = selectedPage;
-     return false; // prevent the default form submission
-  };
+  const form = document.querySelector('#nicknamePageForm');
+  form.addEventListener('submit', function(e) {
+    const selectedPage = document.querySelector('#pages').value;
+    window.location.href = selectedPage;
+    e.preventDefault();
+});
 </script>

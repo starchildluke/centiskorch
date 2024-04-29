@@ -20,9 +20,10 @@ const themePosts = await getCollection('nicknames', ({ data }) => {
 </form>
 
 <script type="text/javascript">
-  document.getElementById('themeNicknamePageForm').onsubmit = function() {
-     let selectedPage = document.getElementById('themePages').value;
-     window.location.href = selectedPage;
-     return false; // prevent the default form submission
-  };
+  const themeForm = document.querySelector('#themeNicknamePageForm');
+  themeForm.addEventListener('submit', function(e) {
+    const selectedThemePage = document.querySelector('#themePages').value;
+    window.location.href = selectedThemePage;
+    e.preventDefault();
+});
 </script>

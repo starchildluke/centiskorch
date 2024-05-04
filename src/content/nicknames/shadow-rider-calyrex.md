@@ -9,7 +9,7 @@ lcpMediaType: 'image/jpeg'
 ---
 
 <div class="img-center">
-	<img src="/images/shadow-rider-calyrex.jpg" width="250px" height="250px" alt="">
+	<img src="/images/shadow-rider-calyrex.jpg" width="250px" height="250px" alt="a lepus-like bipedal Pokémon on top of a black horse with a flowing purple mane">
 </div>
 
 Shadow Rider Calyrex was introduced in Generation 8 with a Psychic/Ghost typing so there's plenty of inspiration for nicknames.

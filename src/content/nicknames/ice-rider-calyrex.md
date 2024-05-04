@@ -9,7 +9,7 @@ lcpMediaType: 'image/jpeg'
 ---
 
 <div class="img-center">
-	<img src="/images/ice-rider-calyrex.jpg" width="250px" height="250px" alt="">
+	<img src="/images/ice-rider-calyrex.jpg" width="250px" height="250px" alt="a lepus-like bipedal Pokémon on top of a white horse with an icy crown">
 </div>
 
 Ice Rider Calyrex was introduced in Generation 8 with a Psychic/Ice typing so there's plenty of inspiration for nicknames.
@@ -20,7 +20,7 @@ Let's look at some info on Ice Rider Calyrex and suggested nicknames.
 
 ## Origins
 
-Ice Rider Calyrex is the combination of Calyrex, a lepus-like bipedal Pokémon, and Glastrier, a white horse with a flowing green mane. The crown-like piece on Calyrex's head <q cite="https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon)">glows bright green when it is using its powers</q>.
+Ice Rider Calyrex is the combination of Calyrex, a lepus-like bipedal Pokémon, and Glastrier, a white horse with an icy crown. The crown-like piece on Calyrex's head <q cite="https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon)">glows bright green when it is using its powers</q>.
 
 With Glastrier, Ice Rider Calyrex can ride for seven days and nights thanks to its boosted endurance and emit temperatures as low as −500°F (−300°C or -26.85K).
 
@@ -52,7 +52,7 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **Frostbite**
 * **Piñata**
 * **Cold Reaper**
-* **Icey**
+* **Icy Wind**
 * **Icepick**
 * **Coldheart**
 * **Freezer**

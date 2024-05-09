@@ -8,13 +8,13 @@ Sometimes you want Tailwind for speed control and sometimes you want Trick Room.
 
 I've listed them below and will update it with levels and methods of learning both moves when I get a chance.
 
-## Arceus
-## Lunala
-## Mew
-## Comfey
-## Siglyph
-## Whimsicott
-## Natu/Xatu
-## Woobat/Swoobat
-## Galarian Articuno
-## Drifloon/Drifblim
+* Arceus
+* Lunala
+* Mew
+* Comfey
+* Siglyph
+* Whimsicott
+* Natu/Xatu
+* Woobat/Swoobat
+* Galarian Articuno
+* Drifloon/Drifblim

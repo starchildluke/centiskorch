@@ -35,6 +35,7 @@ With all that said, let's look at those Blastoise nicknames!
 * **Torrent**
 * **Karabajio**
 * **Flo**
+* **Rent's Dew**
 
 ### A-Tier
 
@@ -56,7 +57,6 @@ With all that said, let's look at those Blastoise nicknames!
 * **Marina**
 * **Shelby**
 * **Wade**
-* **Rent's Dew**
 * **Geyser**
 * **Tank**
 * **Gabagool**

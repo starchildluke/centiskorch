@@ -3,7 +3,7 @@ title: 'Quaquaval nicknames'
 description: "A list of Quaquaval nicknames, their origins, and why I think they're cool."
 pubDate: '30 May 2024'
 pokedexNumber: '0914'
-lcpSrc: '/images/quaquaval.jepg'
+lcpSrc: '/images/quaquaval.jpeg'
 lcpMediaAs: 'image'
 lcpMediaType: 'image/jpeg'
 ---

@@ -2,7 +2,7 @@
     {
         "artist": {
             "mbid": "",
-            "#text": "Justice"
+            "#text": "j\u00fcle."
         },
         "image": [
             {
@@ -19,17 +19,71 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/Justice/_/Afterimage",
-        "name": "Afterimage",
+        "url": "https://www.last.fm/music/j%C3%BCle./_/Full+Bloom",
+        "name": "Full Bloom",
         "@attr": {
             "rank": "1"
         },
-        "playcount": "7"
+        "playcount": "5"
     },
     {
         "artist": {
-            "mbid": "",
-            "#text": "Justice"
+            "mbid": "edc0f73d-6290-4d11-ae34-6b447f850162",
+            "#text": "JJ DOOM"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "bf766a98-f06a-4729-bea3-f0cd61025c76",
+        "url": "https://www.last.fm/music/JJ+DOOM/_/The+Signs",
+        "name": "The Signs",
+        "@attr": {
+            "rank": "2"
+        },
+        "playcount": "4"
+    },
+    {
+        "artist": {
+            "mbid": "fc49a977-2f78-423e-8b98-8207bf86e5d1",
+            "#text": "Nana Adjoa"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            }
+        ],
+        "mbid": "6f15275d-7c17-4713-bd71-0d6e0ad3699b",
+        "url": "https://www.last.fm/music/Nana+Adjoa/_/Throw+Stones",
+        "name": "Throw Stones",
+        "@attr": {
+            "rank": "3"
+        },
+        "playcount": "4"
+    },
+    {
+        "artist": {
+            "mbid": "4ec66727-d51f-4317-b7c8-b07fc0b30eca",
+            "#text": "Shuko"
         },
         "image": [
             {
@@ -46,71 +100,17 @@
             }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/Justice/_/Saturnine",
-        "name": "Saturnine",
-        "@attr": {
-            "rank": "2"
-        },
-        "playcount": "6"
-    },
-    {
-        "artist": {
-            "mbid": "",
-            "#text": "Justice"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "f3c027d7-b43c-4043-8f36-fcab873dce41",
-        "url": "https://www.last.fm/music/Justice/_/Dear+Alan",
-        "name": "Dear Alan",
-        "@attr": {
-            "rank": "3"
-        },
-        "playcount": "5"
-    },
-    {
-        "artist": {
-            "mbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
-            "#text": "Khruangbin"
-        },
-        "image": [
-            {
-                "size": "small",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "medium",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            },
-            {
-                "size": "large",
-                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-            }
-        ],
-        "mbid": "92069963-5364-4886-834c-b46470595b35",
-        "url": "https://www.last.fm/music/Khruangbin/_/Todav%C3%ADa+Viva",
-        "name": "Todav\u00eda Viva",
+        "url": "https://www.last.fm/music/Shuko/_/Jazzterfield+2",
+        "name": "Jazzterfield 2",
         "@attr": {
             "rank": "4"
         },
-        "playcount": "5"
+        "playcount": "4"
     },
     {
         "artist": {
             "mbid": "",
-            "#text": "Justice"
+            "#text": "veggi"
         },
         "image": [
             {
@@ -126,12 +126,12 @@
                 "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
             }
         ],
-        "mbid": "34da8521-4047-4815-b82b-7456de18120d",
-        "url": "https://www.last.fm/music/Justice/_/Incognito",
-        "name": "Incognito",
+        "mbid": "",
+        "url": "https://www.last.fm/music/veggi/_/THINKING",
+        "name": "THINKING",
         "@attr": {
             "rank": "5"
         },
-        "playcount": "4"
+        "playcount": "3"
     }
 ]

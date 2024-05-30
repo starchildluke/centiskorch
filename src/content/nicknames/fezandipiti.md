@@ -11,7 +11,7 @@ lcpMediaType: 'image/webp'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/fezandipiti.webp" type="image/webp">
-		<img src="/images/fezandipiti.jpeg" width="250px" height="250px" alt="">
+		<img src="/images/fezandipiti.jpeg" width="250px" height="250px" alt="a bird-like Pokémon with a small head, long neck, and a short beak with a magenta tip. Its plumage is mostly black, with deep bronze highlights at the end of its feathers. Its crest is yellow with magenta feathers resembling elongated eyebrows">
 	</picture>
 </div>
 

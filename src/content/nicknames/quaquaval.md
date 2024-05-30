@@ -11,7 +11,7 @@ lcpMediaType: 'image/jpeg'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/quaquaval.webp" type="image/webp">
-		<img src="/images/quaquaval.jpg" width="250px" height="250px" alt="">
+		<img src="/images/quaquaval.jpg" width="250px" height="250px" alt="a humanoid Pokémon that resembles a duck and a carnival dancer. It has dark blue plumage with some light blue accents on its tail feathers, collar, and at the end of its forearms. It also has elongated red eyebrows and yellow feet with red bulbous tips on the ends of its toes.">
 	</picture>
 </div>
 

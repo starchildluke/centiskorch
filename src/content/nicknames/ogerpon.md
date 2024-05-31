@@ -13,7 +13,7 @@ Let's have a look at Ogerpon's origins and some of those nicknames.
 
 ## Origins
 
-Ogerpon is a green humanoid Pokémon with dark grey legs and two little leaves growing between its toes. In the DLC storyline, Ogerpon was said to live with a human centuries ago in Kitakami (where the Teal Mask DLC is based). Villagers shunned them due to their strange appearances but they blended in once they were wore masks, made by a local mask-maker. In fact, the masks made them famous but three greedy Pokémon called Okidogi, Munkidori, and Fezandipiti, stole them from Ogerpon in his cave and his human companion seemed to disappear in the aftermath. When Ogerpon returned, it attacked the trio and slayed them.
+Ogerpon is a green humanoid Pokémon with dark grey legs and two little leaves growing between its toes. In the DLC storyline, Ogerpon was said to live with a human centuries ago in Kitakami (where the Teal Mask DLC is based). Villagers shunned them due to their strange appearances but they blended in once they were wore masks, made by a local mask-maker. In fact, the masks made them famous but three greedy Pokémon called Okidogi, Munkidori, and [Fezandipiti](/nicknames/fezandipiti/), stole them from Ogerpon in his cave and his human companion seemed to disappear in the aftermath. When Ogerpon returned, it attacked the trio and slayed them.
 
 The villagers shunned Ogerpon once again, not knowing what had happened, and instead lionised the fallen three, naming them the "Loyal Three" and made a shrine for them. Ogerpon went back to its cave never to be seen my humans again (until you play the DLC of course). However, the Festival of Masks lived on and that's what drew Ogerpon out once again.
 

@@ -58,6 +58,10 @@ With all that said, let's look at those Metagross nicknames!
 * **Mondo**
 * **Behemoth** - via [Jeans on YouTube](https://www.youtube.com/watch?v=nuCZ_1x19jk)
 * **Petagross**
+* **Tektite** - this and the next 3 are from [Legend of Zelda](/nicknames/themes/legend-of-zelda/)
+* **Manhandla**
+* **Gohma**
+* **Deeler**
 
 ### C-Tier
 

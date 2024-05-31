@@ -51,7 +51,7 @@ With all that said, let's look at those Ferrothorn nicknames!
 * **Spike Lee** - after Spike Lee. Geddit?!
 * **Spike Jonze** - after Spike Jonze. Geddit?!
 * **Durian Gray** - a play on [Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray)
-* **Metamoss** - because it has a similar appearance to Metagross and moss references its Grass typing
+* **Metamoss** - because it has a similar appearance to [Metagross](/nicknames/metagross/) and moss references its Grass typing
 * **Plantír** - a play on "plant" and "palantír", an indestructible crystal ball from Lord of the Rings
 * **Disco** - after a disco ball
 * **Buckeye** - an alternative name for a horse chestnut and its shell is spiky

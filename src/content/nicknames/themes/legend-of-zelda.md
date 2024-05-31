@@ -33,13 +33,13 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Octorok** - Octillery, Grapploct
 * **Peahat** - Jumpluff, Florges, Eldegoss, Roserade, Vileplume, Cherrim, Comfey, Maractus
 * **River Zora/Zola** - Seaking, Overqwil, Basculegion, Elektross, Barraskewda
-* **Tektite** - Metagross, Araquanid, [Ariados](/nicknames/ariados/), Galvantula, Spidops
+* **Tektite** - [Metagross](/nicknames/metagross/), Araquanid, [Ariados](/nicknames/ariados/), Galvantula, Spidops
 * **Aquamentus** - Aurorus, Dragonite, Dialga, Giratina, Tropius, Meganium
 * **Dodongo** - Bastiodon
-* **Manhandla** - Metagross, Hydreigon, Guzzlord
+* **Manhandla** - [Metagross](/nicknames/metagross/), Hydreigon, Guzzlord
 * **Gleeok** - Hydreigon
 * **Digdogger** - Unown, Solrock
-* **Gohma** - Metagross, Araquanid, Ariados, Galvantula, Spidops
+* **Gohma** - [Metagross](/nicknames/metagross/), Araquanid, Ariados, Galvantula, Spidops
 
 ### The Adventure of Link (1987)
 
@@ -53,7 +53,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Boon** - Butterfree, Beedrill, Venomoth, Yanmega, [Beautifly](/nicknames/beautifly/), Dustox, Ninjask, Mothim, Frosmoth, Ribombee
 * **Bot** - Gastrodon, Stunfisk
 * **Daira** - Feraligatr, Krookodile, Garchomp
-* **Deeler** - Ledian, Volbeat, Illumise, Orbeetle, Parasect, Ariados, Metagross, Araquanid, Galvantula, Spidops
+* **Deeler** - Ledian, Volbeat, Illumise, Orbeetle, Parasect, Ariados, [Metagross](/nicknames/metagross/), Araquanid, Galvantula, Spidops
 * **Geldarm** - Centiskorch, Scolipede, Drapion
 * **Girubokku** - Electrode
 * **Goriya** - Obstagoon, Linoone, Furret, Lucario, Excadrill, Smeargle, Zangoose
@@ -69,6 +69,6 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Agahnim** - Oranguru, Gengar, Mismagius
 * **Catfish** - Whiscash, Dondozo
 * **Bully** - Rhyperior, Nidoking/Nidoqueen, Hitmontop, Rampardos, Heracross
-* **Duck** - Magmortar, Ludicolo, Farfetch’d, Sirfetch'd, Quaquaval, Porygon-Z, Cresselia, Golduck
+* **Duck** - Magmortar, Ludicolo, Farfetch’d, Sirfetch'd, [Quaquaval](/nicknames/quaquaval/), Porygon-Z, Cresselia, Golduck
 
 Do you have any Legend of Zelda themed nickname suggestions? Then head over to the contact me link on the left and email me your ideas!

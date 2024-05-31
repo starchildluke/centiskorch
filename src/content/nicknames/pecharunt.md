@@ -25,7 +25,7 @@ Note: You can't nickname your Pecharunt "Dokutaro", which was its codename. Not 
 
 Pecharunt is a small purple Pokémon that looks like a piece of mochi. In its shell, it has two ear-like protusions on the top and a small point at the bottom. There is a small black circle in the middle of its face with two white crescent-shaped markings, which look like eyes. When opened, we see the Pokémon inside which looks more like a dark purple radish. It has a long "ponytail" with a pink coloured end, a white band-like mark across its forehead, two blobs for eyebrows, white eyes and a bowtie-shaped mouth. And two little pink hands. You can also see the inside of the shell segments which are light pink.
 
-[According to Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pecharunt_(Pok%C3%A9mon)#Game_data), Pecharunt created the Loyal Three (Okidogi, Munkidori, and Fezandipiti) and transformed them using its toxic mochi. The toxic chains are a physical representation of their forced bond. Because of all this, it has a rivalry with Ogerpon as described in the main story of the The Teal Mask DLC.
+[According to Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pecharunt_(Pok%C3%A9mon)#Game_data), Pecharunt created the Loyal Three (Okidogi, Munkidori, and [Fezandipiti](/nicknames/fezandipiti/)) and transformed them using its toxic mochi. The toxic chains are a physical representation of their forced bond. Because of all this, it has a rivalry with Ogerpon as described in the main story of the The Teal Mask DLC.
 
 Name-wise, Pecharunt sounds like a combination of the Pecha Berry (itself based on a peach) and the word "runt". It's Japanese name also references [Momotarō](https://en.wikipedia.org/wiki/Momotar%C5%8D), a Japanese folklore hero known as "Peach Boy".
 

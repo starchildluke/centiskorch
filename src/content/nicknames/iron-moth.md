@@ -49,6 +49,7 @@ With all that said, let's look at those Iron Moth nicknames!
 * **Shiruku** - Japanese for silk, and moths love silk
 * **Bombyx** - part of a silk moth's Latin name
 * **Stardust** - because of its star shape
+* **Venom**
 
 ### C-Tier
 
@@ -57,5 +58,10 @@ With all that said, let's look at those Iron Moth nicknames!
 * **Frutterbee** - an interpolation of Butterfree
 * **Emberwing**(\*) - makes sense
 * **i love lamp** - [i love lamp!](https://www.youtube.com/watch?v=gId6nrMDmUU)
+* **Moth**
+* **Rustox** - because iron _rusts_ and it's a moth like Dustox?
+* **Rona** - like Corona or Volcarona?
+* **Masque**
+* **Masquerflame**
 
 Do you have a favourite Iron Moth nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

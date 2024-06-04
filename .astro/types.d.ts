@@ -157,6 +157,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
+"every-pokemon-is-someones-favorite.mdx": {
+	id: "every-pokemon-is-someones-favorite.mdx";
+  slug: "every-pokemon-is-someones-favorite";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".mdx"] };
 "how-i-caught-lunala-moon-ball.md": {
 	id: "how-i-caught-lunala-moon-ball.md";
   slug: "how-i-caught-lunala-moon-ball";

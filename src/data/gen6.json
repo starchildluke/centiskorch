@@ -1,0 +1,89 @@
+{
+   "favouritePokémon": [
+      {
+         "pokémon": "Chesnaught",
+         "sprite": "/images/sprites/gen6/652.png",
+         "reason": "Just a big himbo."
+      },
+      {
+         "pokémon": "Pyroar",
+         "sprite": "/images/sprites/gen6/668m.png",
+         "reason": "Look at that majestic mane. Gorgeous big kitty!"
+      },
+      {
+         "pokémon": "Gogoat",
+         "sprite": "/images/sprites/gen6/673.png",
+         "reason": "I like Gogoat's hidden ability, Grass Pelt. It's also one of those classic Big HP, Big Attack Pokémon which means it can last on the field and pack a punch when necessary"
+      },
+      {
+         "pokémon": "Pangoro",
+         "sprite": "/images/sprites/gen6/675.png",
+         "reason": "Pancham is Justin Tang's all-time fave and, as a Justin Tang fan, I'd be remiss if I didn't add the evolved form in this list. That aside, I do like Pangoro for it being a big, aggressive panda, and it was the first to learn Parting Shot before Incineroar and Grimmsnarl took all the limelight"
+      },
+      {
+         "pokémon": "Dragalge",
+         "sprite": "/images/sprites/gen6/691.png",
+         "reason": "I think it looks cool and reminds me of the leafy seadragons I saw at the Oceanário de Lisboa."
+      },
+      {
+         "pokémon": "Clawitzer",
+         "sprite": "/images/sprites/gen6/693.png",
+         "reason": "I spent a lot of time trying to get a shiny Clawitzer in Scarlet and Violet and I eventually got 3. It's red and I love it (I named it Olive Garden lol). I now use it in raids thanks to its awesome ability and its great Special Attack."
+      },
+      {
+         "pokémon": "Heliolisk",
+         "sprite": "/images/sprites/gen6/695.png",
+         "reason": "I'm using one in my X/Y run and it's a cool frilled lizard with some weird abilities. It gets Dry Skin which harms it in harsh sunlight (even though it needs the sun to generate electricity?), Sand Veil, which would require sand to be up but that would also lose it HP, and its Hidden Ability Solar Power which increases its Special Attack by 1.5x but at the expense of an eighth of its HP. Why do all of its abilities take its health away???"
+      },
+      {
+         "pokémon": "Sylveon",
+         "sprite": "/images/sprites/gen6/700.png",
+         "reason": "TRANS RIGHTS!"
+      },
+      {
+         "pokémon": "Dedenne",
+         "sprite": "/images/sprites/gen6/702.png",
+         "reason": "Cute little electric mouse Pikachu clone"
+      },
+      {
+         "pokémon": "Carbink",
+         "sprite": "/images/sprites/gen6/703.png",
+         "reason": "Solid as a rock. I used this in a draft and it was so clutch."
+      },
+      {
+         "pokémon": "Klefki",
+         "sprite": "/images/sprites/gen6/707.png",
+         "reason": "I love Klefki. I had it in an old team and thanks to its Prankster ability, dual screens, and moves like Metal Sound, it was an amazing utility Pokémon."
+      },
+      {
+         "pokémon": "Trevenant",
+         "sprite": "/images/sprites/gen6/709.png",
+         "reason": "Cool spooky tree with great stats and abilities"
+      },
+      {
+         "pokémon": "Gourgeist",
+         "sprite": "/images/sprites/gen6/711_1.png",
+         "reason": "My son loves Pumpkaboo (which he calls Poopy) and, as I was told recently, it has a cat face which is a winner for me"
+      },
+      {
+         "pokémon": "Noivern",
+         "sprite": "/images/sprites/gen6/715.png",
+         "reason": "I think Noivern is underrated, probably because it has 4x weakness to Ice and there are better Dragon types out there. But this one is a Dragon bat and it has decent stats."
+      },
+      {
+         "pokémon": "Yveltal",
+         "sprite": "/images/sprites/gen6/717.png",
+         "reason": "My favourite of the two Kalos legendaries. It's a huge red and black winged beast and it's bulky as heck. I remember struggling to get rid of it in SwSh VGC."
+      },
+      {
+         "pokémon": "Hoopa",
+         "sprite": "/images/sprites/gen6/720_1.png",
+         "reason": "A naughty Mythical which reminds me of NiGHTS and Sonic. It's basically a SEGA character in the Pokémon world."
+      },
+      {
+         "pokémon": "Volcanion",
+         "sprite": "/images/sprites/gen6/721.png",
+         "reason": "One of my favourite Mythicals. It's a dual Fire/Water type for a start, which is awesome. And its movepool is awesome."
+      }
+   ]
+}

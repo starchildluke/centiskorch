@@ -48,6 +48,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Soot** - based on the Alpha Centipede from Nintendo game, Centipede: Infestation
 * **Scoot** - I dunno, it just fits.
 * **Colgera**
+* **Therma**
 
 ### B-Tier
 

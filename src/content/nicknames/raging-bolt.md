@@ -43,6 +43,8 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **CultureShock**
 * **Bon Voltage**
 * **ProtecYaNeck** - [Watch your step, kid!](https://www.youtube.com/watch?v=1_-3Bh1VFI8)
+* **Abraham/Lincoln/AbrahamLncln**
+* **Furriosa**
 
 ### B-Tier
 
@@ -57,6 +59,8 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Neck&Neck**
 * **Breakneck**
 * **Pole Volt**
+* **Broomstick**
+* **Mona** - because fangs
 
 ### C-Tier
 
@@ -77,6 +81,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Baging Rolt** - something silly that a VGC player made (can't find the exact Poképaste, sorry!)
 * **ZZZap!**
 * **High Voltage**
+* **Tomcat**
 
 ### D-Tier
 

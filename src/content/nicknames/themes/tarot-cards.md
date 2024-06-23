@@ -39,8 +39,8 @@ My methodology for picking tarot themed nicknames is as follows:
 * **The Devil** - Gengar, Giratina
 * **The Tower** - Celesteela
 * **The Star** - Minior, Jirachi
-* **The Moon** - Lunala
-* **The Sun** - Solgaleo
+* **The Moon** - Lunala, Lugia, Lunatone
+* **The Sun** - Solgaleo, Ho-Oh, Solrock
 * **Judgement** - Arceus, Mewtwo, Zygarde
 * **The World** - Gastrodon, Kyurem, Arceus, Mewtwo, Zygarde
 

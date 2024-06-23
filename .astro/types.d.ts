@@ -592,6 +592,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
+"themes/tarot-cards.md": {
+	id: "themes/tarot-cards.md";
+  slug: "themes/tarot-cards";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".md"] };
 "walking-wake.md": {
 	id: "walking-wake.md";
   slug: "walking-wake";

@@ -135,6 +135,8 @@ article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center;
 
 .float-right-img { float: right; padding-left: 1rem; }
 
+.yt-embed { margin-bottom: 1rem; }
+
 /* CLASSES */
 
 @media only screen and (max-width: 800px) {

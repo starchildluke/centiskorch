@@ -7,7 +7,6 @@ pubDate: '29 Nov 2023'
 
 I thought I'd compile a list of my favourite Pokémon games. As I've not played every single main series game yet, I'll be updating this as I go. Here are the games I've not played/finished yet:
 
-* Pokémon X/Y
 * Pokémon Brilliant Diamond/Shining Pearl
 
 ## 1. Pokémon Gold/Silver
@@ -25,7 +24,8 @@ I thought I'd compile a list of my favourite Pokémon games. As I've not played 
 ## 13. Pokémon Ruby/Sapphire
 ## 14. Pokémon Black/White
 ## 15. Pokémon FireRed/LeafGreen
-## 16. Pokémon Platinum
-## 17. Pokémon Diamond/Pearl
-## 18. Pokémon Ultra Sun/Ultra Moon
-## 19. Pokémon Sun/Moon
+## 16. Pokémon X/Y
+## 17. Pokémon Platinum
+## 18. Pokémon Diamond/Pearl
+## 19. Pokémon Ultra Sun/Ultra Moon
+## 20. Pokémon Sun/Moon

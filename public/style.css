@@ -63,6 +63,8 @@ a:hover { text-decoration: none; }
 
 img[src$="gif"], img[src$="png"] { image-rendering: pixelated; }
 
+.no-pixel img { image-rendering: auto; }
+
 img, figure { max-width: 100%; height: auto;  }
 
 details p { margin-top:1rem; }

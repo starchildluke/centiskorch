@@ -34,6 +34,7 @@ With all that said, let's look at those Raichu nicknames!
 
 * **Static Shock**
 * **Apollo**
+* **Gingerbread**
 
 ### A-Tier
 
@@ -43,6 +44,10 @@ With all that said, let's look at those Raichu nicknames!
 * **Waffles**
 * **Pancake**
 * **Caramel**
+* **Haikili** - the Hawaiian god of thunder (thank, [DragoThomYT](https://www.youtube.com/channel/UCvF0uwaeGrtjcuX7XSkLuLw)!)
+* **Pikker** - Estonian god of lightning and it sounds like Pika!
+* **Gorochu**
+* **Crumble**
 
 ### B-Tier
 
@@ -60,6 +65,13 @@ With all that said, let's look at those Raichu nicknames!
 * **Macchiato**
 * **Coffee**
 * **Tofu**
+* **Set** - Egyptian god of thunder
+* **Śuri** - Etruscan god of thunder (you may need to use a regular S)
+* **Thor**
+* **Brown Sugar**
+* **Tiger**
+* **Basil**
+* **Cheddar**
 
 ### C-Tier
 
@@ -75,5 +87,10 @@ With all that said, let's look at those Raichu nicknames!
 * **Cookie**
 * **Beans**
 * **Cornflakes**
+* **Zeus**
+* **Orange Juice**
+* **kaminari**
+* **Blixt** - Swedish for lightning
+* **Carrot**
 
 Do you have a favourite Raichu nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

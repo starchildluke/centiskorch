@@ -87,9 +87,8 @@ With all that said, let's look at those Raichu nicknames!
 * **Cookie**
 * **Beans**
 * **Cornflakes**
-* **Zeus**
 * **Orange Juice**
-* **kaminari**
+* **Kaminari**
 * **Blixt** - Swedish for lightning
 * **Carrot**
 

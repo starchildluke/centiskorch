@@ -40,6 +40,7 @@ With all that said, let's look at those Ogerpon nicknames!
 
 * **Baby Spice/Ginger Spice/Scary Spice/Posh Spice/Sporty Spice** - I thought these would be good for a themed team and work with different masks (I know there were 5 people in the Spice Girls and 4 masks so you can be inventive)
 * **Poncho** - a genius name I found on Reddit so full credit to [PurplePo8to](https://www.reddit.com/r/PokemonScarletViolet/comments/16kz4vv/comment/k0zy61w/?utm_source=reddit&utm_medium=web2x&context=3)
+* **Polpo** - from the PS1 game, One Piece Mansion
 
 ### A-Tier
 

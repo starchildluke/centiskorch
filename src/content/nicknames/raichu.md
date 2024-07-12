@@ -48,6 +48,7 @@ With all that said, let's look at those Raichu nicknames!
 * **Pikker** - Estonian god of lightning and it sounds like Pika!
 * **Gorochu**
 * **Crumble**
+* **Soy Sauce**
 
 ### B-Tier
 

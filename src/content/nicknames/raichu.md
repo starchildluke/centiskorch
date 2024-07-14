@@ -35,6 +35,7 @@ With all that said, let's look at those Raichu nicknames!
 * **Static Shock**
 * **Apollo**
 * **Gingerbread**
+* **Nesquik** - shout out to [BXCDavid](https://www.youtube.com/@BXCDavid)
 
 ### A-Tier
 
@@ -44,7 +45,7 @@ With all that said, let's look at those Raichu nicknames!
 * **Waffles**
 * **Pancake**
 * **Caramel**
-* **Haikili** - the Hawaiian god of thunder (thank, [DragoThomYT](https://www.youtube.com/channel/UCvF0uwaeGrtjcuX7XSkLuLw)!)
+* **Haikili** - the Hawaiian god of thunder (thanks, [DragoThomYT](https://www.youtube.com/channel/UCvF0uwaeGrtjcuX7XSkLuLw)!)
 * **Pikker** - Estonian god of lightning and it sounds like Pika!
 * **Gorochu**
 * **Crumble**

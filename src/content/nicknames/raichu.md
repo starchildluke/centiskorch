@@ -50,6 +50,7 @@ With all that said, let's look at those Raichu nicknames!
 * **Gorochu**
 * **Crumble**
 * **Soy Sauce**
+* **Muffin**
 
 ### B-Tier
 
@@ -74,6 +75,7 @@ With all that said, let's look at those Raichu nicknames!
 * **Tiger**
 * **Basil**
 * **Cheddar**
+* **UFO 2** - based on the opponent from Pokéstar Studios as it is also a dual Psychic/Electric type (albeit the other way around)
 
 ### C-Tier
 
@@ -93,5 +95,7 @@ With all that said, let's look at those Raichu nicknames!
 * **Kaminari**
 * **Blixt** - Swedish for lightning
 * **Carrot**
+* **Sparkle**
+* **Squeak**
 
 Do you have a favourite Raichu nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

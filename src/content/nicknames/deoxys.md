@@ -58,6 +58,7 @@ With all that said, let's look at those Deoxys nicknames!
 * **Moon-Watcher** - from 2001: A Space Odyssey
 * **Jupiter**
 * **Samus**
+* **Armadillo** - for Defense Forme
 
 ### B-Tier
 

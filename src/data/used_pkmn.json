@@ -1,0 +1,5612 @@
+[
+  {
+    "name": "Venusaur",
+    "used": "Yes",
+    "games": [
+      "Pokémon Blue",
+      "Pokémon Let's Go: Eevee"
+    ],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Charizard",
+    "used": "Yes",
+    "games": [
+      "Pokémon Blue"
+    ],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Blastoise",
+    "used": "Yes",
+    "games": [
+      "Pokémon Blue",
+      "Pokémon Leaf Green"
+    ],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Butterfree",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Beedrill",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Pidgeot",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Raticate",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Fearow",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Arbok",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Raichu",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Sandslash",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Nidoqueen",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Nidoking",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Clefable",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Ninetales",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Wigglytuff",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Golbat",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Vileplume",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Parasect",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Venomoth",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Dugtrio",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Persian",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Golduck",
+    "used": "Yes",
+    "games": [
+      "Pokémon Ultra Sun"
+    ],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Primeape",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Arcanine",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Poliwrath",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Alakazam",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Machamp",
+    "used": "Yes",
+    "games": [
+      "Pokémon Sword"
+    ],
+    "hallOfFame": "Not Yet"
+  },
+  {
+    "name": "Victreebel",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Tentacruel",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Golem",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Rapidash",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Slowbro",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Magneton",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Farfetch'd",
+    "used": "Yes",
+    "games": [
+      "Pokémon Blue",
+      "Pokémon Leaf Green",
+      "Pokémon Sword"
+    ],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Dodrio",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Dewgong",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Muk",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Cloyster",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Gengar",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Onix",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Hypno",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Kingler",
+    "used": "Yes",
+    "games": [
+      "Pokémon Crystal"
+    ],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Electrode",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Exeggutor",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Marowak",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Hitmonlee",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Hitmonchan",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Lickitung",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Not Yet"
+  },
+  {
+    "name": "Weezing",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Rhydon",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Chansey",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Tangela",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Kangaskhan",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Seadra",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Seaking",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Starmie",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Mr. Mime",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Not Yet"
+  },
+  {
+    "name": "Scyther",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Jynx",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Not Yet"
+  },
+  {
+    "name": "Electabuzz",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Magmar",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Pinsir",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Tauros",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Gyarados",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Lapras",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Ditto",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Eevee",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Vaporeon",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Jolteon",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Flareon",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Porygon",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Omastar",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Kabutops",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Aerodactyl",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Snorlax",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Articuno",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Zapdos",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Moltres",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Dragonite",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Mewtwo",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Mew",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Not Yet"
+  },
+  {
+    "name": "Meganium",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Typhlosion",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Feraligatr",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Furret",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Noctowl",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Ledian",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Ariados",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Crobat",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Lanturn",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Togetic",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Xatu",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Ampharos",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Bellossom",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Azumarill",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Sudowoodo",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Politoed",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Jumpluff",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Aipom",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Sunflora",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Quagsire",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Espeon",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Umbreon",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Murkrow",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Slowking",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Misdreavus",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Unown",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Wobbuffet",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Girafarig",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Pineco",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Forretress",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Dunsparce",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Gligar",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Steelix",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Snubbull",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Granbull",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Qwilfish",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Scizor",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Shuckle",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Heracross",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Sneasel",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Teddiursa",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Ursaring",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Slugma",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Magcargo",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Swinub",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Piloswine",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Corsola",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Remoraid",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Octillery",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Delibird",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Mantine",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Skarmory",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Houndour",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Houndoom",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Kingdra",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Phanpy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Donphan",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Porygon2",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Stantler",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Smeargle",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Tyrogue",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hitmontop",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Smoochum",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Elekid",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Magby",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Miltank",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Blissey",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Raikou",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Entei",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Suicune",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Larvitar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pupitar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tyranitar",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Lugia",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "Yes"
+  },
+  {
+    "name": "Ho-Oh",
+    "used": "Yes",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Celebi",
+    "used": "No",
+    "games": [],
+    "hallOfFame": "No"
+  },
+  {
+    "name": "Treecko",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grovyle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sceptile",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Torchic",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Combusken",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Blaziken",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mudkip",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Marshtomp",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swampert",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Poochyena",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mightyena",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zigzagoon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Linoone",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wurmple",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Silcoon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Beautifly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cascoon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dustox",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lotad",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lombre",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ludicolo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Seedot",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Nuzleaf",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shiftry",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Taillow",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swellow",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wingull",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pelipper",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ralts",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kirlia",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gardevoir",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Surskit",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Masquerain",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shroomish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Breloom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Slakoth",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vigoroth",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Slaking",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Nincada",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ninjask",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shedinja",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Whismur",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Loudred",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Exploud",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Makuhita",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hariyama",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Azurill",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Nosepass",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Skitty",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Delcatty",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sableye",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mawile",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Aron",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lairon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Aggron",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Meditite",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Medicham",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Electrike",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Manectric",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Plusle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Minun",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Volbeat",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Illumise",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Roselia",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gulpin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swalot",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Carvanha",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sharpedo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wailmer",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wailord",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Numel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Camerupt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Torkoal",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spoink",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grumpig",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spinda",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Trapinch",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vibrava",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Flygon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cacnea",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cacturne",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swablu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Altaria",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zangoose",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Seviper",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lunatone",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Solrock",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Barboach",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Whiscash",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Corphish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Crawdaunt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Baltoy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Claydol",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lileep",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cradily",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Anorith",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Armaldo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Feebas",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Milotic",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Castform",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kecleon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shuppet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Banette",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Duskull",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dusclops",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tropius",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chimecho",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Absol",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wynaut",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Snorunt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Glalie",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spheal",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sealeo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Walrein",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Clamperl",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Huntail",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gorebyss",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Relicanth",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Luvdisc",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bagon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shelgon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Salamence",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Beldum",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Metang",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Metagross",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Regirock",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Regice",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Registeel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Latias",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Latios",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kyogre",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Groudon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rayquaza",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Jirachi",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Deoxys",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Turtwig",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grotle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Torterra",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chimchar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Monferno",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Infernape",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Piplup",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Prinplup",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Empoleon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Starly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Staravia",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Staraptor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bidoof",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bibarel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kricketot",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kricketune",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shinx",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Luxio",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Luxray",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Budew",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Roserade",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cranidos",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rampardos",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shieldon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bastiodon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Burmy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wormadam",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mothim",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Combee",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vespiquen",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pachirisu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Buizel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Floatzel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cherubi",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cherrim",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shellos",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gastrodon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ambipom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drifloon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drifblim",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Buneary",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lopunny",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mismagius",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Honchkrow",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Glameow",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Purugly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chingling",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Stunky",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Skuntank",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bronzor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bronzong",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bonsly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mime Jr.",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Happiny",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chatot",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spiritomb",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gible",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gabite",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Garchomp",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Munchlax",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Riolu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lucario",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hippopotas",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hippowdon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Skorupi",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drapion",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Croagunk",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Toxicroak",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Carnivine",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Finneon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lumineon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mantyke",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Snover",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Abomasnow",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Weavile",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Magnezone",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lickilicky",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rhyperior",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tangrowth",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Electivire",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Magmortar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Togekiss",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Yanmega",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Leafeon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Glaceon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gliscor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mamoswine",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Porygon-Z",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gallade",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Probopass",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dusknoir",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Froslass",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rotom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Uxie",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mesprit",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Azelf",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dialga",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Palkia",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Heatran",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Regigigas",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Giratina",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cresselia",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Phione",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Manaphy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Darkrai",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shaymin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Arceus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Victini",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Snivy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Servine",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Serperior",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tepig",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pignite",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Emboar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Oshawott",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dewott",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Samurott",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Patrat",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Watchog",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lillipup",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Herdier",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Stoutland",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Purrloin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Liepard",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pansage",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Simisage",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pansear",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Simisear",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Panpour",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Simipour",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Munna",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Musharna",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pidove",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tranquill",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Unfezant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Blitzle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zebstrika",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Roggenrola",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Boldore",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gigalith",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Woobat",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swoobat",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drilbur",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Excadrill",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Audino",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Timburr",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gurdurr",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Conkeldurr",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tympole",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Palpitoad",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Seismitoad",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Throh",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sawk",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sewaddle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swadloon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Leavanny",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Venipede",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Whirlipede",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Scolipede",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cottonee",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Whimsicott",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Petilil",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lilligant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Basculin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sandile",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Krokorok",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Krookodile",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Darumaka",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Darmanitan",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Maractus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dwebble",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Crustle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Scraggy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Scrafty",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sigilyph",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Yamask",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cofagrigus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tirtouga",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Carracosta",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Archen",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Archeops",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Trubbish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Garbodor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zorua",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zoroark",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Minccino",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cinccino",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gothita",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gothorita",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gothitelle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Solosis",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Duosion",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Reuniclus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ducklett",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swanna",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vanillite",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vanillish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vanilluxe",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Deerling",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sawsbuck",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Emolga",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Karrablast",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Escavalier",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Foongus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Amoonguss",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Frillish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Jellicent",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Alomomola",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Joltik",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Galvantula",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ferroseed",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ferrothorn",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Klink",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Klang",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Klinklang",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tynamo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Eelektrik",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Eelektross",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Elgyem",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Beheeyem",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Litwick",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lampent",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chandelure",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Axew",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fraxure",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Haxorus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cubchoo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Beartic",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cryogonal",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shelmet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Accelgor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Stunfisk",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mienfoo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mienshao",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Druddigon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Golett",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Golurk",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pawniard",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bisharp",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bouffalant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rufflet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Braviary",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vullaby",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mandibuzz",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Heatmor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Durant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Deino",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zweilous",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hydreigon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Larvesta",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Volcarona",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cobalion",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Terrakion",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Virizion",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tornadus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Thundurus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Reshiram",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zekrom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Landorus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kyurem",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Keldeo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Meloetta",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Genesect",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chespin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Quilladin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chesnaught",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fennekin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Braixen",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Delphox",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Froakie",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Frogadier",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Greninja",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bunnelby",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Diggersby",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fletchling",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fletchinder",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Talonflame",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Scatterbug",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spewpa",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vivillon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Litleo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pyroar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Flabébé",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Floette",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Florges",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Skiddo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gogoat",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pancham",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pangoro",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Furfrou",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Espurr",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Meowstic",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Honedge",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Doublade",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Aegislash",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spritzee",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Aromatisse",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Swirlix",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Slurpuff",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Inkay",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Malamar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Binacle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Barbaracle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Skrelp",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dragalge",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Clauncher",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Clawitzer",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Helioptile",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Heliolisk",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tyrunt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tyrantrum",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Amaura",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Aurorus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sylveon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hawlucha",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dedenne",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Carbink",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Goomy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sliggoo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Goodra",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Klefki",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Phantump",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Trevenant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pumpkaboo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gourgeist",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bergmite",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Avalugg",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Noibat",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Noivern",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Xerneas",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Yveltal",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zygarde",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Diancie",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hoopa",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Volcanion",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rowlet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dartrix",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Decidueye",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Litten",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Torracat",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Incineroar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Popplio",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Brionne",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Primarina",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pikipek",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Trumbeak",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Toucannon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Yungoos",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gumshoos",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grubbin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Charjabug",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Vikavolt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Crabrawler",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Crabominable",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Oricorio",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cutiefly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ribombee",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rockruff",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lycanroc",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wishiwashi",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mareanie",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Toxapex",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mudbray",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mudsdale",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dewpider",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Araquanid",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fomantis",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lurantis",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Morelull",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shiinotic",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Salandit",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Salazzle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Stufful",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bewear",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bounsweet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Steenee",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tsareena",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Comfey",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Oranguru",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Passimian",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wimpod",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Golisopod",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sandygast",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Palossand",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pyukumuku",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Type: Null",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Silvally",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Minior",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Komala",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Turtonator",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Togedemaru",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mimikyu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bruxish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drampa",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dhelmise",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Jangmo-o",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hakamo-o",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kommo-o",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tapu Koko",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tapu Lele",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tapu Bulu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tapu Fini",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cosmog",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cosmoem",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Solgaleo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lunala",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Nihilego",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Buzzwole",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pheromosa",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Xurkitree",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Celesteela",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kartana",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Guzzlord",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Necrozma",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Magearna",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Marshadow",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Poipole",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Naganadel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Stakataka",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Blacephalon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zeraora",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Meltan",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Melmetal",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grookey",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Thwackey",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rillaboom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Scorbunny",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Raboot",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cinderace",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sobble",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drizzile",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Inteleon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Skwovet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Greedent",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rookidee",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Corvisquire",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Corviknight",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Blipbug",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dottler",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Orbeetle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Nickit",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Thievul",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gossifleur",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Eldegoss",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wooloo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dubwool",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chewtle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drednaw",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Yamper",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Boltund",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rolycoly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Carkol",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Coalossal",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Applin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Flapple",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Appletun",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Silicobra",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sandaconda",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cramorant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Arrokuda",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Barraskewda",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Toxel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Toxtricity",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sizzlipede",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Centiskorch",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Clobbopus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grapploct",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sinistea",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Polteageist",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hatenna",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hattrem",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hatterene",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Impidimp",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Morgrem",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grimmsnarl",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Obstagoon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Perrserker",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cursola",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sirfetch'd",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mr. Rime",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Runerigus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Milcery",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Alcremie",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Falinks",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pincurchin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Snom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Frosmoth",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Stonjourner",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Eiscue",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Indeedee",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Morpeko",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cufant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Copperajah",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dracozolt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Arctozolt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dracovish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Arctovish",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Duraludon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dreepy",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Drakloak",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dragapult",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zacian",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zamazenta",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Eternatus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kubfu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Urshifu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Zarude",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Regieleki",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Regidrago",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Glastrier",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spectrier",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Calyrex",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wyrdeer",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kleavor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ursaluna",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Basculegion",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sneasler",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Overqwil",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Enamorus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sprigatito",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Floragato",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Meowscarada",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fuecoco",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Crocalor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Skeledirge",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Quaxly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Quaxwell",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Quaquaval",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lechonk",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Oinkologne",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tarountula",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Spidops",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Nymble",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Lokix",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pawmi",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pawmo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pawmot",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tandemaus",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Maushold",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fidough",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dachsbun",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Smoliv",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dolliv",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Arboliva",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Squawkabilly",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Nacli",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Naclstack",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Garganacl",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Charcadet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Armarouge",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ceruledge",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tadbulb",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bellibolt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wattrel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kilowattrel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Maschiff",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mabosstiff",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Shroodle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Grafaiai",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bramblin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Brambleghast",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Toedscool",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Toedscruel",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Klawf",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Capsakid",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Scovillain",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rellor",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Rabsca",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Flittle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Espathra",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tinkatink",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tinkatuff",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tinkaton",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wiglett",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wugtrio",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Bombirdier",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Finizen",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Palafin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Varoom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Revavroom",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cyclizar",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Orthworm",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Glimmet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Glimmora",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Greavard",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Houndstone",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Flamigo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cetoddle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Cetitan",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Veluza",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dondozo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Tatsugiri",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Annihilape",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Clodsire",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Farigiraf",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dudunsparce",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Kingambit",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Great Tusk",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Scream Tail",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Brute Bonnet",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Flutter Mane",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Slither Wing",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sandy Shocks",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Treads",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Bundle",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Hands",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Jugulis",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Moth",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Thorns",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Frigibax",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Arctibax",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Baxcalibur",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gimmighoul",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gholdengo",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Wo-Chien",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chien-Pao",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ting-Lu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Chi-Yu",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Roaring Moon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Valiant",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Koraidon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Miraidon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Walking Wake",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Leaves",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Dipplin",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Poltchageist",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Sinistcha",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Okidogi",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Mankidori",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Fezandipiti",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Ogerpon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Archaludon",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Hydrapple",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Gouging Fire",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Raging Bolt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Boulder",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Iron Crown",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Terapagos",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  },
+  {
+    "name": "Pecharunt",
+    "used": "",
+    "games": [],
+    "hallOfFame": ""
+  }
+]

@@ -1,0 +1,31 @@
+---
+title: "Have I used this Pokémon?"
+description: "Here is a list of Pokémon I've used in a playthrough, and whether they've entered the Hall of Fame."
+pubDate: "17 Jul 2024"
+altText: "a sprite of "
+---
+import pkmn from '../../data/used_pkmn.json';
+
+<p>{frontmatter.description}</p>
+
+Images courtesy of [The Spriters Resource](https://www.spriters-resource.com/nintendo_switch/pokemonhome/)
+
+<table class="fave-pkmn" style="margin:0 auto;text-align:center;">
+	<thead>
+		<tr>
+			<th>Species</th>
+			<th>Have I used it?</th>
+			<th>Hall of Fame</th>
+			<th>Games</th>
+		</tr>
+	</thead>
+	{pkmn.map((item) => (
+		item.used ?
+	<tr>
+		<td id="name">{item.name}</td>
+		{item.used == 'Yes' ? <td style="background:#bbdabb">{item.used}</td> : <td style="background:#f29b9b">{item.used}</td>}
+		{item.hallOfFame == 'Yes' ? <td style="background:#bbdabb">{item.hallOfFame}</td> : item.hallOfFame =="Not Yet" ? <td style="background:#f2c293">{item.hallOfFame}</td> : <td style="background:#f29b9b">{item.hallOfFame}</td>}
+		<td>{item.games.join(', ')}</td> 
+	</tr> : ''
+	))}
+</table>

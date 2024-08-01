@@ -56,6 +56,12 @@ With all that said, let's look at those Jellicent nicknames!
 * **Salinea Kyle** - [meow](https://www.youtube.com/watch?v=JtSpNyy_8VQ)
 * **Brian/Brionie** - play on brine
 * **Bloorah** - a mix of blue + oorah, a battle cry common in the US Marine Corps
+* **Nereid** - this and the next five are from [Golden Sun](/nicknames/themes/golden-sun/)
+* **Neptune**
+* **Cuttle**
+* **Calamar**
+* **Man o’ War**
+* **Aqua Jelly **
 
 ### B-Tier
 

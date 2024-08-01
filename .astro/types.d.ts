@@ -141,126 +141,133 @@ declare module 'astro:content' {
   slug: "12-facts-i-didnt-know-about-pokemon";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "2023-suckers-2024-dragons.md": {
 	id: "2023-suckers-2024-dragons.md";
   slug: "2023-suckers-2024-dragons";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "33-minutes-of-chill-pokemon-beats.md": {
 	id: "33-minutes-of-chill-pokemon-beats.md";
   slug: "33-minutes-of-chill-pokemon-beats";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"beastcoast-weak-pokemon-changed-game.mdx": {
+	id: "beastcoast-weak-pokemon-changed-game.mdx";
+  slug: "beastcoast-weak-pokemon-changed-game";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".mdx"] };
 "every-pokemon-is-someones-favorite.mdx": {
 	id: "every-pokemon-is-someones-favorite.mdx";
   slug: "every-pokemon-is-someones-favorite";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".mdx"] };
 "how-i-caught-lunala-moon-ball.md": {
 	id: "how-i-caught-lunala-moon-ball.md";
   slug: "how-i-caught-lunala-moon-ball";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "julesdrawz-awesome-pokemon-illustrations.md": {
 	id: "julesdrawz-awesome-pokemon-illustrations.md";
   slug: "julesdrawz-awesome-pokemon-illustrations";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "miraidon-pokemon-motorbike.mdx": {
 	id: "miraidon-pokemon-motorbike.mdx";
   slug: "miraidon-pokemon-motorbike";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".mdx"] };
 "my-big-shiny-day.md": {
 	id: "my-big-shiny-day.md";
   slug: "my-big-shiny-day";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "my-pokemon-day-2024.mdx": {
 	id: "my-pokemon-day-2024.mdx";
   slug: "my-pokemon-day-2024";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".mdx"] };
 "pokemon-excited-reg-e.md": {
 	id: "pokemon-excited-reg-e.md";
   slug: "pokemon-excited-reg-e";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "pokemon-fatigue.md": {
 	id: "pokemon-fatigue.md";
   slug: "pokemon-fatigue";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "pokemon-learn-trick-room-tailwind.md": {
 	id: "pokemon-learn-trick-room-tailwind.md";
   slug: "pokemon-learn-trick-room-tailwind";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "pokemon-types-more-immunities-realize.mdx": {
 	id: "pokemon-types-more-immunities-realize.mdx";
   slug: "pokemon-types-more-immunities-realize";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".mdx"] };
 "prediction-pokemon-day-2024.md": {
 	id: "prediction-pokemon-day-2024.md";
   slug: "prediction-pokemon-day-2024";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "quick-thoughts-pokemon-cards.md": {
 	id: "quick-thoughts-pokemon-cards.md";
   slug: "quick-thoughts-pokemon-cards";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "quick-thoughts-pokemon-fan-demands.md": {
 	id: "quick-thoughts-pokemon-fan-demands.md";
   slug: "quick-thoughts-pokemon-fan-demands";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "review-pokemon-crystal-legacy.md": {
 	id: "review-pokemon-crystal-legacy.md";
   slug: "review-pokemon-crystal-legacy";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 "vgc-law-and-disorder.md": {
 	id: "vgc-law-and-disorder.md";
   slug: "vgc-law-and-disorder";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 };
 "favourites": {
@@ -269,63 +276,63 @@ declare module 'astro:content' {
   slug: "my-favourite-gen-1-pokemon";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
 "my-favourite-gen-2-pokemon.mdx": {
 	id: "my-favourite-gen-2-pokemon.mdx";
   slug: "my-favourite-gen-2-pokemon";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
 "my-favourite-gen-3-pokemon.mdx": {
 	id: "my-favourite-gen-3-pokemon.mdx";
   slug: "my-favourite-gen-3-pokemon";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
 "my-favourite-gen-4-pokemon.mdx": {
 	id: "my-favourite-gen-4-pokemon.mdx";
   slug: "my-favourite-gen-4-pokemon";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
 "my-favourite-gen-5-pokemon.mdx": {
 	id: "my-favourite-gen-5-pokemon.mdx";
   slug: "my-favourite-gen-5-pokemon";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
 "my-favourite-gen-6-pokemon.mdx": {
 	id: "my-favourite-gen-6-pokemon.mdx";
   slug: "my-favourite-gen-6-pokemon";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
 "my-favourite-gen-9-pokemon.mdx": {
 	id: "my-favourite-gen-9-pokemon.mdx";
   slug: "my-favourite-gen-9-pokemon";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".mdx"] };
 "my-favourite-pokemon-games.md": {
 	id: "my-favourite-pokemon-games.md";
   slug: "my-favourite-pokemon-games";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".md"] };
 "my-favourite-pokemon-gens.md": {
 	id: "my-favourite-pokemon-gens.md";
   slug: "my-favourite-pokemon-gens";
   body: string;
   collection: "favourites";
-  data: any
+  data: InferEntrySchema<"favourites">
 } & { render(): Render[".md"] };
 };
 "logs": {
@@ -334,28 +341,28 @@ declare module 'astro:content' {
   slug: "have-i-used-this-pokemon";
   body: string;
   collection: "logs";
-  data: any
+  data: InferEntrySchema<"logs">
 } & { render(): Render[".mdx"] };
 "my-pokemon-teams.mdx": {
 	id: "my-pokemon-teams.mdx";
   slug: "my-pokemon-teams";
   body: string;
   collection: "logs";
-  data: any
+  data: InferEntrySchema<"logs">
 } & { render(): Render[".mdx"] };
 "my-shinies.mdx": {
 	id: "my-shinies.mdx";
   slug: "my-shinies";
   body: string;
   collection: "logs";
-  data: any
+  data: InferEntrySchema<"logs">
 } & { render(): Render[".mdx"] };
 "todolist.mdx": {
 	id: "todolist.mdx";
   slug: "todolist";
   body: string;
   collection: "logs";
-  data: any
+  data: InferEntrySchema<"logs">
 } & { render(): Render[".mdx"] };
 };
 "misc": {
@@ -364,14 +371,14 @@ declare module 'astro:content' {
   slug: "cool-links";
   body: string;
   collection: "misc";
-  data: any
+  data: InferEntrySchema<"misc">
 } & { render(): Render[".mdx"] };
 "handy-links.md": {
 	id: "handy-links.md";
   slug: "handy-links";
   body: string;
   collection: "misc";
-  data: any
+  data: InferEntrySchema<"misc">
 } & { render(): Render[".md"] };
 };
 "nicknames": {
@@ -380,273 +387,273 @@ declare module 'astro:content' {
   slug: "annihilape";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "archaludon.md": {
 	id: "archaludon.md";
   slug: "archaludon";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "ariados.md": {
 	id: "ariados.md";
   slug: "ariados";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "beautifly.md": {
 	id: "beautifly.md";
   slug: "beautifly";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "bellibolt.md": {
 	id: "bellibolt.md";
   slug: "bellibolt";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "blastoise.md": {
 	id: "blastoise.md";
   slug: "blastoise";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "centiskorch.md": {
 	id: "centiskorch.md";
   slug: "centiskorch";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "deoxys.md": {
 	id: "deoxys.md";
   slug: "deoxys";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "dipplin.md": {
 	id: "dipplin.md";
   slug: "dipplin";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "ferrothorn.md": {
 	id: "ferrothorn.md";
   slug: "ferrothorn";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "fezandipiti.md": {
 	id: "fezandipiti.md";
   slug: "fezandipiti";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "gouging-fire.md": {
 	id: "gouging-fire.md";
   slug: "gouging-fire";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "hydrapple.md": {
 	id: "hydrapple.md";
   slug: "hydrapple";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "ice-rider-calyrex.md": {
 	id: "ice-rider-calyrex.md";
   slug: "ice-rider-calyrex";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "iron-boulder.md": {
 	id: "iron-boulder.md";
   slug: "iron-boulder";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "iron-crown.md": {
 	id: "iron-crown.md";
   slug: "iron-crown";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "iron-moth.md": {
 	id: "iron-moth.md";
   slug: "iron-moth";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "jellicent.md": {
 	id: "jellicent.md";
   slug: "jellicent";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "kingdra.md": {
 	id: "kingdra.md";
   slug: "kingdra";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "magmortar.md": {
 	id: "magmortar.md";
   slug: "magmortar";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "metagross.md": {
 	id: "metagross.md";
   slug: "metagross";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "mewtwo.md": {
 	id: "mewtwo.md";
   slug: "mewtwo";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "mimikyu.md": {
 	id: "mimikyu.md";
   slug: "mimikyu";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "ogerpon.md": {
 	id: "ogerpon.md";
   slug: "ogerpon";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "pecharunt.md": {
 	id: "pecharunt.md";
   slug: "pecharunt";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "quaquaval.md": {
 	id: "quaquaval.md";
   slug: "quaquaval";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "raging-bolt.md": {
 	id: "raging-bolt.md";
   slug: "raging-bolt";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "raichu.md": {
 	id: "raichu.md";
   slug: "raichu";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "scolipede.md": {
 	id: "scolipede.md";
   slug: "scolipede";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "shadow-rider-calyrex.md": {
 	id: "shadow-rider-calyrex.md";
   slug: "shadow-rider-calyrex";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "snorlax.md": {
 	id: "snorlax.md";
   slug: "snorlax";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "stoutland.md": {
 	id: "stoutland.md";
   slug: "stoutland";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "terapagos.md": {
 	id: "terapagos.md";
   slug: "terapagos";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "themes/golden-sun.md": {
 	id: "themes/golden-sun.md";
   slug: "themes/golden-sun";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "themes/ice-type.md": {
 	id: "themes/ice-type.md";
   slug: "themes/ice-type";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "themes/legend-of-zelda.md": {
 	id: "themes/legend-of-zelda.md";
   slug: "themes/legend-of-zelda";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "themes/tarot-cards.md": {
 	id: "themes/tarot-cards.md";
   slug: "themes/tarot-cards";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "walking-wake.md": {
 	id: "walking-wake.md";
   slug: "walking-wake";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 "yanma.md": {
 	id: "yanma.md";
   slug: "yanma";
   body: string;
   collection: "nicknames";
-  data: any
+  data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
 };
 "rooms": {
@@ -655,28 +662,28 @@ declare module 'astro:content' {
   slug: "blastoise";
   body: string;
   collection: "rooms";
-  data: any
+  data: InferEntrySchema<"rooms">
 } & { render(): Render[".mdx"] };
 "centiskorch.mdx": {
 	id: "centiskorch.mdx";
   slug: "centiskorch";
   body: string;
   collection: "rooms";
-  data: any
+  data: InferEntrySchema<"rooms">
 } & { render(): Render[".mdx"] };
 "dragon-quest.mdx": {
 	id: "dragon-quest.mdx";
   slug: "dragon-quest";
   body: string;
   collection: "rooms";
-  data: any
+  data: InferEntrySchema<"rooms">
 } & { render(): Render[".mdx"] };
 "glitches.mdx": {
 	id: "glitches.mdx";
   slug: "glitches";
   body: string;
   collection: "rooms";
-  data: any
+  data: InferEntrySchema<"rooms">
 } & { render(): Render[".mdx"] };
 };
 
@@ -688,5 +695,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../src/content/config.js");
 }

@@ -41,6 +41,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Baby Spice/Ginger Spice/Scary Spice/Posh Spice/Sporty Spice** - I thought these would be good for a themed team and work with different masks (I know there were 5 people in the Spice Girls and 4 masks so you can be inventive)
 * **Poncho** - a genius name I found on Reddit so full credit to [PurplePo8to](https://www.reddit.com/r/PokemonScarletViolet/comments/16kz4vv/comment/k0zy61w/?utm_source=reddit&utm_medium=web2x&context=3)
 * **Polpo** - from the PS1 game, One Piece Mansion
+* **Carrie** - if you know the Stephen King book/film and Ogerpon's story, you'll get the similarities
 
 ### A-Tier
 
@@ -48,6 +49,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Pebbles** - as Ogerpon is a girl and I couldn't name it Bam-Bam (the Flintstones character with the club), I went with Pebbles instead
 * **Girlboss**
 * **It's So Oger**
+* **Felicia** - Shrek and Fiona's daughter
 
 ### B-Tier
 
@@ -61,6 +63,8 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Handsome** - because she is!
 * **Queenie** - so my mind went: King (from Tekken) > Queen > Queenie
 * **Mask Up**
+* **Lil Grn Girl**
+* **Gamora**
 
 ### C-Tier
 
@@ -84,5 +88,6 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Red Face/Blue Face/Green Face/Grey Face**
 * **John Cena**
 * **Burned Up/Washed Up/Grown Up/Hard Up** - themed nicknames for the Fire/Water/Grass/Rock masks
+* **Ogerdon**
 
 Do you have a favourite Ogerpon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

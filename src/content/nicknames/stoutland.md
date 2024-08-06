@@ -8,7 +8,7 @@ lcpMediaAs: 'image'
 lcpMediaType: 'image/jpeg'
 ---
 
-<div class="img-center"><img src="/images/stoutland.jpeg" width="250px" height="250px" alt=""></div>
+<div class="img-center"><img src="/images/stoutland.jpeg" width="250px" height="250px" alt="a dog Pokémon with a brown furred head with cream fur on its forehead and a long moustache coming from under and around its black nose. Its bottom half is a blueish-grey and it has four brown paws with blue paw pads"></div>
 
 Stoutland was introduced in Generation 5 with a Normal typing so there's plenty of inspiration for nicknames.
 

@@ -8,7 +8,7 @@ lcpMediaAs: 'image'
 lcpMediaType: 'image/jpeg'
 ---
 
-<div class="img-center"><img src="/images/mewtwo.jpg" width="250px" height="250px" alt=""></div>
+<div class="img-center"><img src="/images/mewtwo.jpg" width="250px" height="250px" alt="a grey bipedal Pokémon with a humanoid shape, a long, purple tail, two stumpy horn-like protusions, purple eyes, and a tube that connects its head to its neck."></div>
 
 Mewtwo was introduced in Generation 1 with a pure Psychic typing and, given its iconic status as a powerful legendary, there's plenty of inspiration for nicknames.
 
@@ -16,7 +16,7 @@ Let's look at some info on Mewtwo and suggested nicknames.
 
 ## Origins
 
-Mewtwo is a bipedal Pokémon created using the DNA of Mew via gene splicing and DNA engineering. It is gray, has a humanoid shape, and has a long, purple tail (green if it's shiny). It has two stumpy horn-like protusions, purple eyes and a tube that connects its head to its neck.
+Mewtwo is a bipedal Pokémon created using the DNA of Mew via gene splicing and DNA engineering. It is grey, has a humanoid shape, and has a long, purple tail (green if it's shiny). It has two stumpy horn-like protusions, purple eyes and a tube that connects its head to its neck.
 
 Mewtwo also has two Mega evolution forms: [Mega Mewtwo X](https://sg.portal-pokemon.com/play/pokedex/0150_1) and [Mega Mewtwo Y](https://sg.portal-pokemon.com/play/pokedex/0150_2).
 

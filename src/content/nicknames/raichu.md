@@ -8,7 +8,7 @@ lcpMediaAs: 'image'
 lcpMediaType: 'image/png'
 ---
 
-<div class="img-center no-pixel"><img src="/images/raichu-kanto-alola.png" width="500" height="318" alt=""></div>
+<div class="img-center no-pixel"><img src="/images/raichu-kanto-alola.png" width="500" height="318" alt="Kantonian Raichu (left) is a golden yellow rodent Pokémon with brown ears, brown paws, and brown tipped feet. It has a cream coloured belly and pale yellow cheeks. Its tail is mainly brown with a yellow lightning bolt shape at the end. Alolan Raichu (right) is a darker shade with yellow swirly ears, white paws, and white tipped feet. It also has a cream coloured belly and brighter yellow cheeks. Its tail is also mainly brown with a soft-edged yellow lightning bolt shape at the end"></div>
 
 Raichu was introduced in Generation 1 with an Electric typing, as the evolved form of Pikachu and the final evolution of Pichu. In Generation 7, an Alolan form was introduced with a dual Electric/Psychic typing.
 

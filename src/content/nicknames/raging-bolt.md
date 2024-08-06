@@ -67,7 +67,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Longcat** - unoriginal, I know
 * **Thundermane***
 * **Tempest**
-* **Thor** - classic thunder god and a Summon from [Golden Sun](/nicknames/themes/golden-sun)
+* **Thor** - classic thunder god and a Summon from [Golden Sun](/nicknames/themes/golden-sun/)
 * **Tordensky** - Danish for "thundercloud"
 * **Usain**
 * **Cloud Nine**

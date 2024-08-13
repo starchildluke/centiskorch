@@ -6,12 +6,12 @@
 
 @font-face { font-family: 'Georama Expanded Black';
 	src:
-	    local("Georama Expanded Black"),
-	    url("/fonts/Georama_Expanded-Black-subset.woff2") format("woff2"); font-display: swap; font-weight: 900; }
+	  local("Georama Expanded Black"),
+	  url("/fonts/Georama_Expanded-Black-subset.woff2") format("woff2"); font-display: swap; font-weight: 900; }
 
 /* BASE ELEMENTS */
 
-body { margin: 0; background-image: linear-gradient(225deg,hsl(10deg 74% 59%) 0%,hsl(8deg 69% 57%) 15%,hsl(7deg 65% 55%) 25%,hsl(6deg 61% 53%) 33%,hsl(4deg 57% 52%) 41%,hsl(3deg 54% 50%) 49%,hsl(2deg 51% 47%) 57%,hsl(1deg 48% 45%) 65%,hsl(0deg 46% 42%) 74%,hsl(360deg 43% 39%) 83%, hsl(359deg 41% 36%) 99%); color: #472a2d; font-family: 'Verdana', sans-serif; font-size: 13px; }
+body { margin: 0; background-image: url(./images/brick.png); color: #472a2d; font-family: 'Verdana', sans-serif; font-size: 13px; }
 
 h1 { font-size: 2rem; }
 
@@ -53,7 +53,7 @@ aside { width: 300px; }
 
 main { flex: 1; order: 2; width: calc(100% * .4); }
 
-footer {  margin-top: var(--gap);  text-align: center;  order: 4;  width: 100%; }
+footer { margin-top: var(--gap); text-align: center; order: 4; width: 100%; }
 
 footer > *, h1.headings, h2.headings, .img-center, .date, .right-sidebar img, p, .banner { margin-bottom: var(--gap); }
 
@@ -65,7 +65,7 @@ img[src$="gif"], img[src$="png"] { image-rendering: pixelated; }
 
 .no-pixel img { image-rendering: auto; }
 
-img, figure { max-width: 100%; height: auto;  }
+img, figure { max-width: 100%; height: auto; }
 
 details p { margin-top:1rem; }
 
@@ -83,17 +83,17 @@ table.fave-pkmn, table.fave-pkmn th, table.fave-pkmn td { border-collapse: colla
 
 .banner { width: 100%; padding: 1rem 1rem 0 1rem; }
 
-.headings, article :is(h1, h2) { padding: .5rem;  background: #c3413b;  text-align: center; }
+.headings, article :is(h1, h2) { padding: .5rem; background: #c3413b; text-align: center; }
 
-article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center; font-size: 1.25rem; }
+article :is(h3, h4) { padding: .5rem; background: #ac484a; text-align: center; font-size: 1.25rem; }
 
 .headings a { color: #fdee00; }
 
 .container { margin: 0 auto; max-width: 57rem; box-shadow: 20px 0 20px black; }
 
-.flex-content { display: flex; flex-wrap: wrap; background: #813637; border: 14px solid #813637; outline: 10px solid #472a2d; }
+.flex-content { display: flex; flex-wrap: wrap; background: #ac484a; border: 14px solid #ac484a; outline: 10px solid #472a2d; }
 
-.box { overflow-wrap: break-word; outline: 6px solid black; background: white; }
+.box { overflow-wrap: break-word; outline: 4px dashed black; background: white; }
 
 .img-center { text-align: center; }
 
@@ -107,7 +107,7 @@ article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center;
 
 .right-sidebar { order: 3; margin-left: calc(var(--gap)); }
 
-.post-pagination { display: flex; margin: var(--gap) 0; padding: var(--gap) 0; border-top:  1px solid #ddd; border-bottom:  1px solid #ddd; }
+.post-pagination { display: flex; margin: var(--gap) 0; padding: var(--gap) 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
 
 .post-pagination-item { flex-grow: 1; flex-basis: 0; padding: 0.75rem; border-radius: 3px; border: 1px solid transparent; font-size: smaller; }
 
@@ -119,7 +119,7 @@ article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center;
 
 .post-pagination-next { text-align: right; }
 
-.post-pagination-next::after { content:  " \2192"; display: inline-block; padding-left: var(--gap) }
+.post-pagination-next::after { content: " \2192"; display: inline-block; padding-left: var(--gap) }
 
 .post-pagination-divider { border: 0.5px solid #ddd; margin: 0 var(--gap); }
 
@@ -151,7 +151,7 @@ article :is(h3, h4) { padding: .5rem;  background: #813637;  text-align: center;
 
 	h1 { font-size: 1.5rem; }
 
-    h2 { font-size: 1.2rem; }
+  h2 { font-size: 1.2rem; }
 
 	main { order: 1; }
 

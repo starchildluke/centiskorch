@@ -60,6 +60,7 @@ With all that said, let's look at those Mewtwo nicknames!
 * **Amino**
 * **Adenine/Cytosine/Guanine/Thymine** - the four bases of DNA
 * **Master Boi**
+* **PurplWarrior** - any Scott Steiner fans in chat?
 
 ### C-Tier
 

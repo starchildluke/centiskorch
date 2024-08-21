@@ -50,6 +50,10 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Girlboss**
 * **It's So Oger**
 * **Felicia** - Shrek and Fiona's daughter
+* **Avocado**
+* **Guacamole**
+* **Salsa**
+* **Burrito**
 
 ### B-Tier
 

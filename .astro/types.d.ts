@@ -613,6 +613,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
+"themes/breath-of-fire.md": {
+	id: "themes/breath-of-fire.md";
+  slug: "themes/breath-of-fire";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
 "themes/golden-sun.md": {
 	id: "themes/golden-sun.md";
   slug: "themes/golden-sun";

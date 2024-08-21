@@ -9,13 +9,14 @@ interface Props {
 	lcpMediaAs: string;
 	lcpSrc: string;
 	lcpMediaType: string;
+	robots: string;
 }
 
-const { title, description, lcpMediaAs, lcpSrc, lcpMediaType, canonicalURL = Astro.url } = Astro.props;
+const { title, description, lcpMediaAs, lcpSrc, lcpMediaType, robots, canonicalURL = Astro.url } = Astro.props;
 ---
 
 <html lang="en" id="top">
-	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={canonicalURL} />
+	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={canonicalURL} robots={robots} />
 	<body>
 	<Header />
 		<slot />

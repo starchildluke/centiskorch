@@ -6,10 +6,10 @@ import type { CollectionEntry } from 'astro:content';
 
 type Props = CollectionEntry<'favourites'>['data'];
 
-const { title, description, pubDate, updatedDate } = Astro.props;
+const { title, description, pubDate, updatedDate, robots } = Astro.props;
 ---
 
-<Layout title={title} description={description} />
+<Layout title={title} description={description} robots={robots} />
 <div class="container">
 	<div class="flex-content">
 		<main class="box">

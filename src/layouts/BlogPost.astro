@@ -7,9 +7,9 @@ import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, ogimage, imgtype } = Astro.props;
+const { title, description, pubDate, updatedDate, ogimage, imgtype, robots } = Astro.props;
 ---
-<LayoutWithLCP title={title} description={description} lcpSrc={ogimage} lcpMediaAs="image" lcpMediaType={imgtype} />
+<LayoutWithLCP title={title} description={description} lcpSrc={ogimage} lcpMediaAs="image" lcpMediaType={imgtype} robots={robots} />
 <div class="container">
 	<div class="flex-content">
 		<main class="box">

@@ -42,6 +42,7 @@ With all that said, let's look at those Ferrothorn nicknames!
 * **Phantasm** - it's a horror movie. Look it up at your peril!
 * **Jakarta** - because durians are native to Indonesia and Jakarta is the capital
 * **Ferrodome** - a play on "Terror Dome" and "Ferro-"
+* **Earl Luminum** - from Rocket Slime
 
 ### B-Tier
 

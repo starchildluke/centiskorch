@@ -5,7 +5,8 @@ const logs = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
-		draft: z.boolean().optional()
+		draft: z.boolean().optional(),
+		robots: z.string().optional()
 	}),
 });
 
@@ -14,7 +15,8 @@ const favourites = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
-		draft: z.boolean().optional()
+		draft: z.boolean().optional(),
+		robots: z.string().optional()
 	}),
 });
 
@@ -23,7 +25,8 @@ const misc = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
-		draft: z.boolean().optional()
+		draft: z.boolean().optional(),
+		robots: z.string().optional()
 	}),
 });
 
@@ -37,7 +40,8 @@ const nicknames = defineCollection({
 		lcpSrc: z.string().optional(),
 		lcpMediaAs: z.string().optional(),
 		lcpMediaType: z.string().optional(),
-		draft: z.boolean().optional()
+		draft: z.boolean().optional(),
+		robots: z.string().optional()
 	}),
 });
 
@@ -54,7 +58,8 @@ const rooms = defineCollection({
 		headingTextColour: z.string(),
 		lcpMediaAs: z.string(),
 		lcpSrc: z.string(),
-		lcpMediaType: z.string()	
+		lcpMediaType: z.string(),
+		robots: z.string().optional()	
 	}),
 });
 
@@ -66,6 +71,7 @@ const blog = defineCollection({
 		ogimage: z.string().optional(),
 		imgtype: z.string().optional(),
 		draft: z.boolean().optional(),
+		robots: z.string().optional(),
 		pubDate: z
 			.string()
 			.or(z.date())

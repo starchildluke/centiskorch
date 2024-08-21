@@ -139,6 +139,10 @@ article :is(h3, h4) { padding: .5rem; background: #ac484a; text-align: center; f
 
 .yt-embed { margin-bottom: 1rem; }
 
+.badges { margin-top: 1rem; text-align:center }
+
+.badges img { padding: 1rem; }
+
 /* CLASSES */
 
 @media only screen and (max-width: 800px) {

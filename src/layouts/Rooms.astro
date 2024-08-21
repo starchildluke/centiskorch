@@ -15,7 +15,8 @@ const {
 	outlineContentColour,
 	borderContentColour,
 	headingTextColour,
-	canonicalURL = Astro.url } = Astro.props;
+	canonicalURL = Astro.url,
+	robots } = Astro.props;
 ---
 
 <style define:vars={{ bodyColour, bgContentColour, outlineContentColour, borderContentColour, headingTextColour }}>
@@ -37,7 +38,7 @@ const {
 
 
 <html lang="en" id="top">
-	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={canonicalURL} />
+	<BaseHeadWithLCP title={title} description={description} lcpMediaAs={lcpMediaAs} lcpSrc={lcpSrc} lcpMediaType={lcpMediaType} canonicalURL={canonicalURL} robots={robots} />
 	<body>
 		<Header />
 			<div class="container">

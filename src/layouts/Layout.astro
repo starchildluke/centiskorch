@@ -6,13 +6,14 @@ interface Props {
 	title: string;
 	description: string;
 	canonicalURL: string;
+	robots: string;
 }
 
-const { title, description, canonicalURL = Astro.url } = Astro.props;
+const { title, description, robots, canonicalURL = Astro.url } = Astro.props;
 ---
 
 <html lang="en" id="top">
-	<BaseHead title={title} description={description} canonicalURL={canonicalURL} />
+	<BaseHead title={title} description={description} canonicalURL={canonicalURL} robots={robots} />
 	<body>
 	<Header />
 		<slot />

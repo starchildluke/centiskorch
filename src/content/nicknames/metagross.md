@@ -42,6 +42,7 @@ With all that said, let's look at those Metagross nicknames!
 * **Mainframe**
 * **Iron Monger**
 * **MoMetaBlues**
+* **Earl Luminum** - from Rocket Slime
 
 ### B-Tier
 

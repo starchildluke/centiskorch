@@ -6,10 +6,10 @@ import type { CollectionEntry } from 'astro:content';
 
 type Props = CollectionEntry<'favourites'>['data'];
 
-const { title, description, lcpSrc, lcpMediaAs, lcpMediaType } = Astro.props;
+const { title, description, lcpSrc, lcpMediaAs, lcpMediaType, robots } = Astro.props;
 ---
 
-<LayoutWithLCP title={title} description={description} lcpSrc={lcpSrc} lcpMediaAs={lcpMediaAs} lcpMediaType={lcpMediaType} />
+<LayoutWithLCP title={title} description={description} lcpSrc={lcpSrc} lcpMediaAs={lcpMediaAs} lcpMediaType={lcpMediaType} robots={robots} />
 <div class="container">
 	<div class="flex-content">
 		<main class="box">

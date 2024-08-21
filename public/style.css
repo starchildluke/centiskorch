@@ -73,6 +73,10 @@ details p { margin-top:1rem; }
 
 table.fave-pkmn, table.fave-pkmn th, table.fave-pkmn td { border-collapse: collapse; border: 1px solid black; padding: calc(var(--gap) * .5); }
 
+table.room-table, table.room-table th, table.room-table td { border-collapse: collapse; border: 1px solid #daabab; padding: calc(var(--gap) * .5); }
+
+table.room-table thead { background: rgba(228, 96, 71, 0.2) }
+
 .header-centered span,h1,h2,h3,h4,h5 { padding: 0; margin: 0; font-family: 'Georama Expanded Black', 'Arial Black', sans-serif; -webkit-font-smoothing: antialiased;color:#fdee00;text-transform:uppercase;}
 
 .inner-header { display: flex; gap: calc(var(--gap) * 2); width: 100%; justify-content: center; }
@@ -142,6 +146,8 @@ article :is(h3, h4) { padding: .5rem; background: #ac484a; text-align: center; f
 .badges { margin-top: 1rem; text-align:center }
 
 .badges img { padding: 1rem; }
+
+.room-box { display:flex; gap: 1rem; margin-bottom: 1rem; }
 
 /* CLASSES */
 

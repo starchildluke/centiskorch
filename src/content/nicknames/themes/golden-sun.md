@@ -30,7 +30,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Atalanta** - Blissey, Enamorus, Florges, Froslass, Hatterene, Lilligant, Nidoqueen, Salazzle, Tsareena, Vespiquen, Gardevoir
 * **Procne** - Enamorus, Froslass, Hatterene, Lilligant, Tsareena, Vespiquen, Gardevoir, Diancie
 * **Thor** - Zapdos, Tinkaton, Raikou, [Raging Bolt](/nicknames/raging-bolt/), Zekrom, Thundurus
-* **Nereid** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask)
+* **Nereid** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, [Ogerpon (Wellspring Mask)](/nicknames/ogerpon/)
 * **Neptune** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
 * **Boreas** - Tornadus, Drifblim, Pidgeot, Ninetales (Alolan), Regice, Abomasnow, Beartic, Kyurem, Avalugg, Baxcalibur, Chien-Pao
 * **Alex** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
@@ -47,10 +47,10 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Isaac and all Venus Djinn** - any Ground-type
 * **Garet and all Fire Djinn** - any Fire-type
 * **Ivan and all Jupiter Djinn** - any Electric or Flying-type
-* **Mia and all Mercury Djinn** - any Water or Ice-type
+* **Mia and all Mercury Djinn** - any Water or [Ice-type](/nicknames/theme/ice-type/)
 * **Amaze** - Froslass, Vanilluxe, Cursola, Darmanitan (Galarian)
 * **Ant Lion, Roach, and Doodle Bug** - Durant, Trapinch, Drapion, Rabsca, Orbeetle
-* **Ape** - Annihilape, Oranguru, Passimian, Ambipom, Infernape, Darmanitan, Rillaboom, Zarude, Simipour/Simisear/Simisage
+* **Ape** - [Annihilape](/nicknames/annihilape/), Oranguru, Passimian, Ambipom, Infernape, Darmanitan, Rillaboom, Zarude, Simipour/Simisear/Simisage
 * **Bat** - Crobat, Noivern, Lunala, Swoobat, Gliscor
 * **Chimera** - Silvally
 * **Cuttle, Calamar, Man o' War, and Aqua Jelly** - Tentacruel, Nihilego, [Jellicent](/nicknames/jellicent/), Malamar

@@ -69,6 +69,7 @@ With all that said, let's look at those Terapagos nicknames!
 * **Karma** - apparently, my colour picker app said the deep purpley blue colour of Terapagos's skin is called Good Karma
 * **Pacific** - the Galápagos Islands are in the Pacific Ocean so it seems fitting
 * **Turtleneck**
+* **Terrorpin** - from [the Legend of Zelda](/nicknames/theme/legend-of-zelda/)
 
 ### D-Tier
 

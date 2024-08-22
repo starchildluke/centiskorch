@@ -27,7 +27,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Impa** - Chansey, Blissey, Audino
 * **Moblin** - Granbull, Grumpig, Emboar, Oinkologne
 * **Armos** - Probopass, Bastiodon, Golurk
-* **Ghini** - Gengar, Mimikyu, Banette, Dusknoir, Mismagius, Froslass, Giratina
+* **Ghini** - Gengar, [Mimikyu](/nicknames/mimikyu/), Banette, Dusknoir, Mismagius, Froslass, Giratina
 * **Leever** - Palossand, Hippodown, Cradily, Maractus, Cacturne
 * **Lynel** - Pyroar, Palkia (Origin Forme), Solgaleo, [Gouging Fire](/nicknames/gouging-fire/), Entei, Luxray
 * **Octorok** - Octillery, Grapploct
@@ -54,12 +54,12 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Bot** - Gastrodon, Stunfisk
 * **Daira** - Feraligatr, Krookodile, Garchomp
 * **Deeler** - Ledian, Volbeat, Illumise, Orbeetle, Parasect, Ariados, [Metagross](/nicknames/metagross/), Araquanid, Galvantula, Spidops
-* **Geldarm** - Centiskorch, Scolipede, Drapion
+* **Geldarm** - [Centiskorch](/nicknames/centiskorch/), [Scolipede](/nicknames/scolipede/), Drapion
 * **Girubokku** - Electrode
 * **Goriya** - Obstagoon, Linoone, Furret, Lucario, Excadrill, Smeargle, Zangoose
 * **Lizalfo** - Cyclizar, Sceptile, Kecleon, Inteleon
 * **Lowder** - Orbeetle, Rabsca
-* **Megmat** - Raticate, Watchog, Raichu, Emolga, Dedenne, Plusle, Minun, Minccino, Pachirisu, Togedemaru
+* **Megmat** - Raticate, Watchog, [Raichu](/nicknames/raichu/), Emolga, Dedenne, Plusle, Minun, Minccino, Pachirisu, Togedemaru
 * **Moby** - Braviary, Mandibuzz, Staraptor, Pidgeot, Fearow, Swellow, Honchkrow, Talonflame, Decidueye
 * **Myu** - Pincurchin, Pyukumuku
 * **River Devil** - Araquanid
@@ -70,5 +70,9 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Catfish** - Whiscash, Dondozo
 * **Bully** - Rhyperior, Nidoking/Nidoqueen, Hitmontop, Rampardos, Heracross
 * **Duck** - Magmortar, Ludicolo, Farfetch’d, Sirfetch'd, [Quaquaval](/nicknames/quaquaval/), Porygon-Z, Cresselia, Golduck
+
+### The Legend of Zelda: Four Swords Adventures (2004)
+
+* **Terrorpin** - Blastoise, Carracosta, Torterra, [Terapagos](/nicknames/terapagos/)
 
 Do you have any Legend of Zelda themed nickname suggestions? Then head over to the contact me link on the left and email me your ideas!

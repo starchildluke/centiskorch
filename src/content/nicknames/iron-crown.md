@@ -28,7 +28,7 @@ My methodology for nicknames is as follows:
 * I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
 * I'll usually list my inspiration for a nickname so you know where they came from
 
-With all that said, let's look at those Annihilape nicknames!
+With all that said, let's look at those Iron Crown nicknames!
 
 ### S-Tier
 

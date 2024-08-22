@@ -21,7 +21,7 @@ Let's look at some info on Fezandipiti and suggested nicknames.
 
 ## Origins
 
-Fezandipiti is a bird-like Pokémon with a small head, long neck, and a short beak with a magenta tip. Its plumage is mostly black, with deep bronze highlights at the end of its feathers. Its crest is yellow with magenta feathers resembling elongated eyebrows. Around its body is the Toxic Chain that symbolically bind the Loyal Trio and Pecharunt together.
+Fezandipiti is a bird-like Pokémon with a small head, long neck, and a short beak with a magenta tip. Its plumage is mostly black, with deep bronze highlights at the end of its feathers. Its crest is yellow with magenta feathers resembling elongated eyebrows. Around its body is the Toxic Chain that symbolically bind the Loyal Trio and [Pecharunt](/nicknames/pecharunt/) together.
 
 Etymologically, Fezandipiti is a portmanteau of _pheasant_ and _serendipity_, meaning "an aptitude for making desirable discoveries by accident".
 

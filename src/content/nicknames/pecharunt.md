@@ -15,7 +15,7 @@ lcpMediaType: 'image/png'
 <details style="margin-bottom:1rem;background: #fdee00;">
 	<summary><strong>Warning: this section contains spoilers from The Hidden Treasure of Area Zero Epilogue: Mochi Mayhem</strong></summary>
 
-Pecharunt was introduced in Generation 9 with a Poison/Ghost typing and as the trio master of the Loyal Three and its association with Ogerpon, there's plenty of inspiration for nicknames.
+Pecharunt was introduced in Generation 9 with a Poison/Ghost typing and as the trio master of the Loyal Three and its association with [Ogerpon](/nicknames/ogerpon/), there's plenty of inspiration for nicknames.
 
 Let's look at some info on Pecharunt and suggested nicknames.
 

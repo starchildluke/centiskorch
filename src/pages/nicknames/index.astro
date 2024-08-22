@@ -2,11 +2,21 @@
 import Layout from '../../layouts/Layout.astro';
 import Footer from '../../components/Footer.astro';
 import LeftSidebar from '../../components/LeftSidebar.astro';
-import Dropdown from '../../components/Dropdown.astro';
-import ThemeDropdown from '../../components/ThemeDropdown.astro';
+import FuzzySearch from '../../components/FuzzySearch.astro';
 const title = "Pokémon nicknames";
 const description = "A collection of Pokémon nickname ideas.";
 ---
+
+<style>
+	
+	search {
+		display: flex;
+		margin-bottom: 1rem;
+		gap: 0.5rem;
+		align-items: center;
+	}
+
+</style>
 
 <Layout title={title} description={description}/>
 <div class="container">
@@ -16,8 +26,16 @@ const description = "A collection of Pokémon nickname ideas.";
 				<p>Welcome to the Pokémon nicknames index page. Here, you will find a list of all the Pokémon nickname pages on the site.</p>
 				<p>The index is ordered by Pokédex number and will cover mostly final evolutions where applicable. That means any nicknames you see for fully-evolved Pokémon can apply for their unevolved forms too.</p>
 			<h2 class="headings">Nickname page list</h2>
-				<Dropdown />
-				<ThemeDropdown />
+				<search>
+					<div class="search-bar-text">
+					<span>Search for a Pokémon or theme:</span>
+						<input id='search' type='search' label='Search' placeholder="What would you like to search today?"/>
+						</div>
+						<svg id="cross" width="24" height="24" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M165.66 101.66L139.31 128l26.35 26.34a8 8 0 0 1-11.32 11.32L128 139.31l-26.34 26.35a8 8 0 0 1-11.32-11.32L116.69 128l-26.35-26.34a8 8 0 0 1 11.32-11.32L128 116.69l26.34-26.35a8 8 0 0 1 11.32 11.32M232 128A104 104 0 1 1 128 24a104.11 104.11 0 0 1 104 104m-16 0a88 88 0 1 0-88 88a88.1 88.1 0 0 0 88-88"/></svg>
+					
+				</search>
+
+				<div class="results"></div>
 			<h2 class="headings">Nicknames FAQ</h2>
 				<p><strong>Why should you nickname your Pokémon?</strong></p>
 				<p>Nicknaming by default didn't start for me until Sword and Shield and, after replaying all the games and doing Nuzlockes, I got into the habit of nicknaming.</p>
@@ -30,5 +48,6 @@ const description = "A collection of Pokémon nickname ideas.";
 		</main>
 		<LeftSidebar />
 		<Footer />
+		<FuzzySearch />
 		</div>
 	</div>

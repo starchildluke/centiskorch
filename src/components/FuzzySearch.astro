@@ -1,0 +1,46 @@
+---
+---
+
+<script>
+  import fuzzysort from 'fuzzysort';
+  import nicknames from '../data/nicknames.json';
+  const searchEl = document.querySelector('#search');
+  const results = document.querySelector('.results');
+  const cross = document.querySelector('#cross');
+
+  const indexKeys = ['title', 'slug'];
+  const highlightColour = ['<span style="color:#c4413b;">', '</span>'];
+
+  cross.addEventListener("click", (e) => {
+    searchEl.value = '';
+    results.innerHTML = '';
+    cross.style.opacity = '0';
+  });
+
+  searchEl.addEventListener("input", (e) => {
+    cross.style.opacity = '1';
+    const text = searchEl.value;
+    const fuzz = fuzzysort.go(text, nicknames, {
+        keys: indexKeys,
+        limit: 5
+      });
+
+    if (text) {
+        results.innerHTML = fuzz.length ? fuzz.map((c) => (
+          `<div class="search-result" data-score=${c.score.toFixed(3)}><a style="font-size:1rem;color:#472a2d;" href=${c['obj']['slug']}/>
+              ${c[0].highlight().length === 0 ? c['obj']['title'] : c[0].highlight(highlightColour[0], highlightColour[1])}
+            </a></p></div>`)).join("") : 'Nothing found ☹️';
+      } else {
+        results.innerHTML = '';
+      };
+
+    document.querySelectorAll('[data-score]').forEach(el => {
+          if (parseFloat(el.dataset.score) < 0.75) {
+            el.style.display = 'none';
+          } else if (parseFloat(el.dataset.score) < 0.85 && parseFloat(el.dataset.score) >= 0.75) {
+            el.style.opacity = 0.5;
+          }
+    });
+
+  });
+  </script>

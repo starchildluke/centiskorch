@@ -5,7 +5,7 @@ pubDate: "26 Sep 2023"
 pokedexNumber: '1017'
 ---
 
-Ogerpon was Legendary Pokémon introduced in Generation 9 with a Grass typing that has a ton of inspiration for nicknames owing to its different forms.
+Ogerpon was Legendary Pokémon introduced in Generation 9 with a Grass typing that has a ton of inspiration for nicknames owing to its different forms. 
 
 Let's have a look at Ogerpon's origins and some of those nicknames.
 
@@ -23,6 +23,8 @@ The four masks that the local mask-maker made for Ogerpon give allow it to take 
 * When Ogerpon wears the Wellspring Mask, it transforms into its Wellspring Mask form, which makes it a dual Grass/Water typing.
 * When Ogerpon wears the Hearthflame Mask, it transforms into its Hearthflame Mask form, which makes it a dual Grass/Fire typing.
 * When Ogerpon wears the Cornerstone Mask, it transforms into its Cornerstone Mask form, which makes it a dual Grass/Rock typing.
+
+It's always worth noting that Ogerpon is always female.
 
 Name-wise, Ogerpon appears to be a portmanteau of ogre + <em>-pon</em>, a Japanese suffix added to names as a <q cite="https://bulbapedia.bulbagarden.net/wiki/Ogerpon_(Pok%C3%A9mon)#Name_origin">form of endearment</q>.
 

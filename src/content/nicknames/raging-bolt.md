@@ -82,6 +82,8 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **ZZZap!**
 * **High Voltage**
 * **Tomcat**
+* **Raging Volt**
+* **Raging Jolt**
 
 ### D-Tier
 

@@ -70,5 +70,6 @@ With all that said, let's look at those Kingdra nicknames!
 * **Dodger** - named after the LA Dodgers
 * **Puerto Rico**
 * **Celeste**
+* **Dragonlord** - from Dragon Quest
 
 Do you have a favourite Kingdra nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

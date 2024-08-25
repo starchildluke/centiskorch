@@ -54,6 +54,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Boon** - a character from [The Legend of Zelda](/nicknames/themes/legend-of-zelda/)
 * **M. Butterfly**
 * **Kallima**
+* **Damselfly** - from Dragon Quest
 
 ### C-Tier
 

@@ -74,5 +74,6 @@ With all that said, let's look at those Iron Crown nicknames!
 * **Crown**
 * **Cyborg Deer**
 * **Iron Hooves**
+* **Iron Maiden**
 
 Do you have a favourite Iron Crown nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -51,6 +51,8 @@ With all that said, let's look at those Raichu nicknames!
 * **Crumble**
 * **Soy Sauce**
 * **Muffin**
+* **Macho Picchu** - from Dragon Quest
+* **Nacho Picchu** - from Mexico? lol
 
 ### B-Tier
 

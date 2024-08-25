@@ -124,6 +124,8 @@ lcpMediaType: 'image/jpeg'
 * **Midori**
 * **Zoro**
 * **Bobby Green**
+* **Tyrnoceratps** - based on Tyrannoceratops from Dragon Quest but it wouldn't all fit
+* **Dragonthorn** - also Dragon Quest
 
 ### B-Tier
 

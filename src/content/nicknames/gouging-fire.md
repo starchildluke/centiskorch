@@ -46,6 +46,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Sinhala** - a Sanskrit word, meaning "of lions"
 * **GougingTiger** - (Hidden Dragon)
 * **Lynel** - from [The Legend of Zelda franchise](/nicknames/themes/legend-of-zelda/)
+* **Hellspawn** - from Dragon Quest
 
 ### B-Tier
 
@@ -84,5 +85,6 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Fable**
 * **Vanquish**
 * **Gougin'**
+* **Firespirit** - from Dragon Quest
 
 Do you have a favourite Gouging Fire nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

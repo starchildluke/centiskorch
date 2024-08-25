@@ -29,6 +29,7 @@ Terminology sources: [Global Cryosphere Watch](https://globalcryospherewatch.org
 * Floe
 * Floeberg
 * Frazil
+* Frostburn
 * Glacier
 * Growler
 * Iceberg

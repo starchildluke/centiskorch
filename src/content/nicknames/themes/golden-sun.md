@@ -45,7 +45,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Tret** - Trevenant, Sudowoodo, Exeggutor (Alolan), Tropius, Arboliva
 * **Laurel** - Trevenant, Sudowoodo, Exeggutor (Alolan), Tropius, Arboliva
 * **Isaac and all Venus Djinn** - any Ground-type
-* **Garet and all Fire Djinn** - any Fire-type
+* **Garet and all Mars Djinn** - any Fire-type
 * **Ivan and all Jupiter Djinn** - any Electric or Flying-type
 * **Mia and all Mercury Djinn** - any Water or [Ice-type](/nicknames/theme/ice-type/)
 * **Amaze** - Froslass, Vanilluxe, Cursola, Darmanitan (Galarian)
@@ -85,6 +85,5 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Eoleo** - any Fire-type
 * **Sveta** - any Electric or Flying-type
 * **Amiti** - any Water or Ice-type
-
 
 Do you have any Golden Sun themed nickname suggestions? Then head over to the contact me link on the left and email me your ideas!

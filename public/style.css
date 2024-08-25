@@ -35,9 +35,9 @@ aside h2.headings { margin-bottom: 0; font-size: 1rem; }
 
 p { line-height: 1.4; margin: 0;}
 
-ul.pokeball-icons, aside.right-sidebar ul, aside.left-sidebar ul { padding-left: 1.25rem; list-style-type: none; }
+ul.pokeball-icons, aside.right-sidebar ul, aside.left-sidebar ul { padding-left: 0.25rem; list-style-type: none; }
 
-ul.pokeball-icons li, aside.right-sidebar ul li, aside.left-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png"); background-position: 0; background-size: var(--gap); background-repeat: no-repeat; }
+ul.pokeball-icons li, aside.right-sidebar ul li, aside.left-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png"); background-position: 0; background-size: var(--gap); background-repeat: no-repeat; margin-bottom:0.25rem;}
 
 li { line-height: 1.4; }
 

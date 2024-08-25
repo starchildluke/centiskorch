@@ -11,7 +11,7 @@ lcpMediaType: 'image/jpeg'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/tyranitar.webp" type="image/webp">
-		<img src="/images/tyranitar.jpg" width="250px" height="250px" alt="a bipedal, dinosaur-like Pokémon with a sage green hide covering its body. It has several spikes all over its body, triangular holes on its legs and collar bone area and a turqoise-banded belly">
+		<img src="/images/tyranitar.jpg" width="250" height="250" alt="a bipedal, dinosaur-like Pokémon with a sage green hide covering its body. It has several spikes all over its body, triangular holes on its legs and collar bone area and a turqoise-banded belly">
 	</picture>
 </div>
 

@@ -620,6 +620,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">
 } & { render(): Render[".md"] };
+"themes/fire-type.md": {
+	id: "themes/fire-type.md";
+  slug: "themes/fire-type";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
 "themes/golden-sun.md": {
 	id: "themes/golden-sun.md";
   slug: "themes/golden-sun";
@@ -644,6 +651,13 @@ declare module 'astro:content' {
 "themes/tarot-cards.md": {
 	id: "themes/tarot-cards.md";
   slug: "themes/tarot-cards";
+  body: string;
+  collection: "nicknames";
+  data: InferEntrySchema<"nicknames">
+} & { render(): Render[".md"] };
+"tyranitar.md": {
+	id: "tyranitar.md";
+  slug: "tyranitar";
   body: string;
   collection: "nicknames";
   data: InferEntrySchema<"nicknames">

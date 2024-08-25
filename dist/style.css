@@ -17,7 +17,7 @@ h1 { font-size: 2rem; }
 
 h2 { font-size: 1.75rem; }
 
-:is(h2, h3, h4, div.float-right-img, div.float-left-img) + p {
+:is(h2, h3, h4, div.float-right-img, div.float-left-img) + p, .deets {
 	margin-top: var(--gap);
 }
 
@@ -35,9 +35,9 @@ aside h2.headings { margin-bottom: 0; font-size: 1rem; }
 
 p { line-height: 1.4; margin: 0;}
 
-ul.pokeball-icons, aside.right-sidebar ul, aside.left-sidebar ul { padding-left: 1.25rem; list-style-type: none; }
+ul.pokeball-icons, aside.right-sidebar ul, aside.left-sidebar ul { padding-left: 0.25rem; list-style-type: none; }
 
-ul.pokeball-icons li, aside.right-sidebar ul li, aside.left-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png"); background-position: 0; background-size: var(--gap); background-repeat: no-repeat; }
+ul.pokeball-icons li, aside.right-sidebar ul li, aside.left-sidebar ul li { padding-left: 1.25rem; background-image: url("/images/Cherish_Ball_Sprite.png"); background-position: 0; background-size: var(--gap); background-repeat: no-repeat; margin-bottom:0.25rem;}
 
 li { line-height: 1.4; }
 
@@ -147,7 +147,13 @@ article :is(h3, h4) { padding: .5rem; background: #ac484a; text-align: center; f
 
 .badges img { padding: 1rem; }
 
-.room-box { display:flex; gap: 1rem; margin-bottom: 1rem; }
+.room-box { display:flex; gap: 1rem; margin: 1rem 0; }
+
+.room-box-left { flex-shrink: 3 }
+
+.room-box-left:first-child :is(ul) { margin-top: 0 }
+
+.deets { margin-bottom: var(--gap); }
 
 /* CLASSES */
 

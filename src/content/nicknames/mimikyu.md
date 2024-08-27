@@ -53,6 +53,7 @@ With all that said, let's look at those Mimikyu nicknames!
 * **Valentina**
 * **Scraps**
 * **Patchwork**
+* **Shudder Mane**
 * **Oogie Boogie**<sup>[<a href="#ref-1">1</a>]</sup>
 * **Stitchface**<sup>[<a href="#ref-1">1</a>]</sup>
 * **Tomás**<sup>[<a href="#ref-1">1</a>]</sup>

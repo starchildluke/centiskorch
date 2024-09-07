@@ -706,6 +706,13 @@ declare module 'astro:content' {
   collection: "rooms";
   data: InferEntrySchema<"rooms">
 } & { render(): Render[".mdx"] };
+"golden-sun.mdx": {
+	id: "golden-sun.mdx";
+  slug: "golden-sun";
+  body: string;
+  collection: "rooms";
+  data: InferEntrySchema<"rooms">
+} & { render(): Render[".mdx"] };
 };
 
 	};

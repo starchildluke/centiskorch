@@ -11,7 +11,7 @@ lcpMediaType: 'image/webp'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/jellicent.webp" type="image/webp">
-		<img src="/images/jellicent.jpg" width="250px" height="250px" alt="">
+		<img src="/images/jellicent.png" width="250px" height="250px" alt="two dimorphic jellyfish-like Pokémon; blue and pink">
 	</picture>
 </div>
 

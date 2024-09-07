@@ -13,7 +13,9 @@ lcpMediaType: 'image/jpg'
 
 import RoomFilter from '../../components/RoomFilter.astro';
 
-<div class="img-center">![Blastoise](/images/blastoise.jpg)</div>
+<div class="img-center">
+	<img src={frontmatter.lcpSrc} width="300" height="297"/>
+</div>
 
 ## History
 
@@ -26,7 +28,7 @@ Designed by Ken Sugimori, Blastoise is called the Shellfish Pokémon (a category
 		<div class="room-box-left">
 				<picture class="img-center" style="display: block;">
 					<source srcset="/images/blastoise-2.jpeg" media="(min-width: 640px)" />
-					<img src="/images/blastoise-2.webp" alt="a closeup of Blastoise" loading="lazy" />
+					<img src="/images/blastoise-2.webp" alt="a closeup of Blastoise" loading="lazy" width="293" height="165" />
 				</picture>		
 			<p><strong>Pokémon Scarlet Pokédex entry</strong></p>
 			<p>It deliberately increases its body weight so it can withstand the recoil of the water jets it fires.</p>
@@ -106,7 +108,7 @@ Designed by Ken Sugimori, Blastoise is called the Shellfish Pokémon (a category
 
 			<p>Blastoise also has two other forms: a Mega form (Mega Blastoise), and a Gigantamax form (Gigantamax Blastoise).</p>
 
-			<div class="float-left-img"><img src="/images/mega-blastoise-250px.png" alt="Mega Blastoise" width="125" loading="lazy"/></div>
+			<div class="float-left-img"><img src="/images/mega-blastoise-250px.png" alt="Mega Blastoise" width="125" height="125" loading="lazy"/></div>
 
 			<p>Mega Blastoise (left) has two extra shells over its arms, housing their own water cannons (one per arm). It now only has one water cannon on its bag but it's much larger and its shape is similar to a silencer. Mega Blastoise's face is also different, with more pointed ears and a pointed chin.</p>
 

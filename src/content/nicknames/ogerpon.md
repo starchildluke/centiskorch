@@ -56,6 +56,10 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Guacamole**
 * **Salsa**
 * **Burrito**
+* **Guava**
+* **Breadfruit**
+* **Cucamelon**
+* **Soursop**
 
 ### B-Tier
 
@@ -71,6 +75,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Mask Up**
 * **Lil Grn Girl**
 * **Gamora**
+* **Kiwi**
 
 ### C-Tier
 

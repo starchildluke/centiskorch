@@ -65,6 +65,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Cameroon** - their national soccer team are known as the Indomitable Lions
 * **Lion King**
 * **Dragon Kitty**
+* **Sabrecat**
 
 ### C-Tier
 

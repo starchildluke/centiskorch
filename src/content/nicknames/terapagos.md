@@ -62,6 +62,7 @@ With all that said, let's look at those Terapagos nicknames!
 * **Cruz** - Santa Cruz is one of the cantons of the Galápagos Islands and it's a homophone of "cruise"
 * **Mydas** - from Chelonia mydas, the Latin name for the green sea turtle
 * **Gala** - from Galápagos
+* **Testudo** - the mascot of the University of Maryland, College Park
 
 ### C-Tier
 

@@ -60,6 +60,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Marvelous** - after the Marvelous Bridge in Unova
 * **Oi Palloy** - a play on Oi Pollio, a Scottish punk band from the 80s
 * **Earl Luminum** - from Rocket Slime
+* **Silver**
 
 ### B-Tier
 
@@ -92,5 +93,6 @@ With all that said, let's look at those Archaludon nicknames!
 * **Skyarrow**
 * **Tubeline**
 * **Silence** - after the bridge on Route 12 in Kanto (which I didn't know even had a name!)
+* **Stanley**
 
 Do you have a favourite Archuladon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

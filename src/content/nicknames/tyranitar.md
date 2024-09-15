@@ -146,6 +146,7 @@ lcpMediaType: 'image/jpeg'
 * **Nail**
 * **Naga** - from Monster Rancher
 * **Coredramon**
+* **Godzilla2014** - via [this Pokémon meme](https://www.instagram.com/pokechu777/p/C7ASblQyCF_/)
 
 ### C-Tier
 

@@ -62,6 +62,7 @@ With all that said, let's look at those Jellicent nicknames!
 * **Calamar**
 * **Man o’ War**
 * **Aqua Jelly **
+* **Jellowstone**
 
 ### B-Tier
 

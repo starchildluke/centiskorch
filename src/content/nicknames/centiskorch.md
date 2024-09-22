@@ -79,6 +79,8 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Fuego** - Spanish for fire
 * **Corona** - not the virus
 * **Inferno** - It's G-Max move is Centiferno. Maybe a little on the nose? I'll leave that up to you.
+* **WrigglysXtra** - like the chewing gum, geddit?
+* **Hello Legs**
 
 ### D-Tier
 

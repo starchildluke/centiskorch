@@ -99,6 +99,7 @@ lcpMediaType: 'image/jpeg'
 ### S-Tier
 
 * **Tomada** - Portuguese for an electric outlet or socket (it's what I called my Bellibolt in my Violet playthrough)
+* **TummyHilfigr**
 
 ### A-Tier
 
@@ -107,6 +108,7 @@ lcpMediaType: 'image/jpeg'
 * **Rash/Zitz/Pimple** - from Battletoads
 * **Amp Fiddler** - RIP
 * **Gauging Bolt**
+* **Tum Holland**
 
 ### B-Tier
 
@@ -132,6 +134,7 @@ lcpMediaType: 'image/jpeg'
 * **Jellibolt**
 * **Squishy**
 * **Frog Face**
+* **Belly**
 
 ### D-Tier
 
@@ -142,5 +145,6 @@ lcpMediaType: 'image/jpeg'
 * **Ribbit**
 * **Frogmarch**
 * **The Prince**
+* **Yellow Belly**
 
 Do you have a favourite Bellibolt nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

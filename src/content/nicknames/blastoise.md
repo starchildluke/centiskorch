@@ -49,6 +49,7 @@ With all that said, let's look at those Blastoise nicknames!
 * **Rainer**
 * **CharginChuck**
 * **King Koopa**
+* **Turt Angle**
 
 ### B-Tier
 

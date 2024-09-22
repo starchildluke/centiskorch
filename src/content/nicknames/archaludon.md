@@ -39,6 +39,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Obelisk**
 * **Megalith**
 * **Onslaught**
+* **Steely Don**
 
 ### A-Tier
 
@@ -87,6 +88,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Strat**
 * **Bridget** - if it's a girl
 * **Lyne/Lyne Bridge**
+* **Archie**
 
 ### D-Tier
 
@@ -95,5 +97,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Tubeline**
 * **Silence** - after the bridge on Route 12 in Kanto (which I didn't know even had a name!)
 * **Stanley**
+* **Bart**
+* **Versaceludon**
 
 Do you have a favourite Archuladon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

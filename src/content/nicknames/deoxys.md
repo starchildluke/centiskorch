@@ -48,6 +48,7 @@ With all that said, let's look at those Deoxys nicknames!
 * **Helix**
 * **Aurora**
 * **Kin** - from tele**kin**esis
+* **Legion** - [after the character from Red Dwarf](https://en.wikipedia.org/wiki/Legion_(Red_Dwarf))
 
 ### A-Tier
 

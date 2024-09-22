@@ -55,6 +55,8 @@ With all that said, let's look at those Beautifly nicknames!
 * **M. Butterfly**
 * **Kallima**
 * **Damselfly** - from Dragon Quest
+* **Winging It**
+* **Wing&APrayer**
 
 ### C-Tier
 
@@ -69,6 +71,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Lady Bug**
 * **Debug Mode**
 * **Poompatta**
+* **Wing Ding**
 
 ### D-Tier
 

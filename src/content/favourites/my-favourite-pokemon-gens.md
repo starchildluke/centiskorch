@@ -2,7 +2,6 @@
 title: 'My favourite Pokémon generations'
 description: "Here is a list of my favourite Pokémon generations, with my reasons why. If your opinion differs, that's okay!"
 pubDate: '29 Aug 2023'
-draft: true
 ---
 
 I thought I'd compile a list of my favourite Pokémon generations. This list will undoubtedly change over time as I play more of these games and as new games get released. Therefore, these positions won't stick (except for the top 3; [those are laminated](https://www.youtube.com/watch?v=vOWAggYhgHQ).)

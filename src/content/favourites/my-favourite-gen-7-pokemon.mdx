@@ -1,0 +1,26 @@
+---
+title: 'My favourite Gen 7 Pokémon'
+description: "Here is a list of my favourite Generation 7 Pokémon, with their sprites from X/Y, and why I love them so much."
+pubDate: '24 Sep 2024'
+altText: "a sprite of "
+---
+import pkmn from '../../data/gen7.json';
+
+I'm a fan of quite a few of the new Pokémon from Sun/Moon and Ultra Sun/Ultra Moon. While these haven't been the best games in the series for me, I've still enjoyed playing through and catching some of the new Alola Pokémon.
+
+<table class="fave-pkmn">
+	<thead>
+		<tr>
+			<th>Pokémon</th>
+			<th>Sprite</th>
+			<th>Reason</th>
+		</tr>
+	</thead>
+	{pkmn.favouritePokémon.map((item) => (
+	<tr>
+		<td>{item.pokémon}</td>
+		<td><img src={item.sprite} alt={frontmatter.altText + item.pokémon} /></td>
+		<td><Fragment set:html={item.reason} /></td>
+	</tr>
+	))}
+</table>

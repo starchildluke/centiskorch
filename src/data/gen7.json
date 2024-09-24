@@ -1,0 +1,109 @@
+{
+   "favouritePokémon": [
+      {
+         "pokémon": "Decidueye",
+         "sprite": "/images/sprites/gen7/724.png",
+         "reason": "I didn't fall in love with Decidueye until Park Se-jun built a team with it in Sword and Shield and then I discovered the shiny. Beautiful and a great inspiration story."
+      },
+      {
+         "pokémon": "Incineroar",
+         "sprite": "/images/sprites/gen7/727.png",
+         "reason": "I intially hated Incineroar because of VGC. It was everywhere and people kept swapping it in and out and that killed the enjoyment of matches for me. Then I started using it myself and did the same thing so I'm a hypocrite. Now I love it in Scarlet and Violet as it's still OP but that switch in/out style isn't as prevalent."
+      },
+      {
+         "pokémon": "Toucannon",
+         "sprite": "/images/sprites/gen7/733.png",
+         "reason": "It's a toucan with a beautiful beak and the shiny is so colourful (Bi Visibility!). I also like its signature move, Beak Blast."
+      },
+      {
+         "pokémon": "Charjabug",
+         "sprite": "/images/sprites/gen7/737.png",
+         "reason": "It's like a little bug loaf, all rectangular and rounded at the edges."
+      },
+      {
+         "pokémon": "Vikavolt",
+         "sprite": "/images/sprites/gen7/738.png",
+         "reason": "I used one in my Ultra Sun playthrough and, despite the lack of speed, it packs a punch and the design is awesome."
+      },
+      {
+         "pokémon": "Salazzle",
+         "sprite": "/images/sprites/gen7/758.png",
+         "reason": "I don't know how to explain it but Salazzle makes me think of Teyana Taylor. It's the stance and the sleek movement and design. And, hello, Fire type!"
+      },
+      {
+         "pokémon": "Passimian",
+         "sprite": "/images/sprites/gen7/766.png",
+         "reason": "QUARTERBACK SNEAK!"
+      },
+      {
+         "pokémon": "Golisopod",
+         "sprite": "/images/sprites/gen7/768.png",
+         "reason": "What if a giant isopod was like a samurai transformer?"
+      },
+      {
+         "pokémon": "Palossand",
+         "sprite": "/images/sprites/gen7/770.png",
+         "reason": "A haunted sand castle with a creepy Pokédex entry: <q>The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.</q>"
+      },
+      {
+         "pokémon": "Mimikyu",
+         "sprite": "/images/sprites/gen7/778.png",
+         "reason": "More creepiness hidden behind cuteness. Had some great moments in VGC too."
+      },
+      {
+         "pokémon": "Drampa",
+         "sprite": "/images/sprites/gen7/780.png",
+         "reason": "Literally a dragon grandpa, what's not to love?"
+      },
+      {
+         "pokémon": "Kommo-o",
+         "sprite": "/images/sprites/gen7/784.png",
+         "reason": "Cool design, great stats, and really powerful."
+      },
+      {
+         "pokémon": "Tapu Koko",
+         "sprite": "/images/sprites/gen7/785.png",
+         "reason": "Fast and energetic, like an electric chicken. I used one in Sword and Shield as my electric terrain setter and it packed a punch."
+      },
+      {
+         "pokémon": "Tapu Lele",
+         "sprite": "/images/sprites/gen7/786.png",
+         "reason": "Pink and cute, sadly never got to use it but I like it."
+      },
+      {
+         "pokémon": "Tapu Fini",
+         "sprite": "/images/sprites/gen7/788.png",
+         "reason": "My favourite Tapu. So bulky and versatile, I miss it :("
+      },
+      {
+         "pokémon": "Solgaleo",
+         "sprite": "/images/sprites/gen7/791.png",
+         "reason": "My glorious lion. I love it so much. It hits hard and it's Steel type so it takes huge damage too. I love a majestic lion Pokémon."
+      },
+      {
+         "pokémon": "Lunala",
+         "sprite": "/images/sprites/gen7/792.png",
+         "reason": "I grew attached to Lunala after <a href='/blog/how-i-caught-lunala-moon-ball/'>trying to catch it in a Moon Ball</a>. It's a giant moon bat and it has a lot of cool techs."
+      },
+      {
+         "pokémon": "Xurkitree",
+         "sprite": "/images/sprites/gen7/796.png",
+         "reason": "Just a bunch of sentient wires. Haters gon' hate but I like it."
+      },
+      {
+         "pokémon": "Guzzlord",
+         "sprite": "/images/sprites/gen7/799.png",
+         "reason": "Big and ugly, a huge 223 base HP, and it's officially the Junkivore Pokémon."
+      },
+      {
+         "pokémon": "Blacephalon",
+         "sprite": "/images/sprites/gen7/806.png",
+         "reason": "The spinning head always makes me laugh and its tendency to just explode. Here for a good time, not a long time."
+      },
+      {
+         "pokémon": "Zeraora",
+         "sprite": "/images/sprites/gen7/807.png",
+         "reason": "Another Alolan kitty. I have a shiny one which is my prized possession but I love the original yellow form. From a VGC perspective, it's a shame that Zeraora is a Mythical as it's only been legal once (at the end of Sword and Shield). With an Assault Vest and the right EVs, it has the capacity to be good."
+      }
+   ]
+}

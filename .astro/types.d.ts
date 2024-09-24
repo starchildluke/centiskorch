@@ -320,6 +320,13 @@ declare module 'astro:content' {
   collection: "favourites";
   data: any
 } & { render(): Render[".mdx"] };
+"my-favourite-gen-7-pokemon.mdx": {
+	id: "my-favourite-gen-7-pokemon.mdx";
+  slug: "my-favourite-gen-7-pokemon";
+  body: string;
+  collection: "favourites";
+  data: any
+} & { render(): Render[".mdx"] };
 "my-favourite-gen-9-pokemon.mdx": {
 	id: "my-favourite-gen-9-pokemon.mdx";
   slug: "my-favourite-gen-9-pokemon";

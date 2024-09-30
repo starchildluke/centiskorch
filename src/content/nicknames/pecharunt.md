@@ -77,7 +77,6 @@ With all that said, let's look at those Pecharunt nicknames!
 * **Cobbler**
 * **Forbidden**
 * **Persche** - a mix of <span lang="it">pesche</span> (Italian for "peach") and Porsche, a make of sports car
-* **Introvert**
 * **Jatropha** - because it's poisonous
 
 Do you have a favourite Pecharunt nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -63,6 +63,7 @@ With all that said, let's look at those Terapagos nicknames!
 * **Mydas** - from Chelonia mydas, the Latin name for the green sea turtle
 * **Gala** - from Galápagos
 * **Testudo** - the mascot of the University of Maryland, College Park
+* **Archelon** - an extinct marine turtle and the largest ever documented
 
 ### C-Tier
 
@@ -71,9 +72,12 @@ With all that said, let's look at those Terapagos nicknames!
 * **Pacific** - the Galápagos Islands are in the Pacific Ocean so it seems fitting
 * **Turtleneck**
 * **Terrorpin** - from [the Legend of Zelda](/nicknames/themes/legend-of-zelda/)
+* **Myrtle**
+* **Shellshocker**
 
 ### D-Tier
 
 * **Crystle** - kinda like Squirtle? Sorry, I phoned this one in
+* **Shellissimo/a**
 
 Do you have a favourite Terapagos nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

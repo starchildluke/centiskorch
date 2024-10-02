@@ -396,6 +396,13 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "nicknames": {
+"ambipom.md": {
+	id: "ambipom.md";
+  slug: "ambipom";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".md"] };
 "annihilape.md": {
 	id: "annihilape.md";
   slug: "annihilape";

@@ -676,6 +676,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
+"themes/rivals-of-aether.md": {
+	id: "themes/rivals-of-aether.md";
+  slug: "themes/rivals-of-aether";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".md"] };
 "themes/tarot-cards.md": {
 	id: "themes/tarot-cards.md";
   slug: "themes/tarot-cards";

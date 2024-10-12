@@ -234,6 +234,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
+"pokemon-purergb.mdx": {
+	id: "pokemon-purergb.mdx";
+  slug: "pokemon-purergb";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".mdx"] };
 "pokemon-types-more-immunities-realize.mdx": {
 	id: "pokemon-types-more-immunities-realize.mdx";
   slug: "pokemon-types-more-immunities-realize";

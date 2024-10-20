@@ -25,15 +25,13 @@ It appears to be based on a dragonfly but I definitely see elements of helicopte
 My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
-* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
-* I'll usually list my inspiration for a nickname so you know where they came from
+* I'll usually list my inspiration for a nickname so you know where they came from.
 
 With all that said, let's look at those Yanma nicknames!
 
 ### S-Tier
 
 * **Airwolf** - as it reminds me of the helicopter from Airwolf
-* **Chroma**(\*)
 
 ### A-Tier
 
@@ -45,7 +43,6 @@ With all that said, let's look at those Yanma nicknames!
 * **Motif** - as dragonflies were often used as motifs in Art Nouveau
 * **Pepper** - from a haiku by Japanese poet Matsuo Bashō: <q cite="https://books.google.co.uk/books?id=C6g_0ibafjcC&pg=PA36&redir_esc=y#v=onepage&q&f=false">Crimson pepper pod / add two pairs of wings, and look / darting dragonfly</q>
 * **Sparx** - named after Sparx the dragonfly from Spyro: Enter the Dragonfly
-* **Zephyr**(\*) - the original suggestion was Zephyrwing but Zephyr sounds better
 * **Whisper** - as quiet as its wings
 * **Iris** - I thought it was nice
 * **Serena** - as above
@@ -57,9 +54,7 @@ With all that said, let's look at those Yanma nicknames!
 * **Jan** - pronounced "Yan", from Yanyanma, its Japanese name
 * **Sikorsky** - named after Sikorsky, a helicopter manufacturer
 * **Wilson Frisk** - from its Hidden Ability, Frisk
-* **Breezy**(\*) - the original suggestion was Breezytail but Breezy sounds better
 * **Zenith**
-* **Gossamer**(\*) - something light, delicate, or insubstantial
 
 ### C-Tier
 

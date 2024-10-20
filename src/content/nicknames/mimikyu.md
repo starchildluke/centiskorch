@@ -32,8 +32,7 @@ Etymologically, Mimikyu is wordplay for "mimic you", referencing its copying of 
 My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
-* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
-* I'll usually list my inspiration for a nickname so you know where they came from
+* I'll usually list my inspiration for a nickname so you know where they came from.
 
 With all that said, let's look at those Mimikyu nicknames!
 

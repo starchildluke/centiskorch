@@ -20,7 +20,6 @@ Name-wise, Iron Moth is made up of Iron and Moth. Shocker!
 My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
-* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
 * I'll usually list my inspiration for a nickname so you know where they came from
 
 With all that said, let's look at those Iron Moth nicknames!
@@ -56,7 +55,6 @@ With all that said, let's look at those Iron Moth nicknames!
 * **Candy Corn** - devisive, I know!
 * **Flitter Mane** - just don't use this name in a VGC tournament or they could warn you or ban your Pokémon. Yeah, wild!
 * **Frutterbee** - an interpolation of Butterfree
-* **Emberwing**(\*) - makes sense
 * **i love lamp** - [i love lamp!](https://www.youtube.com/watch?v=gId6nrMDmUU)
 * **Moth**
 * **Rustox** - because iron _rusts_ and it's a moth like Dustox?

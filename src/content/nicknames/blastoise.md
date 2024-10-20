@@ -25,7 +25,6 @@ There was early concept art for a Pokémon called "Karabajio" which looked a hel
 My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
-* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
 * I'll usually list my inspiration for a nickname so you know where they came from
 
 With all that said, let's look at those Blastoise nicknames!
@@ -71,9 +70,5 @@ With all that said, let's look at those Blastoise nicknames!
 * **Tony**
 * **Saga*
 * **Wartoise** - from Dragon Quest
-
-### D-Tier
-
-* **Shellebrate**
 
 Do you have a favourite Blastoise nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

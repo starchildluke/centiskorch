@@ -25,7 +25,6 @@ Like Magby and Magmar, Magmortar takes inspiration from the booby (a seabird) an
 My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
-* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
 * I'll usually list my inspiration for a nickname so you know where they came from
 
 With all that said, let's look at those Magmortar nicknames!
@@ -63,9 +62,8 @@ With all that said, let's look at those Magmortar nicknames!
 ### C-Tier
 
 * **Nick Cannon** - because cannons
-* **Hotshot***
 * **Blastoes** - like a play on Blastoise and it has four toes... I dunno
-* **Ogon*** - from the Russian <span lang="ru">огонь</span>, meaning 'fire'
+* **Ogon** - from the Russian <span lang="ru">огонь</span>, meaning 'fire'
 * **Bapushka** - a play on "babushka", and "pushka" which is Russian for "cannon"
 * **Moltar**
 * **Barrel**

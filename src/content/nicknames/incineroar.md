@@ -91,8 +91,7 @@ lcpMediaType: 'image/webp'
 	<summary><strong>My nicknaming methodology</strong></summary>
 	<ul>
 		<li>I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.</li>
-		<li>I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) </li>but they'll always be amended where necessary
-		<li>I'll usually list my inspiration for a nickname so you know where they came from</li>
+		<li>I'll usually list my inspiration for a nickname so you know where they came from.</li>
 	</ul>
 	</details>
 </section>
@@ -110,7 +109,7 @@ lcpMediaType: 'image/webp'
 * **Tigress**
 * **WilliamRegal**
 * **Tony**
-* **Hotpaws**\*
+* **Hot Paws**
 * **Southpaw**
 * **Mike Pawesome**
 
@@ -147,7 +146,6 @@ lcpMediaType: 'image/webp'
 * **ScottSteiner**
 * **Ferokitty**
 * **Whisker Away**
-* **Cataclysm**\*
 * **Chester** - after Chester Cheetah
 
 Do you have a favourite Incineroar nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

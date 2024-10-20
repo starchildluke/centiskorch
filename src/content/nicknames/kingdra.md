@@ -25,7 +25,6 @@ As its name and evolution line suggests, Kingdra takes inspiration from the seah
 My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
-* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
 * I'll usually list my inspiration for a nickname so you know where they came from
 
 With all that said, let's look at those Kingdra nicknames!
@@ -45,8 +44,6 @@ With all that said, let's look at those Kingdra nicknames!
 * **Piers**
 * **Azulejo** - named after the famous Portuguese tiles
 * **Lapis**
-* **Abyss***
-* **Leviathan***
 
 ### B-Tier
 
@@ -58,10 +55,7 @@ With all that said, let's look at those Kingdra nicknames!
 * **Wharf**
 * **Blurple**
 * **Delf** - related to a shade of blue taken from Dutch ceramics
-* **Majesty*** - because it's a king!
-* **Tyrant***
 * **DeepBlueSea**
-* **Tidal***
 
 ### C-Tier
 

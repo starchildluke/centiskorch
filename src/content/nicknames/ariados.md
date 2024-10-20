@@ -27,8 +27,7 @@ Name-wise, it could be a mix of Ariadne, a princess from Greek mythology, which 
 My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
-* I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) but they'll always be amended where necessary
-* I'll usually list my inspiration for a nickname so you know where they came from
+* I'll usually list my inspiration for a nickname so you know where they came from.
 
 With all that said, let's look at those Ariados nicknames!
 
@@ -42,7 +41,6 @@ With all that said, let's look at those Ariados nicknames!
 ### A-Tier
 
 * **Silky Nutmeg/Silky/Nutmeg/Ganache** - you already knooooow!
-* **Venoma**(\*) - it rhymes with Nemona too!
 * **Recluse** - based on the brown recluse
 * **Anansi** - named after the African folkhero
 * **Anti-Venom/Auntie Venom** - gender depedent!
@@ -55,7 +53,7 @@ With all that said, let's look at those Ariados nicknames!
 * **Legs** - it's literally the Long Leg Pokémon
 * **Spidey** - your Spider-Sense should be tingling
 * **Madame Web** - inspired by Spider-Man
-* **Spindle**(\*) - a straight spike, usually made from wood, used for spinning, twisting fibers such as wool, flax, hemp, cotton into yarn
+* **Spindler** - a straight spike, usually made from wood, used for spinning, twisting fibers such as wool, flax, hemp, cotton into yarn
 * **Ogreface** - O-o-o-o-ogreface, o-o-oogreface!
 * **Trapdoor** - named after the spider species
 * **Bagheera** - based on the bagheera kiplingi, a species of jumping spider
@@ -64,11 +62,7 @@ With all that said, let's look at those Ariados nicknames!
 
 * **Charlotte**
 * **Combfoot** - named after the spider species
-* **Spinnerock**(\*) - if you run a Rock tera for some reason?
-* **Araknid**(\*) - gotta love an edgy change of spelling
-* **Creepster**(\*) - adding "-ster" to any name is funny to me
-* **Weaver**(\*)
-* **Webber**(\*)
+* **Webster**
 * **Wallwalker**
 * **Tektite** - an enemy from [The Legend of Zelda](/nicknames/themes/legend-of-zelda/)
 * **Eensy Weensy**

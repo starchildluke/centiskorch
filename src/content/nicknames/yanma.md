@@ -32,6 +32,7 @@ With all that said, let's look at those Yanma nicknames!
 ### S-Tier
 
 * **Airwolf** - as it reminds me of the helicopter from Airwolf
+* **Blue Thunder** - [it's not Airwolf!](https://www.youtube.com/watch?v=OpGlOyj_8GQ)
 
 ### A-Tier
 

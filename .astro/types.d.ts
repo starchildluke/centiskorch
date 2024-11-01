@@ -473,6 +473,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
+"feraligatr.md": {
+	id: "feraligatr.md";
+  slug: "feraligatr";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".md"] };
 "ferrothorn.md": {
 	id: "ferrothorn.md";
   slug: "ferrothorn";

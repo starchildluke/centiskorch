@@ -112,6 +112,7 @@ lcpMediaType: 'image/webp'
 * **Hot Paws**
 * **Southpaw**
 * **Mike Pawesome**
+* **Carnage**
 
 ### B-Tier
 
@@ -129,6 +130,7 @@ lcpMediaType: 'image/webp'
 * **Wildfire**
 * **Hellcat**
 * **Cheshire**
+* **Darth Maul**
 
 ### C-Tier
 

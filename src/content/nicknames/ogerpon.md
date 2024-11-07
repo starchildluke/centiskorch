@@ -59,6 +59,8 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Breadfruit**
 * **Cucamelon**
 * **Soursop**
+* **Pengo**
+* **Pongo**
 
 ### B-Tier
 

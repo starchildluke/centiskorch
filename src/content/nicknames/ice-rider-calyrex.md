@@ -45,6 +45,7 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **HorseGoBrrr**
 * **WinterBreeze**
 * **Snow Cone**
+* **Polar**
 
 ### B-Tier
 
@@ -55,6 +56,7 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **Icepick**
 * **Coldheart**
 * **Freezer**
+* **Apollo**
 
 ### C-Tier
 

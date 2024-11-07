@@ -42,6 +42,7 @@ With all that said, let's look at those Ferrothorn nicknames!
 * **Jakarta** - because durians are native to Indonesia and Jakarta is the capital
 * **Ferrodome** - a play on "Terror Dome" and "Ferro-"
 * **Earl Luminum** - from Rocket Slime
+* **Horrent** - a partial anagram of Ferrothorn and an adjective meaning <q cite="https://www.thewordfinder.com/define/horrent">standing erect, as bristles; covered with bristling points; bristled; bristling.</q>
 
 ### B-Tier
 

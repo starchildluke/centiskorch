@@ -39,6 +39,7 @@ With all that said, let's look at those Iron Moth nicknames!
 * **Blaze** - it's a Fire type and has the biggest Special Attack of all Paradox Pokémon
 * **Hercules** - a type of moth and it works with the strength element, mentioned above
 * **Emperor** - another type of moth and such a majestic name
+* **Hornito** - <q cite="https://www.thewordfinder.com/define/hornito">A low, oven-shaped mound, common in volcanic regions, emitting smoke and vapours from its sides and summit.</q>
 
 ### B-Tier
 

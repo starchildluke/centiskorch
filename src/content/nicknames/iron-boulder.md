@@ -60,6 +60,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Phantasm** - it's a horror movie so look it up in your own time and you might see what I mean. Also works with the Psychic vibe
 * **Cannonbull**
 * **Rotunda**
+* **Blondie**
 
 ### D-Tier
 
@@ -70,5 +71,8 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Roly Poly**
 * **RoliePolieOlie**
 * **Bomboulder** - from Dragon Quest
+* **Bourdon**
+* **Berlin**
+* **Bolero**
 
 Do you have a favourite Iron Boulder nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

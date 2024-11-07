@@ -108,6 +108,7 @@ lcpMediaType: 'image/jpeg'
 * **Amp Fiddler** - RIP
 * **Gauging Bolt**
 * **Tum Holland**
+* **Bibelot** - a small, decorative ornament or trinket.
 
 ### B-Tier
 
@@ -120,6 +121,7 @@ lcpMediaType: 'image/jpeg'
 * **Dynamo**
 * **Marshmallow**
 * **Play-Doh**
+* **Bilbo**
 
 ### C-Tier
 
@@ -134,6 +136,7 @@ lcpMediaType: 'image/jpeg'
 * **Squishy**
 * **Frog Face**
 * **Belly**
+* **Ollie**
 
 ### D-Tier
 

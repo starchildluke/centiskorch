@@ -56,6 +56,7 @@ With all that said, let's look at those Yanma nicknames!
 * **Sikorsky** - named after Sikorsky, a helicopter manufacturer
 * **Wilson Frisk** - from its Hidden Ability, Frisk
 * **Zenith**
+* **Maya**
 
 ### C-Tier
 

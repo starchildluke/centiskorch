@@ -113,6 +113,7 @@ lcpMediaType: 'image/webp'
 * **Southpaw**
 * **Mike Pawesome**
 * **Carnage**
+* **Conan**
 
 ### B-Tier
 
@@ -131,6 +132,8 @@ lcpMediaType: 'image/webp'
 * **Hellcat**
 * **Cheshire**
 * **Darth Maul**
+* **Scarlet**
+* **Bordeaux**
 
 ### C-Tier
 

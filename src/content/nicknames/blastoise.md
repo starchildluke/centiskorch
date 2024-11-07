@@ -16,7 +16,7 @@ Let's look at some info on Blastoise and suggested nicknames.
 
 ## Origins
 
-Blastoise is a giant turtle with water cannons on its back. And half of its name is tortoise. And blast. While it's the final evolution of Squirtle, it may have been a standalone Pokémon with no connection to Squirtle or Wartotle.  
+Blastoise is a giant turtle with water cannons on its back. And half of its name is tortoise. And blast. While it's the final evolution of Squirtle, it may have been a standalone Pokémon with no connection to Squirtle or Wartotle.
 
 There was early concept art for a Pokémon called "Karabajio" which looked a helluva lot like Blastoise but without the water cannons (or maybe they were tucked in, we'll never know). The name looked like a play on Caravaggio as an homage to Teenage Mutant Ninja Turtles using famous Renassiance artists for their names.
 
@@ -49,6 +49,7 @@ With all that said, let's look at those Blastoise nicknames!
 * **CharginChuck**
 * **King Koopa**
 * **Turt Angle**
+* **Bastile**
 
 ### B-Tier
 

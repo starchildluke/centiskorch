@@ -36,6 +36,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Crossfire** - There's a cross on its mouth and, you know, fire.
 * **Hector** - "Hecto-" is Greek for 100. Centi- is Latin for 100. And I read this nickname in Gus Fring's voice which makes it funnier.
 * **Box Box** - My son called his Sizzlipede this and the random cuteness makes it an Ubers pick by default. Not sorry, I DO make the rules around here!
+* **Ricochet**
 
 ### A-Tier
 

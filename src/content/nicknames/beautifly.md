@@ -39,6 +39,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Fly Girl** - [don't let a gangsta diss her though!](https://www.youtube.com/watch?v=3sH95YrJKEI)
 * **Femme Fatale** - apparently, <q cite="https://bulbapedia.bulbagarden.net/wiki/Beautifly_(Pok%C3%A9mon)#Pok.C3.A9dex_entries_2">it attacks ferociously when angered. </q>
 * **Madame**
+* **Fable**
 
 ### B-Tier
 
@@ -56,6 +57,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Damselfly** - from Dragon Quest
 * **Winging It**
 * **Wing&APrayer**
+* **Bailey**
 
 ### C-Tier
 

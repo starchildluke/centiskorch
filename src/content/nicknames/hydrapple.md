@@ -43,6 +43,8 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Orochi** - based on [Yamata no Orochi](https://en.wikipedia.org/wiki/Yamata_no_Orochi), a legendary eight-headed and eight-tailed Japanese dragon/serpent
 * **The Beast** - from the Book of Revelation
 * **Balaur**
+* **Fiona**
+* **HeadOvaPeels**
 
 ### B-Tier
 
@@ -50,6 +52,9 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Nanapple** - as above + apple
 * **HowsYourHead**
 * **TheBigApple**
+* **Ralph**
+* **Fiji**
+* **Parsley**
 
 ### C-Tier
 
@@ -58,6 +63,7 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Apple Hydra**
 * **Pyrodra** - from [Golden Sun](/nicknames/themes/golden-sun/)
 * **Cupertino** - where Apple is headquartered
+* **Dappy**
 
 #### D-Tier
 

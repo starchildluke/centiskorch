@@ -28,6 +28,7 @@ With all that said, let's look at those Scolipede nicknames!
 * **Siren** - see "Bermuda" for the rationale
 * **Bordeaux** - because of the wine colour
 * **Merlot** - see above
+* **Eclipse*
 
 ### B-Tier
 

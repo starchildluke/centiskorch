@@ -68,6 +68,7 @@ With all that said, let's look at those Dipplin nicknames!
 * **Apple Juice**
 * **Cobbler** - as in apple cobbler
 * **Cinnamon** - because cinnamon goes with apple!
+* **Pipi**
 
 ### C-Tier
 

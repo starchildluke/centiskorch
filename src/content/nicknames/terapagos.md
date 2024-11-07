@@ -46,7 +46,7 @@ With all that said, let's look at those Terapagos nicknames!
 
 ### A-Tier
 
-* **Pax** - so GPT-3.5 suggested "Carapax" (which happens to be a DC supervillain) but I didn't think it quite fit so I shortened it to Pax.
+* **Pesto**
 
 ### B-Tier
 
@@ -63,6 +63,8 @@ With all that said, let's look at those Terapagos nicknames!
 * **Gala** - from Galápagos
 * **Testudo** - the mascot of the University of Maryland, College Park
 * **Archelon** - an extinct marine turtle and the largest ever documented
+* **Seaport**
+* **Ragtop**
 
 ### C-Tier
 

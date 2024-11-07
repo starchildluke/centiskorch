@@ -46,6 +46,8 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **GougingTiger** - (Hidden Dragon)
 * **Lynel** - from [The Legend of Zelda franchise](/nicknames/themes/legend-of-zelda/)
 * **Hellspawn** - from Dragon Quest
+* **Rogue**
+* **Gunfire**
 
 ### B-Tier
 

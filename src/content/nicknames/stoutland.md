@@ -61,6 +61,7 @@ With all that said, let's look at those Stoutland nicknames!
 * **Good Doggo**
 * **Saviour**
 * **Snoop Dog**
+* **Sandy**
 
 ### D-Tier
 

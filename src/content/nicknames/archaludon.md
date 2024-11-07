@@ -62,6 +62,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Earl Luminum** - from Rocket Slime
 * **Silver**
 * **MechGodzilla** - via [this Pokémon meme](https://www.instagram.com/pokechu777/p/C7ASblQyCF_/); shortened due to the character limit
+* **Cauldron**
 
 ### B-Tier
 

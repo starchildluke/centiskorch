@@ -53,6 +53,7 @@ With all that said, let's look at those Annihilape nicknames!
 * **Ape Escape** - courtesy of Wolfe Glick
 * **Rampage**
 * **Punisher**
+* **Panini**
 
 ### B-Tier
 

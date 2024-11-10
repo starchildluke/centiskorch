@@ -48,9 +48,9 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Garet and all Mars Djinn** - any Fire-type
 * **Ivan and all Jupiter Djinn** - any Electric or Flying-type
 * **Mia and all Mercury Djinn** - any Water or [Ice-type](/nicknames/themes/ice-type/)
-* **Amaze** - Froslass, Vanilluxe, Cursola, Darmanitan (Galarian)
+* **Amaze** - Froslass, Vanilluxe, Cursola, [Darmanitan (Galarian)](/nicknames/darmanitan/)
 * **Ant Lion, Roach, and Doodle Bug** - Durant, Trapinch, Drapion, Rabsca, Orbeetle
-* **Ape** - [Annihilape](/nicknames/annihilape/), Oranguru, Passimian, Ambipom, Infernape, Darmanitan, Rillaboom, Zarude, Simipour/Simisear/Simisage
+* **Ape** - [Annihilape](/nicknames/annihilape/), Oranguru, Passimian, Ambipom, Infernape, [Darmanitan](/nicknames/darmanitan/), Rillaboom, Zarude, Simipour/Simisear/Simisage
 * **Bat** - Crobat, Noivern, Lunala, Swoobat, Gliscor
 * **Chimera** - Silvally
 * **Cuttle, Calamar, Man o' War, and Aqua Jelly** - Tentacruel, Nihilego, [Jellicent](/nicknames/jellicent/), Malamar

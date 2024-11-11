@@ -115,7 +115,7 @@ lcpMediaType: 'image/jpeg'
 * **Tony**
 * **Arcangel**
 * **Squall**
-* **Kirin** - from [Golden Sun](/nicknames/golden-sun/)
+* **Kirin** - from [Golden Sun](/nicknames/themes/golden-sun/)
 
 ### B-Tier
 
@@ -138,7 +138,7 @@ lcpMediaType: 'image/jpeg'
 
 * **Rai/Ray**
 * **Tempest**
-* **Thor** - also featured in [Golden Sun](/nicknames/golden-sun/)
+* **Thor** - also featured in [Golden Sun](/nicknames/themes/golden-sun/)
 * **Zeus**
 * **ZZZap!**
 * **High Voltage**

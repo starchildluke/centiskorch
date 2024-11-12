@@ -10,7 +10,7 @@ lcpMediaType: 'image/jpeg'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/raikou.webp" type="image/webp">
-		<img src="/images/raikou.jpg" width="250px" height="250px" alt="">
+		<img src="/images/raikou.jpg" width="250px" height="250px" alt="a quadrupedal, yellow, sabre-toothed feline Pokémon with black stripes and a white underside">
 	</picture>
 </div>
 

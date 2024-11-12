@@ -10,7 +10,7 @@ lcpMediaType: 'image/webp'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/poliwrath.webp" type="image/webp">
-		<img src="/images/poliwrath.jpg" width="250px" height="250px" alt="">
+		<img src="/images/poliwrath.jpg" width="250px" height="250px" alt="a blue bipedal amphibian Pokémon with a round body and big white-gloved fists. It has a white stomach with a black spiral in the middle">
 	</picture>
 </div>
 

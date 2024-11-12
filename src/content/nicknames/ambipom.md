@@ -11,7 +11,7 @@ lcpMediaType: 'image/webp'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/ambipom.webp" type="image/webp">
-		<img src="/images/ambipom.jpg" width="250px" height="250px" alt="">
+		<img src="/images/ambipom.jpg" width="250px" height="250px" alt="a bipedal simian Pokémon with purple fur and two tails with hand like appendages on each end">
 	</picture>
 </div>
 

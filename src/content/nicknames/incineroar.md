@@ -11,7 +11,7 @@ lcpMediaType: 'image/webp'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/incineroar.webp" type="image/webp">
-		<img src="/images/incineroar.jpg" width="250px" height="250px" alt="">
+		<img src="/images/incineroar.jpg" width="250px" height="250px" alt="a bipedal feline Pokémon with a wrestler's build. It's coat has red and black stripes, a grey torso, giant hand-like paws, and a fire belt, similar to a wrestling championship belt">
 	</picture>
 </div>
 

@@ -10,7 +10,7 @@ lcpMediaType: 'image/webp'
 <div class="img-center">
 	<picture>
 		<source srcset="/images/feraligatr.webp" type="image/webp">
-		<img src="/images/feraligatr.jpg" width="250px" height="250px" alt="">
+		<img src="/images/feraligatr.jpg" width="250px" height="250px" alt="a big blue crocodilian pokémon with red scales on its spine">
 	</picture>
 </div>
 

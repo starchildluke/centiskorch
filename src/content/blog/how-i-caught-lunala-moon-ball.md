@@ -56,5 +56,3 @@ I named it Spectra, after the Spectral bat, one of the largest bat species in wo
 </div>
 
 So, to those asking if the Moon Ball is the best ball for Lunala, I say... hell yeah! I'm also excited to use Lunala when they allow Restricted Pokémon in VGC. It's a bit of a beast.
-
-If you're struggling to find Lunala

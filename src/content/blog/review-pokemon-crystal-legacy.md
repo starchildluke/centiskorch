@@ -18,7 +18,7 @@ But Crystal Legacy fixes a lot of this with hand-picked changes that bring the g
 
 I played Crystal Legacy on my new Powkiddy RGB30 and, thanks to speed up, I got through it in a few days and I went with a team of Pokémon I generally don't use:
 
-* Hostgator the Feraligatr
+* Hostgator the Feraligatr<sup><a href="#ref-1">1</a></sup>
 * Angelfire the Magcargo
 * Lycos the Crobat
 * Tiscali the Beedrill
@@ -36,3 +36,5 @@ Your Rival's storyline is the same but has changes to his team depending on your
 Now, the Elite Four. Finally, a proper challenge! I decided not to keep resetting after losing so I could grind up and it was a lot more fun than the original games. Each Elite Four member had better versions of their OG teams, and some annoyances you have to strategise for (e.g. Koga's Minimize Muk).
 
 Overall, this is probably the best way to play Crystal outside something like Crystal Clear which deviates more from the originals than Crystal Legacy. I recommend you [watch SmithPlays Pokémon's video on the hack](https://www.youtube.com/watch?v=oeJBVY3z_uE) and how to install it
+
+<sup id="ref-1">1</sup>If you're looking for more [Feraligatr nicknames](/nicknames/feraligatr/), I have a page for that!

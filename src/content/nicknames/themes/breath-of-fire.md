@@ -16,7 +16,7 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 
 ### Breath of Fire (1993)
 
-* **Ryu** - Dratini, Dragonair, Kingdra, Altaria, Salamence, Latios, Garchomp, Hydreigon, Walking Wake
+* **Ryu** - Dratini, Dragonair, [Kingdra](/nicknames/kingdra/), Altaria, Salamence, Latios, Garchomp, Hydreigon, Walking Wake
 * **Zog** - Ceruledge, Drapion, Palkia, Goodra, Noivern, Miraidon, Naganadel, Eternatus, Genesect, Zygarde
 * **Sara**, **Nina** - Gardevoir, Froslass, Reshiram, Florges, Pheromosa, Iron Valiant, Diancie, Lugia
 * **Deis** - Serperior, Seviper, Dragonair, Milotic, Rayquaza, Arbok, Dunsparce, Gyarados, Steelix, Sandaconda, Snivy, Giratina, Gorebyss
@@ -40,11 +40,11 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 * **Cloud**, **Myst**, **Wisp** - Spiritomb, Gastly
 * **Creon** - Orthworm, Wugtrio, Eelektross
 * **D.Knight/Ghost Lord** - Ceruledge
-* **D.Rider/Devil Horse**, **Wraith/Death Rider** - Calyrex-Shadow
+* **D.Rider/Devil Horse**, **Wraith/Death Rider** - [Calyrex-Shadow](/nicknames/shadow-rider-calyrex)
 * **DogFish** - Basculegion, Barraskewda, Bruxish, Guzzlord
 * **E.Chest**, **Mimic** - Gimmighoul
 * **EyeSpy** - Magneton, Claydol
-* **FireHead** - Infernape, Magmar, Magmortar, Ceruledge, Armarouge, Chandelure
+* **FireHead** - Infernape, Magmar, [Magmortar](/nicknames/magmortar/), Ceruledge, Armarouge, Chandelure
 * **Gargoyle**, **Talon** - Noivern, Gliscor, Crobat
 * **General** - Kingambit, Ceruledge
 * **Ghoul**, **ICU**, **Mage**, **Morte**, **Sorcerer** - Dusclops, Dusknoir

@@ -36,10 +36,10 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Tektite** - [Metagross](/nicknames/metagross/), Araquanid, [Ariados](/nicknames/ariados/), Galvantula, Spidops
 * **Aquamentus** - Aurorus, Dragonite, Dialga, Giratina, Tropius, Meganium
 * **Dodongo** - Bastiodon
-* **Manhandla** - [Metagross](/nicknames/metagross/), Hydreigon, Guzzlord
+* **Manhandla** - Metagross, Hydreigon, Guzzlord
 * **Gleeok** - Hydreigon
 * **Digdogger** - Unown, Solrock
-* **Gohma** - [Metagross](/nicknames/metagross/), Araquanid, Ariados, Galvantula, Spidops
+* **Gohma** - Metagross, Araquanid, Ariados, Galvantula, Spidops
 
 ### The Adventure of Link (1987)
 
@@ -53,7 +53,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Boon** - Butterfree, Beedrill, Venomoth, Yanmega, [Beautifly](/nicknames/beautifly/), Dustox, Ninjask, Mothim, Frosmoth, Ribombee
 * **Bot** - Gastrodon, Stunfisk
 * **Daira** - [Feraligatr](/nicknames/feraligatr/), Krookodile, Garchomp
-* **Deeler** - Ledian, Volbeat, Illumise, Orbeetle, Parasect, Ariados, [Metagross](/nicknames/metagross/), Araquanid, Galvantula, Spidops
+* **Deeler** - Ledian, Volbeat, Illumise, Orbeetle, Parasect, Ariados, Metagross, Araquanid, Galvantula, Spidops
 * **Geldarm** - [Centiskorch](/nicknames/centiskorch/), [Scolipede](/nicknames/scolipede/), Drapion
 * **Girubokku** - Electrode
 * **Goriya** - Obstagoon, Linoone, Furret, Lucario, Excadrill, Smeargle, Zangoose
@@ -69,7 +69,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Agahnim** - Oranguru, Gengar, Mismagius
 * **Catfish** - Whiscash, Dondozo
 * **Bully** - Rhyperior, Nidoking/Nidoqueen, Hitmontop, Rampardos, Heracross
-* **Duck** - Magmortar, Ludicolo, Farfetch’d, Sirfetch'd, [Quaquaval](/nicknames/quaquaval/), Porygon-Z, Cresselia, Golduck
+* **Duck** - [Magmortar](/nicknames/magmortar/), Ludicolo, Farfetch’d, Sirfetch'd, [Quaquaval](/nicknames/quaquaval/), Porygon-Z, Cresselia, Golduck
 
 ### The Legend of Zelda: Four Swords Adventures (2004)
 

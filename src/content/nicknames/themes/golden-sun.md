@@ -29,9 +29,9 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Meteor** - Minior, Solrock, Lunatone, [Deoxys](/nicknames/deoxys/), Clefable
 * **Atalanta** - Blissey, Enamorus, Florges, Froslass, Hatterene, Lilligant, Nidoqueen, Salazzle, Tsareena, Vespiquen, Gardevoir
 * **Procne** - Enamorus, Froslass, Hatterene, Lilligant, Tsareena, Vespiquen, Gardevoir, Diancie
-* **Thor** - Zapdos, Tinkaton, [Raikou](/nicknames/raikou/), [Raging Bolt](/nicknames/raging-bolt/), Zekrom, Thundurus
-* **Nereid** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, [Ogerpon (Wellspring Mask)](/nicknames/ogerpon/)
-* **Neptune** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
+* **Thor** - Zapdos, Tinkaton, Raikou, [Raging Bolt](/nicknames/raging-bolt/), Zekrom, Thundurus
+* **Nereid** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, [Ogerpon (Wellspring Mask)](/nicknames/ogerpon/), [Terapagos](/nicknames/terapagos/)
+* **Neptune** - Lugia, Suicune, Walking Wake, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
 * **Boreas** - Tornadus, Drifblim, Pidgeot, Ninetales (Alolan), Regice, Abomasnow, Beartic, Kyurem, Avalugg, Baxcalibur, Chien-Pao
 * **Alex** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
 * **Babi** - Gengar, Cacturne, Banette, Giratina
@@ -50,10 +50,14 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Mia and all Mercury Djinn** - any Water or [Ice-type](/nicknames/themes/ice-type/)
 * **Amaze** - Froslass, Vanilluxe, Cursola, [Darmanitan (Galarian)](/nicknames/darmanitan/)
 * **Ant Lion, Roach, and Doodle Bug** - Durant, Trapinch, Drapion, Rabsca, Orbeetle
-* **Ape** - [Annihilape](/nicknames/annihilape/), Oranguru, Passimian, Ambipom, Infernape, [Darmanitan](/nicknames/darmanitan/), Rillaboom, Zarude, Simipour/Simisear/Simisage
+* **Ape** - [Annihilape](/nicknames/annihilape/), Oranguru, Passimian, [Ambipom](/nicknames/ambipom/), Infernape, Darmanitan, Rillaboom, Zarude, Simipour/Simisear/Simisage
 * **Bat** - Crobat, Noivern, Lunala, Swoobat, Gliscor
 * **Chimera** - Silvally
-* **Cuttle, Calamar, Man o' War, and Aqua Jelly** - Tentacruel, Nihilego, [Jellicent](/nicknames/jellicent/), Malamar
+* **Cuttle, Calamar, Man o' War, and Aqua Jelly** - Tentacruel, Nihilego, Jellicent, Malamar
+* **Mimic** - [Mimikyu](/nicknames/mimikyu/), Gholdengo
+* **Rat** - [Raichu](/nicknames/raichu/)
+* **Armored Rat** - Excadrill, Togedemaru
+* **Recluse** - [Ariados](/nicknames/ariados/)
 
 ### Golden Sun: the Lost Age (2002)
 
@@ -76,7 +80,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **King Wo** - Wo-Chien
 * **Nowell** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
 * **Vande** - Lycanroc, Zacian, Zamazenta, Mightyena, Absol
-* **Volechek** - Gogoat, Dubwool, Ampharos, [Iron Crown](/nicknames/iron-crown/), Cobalion, Iron Leaves, Virizion, Calyrex
+* **Volechek** - Gogoat, Dubwool, Ampharos, Iron Crown, Cobalion, Iron Leaves, Virizion, [Calyrex-Shadow](/nicknames/shadow-rider-calyrex/) and [Calyrex-Ice](/nicknames/ice-rider-calyrex/)
 * **Matthew** - any Ground-type
 * **Tyrell** - any Fire-type
 * **Karis** - any Electric or Flying-type

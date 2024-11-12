@@ -725,6 +725,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
+"themes/robin-hood.mdx": {
+	id: "themes/robin-hood.mdx";
+  slug: "themes/robin-hood";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".mdx"] };
 "themes/tarot-cards.md": {
 	id: "themes/tarot-cards.md";
   slug: "themes/tarot-cards";

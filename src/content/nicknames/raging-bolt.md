@@ -10,7 +10,7 @@ lcpMediaType: 'image/jpeg'
 
 <div class="img-center"><img src="/images/raging-bolt.jpg" width="250px" height="250px" alt="a quadrupedal, yellow, sauropod-like Pokémon with black stripes and a long neck"></div>
 
-Raging Bolt was introduced in Generation 9 with a Electric/Dragon typing based on Raikou so there's plenty of inspiration for nicknames.
+Raging Bolt was introduced in Generation 9 with a Electric/Dragon typing based on [Raikou](/nicknames/raikou/) so there's plenty of inspiration for nicknames.
 
 Let's look at some info on Raging Bolt and suggested nicknames.
 

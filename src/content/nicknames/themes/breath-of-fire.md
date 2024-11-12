@@ -57,7 +57,7 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 * **Nautulis** - Omastar, Gastrodon, Wo-Chien
 * **Pog/Pochi** - Hydreigon
 * **Prickle** - Cacturne, Maractus, Cradily
-* **Ronk** - Machamp, Buzzwole, Incineroar
+* **Ronk** - Machamp, Buzzwole, [Incineroar](/nicknames/incineroar/)
 * **Sara** - any Dragon Pokémon
 * **Scorp** - Gliscor, Drapion
 * **Shadow** - Gengar, Banette

@@ -52,7 +52,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Bit** - Parasect, Magcargo
 * **Boon** - Butterfree, Beedrill, Venomoth, Yanmega, [Beautifly](/nicknames/beautifly/), Dustox, Ninjask, Mothim, Frosmoth, Ribombee
 * **Bot** - Gastrodon, Stunfisk
-* **Daira** - Feraligatr, Krookodile, Garchomp
+* **Daira** - [Feraligatr](/nicknames/feraligatr/), Krookodile, Garchomp
 * **Deeler** - Ledian, Volbeat, Illumise, Orbeetle, Parasect, Ariados, [Metagross](/nicknames/metagross/), Araquanid, Galvantula, Spidops
 * **Geldarm** - [Centiskorch](/nicknames/centiskorch/), [Scolipede](/nicknames/scolipede/), Drapion
 * **Girubokku** - Electrode

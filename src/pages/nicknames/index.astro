@@ -3,8 +3,11 @@ import Layout from '../../layouts/Layout.astro';
 import Footer from '../../components/Footer.astro';
 import LeftSidebar from '../../components/LeftSidebar.astro';
 import FuzzySearch from '../../components/FuzzySearch.astro';
+import { getCollection } from 'astro:content';
+
 const title = "Pokémon nicknames";
 const description = "A collection of Pokémon nickname ideas.";
+const nicknames = await getCollection('nicknames');
 ---
 
 <style>
@@ -14,6 +17,23 @@ const description = "A collection of Pokémon nickname ideas.";
 		margin-bottom: 1rem;
 		gap: 0.5rem;
 		align-items: center;
+	}
+
+	.columns-3 {
+		columns: 3;
+	}
+
+	summary {
+		margin: 1rem 0;
+	}
+
+	h3 {
+		text-align: center;
+		font-size: 175%;
+	}
+
+	.no-yellow-h3 {
+		color: inherit;
 	}
 
 </style>
@@ -36,6 +56,27 @@ const description = "A collection of Pokémon nickname ideas.";
 				</search>
 
 				<div class="results"></div>
+			<details>
+				<summary><strong><em>Or you can find all the nickname links in this dropdown.</em></strong></summary>
+				<h3 class="no-yellow-h3">Pokémon</h3>
+				<ul class="columns-3 pokeball-icons">
+					{nicknames.filter((nickname) => (!nickname.slug.includes("themes"))).map((nickname) => (
+						<li>
+							<a href={`/nicknames/${nickname.slug}/`} class="blog-listing-title">{nickname.data.title.replace(" nicknames", "")}</a>
+						</li>
+						))
+					}
+				</ul>
+				<h3 class="no-yellow-h3">Themes</h3>
+				<ul class="columns-3 pokeball-icons">
+					{nicknames.filter((nickname) => (nickname.slug.includes("themes"))).map((nickname) => (
+						<li>
+							<a href={`/nicknames/${nickname.slug}/`} class="blog-listing-title">{nickname.data.title.replace(" nicknames", "")}</a>
+						</li>
+						))
+					}
+				</ul>
+			</details>
 			<h2 class="headings">Nicknames FAQ</h2>
 				<p><strong>Why should you nickname your Pokémon?</strong></p>
 				<p>Nicknaming by default didn't start for me until Sword and Shield and, after replaying all the games and doing Nuzlockes, I got into the habit of nicknaming.</p>

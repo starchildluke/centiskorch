@@ -2,11 +2,12 @@
 import LayoutWithLCP from '../layouts/LayoutWithLCP.astro';
 import Footer from '../components/Footer.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 import type { CollectionEntry } from 'astro:content';
 
-type Props = CollectionEntry<'favourites'>['data'];
+type Props = CollectionEntry<'nicknames'>['data'];
 
-const { title, description, lcpSrc, lcpMediaAs, lcpMediaType, robots } = Astro.props;
+const { title, description, pubDate, lcpSrc, lcpMediaAs, lcpMediaType, robots } = Astro.props;
 ---
 
 <LayoutWithLCP title={title} description={description} lcpSrc={lcpSrc} lcpMediaAs={lcpMediaAs} lcpMediaType={lcpMediaType} robots={robots} />
@@ -19,6 +20,11 @@ const { title, description, lcpSrc, lcpMediaAs, lcpMediaType, robots } = Astro.p
 								<h1 class="headings">{title}</h1>
 							</section>
 							<slot />
+							<p id="published-date">
+								<em>
+									<strong>Date created:</strong> <FormattedDate date={pubDate} />
+								</em>
+							</p>
 						</section>
 					</article>
 				</main>

@@ -71,6 +71,10 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Bully** - Rhyperior, Nidoking/Nidoqueen, Hitmontop, Rampardos, Heracross
 * **Duck** - [Magmortar](/nicknames/magmortar/), Ludicolo, Farfetch’d, Sirfetch'd, [Quaquaval](/nicknames/quaquaval/), Porygon-Z, Cresselia, Golduck
 
+### The Legend of Zelda: Oracle of Ages (2001)
+
+* **Subterror** - Dugtrio, [Excadrill](/nicknames/excadrill/)
+
 ### The Legend of Zelda: Four Swords Adventures (2004)
 
 * **Terrorpin** - Blastoise, Carracosta, Torterra, [Terapagos](/nicknames/terapagos/)

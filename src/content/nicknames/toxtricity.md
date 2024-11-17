@@ -143,6 +143,8 @@ lcpMediaType: 'image/webp'
 * **Chuck**
 * **Dimebag**
 * **Phlox**
+* **River**
+* **Pan**
 
 ### B-Tier
 
@@ -157,6 +159,10 @@ lcpMediaType: 'image/webp'
 * **Mustaine**
 * **Pantera**
 * **Djent**
+* **Swamp**
+* **Roadie**
+* **Phish**
+* **Bes** - Egyptian god of music making and dancing
 
 ### C-Tier
 
@@ -168,5 +174,10 @@ lcpMediaType: 'image/webp'
 * **Violet**
 * **Thistle**
 * **Shredder**
+* **Strings**
+* **Heath**
+* **Apollo*
+* **Creed**
+* **Hathor**
 
 Do you have a favourite Toxtricity nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

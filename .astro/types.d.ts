@@ -746,6 +746,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
+"toxtricity.md": {
+	id: "toxtricity.md";
+  slug: "toxtricity";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".md"] };
 "tyranitar.md": {
 	id: "tyranitar.md";
   slug: "tyranitar";

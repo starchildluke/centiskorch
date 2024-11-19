@@ -45,6 +45,8 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Balaur**
 * **Fiona**
 * **HeadOvaPeels**
+* **Scylla**
+* **Mansee**
 
 ### B-Tier
 
@@ -55,6 +57,10 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Ralph**
 * **Fiji**
 * **Parsley**
+* **Padre**
+* **Snappldragon**
+* **Barbarus** - from Dragon Quest IX
+* **Admiral** - an apple cultivar
 
 ### C-Tier
 
@@ -64,10 +70,21 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Pyrodra** - from [Golden Sun](/nicknames/themes/golden-sun/)
 * **Cupertino** - where Apple is headquartered
 * **Dappy**
+* **Dapper Dan**
+* **Alder**
+* **Hydra**
+* **Pearl**
+* **Azi** - from Azi Dahaka, a three-headed dragon from Persian mythology
+* **Tiamat** - a 5-headed dragon goddess from Dungeons & Dragons
+* **GranDragn** - from Dragon Quest; works best for a shiny Hydrapple
+* **Viper**
 
 #### D-Tier
 
 * **SevenSisters**
 * **Hell Serpent**
+* **Earl**
+* **Happy**
+* **Yapple**
 
 Do you have a favourite Hydrapple nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

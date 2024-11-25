@@ -35,12 +35,15 @@ With all that said, let's look at those Stoutland nicknames!
 * **Overdog** - after Alex Underhill's Entei from his Portland Regionals winning team
 * **Rescue Puppy** - in honour of my son who likes to use a naming format for dog Pokémon: associative noun + Puppy
 * **Beethoven**
+* **Milk**
 
 ### A-Tier
 
 * **Moolander** - its Japanese name is <span lang="jp">ムーランド</span> or "Mooland" so I added "-er" on the end in reference to Zoolander
 * **MoolandRouge** - as above but merged with "Moulin Rouge"
 * **Everest** - named after the rescue dog from Paw Patrol
+* **Dark Beer** - because stout is a dark beer!
+* **Guinness**
 
 ### B-Tier
 
@@ -55,6 +58,7 @@ With all that said, let's look at those Stoutland nicknames!
 * **Hooch** - after Hooch from Turner and Hooch
 * **Dug** - after Dug from Up
 * **Bernard**
+* **Oatmeal**
 
 ### C-Tier
 
@@ -62,11 +66,14 @@ With all that said, let's look at those Stoutland nicknames!
 * **Saviour**
 * **Snoop Dog**
 * **Sandy**
+* **Porter**
 
 ### D-Tier
 
 * **Moustachio**
 * **Hero**
 * **Bergamasco**
+* **Irish**
+* **Oyster**
 
 Do you have a favourite Stoutland nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

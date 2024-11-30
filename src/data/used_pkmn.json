@@ -961,7 +961,7 @@
   },
   {
     "name": "Celebi",
-    "used": "No",
+    "used": "Yes",
     "games": [],
     "hallOfFame": "No"
   },
@@ -1129,9 +1129,9 @@
   },
   {
     "name": "Pelipper",
-    "used": "",
+    "used": "Yes",
     "games": [],
-    "hallOfFame": ""
+    "hallOfFame": "No"
   },
   {
     "name": "Ralts",
@@ -1387,9 +1387,9 @@
   },
   {
     "name": "Numel",
-    "used": "",
+    "used": "Yes",
     "games": [],
-    "hallOfFame": ""
+    "hallOfFame": "No"
   },
   {
     "name": "Camerupt",
@@ -1609,9 +1609,9 @@
   },
   {
     "name": "Absol",
-    "used": "",
+    "used": "Yes",
     "games": [],
-    "hallOfFame": ""
+    "hallOfFame": "No"
   },
   {
     "name": "Wynaut",

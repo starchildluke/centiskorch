@@ -111,6 +111,7 @@ lcpMediaType: 'image/webp'
 * **Basalt**
 * **Boulderdash**
 * **Doug**
+* **Drillbert**
 
 ### B-Tier
 

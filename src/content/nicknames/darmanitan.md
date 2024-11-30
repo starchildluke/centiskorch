@@ -122,6 +122,7 @@ lcpMediaType: 'image/webp'
 * **Alpaca**✝
 * **Angora**✝
 * **Kangol**✝
+* **Cholula**\*
 
 ### B-Tier
 
@@ -159,6 +160,7 @@ lcpMediaType: 'image/webp'
 * **Eyebrows**
 * **Ushanka**✝
 * **Hodan**✝ - from [Rivals of Aether](/nicknames/themes/rivals-of-aether/)
+* **Búfalo**\*
 
 ### D-Tier
 

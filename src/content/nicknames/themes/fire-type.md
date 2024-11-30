@@ -49,6 +49,7 @@ Terminology sources: [Alaska Department of Natural Resources: Division of Forest
 * Inferno
 * Kindle
 * Mantle
+* Piri piri
 * Plasma
 * Pyro
 * Scarlet
@@ -56,10 +57,13 @@ Terminology sources: [Alaska Department of Natural Resources: Division of Forest
 * Sizzle
 * Smokey
 * Spark
+* Sriracha
 * St. Elmo (no, not from Sesame Street, [St. Elmo's fire](https://en.wikipedia.org/wiki/St._Elmo%27s_fire))
 * Stokely (stoke + ly)
+* Tabasco
 * Therma (therm + a)
 * Torch
 * Wildfire
+* Xnipek
 
 Do you have any fire themed nickname suggestions? Then head over to the contact me link on the left and email me your ideas!

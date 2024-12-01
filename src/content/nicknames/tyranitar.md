@@ -103,6 +103,7 @@ lcpMediaType: 'image/jpeg'
 
 * **Reptar**
 * **Broly**
+* **Cruise** - named after [Ritchie's Tyranitar from the anime](https://bulbapedia.bulbagarden.net/wiki/Ritchie#On_hand)
 
 ### A-Tier
 

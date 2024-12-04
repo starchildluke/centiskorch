@@ -114,6 +114,7 @@ lcpMediaType: 'image/webp'
 * **Trinidad**
 * **Rhapsody**
 * **Mambo**
+* **Bangs**
 
 ### B-Tier
 

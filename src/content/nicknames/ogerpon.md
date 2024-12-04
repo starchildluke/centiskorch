@@ -61,6 +61,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Soursop**
 * **Pengo**
 * **Pongo**
+* **Kabuki** - credit to [Charlie Merriman](https://www.youtube.com/@Chazingdra)
 
 ### B-Tier
 

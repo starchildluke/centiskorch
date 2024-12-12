@@ -3,7 +3,7 @@ title: 'Rayquaza nicknames'
 description: "A list of Rayquaza nicknames, their origins, and why I think they're cool."
 pubDate: '12 Dec 2024'
 pokedexNumber: '0384'
-lcpSrc: '/images/rayquaza.jpg'
+lcpSrc: '/images/rayquaza.webp'
 lcpMediaAs: 'image'
 lcpMediaType: 'image/webp'
 ---

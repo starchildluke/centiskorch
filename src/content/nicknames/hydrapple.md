@@ -47,6 +47,7 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **HeadOvaPeels**
 * **Scylla**
 * **Mansee**
+* **Biollante** - credit to [Dan Dockery](https://bsky.app/profile/dandock.bsky.social/post/3ld7ijujy7k2t) for the idea
 
 ### B-Tier
 

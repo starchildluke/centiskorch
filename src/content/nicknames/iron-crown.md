@@ -64,6 +64,7 @@ With all that said, let's look at those Iron Crown nicknames!
 * **Chamiroquai** - a terrible portmanteau of chamois + Jamiroquai
 * **Carobo** - kinda like caribou + robo?
 * **Volechek** - a character in [Golden Sun](/nicknames/themes/golden-sun/)
+* **Ironclad**
 
 ### C-Tier
 

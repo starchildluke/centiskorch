@@ -50,6 +50,7 @@ With all that said, let's look at those Iron Moth nicknames!
 * **Bombyx** - part of a silk moth's Latin name
 * **Stardust** - because of its star shape
 * **Venom**
+* **Posh Moth**
 
 ### C-Tier
 

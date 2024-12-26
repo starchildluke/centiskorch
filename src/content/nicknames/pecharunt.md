@@ -59,6 +59,7 @@ With all that said, let's look at those Pecharunt nicknames!
 * **Pe$ha** - kinda like Ke$ha and Pecha mashed together?
 * **Petty Davis/Petty Boop/Petty White**
 * **Peanut**
+* **Peppercorn**
 
 ### B-Tier
 

@@ -58,6 +58,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Winging It**
 * **Wing&APrayer**
 * **Bailey**
+* **Fancy Wings**
 
 ### C-Tier
 

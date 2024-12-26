@@ -49,6 +49,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Scoot** - I dunno, it just fits.
 * **Colgera**
 * **Therma**
+* **Fire Whip**
 
 ### B-Tier
 

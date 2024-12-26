@@ -62,6 +62,9 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Pengo**
 * **Pongo**
 * **Kabuki** - credit to [Charlie Merriman](https://www.youtube.com/@Chazingdra)
+* **Sweet Chilli**
+* **Ketchup**
+* **Harissa**
 
 ### B-Tier
 

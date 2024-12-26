@@ -44,6 +44,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **ProtecYaNeck** - [Watch your step, kid!](https://www.youtube.com/watch?v=1_-3Bh1VFI8)
 * **Abraham/Lincoln/AbrahamLncln**
 * **Furriosa**
+* **MUSTAAAAARD**
 
 ### B-Tier
 
@@ -81,6 +82,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Tomcat**
 * **Raging Volt**
 * **Raging Jolt**
+* **Cheez Whiz**
 
 ### D-Tier
 

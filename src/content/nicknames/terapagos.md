@@ -65,6 +65,7 @@ With all that said, let's look at those Terapagos nicknames!
 * **Archelon** - an extinct marine turtle and the largest ever documented
 * **Seaport**
 * **Ragtop**
+* **Teriyaki**
 
 ### C-Tier
 

@@ -61,7 +61,7 @@ lcpMediaType: 'image/jpeg'
 		</tr>
 		<tr>
 			<td>Italian</td>
-			<td>Centiskorch</td>
+			<td>Tyranitar</td>
 		</tr>
 		<tr>
 			<td>Korean</td>

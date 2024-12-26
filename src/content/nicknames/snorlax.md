@@ -67,6 +67,8 @@ With all that said, let's look at those Snorlax nicknames!
 * **Girl Dinner**/**Boy Dinner**
 * **Chinese Meal** - [IYKYK](https://www.youtube.com/watch?v=JlU5qPCclu0)
 * **Lax vs. Food**
+* **Gravy**
+* **Butterball**
 
 ### C-Tier
 

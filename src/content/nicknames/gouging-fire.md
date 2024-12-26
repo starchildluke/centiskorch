@@ -67,6 +67,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Lion King**
 * **Dragon Kitty**
 * **Sabrecat**
+* **Crazy Fire**
 
 ### C-Tier
 

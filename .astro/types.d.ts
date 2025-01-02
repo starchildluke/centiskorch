@@ -164,6 +164,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".mdx"] };
+"brat-hydrapple-team.mdx": {
+	id: "brat-hydrapple-team.mdx";
+  slug: "brat-hydrapple-team";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".mdx"] };
 "every-pokemon-is-someones-favorite.mdx": {
 	id: "every-pokemon-is-someones-favorite.mdx";
   slug: "every-pokemon-is-someones-favorite";

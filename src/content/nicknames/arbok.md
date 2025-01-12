@@ -117,6 +117,8 @@ lcpMediaType: image/webp
 * **Obanai Iguro**
 * **Boa Hancock**
 * **Marguerite**
+* **Deis** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
+* **Aneru/Rope** - from [The Adventure of Link](/nicknames/themes/legend-of-zelda/)
 
 ### B-Tier
 

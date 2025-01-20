@@ -283,6 +283,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
+"review-2025-birmingham-regionals.md": {
+	id: "review-2025-birmingham-regionals.md";
+  slug: "review-2025-birmingham-regionals";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".md"] };
 "review-pokemon-crystal-legacy.md": {
 	id: "review-pokemon-crystal-legacy.md";
   slug: "review-pokemon-crystal-legacy";

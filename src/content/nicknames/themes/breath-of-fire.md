@@ -40,7 +40,7 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 * **Cloud**, **Myst**, **Wisp** - Spiritomb, Gastly
 * **Creon** - Orthworm, Wugtrio, Eelektross
 * **D.Knight/Ghost Lord** - Ceruledge
-* **D.Rider/Devil Horse**, **Wraith/Death Rider** - [Calyrex-Shadow](/nicknames/shadow-rider-calyrex)
+* **D.Rider/Devil Horse**, **Wraith/Death Rider** - [Calyrex-Shadow](/nicknames/shadow-rider-calyrex/)
 * **DogFish** - Basculegion, Barraskewda, Bruxish, Guzzlord
 * **E.Chest**, **Mimic** - Gimmighoul
 * **EyeSpy** - Magneton, Claydol

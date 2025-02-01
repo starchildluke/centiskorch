@@ -1,0 +1,17 @@
+---
+title: 'I took part in the 8192 Shiny Challenge at Birmingham Regionals'
+description: "Fun times were had in the name of full odds shines."
+pubDate: '01 Feb 2025'
+---
+
+import {YouTube} from 'astro-lazy-youtube-embed'
+
+<div class="yt-embed">
+	<YouTube title={frontmatter.title} videoId="RJh6hguAlP4cxk6Z" />
+</div>
+
+I wrote about my time at Birmingham Regionals a few weeks ago. Well, there was another part of it besides the live competition and it was the 8192 Shiny Challenge.
+
+The event, run by Charlie Merriman, involved a group of us shiny hunting for Pokémon in the Gen 2–5 games that had shiny odds of 1/8,192. The idea originated in the US when Kwikpanik and NoralnTheFuture ran the first event of it's kind.
+
+I'll let Charlie do all the talking in the above video but I'll say it was tonnes of fun and I got to meet a lot of awesome people that I hope to see again at a future event.

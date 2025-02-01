@@ -206,13 +206,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"king-the-luck-beedrill-win-tournament.md": {
-	id: "king-the-luck-beedrill-win-tournament.md";
+"king-the-luck-beedrill-win-tournament.mdx": {
+	id: "king-the-luck-beedrill-win-tournament.mdx";
   slug: "king-the-luck-beedrill-win-tournament";
   body: string;
   collection: "blog";
   data: any
-} & { render(): Render[".md"] };
+} & { render(): Render[".mdx"] };
 "miraidon-pokemon-motorbike.mdx": {
 	id: "miraidon-pokemon-motorbike.mdx";
   slug: "miraidon-pokemon-motorbike";

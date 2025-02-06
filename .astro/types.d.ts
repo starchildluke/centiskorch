@@ -192,6 +192,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
+"happy-birthday-mewtwo.md": {
+	id: "happy-birthday-mewtwo.md";
+  slug: "happy-birthday-mewtwo";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".md"] };
 "how-i-caught-lunala-moon-ball.md": {
 	id: "how-i-caught-lunala-moon-ball.md";
   slug: "how-i-caught-lunala-moon-ball";

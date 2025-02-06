@@ -56,7 +56,7 @@ With all that said, let's look at those Terapagos nicknames!
 * **Torope** - the Algonquian word for "terrapin"
 * **Logo** - [if you know, you know](https://en.wikipedia.org/wiki/Logo_(programming_language))
 * **Hockey/puck** - because it's a giant hockey puck!
-* **Hypno-Disc** - named after the runner-up of Robot Wars Series 1
+* **Hypno-Disc** - named after the robot in Robot Wars Series 3–6
 * **Jade** - apparently, my colour picker app said the greenish colour of Terapagos's shell is called Jolly Jade
 * **Cruz** - Santa Cruz is one of the cantons of the Galápagos Islands and it's a homophone of "cruise"
 * **Mydas** - from Chelonia mydas, the Latin name for the green sea turtle

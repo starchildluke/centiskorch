@@ -47,6 +47,8 @@ With all that said, let's look at those Mewtwo nicknames!
 * **Gene Kelly**
 * **Copycat**
 * **HelixTheCat** - helix + Felix the cat!
+* **Mewplicate** - via a work colleague
+* **Mewover** - like "do-over"; inspired by the above
 
 ### B-Tier
 
@@ -60,6 +62,7 @@ With all that said, let's look at those Mewtwo nicknames!
 * **Adenine/Cytosine/Guanine/Thymine** - the four bases of DNA
 * **Master Boi**
 * **PurplWarrior** - any Scott Steiner fans in chat?
+* **Spawn** - since it's the "child" of Mew
 
 ### C-Tier
 

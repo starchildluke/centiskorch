@@ -14,7 +14,7 @@ AddType font/woff .woff
 AddType font/woff2 .woff2
 
 <IfModule mod_headers.c>
-Header add Access-Control-Allow-Origin "https://centiskor.ch/"
+Header set Access-Control-Allow-Origin "https://centiskor.ch/"
 </IfModule>
 
 <IfModule mod_deflate.c>

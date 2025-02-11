@@ -3,7 +3,7 @@
 
 <script>
   import fuzzysort from 'fuzzysort';
-  import nicknames from '../data/nicknames.json';
+  const nicknames = await fetch('https://centiskor.ch/nickname_data.json').then((response) => response.json());
   const searchEl = document.querySelector('#search');
   const results = document.querySelector('.results');
   const cross = document.querySelector('#cross');

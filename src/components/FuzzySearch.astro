@@ -20,7 +20,7 @@
   searchEl.addEventListener("input", (e) => {
     cross.style.opacity = '1';
     const text = searchEl.value;
-    const fuzz = fuzzysort.go(text, nicknames, {
+    const fuzz = fuzzysort.go(text, nicknames.nicknames, {
         keys: indexKeys,
         limit: 5
       });

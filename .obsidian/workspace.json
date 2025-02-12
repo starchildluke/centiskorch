@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "review-2025-birmingham-regionals"
             }
+          },
+          {
+            "id": "f5537ffcfc5eca32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/nicknames/walking-wake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "walking-wake"
+            }
           }
         ]
       }
@@ -161,6 +175,23 @@
   },
   "active": "7ec13c0c882b928a",
   "lastOpenFiles": [
+    "public/images/fire-type-logo.jpg",
+    "src/content/nicknames/themes/fire-type.mdx",
+    "src/content/nicknames/themes/water-type.md",
+    "src/content/nicknames/themes/water-type.mdx",
+    "public/images/water-type-logo.jpg",
+    "public/images/water-type-logo.png.sb-9930785b-IVbdcr",
+    "public/images/water-type-logo.png",
+    "src/content/nicknames/walking-wake.md",
+    "src/content/nicknames/quaquaval.md",
+    "src/content/nicknames/poliwrath.md",
+    "src/content/nicknames/ogerpon.md",
+    "src/content/nicknames/kingdra.md",
+    "src/content/nicknames/jellicent.md",
+    "src/content/nicknames/feraligatr.md",
+    "src/content/nicknames/blastoise.md",
+    "src/content/blog/review-2025-birmingham-regionals.md",
+    "src/content/nicknames/Untitled.md",
     "src/content/blog/33-minutes-of-chill-pokemon-beats.md",
     "src/content/blog/12-facts-i-didnt-know-about-pokemon.md",
     "src/content/blog/pokemon-learn-trick-room-tailwind.md",
@@ -169,7 +200,6 @@
     "src/content/blog/prediction-pokemon-day-2024.md",
     "src/content/blog/quick-thoughts-pokemon-cards.md",
     "src/content/blog/quick-thoughts-pokemon-fan-demands.md",
-    "src/content/blog/review-2025-birmingham-regionals.md",
     "public/images/2025-birmingham-regionals-plushies-640.webp",
     "public/images/2025-birmingham-regionals-plushies 2.jpg",
     "public/images/2025-birmingham-regionals-plushies.jpg",
@@ -180,20 +210,9 @@
     "src/content/nicknames/arbok.md",
     "src/templates/nicknames",
     "src/content/nicknames/ambipom.md",
-    "src/content/favourites/my-favourite-pokemon-games.md",
-    "src/templates/post.md",
     "public/images/arbok.jpg",
     "public/images/arbok.webp",
-    "src/content/nicknames/rayquaza.md",
-    "src/content/nicknames/raging-bolt.md",
-    "src/content/nicknames/tyranitar.md",
-    "src/content/blog/vgc-law-and-disorder.md",
-    "src/content/blog/brat-hydrapple-team.md",
     "src/content/blog/brat-hydrapple-team.mdx",
-    "src/content/blog/my-big-shiny-day.md",
-    "src/content/blog/julesdrawz-awesome-pokemon-illustrations.md",
-    "src/content/blog/how-i-caught-lunala-moon-ball.md",
-    "src/content/blog/2023-suckers-2024-dragons.md",
     "public/images/beedrill.jpg",
     "public/images/beedrill.webp",
     "src/templates",

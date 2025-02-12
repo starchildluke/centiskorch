@@ -746,13 +746,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
-"themes/fire-type.md": {
-	id: "themes/fire-type.md";
+"themes/fire-type.mdx": {
+	id: "themes/fire-type.mdx";
   slug: "themes/fire-type";
   body: string;
   collection: "nicknames";
   data: any
-} & { render(): Render[".md"] };
+} & { render(): Render[".mdx"] };
 "themes/golden-sun.md": {
 	id: "themes/golden-sun.md";
   slug: "themes/golden-sun";
@@ -795,6 +795,13 @@ declare module 'astro:content' {
   collection: "nicknames";
   data: any
 } & { render(): Render[".md"] };
+"themes/water-type.mdx": {
+	id: "themes/water-type.mdx";
+  slug: "themes/water-type";
+  body: string;
+  collection: "nicknames";
+  data: any
+} & { render(): Render[".mdx"] };
 "toxtricity.md": {
 	id: "toxtricity.md";
   slug: "toxtricity";

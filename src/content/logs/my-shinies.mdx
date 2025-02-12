@@ -8,7 +8,7 @@ import pkmn from '../../data/shiny_pkmn.json';
 
 <p>{frontmatter.description}</p>
 
-I currently have over {Math.round(pkmn.length / 10) * 10} shinies which may not be visible as this page is a work in progress. I can only fit the sprite, species name, and nickname in the table but if you want to see more info about each shiny—including how I got it and what game it came from—you can [check out the JSON file](/json/shiny_pkmn.json) where all the data lives.
+I currently have over {pkmn.length} shinies which may not be visible as this page is a work in progress. I can only fit the sprite, species name, and nickname in the table but if you want to see more info about each shiny—including how I got it and what game it came from—you can [check out the JSON file](/json/shiny_pkmn.json) where all the data lives.
 
 Note: if names are separated by a slash, it means I have more than one.
 
@@ -26,7 +26,7 @@ Images courtesy of [The Spriters Resource](https://www.spriters-resource.com/nin
 	{pkmn.map((item) => (
 	<tr>
 		<td><img src={item.Sprite} alt={frontmatter.altText + item.Species} width="100" height="100" /></td>
-		<td>{item.Species}</td>
+		<td id={item.Species.toLowerCase()}>{item.Species}</td>
 		<td>{item.Nickname}</td>
 	</tr>
 	)).slice(0,127)}

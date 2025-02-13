@@ -162,6 +162,8 @@
   },
   "active": "15e8a0612f709183",
   "lastOpenFiles": [
+    "pnpm-lock.yaml",
+    "pnpm-lock.yaml.3151495224",
     "nicknames/theme/legend-of-zelda 1.md",
     "src/content/nicknames/lunala.md",
     "nicknames/theme/legend-of-zelda.md",
@@ -199,7 +201,6 @@
     "public/images/2025-birmingham-regionals-plushies.jpg",
     "src/templates/nicknames/theme.md",
     "src/content/nicknames/themes/breath-of-fire.md",
-    "src/templates/nicknames/nickname.md",
     "src/templates/nicknames",
     "public/images/arbok.jpg",
     "public/images/arbok.webp",

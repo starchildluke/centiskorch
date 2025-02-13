@@ -1,0 +1,70 @@
+{
+  "$ref": "#/definitions/nicknames",
+  "definitions": {
+    "nicknames": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "pubDate": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                {
+                  "type": "string",
+                  "format": "date"
+                },
+                {
+                  "type": "integer",
+                  "format": "unix-time"
+                }
+              ]
+            }
+          ]
+        },
+        "theme": {
+          "type": "string"
+        },
+        "pokedexNumber": {
+          "type": "string"
+        },
+        "lcpSrc": {
+          "type": "string"
+        },
+        "lcpMediaAs": {
+          "type": "string"
+        },
+        "lcpMediaType": {
+          "type": "string"
+        },
+        "draft": {
+          "type": "boolean"
+        },
+        "robots": {
+          "type": "string"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "description",
+        "pubDate"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

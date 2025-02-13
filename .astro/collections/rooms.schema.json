@@ -1,0 +1,63 @@
+{
+  "$ref": "#/definitions/rooms",
+  "definitions": {
+    "rooms": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "draft": {
+          "type": "boolean"
+        },
+        "bodyColour": {
+          "type": "string"
+        },
+        "bgContentColour": {
+          "type": "string"
+        },
+        "outlineContentColour": {
+          "type": "string"
+        },
+        "borderContentColour": {
+          "type": "string"
+        },
+        "headingTextColour": {
+          "type": "string"
+        },
+        "lcpMediaAs": {
+          "type": "string"
+        },
+        "lcpSrc": {
+          "type": "string"
+        },
+        "lcpMediaType": {
+          "type": "string"
+        },
+        "robots": {
+          "type": "string"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "description",
+        "bodyColour",
+        "bgContentColour",
+        "outlineContentColour",
+        "borderContentColour",
+        "headingTextColour",
+        "lcpMediaAs",
+        "lcpSrc",
+        "lcpMediaType"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

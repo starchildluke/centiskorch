@@ -87,7 +87,7 @@ table.room-table thead { background: rgba(228, 96, 71, 0.2) }
 
 .banner { width: 100%; padding: 1rem 1rem 0 1rem; }
 
-.headings, article :is(h1, h2) { padding: .5rem; background: #c3413b; text-align: center; }
+.headings, article :is(h1, h2) { padding: .5rem; background: #c70a00; text-align: center; }
 
 article :is(h3, h4) { padding: .5rem; background: #ac484a; text-align: center; font-size: 1.25rem; }
 

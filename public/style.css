@@ -2,7 +2,7 @@
 
 :root { --gap: 1rem; }
 
-::selection { color: #fdee00; background: #c3413b; }
+::selection { color: #fdee00; background: #c70a00; }
 
 @font-face { font-family: 'Georama Expanded Black';
 	src:

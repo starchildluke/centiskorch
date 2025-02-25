@@ -1,0 +1,33 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Footer from '../../../components/Footer.astro';
+import LeftSidebar from '../../../components/LeftSidebar.astro';
+import { getCollection } from 'astro:content';
+const title = "My Pokémon teams";
+const description = "A collection of some of my Pokémon teams over the years.";
+
+const teams = await getCollection('logs', ({ id }) => {
+  return id.startsWith('my-pokemon-teams/');
+});
+---
+
+<Layout title={title} description={description}/>
+<div class="container">
+	<div class="flex-content">
+		<main class="box">
+			<h1 class="headings">{title}</h1>
+			<p>This page is dedicated to as many Pokémon teams as I can remember that I've had in every Pokémon game I've played. I also plan to add some of my VGC teams so watch this space.</p>
+			<p>SV sprites courtesy of <a href="https://www.deviantart.com/kingofthe-x-roads/art/Gen-9-Sprites-Pokemon-Scarlet-and-Violet-908341834">KingOfThe-X-Roads on DeviantArt</a></p>
+			<ul class="pokeball-icons">
+				{teams.sort((a, b) => a.data.gen - b.data.gen).map((team) => (
+					<li>
+						<a href={`/logs/${team.slug}/`} class="blog-listing-title">{team.data.title}</a>
+					</li>
+					))
+				}
+			</ul>
+		</main>
+		<LeftSidebar />
+		<Footer />
+	</div>
+</div>

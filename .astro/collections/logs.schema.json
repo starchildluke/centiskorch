@@ -16,6 +16,9 @@
         "robots": {
           "type": "string"
         },
+        "gen": {
+          "type": "number"
+        },
         "$schema": {
           "type": "string"
         }

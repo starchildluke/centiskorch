@@ -6,7 +6,8 @@ const logs = defineCollection({
 		title: z.string(),
 		description: z.string(),
 		draft: z.boolean().optional(),
-		robots: z.string().optional()
+		robots: z.string().optional(),
+		gen: z.number().optional()
 	}),
 });
 

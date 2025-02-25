@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dee1d19a8631f63",
+        "id": "75ed0b376cf6af02",
         "type": "tabs",
         "children": [
           {
-            "id": "3e2f308be3033ae5",
+            "id": "0f867719a37f54f1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e2f308be3033ae5",
+  "active": "0f867719a37f54f1",
   "lastOpenFiles": [
     "src/content/nicknames/lunala.md",
     "pnpm-lock.yaml",

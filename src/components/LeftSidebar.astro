@@ -4,7 +4,9 @@ const miscPages = await getCollection('misc', ({slug}) => {
 	return slug.includes('links');
 }); 
 
-const logPages = await getCollection('logs'); 
+const logPages = await getCollection('logs', ({ id }) => {
+  return !id.startsWith('my-pokemon-teams/');
+});
 
 const rooms = await getCollection('rooms');
 
@@ -23,9 +25,10 @@ const rooms = await getCollection('rooms');
 			<li>music</li>
 		</ul>
 	</nav>
-	<h2 class="headings"><a href="/logs/">Logs</a></h2>
+	<h2 class="headings">Logs</h2>
 	<nav>
 		<ul class="pokeball-icons">
+			<li><a href="/logs/my-pokemon-teams/">my pokémon teams</a></li>
 			{logPages.map((page) => (
 					<li>
 						<a href={`/logs/${page.slug}/`}>{page.data.title.toLowerCase()}</a>
@@ -37,7 +40,7 @@ const rooms = await getCollection('rooms');
 				</li>
 		</ul>
 	</nav>
-	<h2 class="headings"><a href="/misc/">Misc</a></h2>
+	<h2 class="headings">Misc</h2>
 	<nav>
 		<ul class="pokeball-icons">
 			{miscPages.map((page) => (

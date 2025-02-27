@@ -49,5 +49,6 @@ export default new Map([
 ["src/content/logs/my-pokemon-teams/la.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Flogs%2Fmy-pokemon-teams%2Fla.mdx&astroContentModuleFlag=true")],
 ["src/content/logs/my-pokemon-teams/bdsp.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Flogs%2Fmy-pokemon-teams%2Fbdsp.mdx&astroContentModuleFlag=true")],
 ["src/content/logs/my-pokemon-teams/sv.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Flogs%2Fmy-pokemon-teams%2Fsv.mdx&astroContentModuleFlag=true")],
-["src/content/blog/honda-koraidon-motorcycle.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2Fhonda-koraidon-motorcycle.mdx&astroContentModuleFlag=true")]]);
+["src/content/blog/honda-koraidon-motorcycle.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2Fhonda-koraidon-motorcycle.mdx&astroContentModuleFlag=true")],
+["src/content/blog/my-desires-pokemon-day-2025.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2Fmy-desires-pokemon-day-2025.mdx&astroContentModuleFlag=true")]]);
 		

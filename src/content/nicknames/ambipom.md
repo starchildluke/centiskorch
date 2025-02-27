@@ -115,6 +115,8 @@ lcpMediaType: 'image/webp'
 * **Rhapsody**
 * **Mambo**
 * **Bangs**
+* **Dexter**
+* **Monkey D/Luffy**
 
 ### B-Tier
 
@@ -131,6 +133,10 @@ lcpMediaType: 'image/webp'
 * **Gibraltar**
 * **Bamboo**
 * **Amber**
+* **Jazz Hands**
+* **Los Dedos**
+* **Pickpocket**
+* **Ape Escape**
 
 ### C-Tier
 
@@ -145,10 +151,21 @@ lcpMediaType: 'image/webp'
 * **Fairy Tail**
 * **TellingTails**
 * **Tails**
-* **HeadsorTails**
+* **HeadsOrTails**
 * **Pom Pom**
 * **Hands On/Off**
 * **TailOf2Citys**
 * **Typewriter**
+* **Apetail**
+* **Palmolive**
+* **Mogwai**
+* **Jumanji**
+* **Banana Man/Banana Boy/Banana Girl**
+* **Lavender**
+* **Pom**
+* **Ambi**
+* **Ashbipom**
+* **Ash**
+* **Tree**
 
 Do you have a favourite Ambipom nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

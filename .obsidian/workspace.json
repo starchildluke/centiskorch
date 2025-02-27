@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bat",
+                "query": "miraidon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f867719a37f54f1",
+  "active": "bfa98bbfdc1abcf4",
   "lastOpenFiles": [
     "src/content/nicknames/lunala.md",
     "pnpm-lock.yaml",

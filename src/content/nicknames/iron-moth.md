@@ -51,6 +51,7 @@ With all that said, let's look at those Iron Moth nicknames!
 * **Stardust** - because of its star shape
 * **Venom**
 * **Posh Moth**
+* **Toxin**
 
 ### C-Tier
 

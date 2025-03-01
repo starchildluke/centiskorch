@@ -58,6 +58,7 @@ With all that said, let's look at those Ariados nicknames!
 * **Trapdoor** - named after the spider species
 * **Bagheera** - based on the bagheera kiplingi, a species of jumping spider
 * **Doris**
+* **Toxin**
 
 ### C-Tier
 

@@ -137,6 +137,7 @@ lcpMediaType: 'image/jpeg'
 * **Frog Face**
 * **Belly**
 * **Ollie**
+* **Kelly**
 
 ### D-Tier
 

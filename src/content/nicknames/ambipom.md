@@ -117,6 +117,8 @@ lcpMediaType: 'image/webp'
 * **Bangs**
 * **Dexter**
 * **Monkey D/Luffy**
+* **Mischief**
+* **Darwin**
 
 ### B-Tier
 
@@ -167,5 +169,8 @@ lcpMediaType: 'image/webp'
 * **Ashbipom**
 * **Ash**
 * **Tree**
+* **Mulberry**
+* **Royal**
+* **Plum**
 
 Do you have a favourite Ambipom nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

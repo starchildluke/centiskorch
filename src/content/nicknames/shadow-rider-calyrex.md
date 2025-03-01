@@ -67,6 +67,8 @@ With all that said, let's look at those Shadow Rider Calyrex nicknames!
 * **Blackheart**
 * **Troy**
 * **Insomnia**
+* **Ryder**
+* **Leash**
 
 ### C-Tier
 

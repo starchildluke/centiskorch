@@ -69,6 +69,8 @@ With all that said, let's look at those Snorlax nicknames!
 * **Lax vs. Food**
 * **Gravy**
 * **Butterball**
+* **Dough**
+* **Pillsbury**
 
 ### C-Tier
 

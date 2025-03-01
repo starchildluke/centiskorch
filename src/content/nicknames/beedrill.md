@@ -139,6 +139,7 @@ lcpMediaType: image/webp
 * **Bee Plus**
 * **Andrena**
 * **Joust**
+* **Toxin**
 
 ### C-Tier
 

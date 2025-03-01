@@ -79,6 +79,7 @@ With all that said, let's look at those Mimikyu nicknames!
 * **Sam**<sup>[<a href="#ref-1">1</a>]</sup>
 * **Dr. Flug**
 * **Bag Lady**
+* **Senna**
 
 ### C-Tier
 

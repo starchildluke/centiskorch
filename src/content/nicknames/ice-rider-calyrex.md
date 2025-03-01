@@ -57,6 +57,8 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **Coldheart**
 * **Freezer**
 * **Apollo**
+* **Ryder**
+* **Leash**
 
 ### C-Tier
 

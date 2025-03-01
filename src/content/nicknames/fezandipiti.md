@@ -57,6 +57,7 @@ With all that said, let's look at those Fezandipiti nicknames!
 * **Priestess**
 * **Fandango**
 * **Glamingo**
+* **Toxin**
 
 ### C-Tier
 

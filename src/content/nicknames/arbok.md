@@ -119,6 +119,7 @@ lcpMediaType: image/webp
 * **Marguerite**
 * **Deis** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 * **Aneru/Rope** - from [The Adventure of Link](/nicknames/themes/legend-of-zelda/)
+* **Coyle**
 
 ### B-Tier
 
@@ -141,6 +142,7 @@ lcpMediaType: image/webp
 * **Bite Me**
 * **Ouroboros**
 * **Midgar Zolom**
+* **Eden**
 
 ### C-Tier
 

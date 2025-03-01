@@ -68,6 +68,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Dragon Kitty**
 * **Sabrecat**
 * **Crazy Fire**
+* **Arson**
 
 ### C-Tier
 

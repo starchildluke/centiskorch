@@ -163,6 +163,7 @@ lcpMediaType: 'image/webp'
 * **Roadie**
 * **Phish**
 * **Bes** - Egyptian god of music making and dancing
+* **Toxin**
 
 ### C-Tier
 

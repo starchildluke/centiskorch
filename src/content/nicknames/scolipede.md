@@ -42,6 +42,7 @@ With all that said, let's look at those Scolipede nicknames!
 * **Crimson**
 * **Grim/Reaper** - inspired by a GPT-3.5 Turbo suggestion (Grim Reaper)
 * **Plum**
+* **Toxin**
 
 ### C-Tier
 

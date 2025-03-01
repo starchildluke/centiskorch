@@ -47,6 +47,7 @@ With all that said, let's look at those Walking Wake nicknames!
 * **Hailee**
 * **Rio**
 * **Kirin** - a Summon from [Golden Sun](/nicknames/themes/golden-sun/)
+* **Topaz**
 
 ### B-Tier
 

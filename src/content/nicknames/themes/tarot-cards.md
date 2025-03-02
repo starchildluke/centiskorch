@@ -28,7 +28,7 @@ My methodology for picking tarot themed nicknames is as follows:
 * **The Emperor** - Empoleon, Slowking, Zacian
 * **The Hierophant** - Xatu, Slowking, Porygon, Audino, Zamazenta
 * **The Lovers** - Luvdisc, Umbreon/Espeon, Nidoking/Nidoqueen
-* **The Chariot** - Miraidon, Kiraidon, Cyclizar
+* **The Chariot** - [Miraidon](/nicknames/miraidon/), Kiraidon, Cyclizar
 * **Strength** - Machamp, Regigigas, Zacian, Zamazenta, Eternatus
 * **The Hermit** - Cubone, Crustle, Mew
 * **Wheel of Fortune** - Dhelmise, Spiritomb, Spheal, Electrode

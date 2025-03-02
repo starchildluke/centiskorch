@@ -17,7 +17,7 @@ My methodology for picking Rivals of Aether themed nicknames is the same as [Gol
 ### Rivals of Aether
 
 * **Zetterburn** - Pyroar
-* **Orcane** - Palafin, Kyogre
+* **Orcane** - [Palafin](/nicknames/palafin/), Kyogre
 * **Wrastor** - Hawlucha, [Quaquaval](/nicknames/quaquaval/), Decidueye, Xatu, Oricorio, Blaziken
 * **Kragg** - Heracross, Pinsir, Escavalier
 * **Forsburn** - Zacian, Arcanine, Mangetsu, Lycanroc, Mightyena

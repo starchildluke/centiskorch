@@ -130,6 +130,7 @@ lcpMediaType: 'image/webp'
 * **Poole**
 * **Rain**
 * **River**
+* **Orcane** - from [Rivals of Aether](/nicknames/themes/rivals-of-aether/)
 
 ### C-Tier
 

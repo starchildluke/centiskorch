@@ -17,7 +17,7 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 ### Breath of Fire (1993)
 
 * **Ryu** - Dratini, Dragonair, [Kingdra](/nicknames/kingdra/), Altaria, Salamence, Latios, Garchomp, Hydreigon, Walking Wake
-* **Zog** - Ceruledge, Drapion, Palkia, Goodra, Noivern, Miraidon, Naganadel, Eternatus, Genesect, Zygarde
+* **Zog** - Ceruledge, Drapion, Palkia, Goodra, Noivern, [Miraidon](/nicknames/miraidon/), Naganadel, Eternatus, Genesect, Zygarde
 * **Sara**, **Nina** - Gardevoir, Froslass, Reshiram, Florges, Pheromosa, Iron Valiant, Diancie, Lugia
 * **Deis** - Serperior, Seviper, Dragonair, Milotic, Rayquaza, [Arbok](/nicknames/arbok/), Dunsparce, Gyarados, Steelix, Sandaconda, Snivy, Giratina, Gorebyss
 * **Bo** - Arcanine, Houndoom, Lucario, Lycanroc, Zacian, Zamazenta, Zoroark, Mightyena

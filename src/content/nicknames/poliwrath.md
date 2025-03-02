@@ -132,7 +132,7 @@ lcpMediaType: 'image/webp'
 * **Thorpe**
 * **Hans Swimmer**
 * **DavidSwimmer** - like David Schwimmer, the actor who played Ross Geller in Friends. Geddit?!
-* **Polifin** - like Palafin but less powerful
+* **Polifin** - like [Palafin](/nicknames/palafin/) but less powerful
 * **Googles**
 * **StayInUrLane**
 * **Baby Blue**

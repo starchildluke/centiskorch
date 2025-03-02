@@ -143,5 +143,6 @@ lcpMediaType: 'image/webp'
 * **BMX**
 * **Tandem**
 * **Sulky**
+* **Zog** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 
 Do you have a favourite Miraidon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

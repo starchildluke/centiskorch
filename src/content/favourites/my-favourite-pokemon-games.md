@@ -12,8 +12,8 @@ I thought I'd compile a list of my favourite Pokémon games. As I've not played 
 ## 1. Pokémon Gold/Silver
 ## 2. Pokémon Crystal
 ## 3. Pokémon Red/Blue
-## 4. Pokémon Yellow
-## 5. Pokémon HeartGold/SoulSilver
+## 4. Pokémon HeartGold/SoulSilver
+## 5. Pokémon Yellow
 ## 6. Pokémon Legends: Arceus
 ## 7. Pokémon Black 2/White 2
 ## 8. Pokémon Sword/Shield

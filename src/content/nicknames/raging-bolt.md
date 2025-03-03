@@ -45,6 +45,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Abraham/Lincoln/AbrahamLncln**
 * **Furriosa**
 * **MUSTAAAAARD**
+* **NeckinWimdy**
 
 ### B-Tier
 

@@ -29,7 +29,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Armos** - Probopass, Bastiodon, Golurk
 * **Ghini** - Gengar, [Mimikyu](/nicknames/mimikyu/), Banette, Dusknoir, Mismagius, Froslass, Giratina
 * **Leever** - Palossand, Hippodown, Cradily, Maractus, Cacturne
-* **Lynel** - Pyroar, Palkia (Origin Forme), Solgaleo, [Gouging Fire](/nicknames/gouging-fire/), Entei, Luxray
+* **Lynel** - Pyroar, Palkia (Origin Forme), Solgaleo, [Gouging Fire](/nicknames/gouging-fire/), [Entei](/nicknames/entei/), Luxray
 * **Octorok** - Octillery, Grapploct
 * **Peahat** - Jumpluff, Florges, Eldegoss, Roserade, Vileplume, Cherrim, Comfey, Maractus
 * **River Zora/Zola** - Seaking, Overqwil, Basculegion, Elektross, Barraskewda

@@ -26,7 +26,7 @@ My methodology for picking Rivals of Aether themed nicknames is the same as [Gol
 * **Etalus** - Beartic
 * **Ranno** - Greninja
 * **Clairen** - Zoroark, Lucario
-* **Sylvanos** - Pyroar, Solgaleo, Entei
+* **Sylvanos** - Pyroar, Solgaleo, [Entei](/nicknames/entei/)
 * **Elliana** - Zygarde, Giratina, Steelix, Excadrill
 * **Ori and Sein** - Tandemaus
 * **ShovelKnight** - Golurk, Kingambit, Aggron, Armarouge

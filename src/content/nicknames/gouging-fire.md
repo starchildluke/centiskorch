@@ -10,7 +10,7 @@ lcpMediaType: 'image/jpeg'
 
 <div class="img-center"><img src="/images/gouging-fire.jpg" width="250px" height="250px" alt="a dinosaur-like, hybrid Pokémon with some canine features. Its body is brown, and it has a yellow, green, and red crest on its head"></div>
 
-Gouging Fire was introduced in Generation 9 with a Fire/Dragon typing based on Entei so there's plenty of inspiration for nicknames.
+Gouging Fire was introduced in Generation 9 with a Fire/Dragon typing based on [Entei](/nicknames/entei/) so there's plenty of inspiration for nicknames.
 
 Let's look at some info on Gouging Fire and suggested nicknames.
 

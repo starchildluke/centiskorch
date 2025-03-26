@@ -40,6 +40,7 @@ With all that said, let's look at those Mimikyu nicknames!
 
 * **Sew Creepy**
 * **Stitch**
+* **MF GLOOM**
 
 ### A-Tier
 
@@ -59,6 +60,9 @@ With all that said, let's look at those Mimikyu nicknames!
 * **Alfredo**<sup>[<a href="#ref-1">1</a>]</sup>
 * **Phantom**<sup>[<a href="#ref-1">1</a>]</sup>
 * **Jason**<sup>[<a href="#ref-1">1</a>]</sup>
+* **Malice**
+* **Spite**
+* **Wrath**
 
 ### B-Tier
 
@@ -80,6 +84,8 @@ With all that said, let's look at those Mimikyu nicknames!
 * **Dr. Flug**
 * **Bag Lady**
 * **Senna**
+* **The Unseen**
+* **Amityville**
 
 ### C-Tier
 
@@ -100,6 +106,7 @@ With all that said, let's look at those Mimikyu nicknames!
 * **Scarecrow**
 * **ManInTheMask**<sup>[<a href="#ref-1">1</a>]</sup>
 * **Dr Decker**<sup>[<a href="#ref-1">1</a>]</sup>
+* **Sully**
 
 <sup id="ref-1">1</sup> Shout out to [Little Red Horror](https://littleredhorror.wordpress.com/2020/07/31/burlap-bad-guys/) for the nickname inspiration
 

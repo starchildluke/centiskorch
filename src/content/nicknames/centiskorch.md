@@ -69,6 +69,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **FastFootFred** - Another language model suggestion. It's so out there and I kinda love it.
 * **Millie** - not a millipede. Not a millipede!!!
 * **Atari** - see "Queen Pede" above
+* **Fahrenheit**
 
 ### C-Tier
 
@@ -82,6 +83,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Inferno** - It's G-Max move is Centiferno. Maybe a little on the nose? I'll leave that up to you.
 * **WrigglysXtra** - like the chewing gum, geddit?
 * **Hello Legs**
+* **Predator**
 
 ### D-Tier
 

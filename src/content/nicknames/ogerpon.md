@@ -93,6 +93,18 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Masquerade** - <q cite="https://en.wikipedia.org/wiki/Masquerade_ball">a masquerade ball is an special kind of formal ball which many participants attend in costume wearing masks.</q>
 * **Meta** - after Meta Knight, the masked villain from the Kirby universe
 * **Olga Pond** - subtitles fail
+* **Mighty**
+* **Emerald**
+* **Chlorophyll**
+* **Mint**
+* **Seaweed**
+* **Camouflage**
+* **Meadow**
+* **Prairie**
+* **Savannah**
+* **Flick**
+* **Crackle**
+* **Brook**
 
 ### D-Tier
 

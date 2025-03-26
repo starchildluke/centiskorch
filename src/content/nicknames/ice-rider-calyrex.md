@@ -59,6 +59,11 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **Apollo**
 * **Ryder**
 * **Leash**
+* **Prophecy**
+* **Snowcap**
+* **Snowfall**
+* **Alpine**
+* **Snowflake**
 
 ### C-Tier
 
@@ -78,6 +83,8 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **Denali** - one of the coldest places on earth (in Alaska, USA)
 * **Yakutsk** - the largest city built on continuous permafrost
 * **Vorkuta** - an ice-covered Russian ghost town
+* **Iridescence**
+* **Snowbell**
 
 ### D-Tier
 
@@ -89,5 +96,10 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **Neigh Ride**
 * **Hay Girl**
 * **Cold Abyss**
+* **Mercy**
+* **Glacier**
+* **Bojack**
+* **Jon Snow**
+* **Stone Cold**
 
 Do you have a favourite Ice Rider Calyrex nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

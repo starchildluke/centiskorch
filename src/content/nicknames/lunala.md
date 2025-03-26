@@ -140,6 +140,7 @@ lcpMediaType: image/webp
 * **Acai**
 * **Cabbage**
 * **Jambul**
+* **Plum**
 
 ### C-Tier
 
@@ -154,5 +155,7 @@ lcpMediaType: image/webp
 * **Blackcurrant**
 * **Crocus**
 * **Sodalite**
+* **Clair** - as in clairvoyant
+* **Spook**
 
 Do you have a favourite Lunala nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

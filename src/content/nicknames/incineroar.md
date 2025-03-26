@@ -114,6 +114,8 @@ lcpMediaType: 'image/webp'
 * **Mike Pawesome**
 * **Carnage**
 * **Conan**
+* **Ruby**
+* **Garnet**
 
 ### B-Tier
 
@@ -134,6 +136,7 @@ lcpMediaType: 'image/webp'
 * **Darth Maul**
 * **Scarlet**
 * **Bordeaux**
+* **Carmine**
 
 ### C-Tier
 
@@ -152,5 +155,10 @@ lcpMediaType: 'image/webp'
 * **Ferokitty**
 * **Whisker Away**
 * **Chester** - after Chester Cheetah
+* **Zealot**
+* **Vermilion**
+* **Crimson**
+* **Cinnabar**
+* **Poppy**
 
 Do you have a favourite Incineroar nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

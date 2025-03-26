@@ -134,6 +134,7 @@ lcpMediaType: image/webp
 * **Blacksmith**
 * **Sakuya-hime** - the short name for the goddess of volcanoes
 * **Hoagie**
+* **Chestnut**
 
 ### C-Tier
 

@@ -113,6 +113,9 @@ lcpMediaType: image/webp
 * **Cavalier**
 * **Pierce**
 * **Lance**
+* **Needles**
+* **Pins&Needles**
+* **Barb/Barbara**
 
 ### B-Tier
 

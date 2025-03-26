@@ -89,6 +89,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Bridget** - if it's a girl
 * **Lyne/Lyne Bridge**
 * **Archie**
+* **Pylon**
 
 ### D-Tier
 
@@ -99,5 +100,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Stanley**
 * **Bart**
 * **Versaceludon**
+* **ReSister**
+* **Durabudon**
 
 Do you have a favourite Archuladon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

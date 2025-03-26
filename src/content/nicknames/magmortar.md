@@ -43,6 +43,10 @@ With all that said, let's look at those Magmortar nicknames!
 * **Backfire**
 * **Stromboli** - a volcano in Italy. Also a tasty baked good!
 * **Caldera** - <q cite="https://www.nationalgeographic.org/encyclopedia/calderas/">a large depression formed when a volcano erupts and collapses.</q>
+* **Tephra**
+* **Rouge**
+* **Roja**
+* **BurnieCindrs**
 
 ### B-Tier
 
@@ -58,11 +62,12 @@ With all that said, let's look at those Magmortar nicknames!
 * **Trebuchet**
 * **M. C. Eschar** - a play on M. C. Escher, a famous artist, and an eschar, which is a layer of dead, burned tissue (the idea is if you got in the way of a Magmortar's attack, you'd end up with some eschars)
 * **Armstrong** - a type of British cannon
+* **Flare Grylls**
+* **Flare Jordan**
 
 ### C-Tier
 
 * **Nick Cannon** - because cannons
-* **Blastoes** - like a play on Blastoise and it has four toes... I dunno
 * **Ogon** - from the Russian <span lang="ru">огонь</span>, meaning 'fire'
 * **Bapushka** - a play on "babushka", and "pushka" which is Russian for "cannon"
 * **Moltar**
@@ -70,5 +75,10 @@ With all that said, let's look at those Magmortar nicknames!
 * **Ballistic**
 * **Karura** - per the Origins section
 * **Maggie**
+* **Cinder**
+* **Pyroclast**
+* **Hades**
+* **Two Cannons**
+* **Morty**
 
 Do you have a favourite Magmortar nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

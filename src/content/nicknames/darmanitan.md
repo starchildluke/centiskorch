@@ -161,6 +161,8 @@ lcpMediaType: 'image/webp'
 * **Ushanka**✝
 * **Hodan**✝ - from [Rivals of Aether](/nicknames/themes/rivals-of-aether/)
 * **Búfalo**\*
+* **Igor**
+* **Scorch**
 
 ### D-Tier
 

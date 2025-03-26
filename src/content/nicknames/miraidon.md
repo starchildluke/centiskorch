@@ -105,6 +105,9 @@ lcpMediaType: 'image/webp'
 * **Harley**
 * **Tokyo Drift**
 * **Drift King/DK**
+* **Static Shock**
+* **Electro**
+* **Powerline**
 
 ## A-Tier
 
@@ -129,6 +132,8 @@ lcpMediaType: 'image/webp'
 * **Akira**
 * **Jet**
 * **Wagon**
+* **Zzzap!**
+* **Sparky**
 
 ## C-Tier
 

@@ -44,6 +44,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Bam Bam** - because Pebbles is a Flintstones character and so is Bam Bam
 * **Moeraki** - a place where you'll find the Moeraki Boulders, a group of large spherical boulders lying along a stretch of Koekohe Beach in New Zealand
 * **Barrenrock**
+* **Titan**
 
 ### B-Tier
 
@@ -55,6 +56,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Gorge** - rocks, innit?
 * **Kei** - Dutch for "boulder"
 * **Miner**
+* **RollingStone**
 
 ### C-Tier
 
@@ -63,6 +65,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Rotunda**
 * **Blondie**
 * **Pearl**
+* **Amber**
 
 ### D-Tier
 
@@ -76,5 +79,6 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Bourdon**
 * **Berlin**
 * **Bolero**
+* **Orbie**
 
 Do you have a favourite Iron Boulder nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

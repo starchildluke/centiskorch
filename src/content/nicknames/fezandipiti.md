@@ -58,6 +58,10 @@ With all that said, let's look at those Fezandipiti nicknames!
 * **Fandango**
 * **Glamingo**
 * **Toxin**
+* **Nox** - from noxious
+* **Maleficent**
+* **Alan** - from Alan _Partridge_
+* **Guinea**
 
 ### C-Tier
 
@@ -71,5 +75,11 @@ With all that said, let's look at those Fezandipiti nicknames!
 * **Plum**
 * **Haze**
 * **Notfezant**
+* **Shackle** - because of the toxic chain
+* **Aves**
+* **Exotica**
+* **Esoterica**
+* **Contagion**
+* **Fowler**
 
 Do you have a favourite Fezandipiti nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

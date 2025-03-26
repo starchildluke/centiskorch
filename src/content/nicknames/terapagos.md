@@ -66,6 +66,7 @@ With all that said, let's look at those Terapagos nicknames!
 * **Seaport**
 * **Ragtop**
 * **Teriyaki**
+* **Prism**
 
 ### C-Tier
 
@@ -76,6 +77,9 @@ With all that said, let's look at those Terapagos nicknames!
 * **Terrorpin** - from [the Legend of Zelda](/nicknames/themes/legend-of-zelda/)
 * **Myrtle**
 * **Shellshocker**
+* **Myth**
+* **Quartz**
+* **Echo**
 
 ### D-Tier
 

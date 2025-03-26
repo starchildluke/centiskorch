@@ -148,6 +148,10 @@ lcpMediaType: 'image/jpeg'
 * **Coredramon**
 * **Godzilla2014** - via [this Pokémon meme](https://www.instagram.com/pokechu777/p/C7ASblQyCF_/)
 * **Tartar**
+* **Chaos**
+* **Riot**
+* **Scrum**
+* **Obsidian**
 
 ### C-Tier
 
@@ -163,5 +167,11 @@ lcpMediaType: 'image/jpeg'
 * **Frankenstein**
 * **Grinch**
 * **Piccolo**
+* **Glen**
+* **Sage**
+* **Brawler**
+* **Clay**
+* **Kong**
+* **Nexus**
 
 Do you have a favourite Tyranitar nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

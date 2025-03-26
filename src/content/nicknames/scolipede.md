@@ -40,9 +40,11 @@ With all that said, let's look at those Scolipede nicknames!
 * **Barb** - because it has a 5% chance of holding a Poison Barb in B2/W2
 * **Fever**
 * **Crimson**
-* **Grim/Reaper** - inspired by a GPT-3.5 Turbo suggestion (Grim Reaper)
+* **Reaper**
 * **Plum**
 * **Toxin**
+* **Crux**
+* **Blight**
 
 ### C-Tier
 
@@ -58,14 +60,16 @@ With all that said, let's look at those Scolipede nicknames!
 * **Tomohiro** - named after its designer, Tomohiro Kitakaze
 * **Violet**
 * **Menace**
-* **Blitz** - GPT-3.5 suggestion
-* **Thorne** - adapted from a GPT-3.5 suggestion (Thorn)
 * **Amethyst**
 
 ### D-Tier
 
-* **Purple Rain** - shame it doesn't learn Rain Dance
-* **Purple Haze** - shame it doesn't learn Haze
 * **Rollover** - shame it doesn't learn Rollo— oh, it does learn Rollout
+* **Blush**
+* **Chitin**
+* **Serum**
+* **Scarab**
+* **Rusty**
+* **Dart**
 
 Do you have a favourite Scolipede nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

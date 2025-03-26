@@ -40,12 +40,14 @@ With all that said, let's look at those Shadow Rider Calyrex nicknames!
 * **Nebula**
 * **Purple Mane**
 * **Abyss**
+* **Moonshadow**
 
 ### A-Tier
 
 * **Horsehead**
 * **Black Beauty**
 * **Seabiscuit**
+* **Blackwater**
 
 ### B-Tier
 
@@ -69,6 +71,7 @@ With all that said, let's look at those Shadow Rider Calyrex nicknames!
 * **Insomnia**
 * **Ryder**
 * **Leash**
+* **Galaxy**
 
 ### C-Tier
 

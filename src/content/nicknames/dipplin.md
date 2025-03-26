@@ -21,7 +21,7 @@ Name-wise, Dipplin appears to be a portmanteau of dip + Applin. [According to Bu
 
 ## Nicknames
 
-y methodology for nicknames is as follows:
+My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.
 * I'll usually list my inspiration for a nickname so you know where they came from.
@@ -69,6 +69,7 @@ With all that said, let's look at those Dipplin nicknames!
 * **Cobbler** - as in apple cobbler
 * **Cinnamon** - because cinnamon goes with apple!
 * **Pipi**
+* **Aetherea**
 
 ### C-Tier
 
@@ -78,5 +79,12 @@ With all that said, let's look at those Dipplin nicknames!
 * **Dublin**
 * **Dylan**
 * **Dapple**
+* **Draconic**
+* **Wyrmkin**
+* **Wyrmling**
+* **Munchkin**
+* **Ramekin**
+* **Corey**
+* **Wriggles**
 
 Do you have a favourite Dipplin nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

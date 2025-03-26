@@ -46,6 +46,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Furriosa**
 * **MUSTAAAAARD**
 * **NeckinWimdy**
+* **Purple Mane**
 
 ### B-Tier
 
@@ -62,6 +63,7 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Broomstick**
 * **Mona** - because fangs
 * **Great Neck** - named after a region in New York
+* **Purple Haze**
 
 ### C-Tier
 

@@ -145,6 +145,8 @@ lcpMediaType: 'image/webp'
 * **Phlox**
 * **River**
 * **Pan**
+* **Fret Hart**
+* **Heartbreaker**
 
 ### B-Tier
 
@@ -164,6 +166,9 @@ lcpMediaType: 'image/webp'
 * **Phish**
 * **Bes** - Egyptian god of music making and dancing
 * **Toxin**
+* **Ghost**
+* **Riff**
+* **Rebel**
 
 ### C-Tier
 
@@ -180,5 +185,12 @@ lcpMediaType: 'image/webp'
 * **Apollo*
 * **Creed**
 * **Hathor**
+* **Glam Rock**
+* **Hex**
+* **Surge**
+* **Thrasher**
+* **Anthrax**
+* **Ohm**
+* **Drip**
 
 Do you have a favourite Toxtricity nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

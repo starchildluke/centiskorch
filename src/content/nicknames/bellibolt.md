@@ -122,6 +122,7 @@ lcpMediaType: 'image/jpeg'
 * **Marshmallow**
 * **Play-Doh**
 * **Bilbo**
+* **Mr Tumble**
 
 ### C-Tier
 
@@ -138,6 +139,7 @@ lcpMediaType: 'image/jpeg'
 * **Belly**
 * **Ollie**
 * **Kelly**
+* **Wobble**
 
 ### D-Tier
 
@@ -149,5 +151,7 @@ lcpMediaType: 'image/jpeg'
 * **Frogmarch**
 * **The Prince**
 * **Yellow Belly**
+* **Bolt**
+* **Belliwood**
 
 Do you have a favourite Bellibolt nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

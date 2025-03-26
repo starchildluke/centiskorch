@@ -107,5 +107,7 @@ With all that said, let's look at those Deoxys nicknames!
 * **Starchild** - also my old nickname!
 * **Fifield** - from the film Prometheus
 * **DESOXY** - an anagram of Deoxys and a chemical compound, much like DNA
+* **Allele**
+* **Enigma**
 
 Do you have a favourite Deoxys nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -1,4 +1,4 @@
----
+Dusty---
 title: 'Beautifly nicknames'
 description: "A list of Beautifly nicknames, their origins, and why I think they're cool."
 pubDate: '18 Jan 2024'
@@ -59,6 +59,8 @@ With all that said, let's look at those Beautifly nicknames!
 * **Wing&APrayer**
 * **Bailey**
 * **Fancy Wings**
+* **Dusty**
+* **Aroma**
 
 ### C-Tier
 
@@ -74,6 +76,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Debug Mode**
 * **Poompatta**
 * **Wing Ding**
+* **PollenPocket**
 
 ### D-Tier
 
@@ -81,5 +84,6 @@ With all that said, let's look at those Beautifly nicknames!
 * **FlutterDrain** - It's BDSP Pokédex entry: <q>It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.</q>
 * **Bugbear**
 * **Humbug**
+* **Aura**
 
 Do you have a favourite Beautifly nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

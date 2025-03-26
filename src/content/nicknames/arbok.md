@@ -143,6 +143,7 @@ lcpMediaType: image/webp
 * **Ouroboros**
 * **Midgar Zolom**
 * **Eden**
+* **Vengeance**
 
 ### C-Tier
 
@@ -159,5 +160,6 @@ lcpMediaType: image/webp
 * **Bedlam**
 * **Chaos**
 * **Touch Grasss**
+* **Belly**
 
 Do you have a favourite Arbok nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

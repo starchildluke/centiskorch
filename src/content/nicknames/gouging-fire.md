@@ -82,6 +82,9 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Leo/Leon/Lyon/Leonidas/Leonard/Leopold**
 * **GougingFuDog** - a fu dog (or foo dog) is a <q cite="https://en.wiktionary.org/wiki/foo_dog#Noun">stylized lion statue similar to those usually placed in male and female pairs outside imperial Chinese palaces, tombs, temples, etc.</q>. It's likely a Western thing
 * **Wildcat**
+* **Ash**
+* **HearthLedger**
+* **Sizzle**
 
 ### D-Tier
 
@@ -90,5 +93,8 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Vanquish**
 * **Gougin'**
 * **Firespirit** - from Dragon Quest
+* **Lava**
+* **Blaze**
+* **Inferno**
 
 Do you have a favourite Gouging Fire nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

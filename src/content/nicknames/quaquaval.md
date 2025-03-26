@@ -66,6 +66,8 @@ With all that said, let's look at those Quaquaval nicknames!
 * **Parade**
 * **Silva**
 * **Ruffles**
+* **Grace**
+* **Cadence*
 
 ### C-Tier
 
@@ -79,6 +81,8 @@ With all that said, let's look at those Quaquaval nicknames!
 * **Pancake**
 * **A Moon Goose**
 * **Muscovy**
+* **Shimmer**
+* **Bill**
 
 ### D-Tier
 
@@ -88,5 +92,8 @@ With all that said, let's look at those Quaquaval nicknames!
 * **Quanza**
 * **Duck**
 * **Quaquavers**
+* **Quill**
+* **Puddle**
+* **Drake**
 
 Do you have a favourite Quaquaval nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

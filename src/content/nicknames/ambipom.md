@@ -139,6 +139,7 @@ lcpMediaType: 'image/webp'
 * **Los Dedos**
 * **Pickpocket**
 * **Ape Escape**
+* **Treetop**
 
 ### C-Tier
 

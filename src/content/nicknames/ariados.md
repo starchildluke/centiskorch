@@ -40,10 +40,11 @@ With all that said, let's look at those Ariados nicknames!
 
 ### A-Tier
 
-* **Silky Nutmeg/Silky/Nutmeg/Ganache** - you already knooooow!
+* **Silky Nutmeg/Silky** - you already knooooow!
 * **Recluse** - based on the brown recluse
 * **Anansi** - named after the African folkhero
 * **Anti-Venom/Auntie Venom** - gender depedent!
+* **Stringfellow**
 
 ### B-Tier
 
@@ -72,6 +73,8 @@ With all that said, let's look at those Ariados nicknames!
 * **Seamstress**
 * **Tangled**
 * **SixFeetOver**
+* **Threads**
+* **PHNTMThread**
 
 ### D-Tier
 
@@ -83,5 +86,6 @@ With all that said, let's look at those Ariados nicknames!
 * **Ariana**
 * **Arthropodogy**
 * **Spinneroonie**
+* **Weaver**
 
 Do you have a favourite Ariados nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

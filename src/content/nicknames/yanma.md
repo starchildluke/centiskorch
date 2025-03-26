@@ -64,5 +64,10 @@ With all that said, let's look at those Yanma nicknames!
 * **Wings** - you'll never guess the origins of this name!
 * **Peekaboo** - I dunno, it just sounds cute
 * **Gen Z** - because it's a zoomer? I dunno, I've run out of ideas
+* **Tempo**
+* **Apex**
+* **Propeller**
+* **Buzz**
+* **Iris**
 
 Do you have a favourite Yanma nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

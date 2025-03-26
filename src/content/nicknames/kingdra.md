@@ -44,6 +44,7 @@ With all that said, let's look at those Kingdra nicknames!
 * **Piers**
 * **Azulejo** - named after the famous Portuguese tiles
 * **Lapis**
+* **Storm**
 
 ### B-Tier
 
@@ -56,6 +57,13 @@ With all that said, let's look at those Kingdra nicknames!
 * **Blurple**
 * **Delf** - related to a shade of blue taken from Dutch ceramics
 * **DeepBlueSea**
+* **Abyss**
+* **Coast**
+* **Reef**
+* **Coral**
+* **Saltwater**
+* **Throne**
+* **Deluge**
 
 ### C-Tier
 
@@ -65,5 +73,13 @@ With all that said, let's look at those Kingdra nicknames!
 * **Puerto Rico**
 * **Celeste**
 * **Dragonlord** - from Dragon Quest
+* **Myth**
+* **Lair**
+* **Legend**
+* **Tidal**
+* **Surge**
+* **Ebb**
+* **Flow**
+* **Crown**
 
 Do you have a favourite Kingdra nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

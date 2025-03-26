@@ -65,6 +65,8 @@ With all that said, let's look at those Iron Crown nicknames!
 * **Carobo** - kinda like caribou + robo?
 * **Volechek** - a character in [Golden Sun](/nicknames/themes/golden-sun/)
 * **Ironclad**
+* **Captain**
+* **Cerulean**
 
 ### C-Tier
 
@@ -76,5 +78,7 @@ With all that said, let's look at those Iron Crown nicknames!
 * **Iron Hooves**
 * **Iron Maiden**
 * **Cornrow** - a partial anagram ("In cornrow" is a full anagram)
+* **Courage**
+* **Commander**
 
 Do you have a favourite Iron Crown nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

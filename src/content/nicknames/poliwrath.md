@@ -140,5 +140,9 @@ lcpMediaType: 'image/webp'
 * **Speedo**
 * **Girino** - Italian and Portuguese for 'tadpole'
 * **IPunchIKick**
+* **Lakeshore**
+* **Banks**
+* **Biceps**
+* **Ripples**
 
 Do you have a favourite Poliwrath nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

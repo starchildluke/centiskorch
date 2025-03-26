@@ -114,6 +114,7 @@ lcpMediaType: 'image/webp'
 * **Geyser**
 * **Lake**
 * **Monsoon**
+* **Braveheart**
 
 ### B-Tier
 
@@ -131,6 +132,8 @@ lcpMediaType: 'image/webp'
 * **Rain**
 * **River**
 * **Orcane** - from [Rivals of Aether](/nicknames/themes/rivals-of-aether/)
+* **Armistice**
+* **Arms**
 
 ### C-Tier
 
@@ -149,5 +152,8 @@ lcpMediaType: 'image/webp'
 * **Oceanspray**
 * **Crasher Wake**
 * **Vapor**
+* **Warrior**
+* **Hunter**
+* **Pride**
 
 Do you have a favourite Palafin nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

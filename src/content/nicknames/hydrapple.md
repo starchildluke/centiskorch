@@ -48,6 +48,7 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Scylla**
 * **Mansee**
 * **Biollante** - credit to [Dan Dockery](https://bsky.app/profile/dandock.bsky.social/post/3ld7ijujy7k2t) for the idea
+* **Molasses**
 
 ### B-Tier
 
@@ -62,6 +63,9 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Snappldragon**
 * **Barbarus** - from Dragon Quest IX
 * **Admiral** - an apple cultivar
+* **Noodles**
+* **Spaghetti**
+* **Candy**
 
 ### C-Tier
 
@@ -79,6 +83,7 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Tiamat** - a 5-headed dragon goddess from Dungeons & Dragons
 * **GranDragn** - from Dragon Quest; works best for a shiny Hydrapple
 * **Viper**
+* **Pudding**
 
 #### D-Tier
 
@@ -87,5 +92,8 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Earl**
 * **Happy**
 * **Yapple**
+* **Meadow**
+* **Clover**
+* **Watermelon**
 
 Do you have a favourite Hydrapple nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

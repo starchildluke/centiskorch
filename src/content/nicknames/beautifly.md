@@ -1,4 +1,4 @@
-Dusty---
+---
 title: 'Beautifly nicknames'
 description: "A list of Beautifly nicknames, their origins, and why I think they're cool."
 pubDate: '18 Jan 2024'

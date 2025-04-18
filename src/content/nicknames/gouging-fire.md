@@ -48,6 +48,7 @@ With all that said, let's look at those Gouging Fire nicknames!
 * **Hellspawn** - from Dragon Quest
 * **Rogue**
 * **Gunfire**
+* **Red XIII** - from Final Fantasy VII
 
 ### B-Tier
 

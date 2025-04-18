@@ -116,6 +116,7 @@ lcpMediaType: image/webp
 * **Ogun** - Yoruba fire god
 * **Sol**
 * **Tostada**
+* **Red XIII** - from Final Fantasy VII
 
 ### B-Tier
 

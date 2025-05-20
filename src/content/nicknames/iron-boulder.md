@@ -45,6 +45,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Moeraki** - a place where you'll find the Moeraki Boulders, a group of large spherical boulders lying along a stretch of Koekohe Beach in New Zealand
 * **Barrenrock**
 * **Titan**
+* **Bullring**
 
 ### B-Tier
 

@@ -62,6 +62,7 @@ With all that said, let's look at those Walking Wake nicknames!
 * **El Tatio** - named after a Chilean geyser
 * **Mudpot**
 * **Steam Kitty**
+* **Ryu** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 
 ### C-Tier
 

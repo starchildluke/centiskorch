@@ -120,6 +120,7 @@ lcpMediaType: 'image/webp'
 * **Frubes**
 * **Pickles**
 * **Squirts**
+* **Creon** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 
 ### C-Tier
 

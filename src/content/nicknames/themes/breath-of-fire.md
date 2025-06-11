@@ -16,10 +16,10 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 
 ### Breath of Fire (1993)
 
-* **Ryu** - Dratini, Dragonair, [Kingdra](/nicknames/kingdra/), Altaria, Salamence, Latios, Garchomp, Hydreigon, Walking Wake
+* **Ryu** - Dratini, Dragonair, [Kingdra](/nicknames/kingdra/), Altaria, Salamence, Latios, [Garchomp](/nicknames/garchomp/), Hydreigon, [Walking Wake](/nicknames/walking-wake/)
 * **Zog** - Ceruledge, Drapion, Palkia, Goodra, Noivern, [Miraidon](/nicknames/miraidon/), Naganadel, Eternatus, Genesect, Zygarde
 * **Sara**, **Nina** - Gardevoir, Froslass, Reshiram, Florges, Pheromosa, Iron Valiant, Diancie, Lugia
-* **Deis** - Serperior, Seviper, Dragonair, Milotic, Rayquaza, [Arbok](/nicknames/arbok/), Dunsparce, Gyarados, Steelix, Sandaconda, Snivy, Giratina, Gorebyss
+* **Deis** - Serperior, Seviper, Dragonair, Milotic, [Rayquaza](/nicknames/rayquaza/), [Arbok](/nicknames/arbok/), Dunsparce, Gyarados, Steelix, Sandaconda, Snivy, Giratina, Gorebyss
 * **Bo** - Arcanine, Houndoom, Lucario, Lycanroc, Zacian, Zamazenta, Zoroark, Mightyena
 * **Karn** - Mightyena, Thievul
 * **Ameblob**, **Creep** - Muk, Spiritomb, Garbodor
@@ -38,7 +38,7 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 * **Chopper** - Bisharp
 * **Claw**, **Crab**, **Pincher** - Clawitzer, Kingler, Klawf, Crawdaunt, Crabominable, Crustle
 * **Cloud**, **Myst**, **Wisp** - Spiritomb, Gastly
-* **Creon** - Orthworm, Wugtrio, Eelektross
+* **Creon** - Orthworm, [Wugtrio](/nicknames/wugtrio/), Eelektross
 * **D.Knight/Ghost Lord** - Ceruledge
 * **D.Rider/Devil Horse**, **Wraith/Death Rider** - [Calyrex-Shadow](/nicknames/shadow-rider-calyrex/)
 * **DogFish** - Basculegion, Barraskewda, Bruxish, Guzzlord

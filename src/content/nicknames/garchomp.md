@@ -134,6 +134,7 @@ lcpMediaType: 'image/webp'
 * **Stryder**
 * **Striker**
 * **Rex**
+* **Ryu** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 
 ### C-Tier
 

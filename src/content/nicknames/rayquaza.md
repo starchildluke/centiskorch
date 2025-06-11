@@ -128,6 +128,7 @@ Note: any nickname marked with a \* is for shiny Rayquaza, which is a dark charc
 * **Cyclone**
 * **Skybolt**
 * **Space Needle**
+* **Deis** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 
 ### B-Tier
 

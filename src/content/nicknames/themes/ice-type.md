@@ -21,7 +21,7 @@ My methodology for picking ice themed nicknames is as follows:
 
 ### Ice glossary
 
-Terminology sources: [Global Cryosphere Watch](https://globalcryospherewatch.org/reference/glossary_docs/NRL_Forecasters_Handbook_for_the_Arctic_AppendixA.pdf), [AGU Publications](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/9781118663950.app1)
+Terminology sources: Global Cryosphere Watch, [AGU Publications](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/9781118663950.app1)
 
 * Cryo
 * Drumlin

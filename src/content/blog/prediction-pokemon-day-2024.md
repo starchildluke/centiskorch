@@ -4,7 +4,7 @@ description: "It might not happen but it'd make perfect sense if it did."
 pubDate: '01 Feb 2024'
 ---
 
-A few weeks ago, [PKMNcast made a prediction on his podcast](https://youtu.be/GyI3WgiPZGg?si=KWLTmgkXvJ_4OPU1&t=10225) that The Pokémon Company would have a shiny Rayquaza raid for Pokémon Day, "to line up with the anime" (spoiler alert: shiny Rayquaza featured in the latest anime series). I thought that would be an awesome idea and I've not stopped thinking about it since, not least because shiny Rayquaza is **gorgeous**. But after my dragon themed evening yesterday, I took the idea a step further...
+A few weeks ago, [PKMNcast made a prediction on his podcast](https://www.youtube.com/watch?v=GyI3WgiPZGg&t=10225s) that The Pokémon Company would have a shiny Rayquaza raid for Pokémon Day, "to line up with the anime" (spoiler alert: shiny Rayquaza featured in the latest anime series). I thought that would be an awesome idea and I've not stopped thinking about it since, not least because shiny Rayquaza is **gorgeous**. But after my dragon themed evening yesterday, I took the idea a step further...
 
 What if, instead of a standard 7* raid where you defeat the Pokémon and just catch it, they replicated the shiny Zeraora event from Sword and Shield where a million people had to defeat it in a Max Raid in order for them to get the shiny version in Pokémon HOME? By making it a global effort, it'd draw more people to the raid—probably more than ever before in SV—and it'd be an opportunity for people to do group raids rather than solo.
 

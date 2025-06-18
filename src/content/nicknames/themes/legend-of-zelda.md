@@ -49,7 +49,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Aruroda** - Drapion, Clawitzer
 * **Bago-Bago** - Relicanth
 * **Basilisk** - Dracovish, Kecleon, Heliolisk
-* **Bit** - Parasect, Magcargo
+* **Bit** - Parasect, [Magcargo](/nicknames/magcargo/)
 * **Boon** - Butterfree, Beedrill, Venomoth, Yanmega, [Beautifly](/nicknames/beautifly/), Dustox, Ninjask, Mothim, Frosmoth, Ribombee
 * **Bot** - Gastrodon, Stunfisk
 * **Daira** - [Feraligatr](/nicknames/feraligatr/), Krookodile, Garchomp

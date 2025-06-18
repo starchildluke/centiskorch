@@ -29,7 +29,7 @@ My methodology for picking Breath of Fire themed nicknames is the same as [Golde
 * **Phoenix** - Moltres
 * **Beak** - Qwilfish
 * **Blaze** - Cinderace
-* **Blurb**, **SandClod** - Magcargo, Muk
+* **Blurb**, **SandClod** - [Magcargo](/nicknames/magcargo/), Muk
 * **Bulla**, **Bully** - Tauros (all variants), Bouffalant
 * **Buzzer** - Ribombee, Yanmega
 * **Cactus** - Cacturne

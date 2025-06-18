@@ -11,10 +11,14 @@
             "id": "0f867719a37f54f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/templates/post.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "post"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miraidon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,8 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfa98bbfdc1abcf4",
+  "active": "0f867719a37f54f1",
   "lastOpenFiles": [
+    "2025-06-18.md",
+    "Untitled.canvas",
     "src/content/nicknames/lunala.md",
     "pnpm-lock.yaml",
     "pnpm-lock.yaml.3151495224",
@@ -197,7 +202,6 @@
     "public/images/2025-birmingham-regionals-plushies 2.jpg",
     "public/images/2025-birmingham-regionals-plushies.jpg",
     "src/templates/nicknames/theme.md",
-    "src/content/nicknames/themes/breath-of-fire.md",
     "src/templates/nicknames",
     "public/images/arbok.jpg",
     "public/images/arbok.webp",

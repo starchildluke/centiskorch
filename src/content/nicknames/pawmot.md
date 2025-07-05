@@ -89,8 +89,6 @@ lcpMediaType: 'image/webp'
 	<summary><strong>My nicknaming methodology</strong></summary>
 	<ul>
 		<li>I rank nicknames by lettered tiers: S, A, B, C, and D. S is the best and D is the worst.</li>
-		<li>I may use generative AI for inspiration. I'll always mark these nicknames with an asterisk (\*) </li>but they'll always be amended where necessary
-		<li>I'll usually list my inspiration for a nickname so you know where they came from</li>
 	</ul>
 	</details>
 </section>

@@ -111,6 +111,7 @@ lcpMediaType: 'image/webp'
 * **Dodger**
 * **Rocky**
 * **Screwball**
+* **Megmat** - from [the Legend of Zelda](/nicknames/themes/legend-of-zelda/)
 
 ### B-Tier
 

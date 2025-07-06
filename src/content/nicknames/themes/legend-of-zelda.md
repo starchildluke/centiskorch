@@ -59,7 +59,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Goriya** - Obstagoon, Linoone, Furret, Lucario, Excadrill, Smeargle, Zangoose
 * **Lizalfo** - Cyclizar, Sceptile, Kecleon, Inteleon
 * **Lowder** - Orbeetle, Rabsca
-* **Megmat** - Raticate, Watchog, [Raichu](/nicknames/raichu/), Emolga, Dedenne, Plusle, Minun, Minccino, Pachirisu, Togedemaru
+* **Megmat** - Raticate, Watchog, [Raichu](/nicknames/raichu/), Emolga, Dedenne, Plusle, Minun, Minccino, [Pachirisu](/nicknames/pachirisu/), Togedemaru
 * **Moby** - Braviary, Mandibuzz, Staraptor, Pidgeot, Fearow, Swellow, Honchkrow, Talonflame, Decidueye
 * **Myu** - Pincurchin, Pyukumuku
 * **River Devil** - Araquanid

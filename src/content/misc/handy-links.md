@@ -23,6 +23,10 @@ Here is a collection of handy links for every generation and some general resour
 * [Binomial calculator for shiny odds](https://stattrek.com/online-calculator/binomial)
 * [Using Math to Settle Pokémon's Biggest Debate](https://www.youtube.com/watch?v=D8yzP9C4-Lo) - this is less about how to shiny hunt and more about the maths behind it and why multi-hunts don't actually reduce your odds
 
+## Web stuff
+
+* [Webmastery Tools](https://lockheartlove.neocities.org/webmastery/) - helpful tools for creating your own website
+
 ## Graphics
 * [Sun/Moon Sprite Project](https://www.smogon.com/forums/threads/sun-moon-sprite-project.3577711/) - these have been used on my Pokémon teams page
 * [Photopea](https://www.photopea.com/) - for those who like to edit sprites or make cool Pokémon graphics and can't afford Adobe Photoshop CC

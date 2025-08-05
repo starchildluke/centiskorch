@@ -41,6 +41,7 @@ With all that said, let's look at those Mimikyu nicknames!
 * **Sew Creepy**
 * **Stitch**
 * **MF GLOOM**
+* **Vivi**
 
 ### A-Tier
 

@@ -45,7 +45,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 
 * **Magician** - Oranguru, Gengar, Mismagius
 * **Ache/Acheman** - Crobat, Noivern, Lunala, Swoobat, Gliscor
-* **Aneru/Rope** - [Arbok](/nicknames/arbok/, Sandaconda, Seviper, Milotic, Steelix, Zygarde, Dundunsparce, Rayquaza, Serperior
+* **Aneru/Rope** - [Arbok](/nicknames/arbok/), Sandaconda, Seviper, Milotic, Steelix, Zygarde, Dundunsparce, Rayquaza, Serperior
 * **Aruroda** - Drapion, Clawitzer
 * **Bago-Bago** - Relicanth
 * **Basilisk** - Dracovish, Kecleon, Heliolisk

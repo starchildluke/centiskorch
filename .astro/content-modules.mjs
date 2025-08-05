@@ -48,5 +48,6 @@ export default new Map([
 ["src/content/nicknames/themes/robin-hood.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Frobin-hood.mdx&astroContentModuleFlag=true")],
 ["src/content/nicknames/themes/water-type.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Fwater-type.mdx&astroContentModuleFlag=true")],
 ["src/content/blog/adef-emerald-victory-road-trainers.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2Fadef-emerald-victory-road-trainers.mdx&astroContentModuleFlag=true")],
-["src/content/nicknames/themes/grass-type.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Fgrass-type.mdx&astroContentModuleFlag=true")]]);
+["src/content/nicknames/themes/grass-type.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Fgrass-type.mdx&astroContentModuleFlag=true")],
+["src/content/nicknames/themes/quest-64.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Fquest-64.mdx&astroContentModuleFlag=true")]]);
 		

@@ -24,5 +24,5 @@ And countries? All of them:
 
 **References**
 
-<p><small id="ref-1">*A predecessor to the first official Pokémon World Championships in 2008 was held in [Sydney in 2000](https://bulbapedia.bulbagarden.net/wiki/World_Championships#Predecessors), to coincide with the Summer Olympics held in the same year.</small></p>
+<p><small id="ref-1">*A predecessor to the first official Pokémon World Championships in 2008 was held in <a href="https://bulbapedia.bulbagarden.net/wiki/World_Championships#Predecessors">Sydney in 2000</a>, to coincide with the Summer Olympics held in the same year.</small></p>
 <p><small id="ref-2">**The 2020 and 2021 World Championships didn't take place due to the COVID-19 pandemic and the 2020 Olympics in Tokyo took place in 2021 due to the COVID-19 pandemic.</small></p>

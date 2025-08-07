@@ -126,6 +126,7 @@ lcpMediaType: 'image/jpeg'
 * **Bobby Green**
 * **Tyrnoceratps** - based on Tyrannoceratops from Dragon Quest but it wouldn't all fit
 * **Dragonthorn** - also Dragon Quest
+* **Maverick**
 
 ### B-Tier
 

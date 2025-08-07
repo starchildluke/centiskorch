@@ -122,6 +122,7 @@ lcpMediaType: image/webp
 * **Amethyst**
 * **Echo**
 * **Requiem**
+* **Lumina**
 
 ### B-Tier
 

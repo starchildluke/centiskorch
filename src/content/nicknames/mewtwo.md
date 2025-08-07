@@ -39,6 +39,8 @@ With all that said, let's look at those Mewtwo nicknames!
 
 * **Frieza** - standard, and probably the most common nickname
 * **Genesis**
+* **Oracle**
+* **The Catalyst**
 
 ### A-Tier
 

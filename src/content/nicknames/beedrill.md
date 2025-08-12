@@ -143,6 +143,7 @@ lcpMediaType: image/webp
 * **Andrena**
 * **Joust**
 * **Toxin**
+* **Apache**
 
 ### C-Tier
 

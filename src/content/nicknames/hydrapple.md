@@ -66,6 +66,7 @@ Please note: all the [nicknames for Dipplin](/nicknames/dipplin/) also apply for
 * **Noodles**
 * **Spaghetti**
 * **Candy**
+* **7 Beauties** - based on the movie, Seven Beauties
 
 ### C-Tier
 

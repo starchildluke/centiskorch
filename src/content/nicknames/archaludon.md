@@ -77,6 +77,8 @@ With all that said, let's look at those Archaludon nicknames!
 * **Gabion** - a gabion is a <q cite="https://blog.enerpac.com/bridge-terminology-a-to-z-glossary-for-engineers/">basket of galvanized steel wire holding rocks together to reduce erosion of embankments.</q>
 * **Liealga** - lie + Dialga, in reference to it sharing the same dual typing
 * **Nugget**
+* **Megatron**
+* **Cold Steel**
 
 ### C-Tier
 
@@ -90,6 +92,7 @@ With all that said, let's look at those Archaludon nicknames!
 * **Lyne/Lyne Bridge**
 * **Archie**
 * **Pylon**
+* **Bridgestone** - [source, translated from Japanese](https://pokepast.es/231a552a13f37e92)
 
 ### D-Tier
 
@@ -102,5 +105,6 @@ With all that said, let's look at those Archaludon nicknames!
 * **Versaceludon**
 * **ReSister**
 * **Durabudon**
+* **Hoi Palloy**
 
 Do you have a favourite Archuladon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

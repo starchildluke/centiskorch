@@ -57,6 +57,7 @@ With all that said, let's look at those Yanma nicknames!
 * **Wilson Frisk** - from its Hidden Ability, Frisk
 * **Zenith**
 * **Maya**
+* **The Fly**
 
 ### C-Tier
 

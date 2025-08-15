@@ -77,6 +77,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Poompatta**
 * **Wing Ding**
 * **PollenPocket**
+* **Barfly**
 
 ### D-Tier
 

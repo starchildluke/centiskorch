@@ -109,6 +109,7 @@ lcpMediaType: 'image/webp'
 * **Pixie**
 * **Dumpling** - credit: [Ggjeed](https://pokepast.es/db81d94bdca06e97)
 * **Barbie**
+* **Tristana** - from League of Legends
 
 ### B-Tier
 
@@ -123,6 +124,8 @@ lcpMediaType: 'image/webp'
 * **Beetle**
 * **Baby Pink**
 * **Bubblegum**
+* **Lola**
+* **Anastasia**
 
 ### C-Tier
 

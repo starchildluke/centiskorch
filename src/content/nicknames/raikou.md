@@ -163,5 +163,6 @@ lcpMediaType: 'image/jpeg'
 * **Bumblebee**
 * **Transformer**
 * **Chargentina**
+* **Tampopo**
 
 Do you have a favourite Raikou nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

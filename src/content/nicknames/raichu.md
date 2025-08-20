@@ -35,6 +35,7 @@ With all that said, let's look at those Raichu nicknames!
 * **Apollo**
 * **Gingerbread**
 * **Nesquik** - shout out to [BXCDavid](https://www.youtube.com/@BXCDavid)
+* **Phony Hawks** - for Alolan Raichu
 
 ### A-Tier
 

@@ -9,10 +9,13 @@ lcpMediaType: 'image/webp'
 ---
 
 <div class="img-center">
-	<picture>
-		<source srcset="/images/victreebel.webp" type="image/webp">
-		<img src="/images/victreebel.jpg" width="500" height="284" alt="a Pokémon inspired by the pitcher plant. It has a yellow-green bell-shaped body, a gaping mouth with pink lips and two sharp teeth in the bottom half. Next to it is Mega Victreebel which is yellow in colour, has a bulging body, its neck is wrapped in the vine attached to its body and it has plump pink lips">
-	</picture>
+	<figure>
+		<picture>
+			<source srcset="/images/victreebel.webp" type="image/webp">
+			<img src="/images/victreebel.jpg" width="500" height="284" alt="a Pokémon inspired by the pitcher plant. It has a yellow-green bell-shaped body, a gaping mouth with pink lips and two sharp teeth in the bottom half. Next to it is Mega Victreebel which is yellow in colour, has a bulging body, its neck is wrapped in the vine attached to its body and it has plump pink lips">
+		</picture>
+	<figcaption>Victreebel and Mega Victrebel</figcaption>
+	</figure>
 </div>
 
 ## Origins and data

@@ -144,6 +144,7 @@ lcpMediaType: image/webp
 * **Midgar Zolom**
 * **Eden**
 * **Vengeance**
+* **Coily**
 
 ### C-Tier
 
@@ -164,5 +165,8 @@ lcpMediaType: image/webp
 * **Snake**
 * **Cobra**
 * **Cobra Kai**
+* **Kaa**
+* **Jörmungandr**
+* **Ajar**
 
 Do you have a favourite Arbok nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

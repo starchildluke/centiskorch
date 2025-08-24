@@ -106,5 +106,6 @@ With all that said, let's look at those Archaludon nicknames!
 * **ReSister**
 * **Durabudon**
 * **Hoi Palloy**
+* **21 Bridges**
 
 Do you have a favourite Archuladon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

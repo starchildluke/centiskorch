@@ -28,7 +28,7 @@ lcpMediaType: 'image/webp'
 			<li><strong>Height</strong>: 5'07" (1.7 m)</li>
 			<li><strong>Weight</strong>: 34.2 lbs. (15.5 kg)</li>
 		</ul>
-		<p>Victreebel was introduced in Generation 9 with a dual Grass/Poison typing and is the final evolved form of Bellsprout. Known as the Flycatcher Pokémon, Victreebel is inspired by the pitcher plant. It has a yellow-green bell-shaped body, a gaping mouth with pink lips and two sharp teeth in the bottom half. It has two green leaves acting as arm-type appendages, a leaf over its head connected by a stem that goes into the back of its body and a leaf tail.</p>
+		<p>Victreebel was introduced in Generation 9 with a dual Grass/Poison typing and is the final evolved form of Bellsprout. Known as the Flycatcher Pokémon, Victreebel is inspired by the pitcher plant. It has a yellow-green bell-shaped body, a gaping mouth with pink lips and two sharp teeth in the bottom half. It has two green leaves acting as arm-type appendages, a leaf over its head connected by a vine that goes into the back of its body and a leaf tail.</p>
 		<p>On 21st August 2025, Pokémon revealed Mega Victreebel, which will debut in Pokémon Legends: ZA.</p>
 	</div>
 	<div class="room-box-right">
@@ -126,6 +126,7 @@ lcpMediaType: 'image/webp'
 * **Shriek**
 * **Bulge**
 * **Gorge** - especially for the Mega
+* **Acidic Aura**
 
 ### C-Tier
 

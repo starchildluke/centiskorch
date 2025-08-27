@@ -155,5 +155,7 @@ lcpMediaType: 'image/webp'
 * **Bluster**
 * **Bumrush**
 * **Maverick**
+* **Jet**
+* **Voyager**
 
 Do you have a favourite Garchomp nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

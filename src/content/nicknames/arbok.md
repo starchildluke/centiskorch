@@ -154,7 +154,6 @@ lcpMediaType: image/webp
 * **Amethyst**
 * **Elderberry**
 * **Blackcurrant**
-* **Prince**
 * **Starboks**
 * **Fangs**
 * **Riot**

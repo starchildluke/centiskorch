@@ -36,23 +36,7 @@ If I had one significant gripe, it'd be that grinding is beyond frustrating&mdas
 
 **My thoughts**: People HATED Gen 8. I was not one of them. They were the most fun I'd had in the franchise since the Gen 6 remakes and, excluding them, the first 2 gens. The Pokémon were fun, the stadium battles were awesome, Dynamax was a fun mechanic (until I hated it in VGC), it introduced me to Centiskorch. Gen 8 was great! I like to ignore the DP remakes but Legends: Arceus was also an incredible game and I wish they'd gone in that direction for Scarlet/Violet. Alas, they didn't but Gen 8 is a firm Top 3 generation as far as I'm concerned.
 
-## 4. Gen 4
-
-**Games**: Diamond*/Pearl*/Platinum/HeartGold/SoulSilver
-
-**Score**: 7.5/10
-
-**My thoughts**: Generation 4 has been a gen of two halves. I didn't play DPP until a few weeks ago (Platinum) so my only experience was HGSS, and I adored those games. As you've seen, Gen 2 is my all-time gen and seeing it recreated on the DS in 3D in such expanse was phenomenal. However, when I finally got round to playing and completing Platinum, I didn't feel the same way. I purposely skipped Diamond/Pearl because I knew how slow they were and that Platinum was the superior game, and that was true. But it felt long-winded and didn't captivate me like the Gen 2 remakes. To all those Gen 4 lovers, sorry not sorry!
-
-## 5. Gen 9 
-
-**Games**: Scarlet/Violet**
-
-**Score**: 7.5/10
-
-**My thoughts**: At the time of writing this (2023), Gen 9 is the current gen and I've enjoyed most of it but the bugs and lagging in SV has been annoying over time. They also seemed to peak quite early in terms of the main game and having to wait for more content in the DLCs. The first DLC felt like a glorified expansion pack and was done in a matter of hours. I'm excited for the second DLC but mainly for the returning Pokémon and new Paradox forms/regional variants/divergent Pokémon. It's another case of time will tell and, if there are Gen 5 remakes next, this placing could go way up or come crashing down.
-
-## 6. Gen 5
+## 4. Gen 5
 
 **Games**: Black/White/Black 2/White 2
 
@@ -62,13 +46,29 @@ If I had one significant gripe, it'd be that grinding is beyond frustrating&mdas
 
 And now I like BW. Just needed me to emulate the games on a 720p screen with speed up and a better team to enjoy it.
 
-## 7. Gen 3
+## 5. Gen 9 
+
+**Games**: Scarlet/Violet**
+
+**Score**: 7.5/10
+
+**My thoughts**: At the time of writing this (2023), Gen 9 is the current gen and I've enjoyed most of it but the bugs and lagging in SV has been annoying over time. They also seemed to peak quite early in terms of the main game and having to wait for more content in the DLCs. The first DLC felt like a glorified expansion pack and was done in a matter of hours. I'm excited for the second DLC but mainly for the returning Pokémon and new Paradox forms/regional variants/divergent Pokémon. It's another case of time will tell and, if there are Gen 5 remakes next, this placing could go way up or come crashing down.
+
+## 6. Gen 3
 
 **Games**: Ruby/Sapphire/Emerald/FireRed/LeafGreen
 
 **Score**: 7/10
 
 **My thoughts**: Gen 3 has suffered from better gens succeeding it. Truth be told, it wouldn't have been higher than 3rd even if I made this list in 2004, but the nostalgia doesn't hold up as well as the other games. Emerald is objectively than Ruby and Sapphire and it was an enjoyable playthrough. And FireRed/LeafGreen were nice revisits to Kanto (and the game I played my greatest Nuzlocke run of all time). 
+
+## 7. Gen 4
+
+**Games**: Diamond*/Pearl*/Platinum/HeartGold/SoulSilver
+
+**Score**: 7.5/10
+
+**My thoughts**: Generation 4 has been a gen of two halves. I didn't play DPP until a few weeks ago (Platinum) so my only experience was HGSS, and I adored those games. As you've seen, Gen 2 is my all-time gen and seeing it recreated on the DS in 3D in such expanse was phenomenal. However, when I finally got round to playing and completing Platinum, I didn't feel the same way. I purposely skipped Diamond/Pearl because I knew how slow they were and that Platinum was the superior game, and that was true. But it felt long-winded and didn't captivate me like the Gen 2 remakes. To all those Gen 4 lovers, sorry not sorry!
 
 ## 8. Gen 6 
 

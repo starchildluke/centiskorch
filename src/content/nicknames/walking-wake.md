@@ -48,6 +48,7 @@ With all that said, let's look at those Walking Wake nicknames!
 * **Rio**
 * **Kirin** - a Summon from [Golden Sun](/nicknames/themes/golden-sun/)
 * **Topaz**
+* **Seaburn**
 
 ### B-Tier
 
@@ -63,6 +64,8 @@ With all that said, let's look at those Walking Wake nicknames!
 * **Mudpot**
 * **Steam Kitty**
 * **Ryu** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
+* **Misty Relic**
+* **Ocean Spray**
 
 ### C-Tier
 
@@ -77,5 +80,8 @@ With all that said, let's look at those Walking Wake nicknames!
 * **Vapor**
 * **Sauna**
 * **Solstice**
+* **Aquafury**
+* **Old Spice**
+* **Splashfoot**
 
 Do you have a favourite Walking Wake nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

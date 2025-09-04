@@ -62,6 +62,8 @@ With all that said, let's look at those Blastoise nicknames!
 * **Tank**
 * **Gabagool**
 * **Testudo** - the mascot of the University of Maryland, College Park
+* **Blueberry**
+* **Billy Ocean**
 
 ### C-Tier
 
@@ -74,5 +76,15 @@ With all that said, let's look at those Blastoise nicknames!
 * **Brutus**
 * **Riptide**
 * **Bazooka Joe**
+* **Cannon**
+* **Gush**
+* **Slushie**
+* **Bluey**
+* **Lapis**
+* **Cobalt**
+* **Denim**
+* **Periwinkle**
+* **Uranus**
+* **Poseidon**
 
 Do you have a favourite Blastoise nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

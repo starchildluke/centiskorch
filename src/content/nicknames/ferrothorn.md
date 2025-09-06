@@ -57,6 +57,7 @@ With all that said, let's look at those Ferrothorn nicknames!
 * **Disco** - after a disco ball
 * **Buckeye** - an alternative name for a horse chestnut and its shell is spiky
 * **Prik Astley** - to bypass the restrictions and a play on Rick Astley
+* **Damien Thorn**
 
 ### C-Tier
 
@@ -77,5 +78,10 @@ With all that said, let's look at those Ferrothorn nicknames!
 * **Barbenheimer**
 * **Ferrous**
 * **Iron Thistle**
+* **Tenderiser**
+* **Cruiser**
+* **Sandalthorn**
+* **Cleats**
+* **Iron Thorns**
 
 Do you have a favourite Ferrothorn nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

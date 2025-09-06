@@ -115,6 +115,13 @@ lcpMediaType: 'image/webp'
 * **Muja** - at the time of writing, Muja is the oldest alligator in the world (hatched in 1937)
 * **Saturn** - one of the oldest alligators in history (died aged 83/84)
 * **Leatherhead**
+* **Gulf**
+* **Carolina**
+* **Jacksonville**
+* **Clearwater**
+* **Titus**
+* **Kissimmee**
+* **Panama**
 
 ### B-Tier
 
@@ -131,6 +138,11 @@ lcpMediaType: 'image/webp'
 * **Marshchomp**
 * **Killer Croc**
 * **Orville**
+* **Mangle**
+* **Everglade**
+* **Beach**
+* **Tampa**
+* **Grappal**
 
 ### C-Tier
 
@@ -148,5 +160,10 @@ lcpMediaType: 'image/webp'
 * **Rio Grande**
 * **Crocy Maivia** - A play on Rocky Maivia, the former wrestling name of Dwayne Johnson aka The Rock
 * **Marsh**
+* **Crocville**
+* **Swamp Thing**
+* **Aquabite**
+* **Munch**
+* **Lauderdale**
 
 Do you have a favourite Feraligatr nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

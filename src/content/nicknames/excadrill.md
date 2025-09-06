@@ -112,6 +112,11 @@ lcpMediaType: 'image/webp'
 * **Boulderdash**
 * **Doug**
 * **Drillbert**
+* **Jackhammer**
+* **Dozer**
+* **Earthclaw**
+* **Gridclaw**
+* **Hooded Claw**
 
 ### B-Tier
 
@@ -138,6 +143,11 @@ lcpMediaType: 'image/webp'
 * **Terra**
 * **Dig Dug**
 * **Slater**
+* **Drillbit**
+* **Pewter**
+* **Trench**
+* **Max Steel**
+* **Chilldrill**
 
 ### C-Tier
 
@@ -160,5 +170,14 @@ lcpMediaType: 'image/webp'
 * **Silica**
 * **Pebbles**
 * **Granite**
+* **Blender**
+* **Stiletto**
+* **Charcoal**
+* **Splotch**
+* **Terreon**
+* **Terry/Terra**
+* **Drillos**
+* **Venus**
+* **Ceres**
 
 Do you have a favourite Excadrill nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

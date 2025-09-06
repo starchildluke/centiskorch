@@ -50,6 +50,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Colgera**
 * **Therma**
 * **Fire Whip**
+* **Colossus**
 
 ### B-Tier
 
@@ -63,6 +64,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Pepper** - it's a real name and a hot one too!
 * **Heartburn** - not a comfortable feeling, let me tell ya!
 * **Cacus** - Cacus was the fire-breathing son of Vulcan, the Roman god of fire. And he was a giant!
+* **Vulcan**
 * **Dhalsim** - he can breathe fire, apparently
 * **Crimson** - shade of red
 * **Wildfire** - some centipedes live in forests and I could see a Centiskorch living up to this name
@@ -70,6 +72,9 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Millie** - not a millipede. Not a millipede!!!
 * **Atari** - see "Queen Pede" above
 * **Fahrenheit**
+* **Hephaestus**
+* **Obelisk**
+* **Gazpacho**
 
 ### C-Tier
 
@@ -84,13 +89,24 @@ With all that said, let's look at those Centiskorch nicknames!
 * **WrigglysXtra** - like the chewing gum, geddit?
 * **Hello Legs**
 * **Predator**
+* **ScotchBonnet**
+* **Pagoda**
+* **Merlot**
+* **Stove**
+* **Toaster**
+* **Salsa**
+* **Heatwave**
+* **Agate**
 
 ### D-Tier
 
 * **Radiator** - A bit reductive perhaps but it was based on a radiator, so...
 * **FrancisDrake** - see "Spain"
 * **Glowworm** - I know it's not a worm but it does glow
-* **Crawlzilla** - GPT-3.5 Turbo suggested this and it's so cheesy that I kept it in
 * **Fentyskorch** - would you put makeup on a flaming centipede?
+* **Turmeric**
+* **Cinnamon**
+* **Forgefiend**
+* **Skewer**
 
 Do you have a favourite Centiskorch nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

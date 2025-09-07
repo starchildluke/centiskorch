@@ -39,11 +39,13 @@ With all that said, let's look at those Fezandipiti nicknames!
 * **Eww, Grouse** - get it?!
 * **Bronzewing** - a type of "toxic bird" and Fezandipiti has bronze highlights on its wings
 * **Katy Berry** - it's a name I found for the hex colour [#a3007b](https://www.color-hex.com/color/a3007b)
+* **Heihei** - from Moana
 
 ### A-Tier
 
 * **Lauren** - just reminds me of my friend, Lauren (compliment)
 * **Farrah Moan** - it possesses powerful _pheromones_ and _Farrah Moan_ is the name of a drag queen
+* **Swansong**
 
 ### B-Tier
 
@@ -62,6 +64,12 @@ With all that said, let's look at those Fezandipiti nicknames!
 * **Maleficent**
 * **Alan** - from Alan _Partridge_
 * **Guinea**
+* **Copperbeak**
+* **Peppercorn**
+* **Pepper**
+* **Pimento**
+* **Peckorino**
+* **Foghorn**
 
 ### C-Tier
 
@@ -81,5 +89,9 @@ With all that said, let's look at those Fezandipiti nicknames!
 * **Esoterica**
 * **Contagion**
 * **Fowler**
+* **Blackberry**
+* **Swift**
+* **Turkeybird**
+* **Rooster**
 
 Do you have a favourite Fezandipiti nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

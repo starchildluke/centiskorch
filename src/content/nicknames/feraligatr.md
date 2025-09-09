@@ -99,6 +99,7 @@ lcpMediaType: 'image/webp'
 
 * **Hostgator**
 * **Colgator**
+* **Netgator**
 
 ### A-Tier
 
@@ -132,6 +133,7 @@ lcpMediaType: 'image/webp'
 * **Neptune**
 * **Aquarius**
 * **River**
+* **River King**
 * **Sobek**
 * **Lacoste**
 * **Bayou**
@@ -143,6 +145,9 @@ lcpMediaType: 'image/webp'
 * **Beach**
 * **Tampa**
 * **Grappal**
+* **Swampserver**
+* **Aquanode**
+* **Cobalt**
 
 ### C-Tier
 
@@ -165,5 +170,6 @@ lcpMediaType: 'image/webp'
 * **Aquabite**
 * **Munch**
 * **Lauderdale**
+* **Waterbyte**
 
 Do you have a favourite Feraligatr nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

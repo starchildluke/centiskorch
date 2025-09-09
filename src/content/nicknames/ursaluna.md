@@ -114,7 +114,7 @@ lcpMediaType: 'image/webp'
 ### S-Tier
 
 * **Callisto**
-* **Papa**
+* **Mama Bear/Papa Bear**
 
 ### A-Tier
 
@@ -179,5 +179,6 @@ lcpMediaType: 'image/webp'
 * **Otso**
 * **Major**
 * **Pelt**
+* **Earthaluna**
 
 Do you have a favourite Ursaluna nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

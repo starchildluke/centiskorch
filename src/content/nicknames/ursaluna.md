@@ -125,6 +125,7 @@ lcpMediaType: 'image/webp'
 * **Tomato**
 * **Paprika**
 * **Cherry**
+* **Mooncakes**
 
 ### B-Tier
 

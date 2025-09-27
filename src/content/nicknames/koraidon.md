@@ -149,6 +149,7 @@ lcpMediaType: 'image/webp'
 * **Ifrit**
 * **Bahamut**
 * **Phoenix**
+* **Maple**
 
 ### C-Tier
 

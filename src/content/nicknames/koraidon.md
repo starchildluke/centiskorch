@@ -101,6 +101,8 @@ lcpMediaType: 'image/webp'
 * **Rex**
 * **Icarus**
 * **Canyon**
+* **Garuda** - <q>Garuda is described as the king of the birds and a kite-like figure</q>
+* **Nike** - just do it!
 
 ### A-Tier
 
@@ -118,6 +120,11 @@ lcpMediaType: 'image/webp'
 * **Gully**
 * **Chasm**
 * **Gulf**
+* **Chili**
+* **Hermes**
+* **Apollo**
+* **Sephiroth**
+* **Seraphim**
 
 ### B-Tier
 
@@ -150,6 +157,18 @@ lcpMediaType: 'image/webp'
 * **Bahamut**
 * **Phoenix**
 * **Maple**
+* **Winged King** - it's official name
+* **Toothless**
+* **Agais**
+* **Carmine**
+* **Tomato**
+* **Vermilion**
+* **Brick**
+* **Claret**
+* **Ferrari**
+* **Garnet**
+* **Ruby**
+* **Rust**
 
 ### C-Tier
 
@@ -174,5 +193,10 @@ lcpMediaType: 'image/webp'
 * **Banshee**
 * **Redwood**
 * **Phantom**
+* **Ron Burgundy**
+* **Apple**
+* **Cardinal**
+* **Amaranth**
+* **Auburn**
 
 Do you have a favourite Koraidon nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

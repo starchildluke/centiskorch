@@ -59,6 +59,7 @@ With all that said, let's look at those Iron Boulder nicknames!
 * **Kei** - Dutch for "boulder"
 * **Miner**
 * **RollingStone**
+* **Ravager**
 
 ### C-Tier
 

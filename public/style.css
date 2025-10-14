@@ -155,6 +155,8 @@ article :is(h3, h4) { padding: .5rem; background: #c70a00; text-align: center; f
 
 .deets { margin-bottom: var(--gap); }
 
+.centered-text { text-align: center; }
+
 /* CLASSES */
 
 @media only screen and (max-width: 800px) {

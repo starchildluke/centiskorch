@@ -29,27 +29,27 @@ const allRooms = await getCollection("rooms");
         </ul>
       <h2 class="headings">Posts</h2>
         <ul class="pokeball-icons">
-          {allPosts.map( (post) => <li><a href=`/blog/${post.slug}`>{post.data.title}</a></li>)}
+          {allPosts.map( (post) => <li><a href=`/blog/${post.slug}/`>{post.data.title}</a></li>)}
         </ul>
       <h2 class="headings">Favourites</h2>
         <ul class="pokeball-icons">
-          {allFaves.map( (faves) => <li><a href=`/favourites/${faves.slug}`>{faves.data.title}</a></li>)}
+          {allFaves.map( (faves) => <li><a href=`/favourites/${faves.slug}/`>{faves.data.title}</a></li>)}
         </ul>
       <h2 class="headings">Logs</h2>
         <ul class="pokeball-icons">
-          {allLogs.map( (log) => <li><a href=`/logs/${log.slug}`>{log.data.title}</a></li>)}
+          {allLogs.map( (log) => <li><a href=`/logs/${log.slug}/`>{log.data.title}</a></li>)}
         </ul>
       <h2 class="headings">Misc</h2>
         <ul class="pokeball-icons">
-          {allMisc.map( (misc) => <li><a href=`/misc/${misc.slug}`>{misc.data.title}</a></li>)}
+          {allMisc.map( (misc) => <li><a href=`/misc/${misc.slug}/`>{misc.data.title}</a></li>)}
         </ul>
       <h2 class="headings">Nicknames</h2>
         <ul class="pokeball-icons">
-          {allNicknames.map( (nickname) => <li><a href=`/nicknames/${nickname.slug}`>{nickname.data.title}</a></li>)}
+          {allNicknames.map( (nickname) => <li><a href=`/nicknames/${nickname.slug}/`>{nickname.data.title}</a></li>)}
         </ul>
       <h2 class="headings">Rooms</h2>
         <ul class="pokeball-icons">
-          {allRooms.map( (room) => <li><a href=`/rooms/${room.slug}`>{room.data.title}</a></li>)}
+          {allRooms.map( (room) => <li><a href=`/rooms/${room.slug}/`>{room.data.title}</a></li>)}
         </ul>
 		</main>
 		<LeftSidebar />

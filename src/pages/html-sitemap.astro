@@ -2,12 +2,14 @@
 import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
-import Sitemapper from 'sitemapper';
 import { getCollection } from 'astro:content';
 
-const sitemap = new Sitemapper();
-
-const sitemapURLs = await sitemap.fetch('https://centiskor.ch/sitemap-0.xml');
+const allPosts = await getCollection("blog");
+const allFaves = await getCollection("favourites");
+const allLogs = await getCollection("logs");
+const allMisc = await getCollection("misc");
+const allNicknames = await getCollection("nicknames");
+const allRooms = await getCollection("rooms");
 
 ---
 <Layout title="Sitemap" description="All the pages on this site, in a map! I think they call it a sitemap?"/>
@@ -15,14 +17,40 @@ const sitemapURLs = await sitemap.fetch('https://centiskor.ch/sitemap-0.xml');
 	<div class="flex-content">
 		<main class="box">
 			<h1 class="headings">Sitemap</h1>
-			<p>This is my HTML sitemap showing all {sitemapURLs.sites.length} pages that make up centiskor.ch.</p>
-			<ul>
-      {sitemapURLs.sites.map(( url ) => (
-                  <li>
-                    <a href={url}>{url}</a>
-                  </li>
-                ))}
-    </ul>
+			<p>This is my HTML sitemap showing all the pages that make up centiskor.ch.</p>
+			<h2 class="headings">Pages</h2>
+        <ul class="pokeball-icons"> 
+          <li><a href="/">home</a></li>
+          <li><a href="/about/">about me</a></li>
+          <li><a href="/contact-me/">contact me</a></li>
+          <li><a href="/blog/">blog</a></li>
+          <li><a href="/favourites/">favourites</a></li>
+          <li><a href="/nicknames/">nicknames</a></li>
+        </ul>
+      <h2 class="headings">Posts</h2>
+        <ul class="pokeball-icons">
+          {allPosts.map( (post) => <li><a href=`/blog/${post.slug}`>{post.data.title}</a></li>)}
+        </ul>
+      <h2 class="headings">Favourites</h2>
+        <ul class="pokeball-icons">
+          {allFaves.map( (faves) => <li><a href=`/favourites/${faves.slug}`>{faves.data.title}</a></li>)}
+        </ul>
+      <h2 class="headings">Logs</h2>
+        <ul class="pokeball-icons">
+          {allLogs.map( (log) => <li><a href=`/logs/${log.slug}`>{log.data.title}</a></li>)}
+        </ul>
+      <h2 class="headings">Misc</h2>
+        <ul class="pokeball-icons">
+          {allMisc.map( (misc) => <li><a href=`/misc/${misc.slug}`>{misc.data.title}</a></li>)}
+        </ul>
+      <h2 class="headings">Nicknames</h2>
+        <ul class="pokeball-icons">
+          {allNicknames.map( (nickname) => <li><a href=`/nicknames/${nickname.slug}`>{nickname.data.title}</a></li>)}
+        </ul>
+      <h2 class="headings">Rooms</h2>
+        <ul class="pokeball-icons">
+          {allRooms.map( (room) => <li><a href=`/rooms/${room.slug}`>{room.data.title}</a></li>)}
+        </ul>
 		</main>
 		<LeftSidebar />
 		<Footer>

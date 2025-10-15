@@ -8,6 +8,7 @@ pubDate: '29 Nov 2023'
 I thought I'd compile a list of my favourite Pokémon games. As I've not played every single main series game yet, I'll be updating this as I go. Here are the games I've not played/finished yet:
 
 * Pokémon Brilliant Diamond/Shining Pearl
+* Pokémon Legends: Z-A
 
 ## 1. Pokémon Gold/Silver
 ## 2. Pokémon Crystal
@@ -20,9 +21,9 @@ I thought I'd compile a list of my favourite Pokémon games. As I've not played 
 ## 9. Pokémon Let's Go, Eevee!/Let's Go, Pikachu!
 ## 10. Pokémon Scarlet/Violet
 ## 11. Pokémon Omega Ruby/Alpha Sapphire
-## 12. Pokémon Emerald
-## 13. Pokémon Ruby/Sapphire
-## 14. Pokémon Black/White
+## 12. Pokémon Black/White
+## 13. Pokémon Emerald
+## 14. Pokémon Ruby/Sapphire
 ## 15. Pokémon FireRed/LeafGreen
 ## 16. Pokémon X/Y
 ## 17. Pokémon Platinum

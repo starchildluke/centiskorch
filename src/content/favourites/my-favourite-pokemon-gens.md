@@ -85,3 +85,5 @@ And now I like BW. Just needed me to emulate the games on a 720p screen with spe
 **Score**: 5/10
 
 **My thoughts**: There has to be a loser and it honestly wasn't hard to put Gen 7 at the bottom. SM/USUM suffered greatly from a bloated storyline with way too many cut scenes that stilted my enjoyment of the games. There were plenty of good Pokémon but the poor gameplay outweighed them.
+
+And if you want to know what [my favourite Pokémon games](/favourites/my-favourite-pokemon-games/) are, I have a page for that too!

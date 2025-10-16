@@ -85,6 +85,7 @@ With all that said, let's look at those Ice Rider Calyrex nicknames!
 * **Vorkuta** - an ice-covered Russian ghost town
 * **Iridescence**
 * **Snowbell**
+* **Horseman** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 
 ### D-Tier
 

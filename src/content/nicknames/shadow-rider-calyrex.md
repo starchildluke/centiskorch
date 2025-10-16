@@ -72,6 +72,7 @@ With all that said, let's look at those Shadow Rider Calyrex nicknames!
 * **Ryder**
 * **Leash**
 * **Galaxy**
+* **Horseman** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 
 ### C-Tier
 

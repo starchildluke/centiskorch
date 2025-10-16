@@ -76,6 +76,6 @@ Coming soon
 
 ### Breath of Fire IV (2000)
 
-Coming soon
+* **Horseman** - Calyrex ([Ice](/nicknames/ice-rider-calyrex/) and [Shadow](/nicknames/shadow-rider-calyrex/)
 
 Do you have any Breath of Fire themed nickname suggestions? Then head over to the contact me link on the left and email me your ideas!

@@ -22,7 +22,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 ### Golden Sun (2001)
 
 * **Ramses** - Cofagrigus, Lucario, Umbreon, Espeon, Heliolisk, Sigilyph, Ampharos
-* **Cybele** - Kangaskhan, Lugia
+* **Cybele** - Kangaskhan, Lugia, [Meganium](/nicknames/meganium/)
 * **Judgment** - Arceus, Giratina, Gengar, Gyarados, Hoopa, Mewtwo, Dialga, Palkia
 * **Kirin** - [Raikou](/nicknames/raikou/), Suicune, [Walking Wake](/nicknames/walking-wake/), Arcanine, Keldeo
 * **Tiamat** - Lugia

@@ -17,14 +17,19 @@ lcpMediaType: 'image/webp'
 ## Origins and data
 <div class="room-box">
 	<div class="room-box-left">
+		<p><small>(updated on 17th October 2025 to reflect new data from Pokémon Legends: Z-A)</small></p>
 		<ul>
 			<li><strong>Ability</strong>: Torrent</li>
 			<li><strong>Hidden Ability</strong>: Sheer Force</li>
 			<li><strong>Height</strong>: 7'07" (2.3 m)</li>
 			<li><strong>Weight</strong>: 195.8 lbs. (88.8 kg)</li>
 		</ul>
-		<p>Feraligatr was introduced in Generation 2 with a pure Water typing. It evolves from Croconaw at Level 30 and is the final evolution of Totodile, the Water starter in Pokémon Gold/Silver/Crystal and HeartGold/SoulSilver.</p>
+		<p>Feraligatr was introduced in Generation 2 with a pure Water typing. It evolves from Croconaw at Level 30 and is the final evolution of Totodile, the Water starter in Pokémon Gold/Silver/Crystal, HeartGold/SoulSilver, and Legends: Z-A.</p>
 		<p>Known as the Big Jaw Pokémon, Feraligatr is a blue bipedal crocodilian Pokémon with a large jaw and sharp teeth. It has red fins running down its back and according to its Pokémon Scarlet Pokédex entry, <q cite="https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pok%C3%A9mon)#Pok%C3%A9dex_entries">when it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.</q></p>
+		<details>
+			<summary><strong>Legends: Z-A spoilers(?)</strong></summary>
+			<p>Feraligatr can now Mega Evolve into Mega Feraligatr using the Feraligite. The mega evolution was first introduced in Pokémon Legends: Z-A. Its height remains the same but it now weighs 239.9 lbs. (108.8 kg). It also has a dual Grass/Dragon typing.</p>
+		</details>
 	</div>
 	<div class="room-box-right">
 		<table class="room-table" style="font-size:12px">

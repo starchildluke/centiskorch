@@ -34,7 +34,7 @@ My methodology for picking Legend of Zelda themed nicknames is as follows:
 * **Peahat** - Jumpluff, Florges, Eldegoss, Roserade, Vileplume, Cherrim, Comfey, Maractus
 * **River Zora/Zola** - Seaking, Overqwil, Basculegion, Elektross, Barraskewda
 * **Tektite** - [Metagross](/nicknames/metagross/), Araquanid, [Ariados](/nicknames/ariados/), Galvantula, Spidops
-* **Aquamentus** - Aurorus, Dragonite, Dialga, Giratina, Tropius, Meganium
+* **Aquamentus** - Aurorus, Dragonite, Dialga, Giratina, Tropius, [Meganium](/nicknames/meganium/)
 * **Dodongo** - Bastiodon
 * **Manhandla** - Metagross, Hydreigon, Guzzlord
 * **Gleeok** - Hydreigon

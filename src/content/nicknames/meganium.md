@@ -24,7 +24,7 @@ lcpMediaType: 'image/webp'
 			<li><strong>Weight</strong>: 221.6 lbs. (100.5 kg)</li>
 		</ul>
 		<p>Meganium was introduced in Generation 2 with a pure Grass typing. It evolves from Bayleef at Level 32 and is the final evolution of Chikorita, the Water starter in Pokémon Gold/Silver/Crystal, HeartGold/SoulSilver, and Legends: Z-A.</p>
-		<p>Known as the Herb Pokémon, Meganium is a green dinosaur-like quadruped Pokémon with pink petals around its long neck. It has yellow eyes, two antennae in the middle of its face, and a stubby tail. </q></p>
+		<p>Known as the Herb Pokémon, Meganium is a green dinosaur-like quadruped Pokémon with pink petals around its long neck. It has yellow eyes, two antennae in the middle of its face, and a stubby tail.</q></p>
 		<details>
 			<summary><strong>Legends: Z-A spoilers(?)</strong></summary>
 			<p>Meganium can now Mega Evolve into Mega Meganium using the Meganiumite. The mega evolution was first introduced in Pokémon Legends: Z-A. Its height is 7'10" (2.4 m) and it weighs 443.1 lbs. (201.0 kg). It also has a dual Grass/Fairy typing.</p>

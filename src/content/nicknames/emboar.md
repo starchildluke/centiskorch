@@ -122,6 +122,7 @@ lcpMediaType: 'image/webp'
 * **Pink Floyd** - based on [the band's famous pig](https://en.wikipedia.org/wiki/Pink_Floyd_pigs)
 * **ChrisP.Bacon**
 * **Garet** - after Garet from [Golden Sun](/nicknames/themes/quest-64/)
+* **Jackfruit**
 
 ### B-Tier
 

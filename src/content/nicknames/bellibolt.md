@@ -123,6 +123,7 @@ lcpMediaType: 'image/jpeg'
 * **Play-Doh**
 * **Bilbo**
 * **Mr Tumble**
+* **Gumball**
 
 ### C-Tier
 

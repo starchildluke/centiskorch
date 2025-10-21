@@ -71,6 +71,7 @@ With all that said, let's look at those Snorlax nicknames!
 * **Butterball**
 * **Dough**
 * **Pillsbury**
+* **Gumball**
 
 ### C-Tier
 

@@ -31,7 +31,7 @@ My methodology for picking Rivals of Aether themed nicknames is the same as [Gol
 * **Ori and Sein** - Tandemaus
 * **ShovelKnight** - Golurk, Kingambit, Aggron, Armarouge
 * **Mollo** - Zoroark, Lucario, Blaziken
-* **Hodan** - Oranguru, [Galarian Darmanitan](/nicknames/darmanitan/), [Annihilape](/nicknames/annihilape/), Abomasnow, Rillaboom, Slaking
+* **Hodan** - Oranguru, [Galarian Darmanitan](/nicknames/darmanitan/), [Annihilape](/nicknames/annihilape/), [Abomasnow](/nicknames/abomasnow/), Rillaboom, Slaking
 * **Pomme** - [Raichu](/nicknames/raichu/), Raticate, Pawmot, Togedemaru, Morpeko
 * **Olympia** - Lopunny, Pawmot, Diancie
 

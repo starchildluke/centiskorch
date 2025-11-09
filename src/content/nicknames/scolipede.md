@@ -45,6 +45,7 @@ With all that said, let's look at those Scolipede nicknames!
 * **Toxin**
 * **Crux**
 * **Blight**
+* **Heisenbug**
 
 ### C-Tier
 
@@ -61,6 +62,7 @@ With all that said, let's look at those Scolipede nicknames!
 * **Violet**
 * **Menace**
 * **Amethyst**
+* **Heartbleed** - an OpenSSL security bug
 
 ### D-Tier
 
@@ -71,5 +73,6 @@ With all that said, let's look at those Scolipede nicknames!
 * **Scarab**
 * **Rusty**
 * **Dart**
+* **Therac-25**
 
 Do you have a favourite Scolipede nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

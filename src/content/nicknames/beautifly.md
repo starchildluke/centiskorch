@@ -78,6 +78,7 @@ With all that said, let's look at those Beautifly nicknames!
 * **Wing Ding**
 * **PollenPocket**
 * **Barfly**
+* **June Bug**
 
 ### D-Tier
 

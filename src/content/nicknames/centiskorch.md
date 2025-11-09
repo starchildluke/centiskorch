@@ -75,6 +75,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Hephaestus**
 * **Obelisk**
 * **Gazpacho**
+* **Fire Bug**
 
 ### C-Tier
 
@@ -97,6 +98,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Salsa**
 * **Heatwave**
 * **Agate**
+* **Y2K** - reference to the Millennium Bug
 
 ### D-Tier
 

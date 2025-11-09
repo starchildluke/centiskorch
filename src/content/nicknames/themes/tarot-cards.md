@@ -32,7 +32,7 @@ My methodology for picking tarot themed nicknames is as follows:
 * **Strength** - Machamp, Regigigas, Zacian, Zamazenta, Eternatus
 * **The Hermit** - Cubone, Crustle, Mew
 * **Wheel of Fortune** - Dhelmise, Spiritomb, Spheal, Electrode
-* **Justice** - Cobalion, Terrakion, Virizion, Keldeo, Arcanine, Absol, Lucario, Gallade, Zacian
+* **Justice** - Cobalion, Terrakion, Virizion, Keldeo, Arcanine, [Absol](/nicknames/absol/), Lucario, Gallade, Zacian
 * **The Hanged Man** - Metapod, Kakuna, Malamar
 * **Death** - Cubone, Darkrai, Drifblim
 * **Temperance** - Wobbuffet, Lapras, Suicune, Celebi, Chansey/Blissey, Milotic, Sylveon

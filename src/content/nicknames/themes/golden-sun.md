@@ -79,7 +79,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Chalis** - Clefable, Wigglytuff, Blissey, Milotic, Oricorio (Pa'u Style), Lurantis, Hatterene, Tinkaton, Scream Tail, Alcremie
 * **King Wo** - Wo-Chien
 * **Nowell** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
-* **Vande** - Lycanroc, Zacian, Zamazenta, Mightyena, Absol
+* **Vande** - Lycanroc, Zacian, Zamazenta, Mightyena, [Absol](/nicknames/absol/)
 * **Volechek** - Gogoat, Dubwool, Ampharos, Iron Crown, Cobalion, Iron Leaves, Virizion, [Calyrex-Shadow](/nicknames/shadow-rider-calyrex/) and [Calyrex-Ice](/nicknames/ice-rider-calyrex/)
 * **Matthew** - any Ground-type
 * **Tyrell** - any Fire-type

@@ -25,7 +25,7 @@ lcpMediaType: image/webp
 				<li><strong>Height</strong>: 3'11" or 1.2 m </li>
 				<li><strong>Weight</strong>: 103.6 lbs. or 47.0 kg</li>
 			</ul>
-			<p>Absol was introduced in Generation 3 with a prue Dark typing. Known as the Disaster Pokémon, it's a quadrupedal Pokémon with short white fur on its body, longer fur around its neck, and dark blue claws, tail, and a scythe-like horn.</p>
+			<p>Absol was introduced in Generation 3 with a pure Dark typing. Known as the Disaster Pokémon, it's a quadrupedal Pokémon with short white fur on its body, longer fur around its neck, and dark blue claws, tail, and a scythe-like horn.</p>
 			<p>Absol also has a Mega form which has wings and more fur on its paws (<a href="https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon)#/media/File:0359Absol-Mega.png">image</a>).</p>
 		</div>
 
@@ -104,6 +104,7 @@ lcpMediaType: image/webp
 * **Messenger**
 * **Hermes**
 * **Artemis**
+* **Justice** - from [the tarot card](/nicknames/themes/tarot-cards/)
 
 ### A-Tier
 
@@ -119,6 +120,8 @@ lcpMediaType: image/webp
 * **Rogue**
 * **Michael**
 * **Pazuzu**
+* **Sheriff** - from [Robin Hood](/nicknames/themes/robin-hood/)
+* **Vande** - from [Golden Sun](/nicknames/themes/golden-sun/)
 
 ### B-Tier
 
@@ -133,6 +136,7 @@ lcpMediaType: image/webp
 * **Obeah**
 * **Sable**
 * **Soothsayer**
+* **Nightvision** - from the [Daft Punk song](/nicknames/themes/daft-punk/)
 
 ### C-Tier
 
@@ -153,5 +157,6 @@ lcpMediaType: image/webp
 * **Tuxedo**
 * **Boots**
 * **Morrigan**
+* **Get Lucky** - also from the Daft Punk song since it has Super Luck as its hidden ability
 
 Do you have a favourite Absol nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

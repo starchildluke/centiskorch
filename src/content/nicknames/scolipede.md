@@ -3,9 +3,21 @@ title: "Scolipede nicknames"
 description: "A list of Scolipede nicknames, their origins, and why I think they're cool."
 pubDate: "06 Sep 2023"
 pokedexNumber: '0545'
+lcpSrc: /images/scolipede.webp
+lcpMediaAs: image
+lcpMediaType: image/webp
 ---
 
+<div class="img-center">
+	<picture>
+		<source srcset="/images/scolipede.webp" type="image/webp">
+		<img src="/images/scolipede.jpg" width="250" height="250" alt="a plump, centipede-like Pokémon that usually stands with the front half of its body raised vertically off the ground">
+	</picture>
+</div>
+
 Scolipede was introduced in Generation 5 with a Bug/Poison typing which isn't particularly unique but there's still scope for great nicknames.
+
+It also has a Mega form introduced in Generation 9 in Pokémon Legends: Z-A.
 
 Let's look at some info on Scolipede and suggested nicknames.
 
@@ -74,5 +86,8 @@ With all that said, let's look at those Scolipede nicknames!
 * **Rusty**
 * **Dart**
 * **Therac-25**
+* **Gambeson**
+* **Brigandine**
+* **Cavalry**
 
 Do you have a favourite Scolipede nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

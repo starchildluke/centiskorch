@@ -10,11 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.9",
-    "@astrojs/rss": "^4.0.13",
+    "@astrojs/mdx": "^4.3.12",
+    "@astrojs/rss": "^4.0.14",
     "@astrojs/sitemap": "^3.6.0",
     "@storyblok/astro": "^2.5.11",
-    "astro": "^5.15.2",
+    "astro": "^5.16.1",
     "astro-lazy-youtube-embed": "^0.4.0",
     "fuzzysort": "^3.0.2",
     "markdown-it": "^13.0.1",

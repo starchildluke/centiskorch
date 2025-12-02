@@ -102,6 +102,7 @@ lcpMediaType: image/webp
 
 * **Nocturne**
 * **Abyss**
+* **Starchild**
 
 ### A-Tier
 
@@ -109,6 +110,7 @@ lcpMediaType: image/webp
 * **Equinox**
 * **Nox**
 * **Meridian**
+* **Anise**
 
 ### B-Tier
 
@@ -125,6 +127,12 @@ lcpMediaType: image/webp
 * **Aquarius**
 * **Reef**
 * **Cosmo**
+* **Stargazer**
+* **Starlight**
+* **Flood**
+* **Seaspray**
+* **Seafoam**
+* **Phosphorus**
 
 ### C-Tier
 
@@ -147,5 +155,7 @@ lcpMediaType: image/webp
 * **Marina**
 * **Coral**
 * **Ochre**
+* **Castella**
+* **Old Spice**
 
 Do you have a favourite Starmie nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

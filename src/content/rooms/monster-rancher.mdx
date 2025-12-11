@@ -1,0 +1,26 @@
+---
+title: 'The Monster Rancher Room'
+description: 'Welcome to the Monster Rancher room, a space dedicated to a cool monster-catching series from my childhood.'
+bgContentColour: '#eca606'
+outlineContentColour: '#eca606'
+borderContentColour: '#eca606'
+bodyColour: '#09649c'
+headingTextColour: '#eca606'
+lcpMediaAs: 'image'
+lcpSrc: '/images/monster-rancher.jpg'
+lcpMediaType: 'image/jpg'
+---
+
+import RoomFilter from '../../components/RoomFilter.astro';
+
+<div class="img-center">
+	<img src={frontmatter.lcpSrc} width="500" height="290" alt="the Monster Rancher wordmark featuring Suezo, a yellow cyclops character" />
+</div>
+
+Monster Rancher is a life sim RPG series created by Koei Tecmo. It's one of my favourite monster-catching series outside of Pokémon and I loved the anime a lot growing up.
+
+Check back for more soon!
+
+<h2 class="headings">Other links</h2>
+
+<RoomFilter query="monster-rancher" />

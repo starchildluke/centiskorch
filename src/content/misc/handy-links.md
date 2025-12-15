@@ -55,3 +55,7 @@ Here is a collection of handy links for every generation and some general resour
 * [List of Pokemon by EV Yield](https://game8.co/games/Pokemon-Scarlet-Violet/archives/398471)
 * [Tera Raids](https://www.serebii.net/scarletviolet/teraraidbattles.shtml)
 * [Twitter thread on Porto Marinada auctions](https://twitter.com/Sibuna_Switch/status/1634813929145749510)
+
+## ZA
+
+* [Pokémon Legends: Z-A Donut Calculator for Legendary Pokémon](https://lza-legendary-donuts.streamlit.app/)

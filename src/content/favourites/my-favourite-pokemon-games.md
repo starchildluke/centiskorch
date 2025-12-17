@@ -1,32 +1,30 @@
 ---
 title: 'My favourite Pokémon games'
 description: "Here is a list of my favourite Pokémon games along with the reasons why."
-draft: true
+draft: false
 pubDate: '29 Nov 2023'
 ---
 
 I thought I'd compile a list of my favourite Pokémon games. As I've not played every single main series game yet, I'll be updating this as I go. Here are the games I've not played/finished yet:
 
 * Pokémon Brilliant Diamond/Shining Pearl
-* Pokémon Legends: Z-A
 
-## 1. Pokémon Gold/Silver
-## 2. Pokémon Crystal
-## 3. Pokémon Red/Blue
-## 4. Pokémon HeartGold/SoulSilver
-## 5. Pokémon Yellow
-## 6. Pokémon Legends: Arceus
-## 7. Pokémon Black 2/White 2
-## 8. Pokémon Sword/Shield
-## 9. Pokémon Let's Go, Eevee!/Let's Go, Pikachu!
-## 10. Pokémon Scarlet/Violet
-## 11. Pokémon Omega Ruby/Alpha Sapphire
-## 12. Pokémon Black/White
-## 13. Pokémon Emerald
-## 14. Pokémon Ruby/Sapphire
-## 15. Pokémon FireRed/LeafGreen
-## 16. Pokémon X/Y
-## 17. Pokémon Platinum
-## 18. Pokémon Diamond/Pearl
-## 19. Pokémon Ultra Sun/Ultra Moon
-## 20. Pokémon Sun/Moon
+## S-Tier
+
+Pokémon Gold/Silver, Pokémon Crystal, Pokémon Red/Blue, Pokémon HeartGold/SoulSilver
+
+## A-Tier
+
+Pokémon Legends: Arceus, Pokémon Black 2/White 2, Pokémon Sword/Shield, Pokémon Let's Go, Eevee!/Let's Go, Pikachu!, Pokémon Yellow, Pokémon Omega Ruby/Alpha Sapphire, Pokémon Scarlet/Violet, Pokémon Legends: Z-A
+
+## B-Tier
+
+Pokémon Black/White, Pokémon Emerald, Pokémon Ruby/Sapphire
+
+## C-Tier
+
+Pokémon FireRed/LeafGreen, Pokémon X/Y, Pokémon Platinum
+
+## D-Tier
+
+Pokémon Ultra Sun/Ultra Moon, Pokémon Sun/Moon, Pokémon Diamond/Pearl

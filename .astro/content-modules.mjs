@@ -52,5 +52,6 @@ export default new Map([
 ["src/content/nicknames/themes/quest-64.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Fquest-64.mdx&astroContentModuleFlag=true")],
 ["src/content/nicknames/themes/robin-hood.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Frobin-hood.mdx&astroContentModuleFlag=true")],
 ["src/content/nicknames/themes/water-type.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnicknames%2Fthemes%2Fwater-type.mdx&astroContentModuleFlag=true")],
-["src/content/rooms/monster-rancher.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Frooms%2Fmonster-rancher.mdx&astroContentModuleFlag=true")]]);
+["src/content/rooms/monster-rancher.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Frooms%2Fmonster-rancher.mdx&astroContentModuleFlag=true")],
+["src/content/logs/my-pokemon-teams/plza.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Flogs%2Fmy-pokemon-teams%2Fplza.mdx&astroContentModuleFlag=true")]]);
 		

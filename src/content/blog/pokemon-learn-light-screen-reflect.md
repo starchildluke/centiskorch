@@ -4,7 +4,9 @@ description: 'Here are the Pokémon that can learn two of the main defensive scr
 pubDate: '7 Oct 2025'
 ---
 
-Sometimes you want Reflect for a physical defensive boost and sometimes you want Light Screen for a special defensive boost. But what if you wanted both and didn't have space for two separate Pokémon for each one? Well, you could have the best of both worlds because there are X Pokémon (at the time of writing) that can learn both Light Screen and Reflect.
+Sometimes you want Reflect for a physical defence boost and sometimes you want Light Screen for a special defence boost. But what if you wanted both and didn't have space for two Pokémon? Well, you could have the best of both worlds because there are 159 Pokémon (at the time of writing) that can learn both Light Screen and Reflect.
+
+Known as "screeners", these Pokémon offer great utility although some are better at pulling it off than others due to own defensive stats keeping them in battles for longer. Paired with the Light Clay item that extends the number of turns Reflect and/or Light Screen are active (from 5 to 8 turns), having one of these Pokémon in your team could help you win more games.
 
 I've listed them below and will update it with levels and methods of learning both moves when I get a chance.
 

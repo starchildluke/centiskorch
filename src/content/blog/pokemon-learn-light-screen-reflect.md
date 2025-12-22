@@ -8,6 +8,8 @@ Sometimes you want Reflect for a physical defence boost and sometimes you want L
 
 Known as "screeners", these Pokémon offer great utility although some are better at pulling it off than others due to own defensive stats keeping them in battles for longer. Paired with the Light Clay item that extends the number of turns Reflect and/or Light Screen are active (from 5 to 8 turns), having one of these Pokémon in your team could help you win more games.
 
+My personal favourite screeners are Grimmsnarl (with its Prankster ability meaning it gets both screens up first), Hatterene (decent defensive stats), and Lugia (amazing defensive stats).
+
 I've listed them below and will update it with levels and methods of learning both moves when I get a chance.
 
 I've also added an asterisk (\*) to Pokémon that can also learn Aurora Veil which reduces the physical and special by 50% for 5 turns in hail/snow.

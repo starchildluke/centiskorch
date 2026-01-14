@@ -7,23 +7,21 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "knip": "knip"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.12",
+    "@astrojs/mdx": "^4.3.13",
     "@astrojs/rss": "^4.0.14",
-    "@astrojs/sitemap": "^3.6.0",
-    "@storyblok/astro": "^2.5.11",
-    "astro": "^5.16.1",
+    "@astrojs/sitemap": "^3.6.1",
+    "astro": "^5.16.9",
     "astro-lazy-youtube-embed": "^0.4.0",
-    "fuzzysort": "^3.0.2",
-    "markdown-it": "^13.0.1",
-    "sanitize-html": "^2.11.0",
-    "sitemapper": "^3.1.8",
-    "vite": "^4.4.9"
+    "fuzzysort": "^3.1.0"
   },
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "@types/node": "^25.0.8",
+    "knip": "^5.81.0",
+    "typescript": "^5.9.3"
   },
   "packageManager": "pnpm@10.3.0+sha512.ee592eda8815a8a293c206bb0917c4bb0ff274c50def7cbc17be05ec641fc2d1b02490ce660061356bd0d126a4d7eb2ec8830e6959fb8a447571c631d5a2442d"
 }

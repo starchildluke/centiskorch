@@ -66,6 +66,7 @@ With all that said, let's look at those Walking Wake nicknames!
 * **Ryu** - from [Breath of Fire](/nicknames/themes/breath-of-fire/)
 * **Misty Relic**
 * **Ocean Spray**
+* **Rusalka**
 
 ### C-Tier
 

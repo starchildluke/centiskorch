@@ -81,6 +81,7 @@ With all that said, let's look at those Jellicent nicknames!
 * **Lethe** - a river in Hades whose waters cause drinkers to forget their past; oblivion, forgetfulness.
 * **Rosy**
 * **Bubbles**
+* **Rusalka**
 
 ### C-Tier
 

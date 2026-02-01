@@ -38,7 +38,7 @@ My methodology for picking tarot themed nicknames is as follows:
 * **Temperance** - Wobbuffet, Lapras, Suicune, Celebi, Chansey/Blissey, Milotic, Sylveon
 * **The Devil** - Gengar, Giratina
 * **The Tower** - Celesteela
-* **The Star** - Minior, Jirachi
+* **The Star** - Minior, Jirachi, [Starmie](/nicknames/starmie/)
 * **The Moon** - Lunala, Lugia, Lunatone
 * **The Sun** - Solgaleo, Ho-Oh, Solrock
 * **Judgement** - Arceus, Mewtwo, Zygarde

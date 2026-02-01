@@ -27,7 +27,7 @@ My methodology for picking Jamiroquai themed nicknames is as follows:
 ### The Return of the Space Cowboy (1994)
 
 * **Half the Man** - Morpeko, Palafin
-* **Light Years** - Lunatone, Solrock, the Cleffa line, Deoxys, Eternatus, the Staryu line, the Elgyem line, Kyurem, Arceus, Minior, Rayquaza, the Cosmog line (including Solgaleo and Lunala), Necrozma
+* **Light Years** - Lunatone, Solrock, the Cleffa line, Deoxys, Eternatus, [the Staryu line](/nicknames/starmie/), the Elgyem line, Kyurem, Arceus, Minior, Rayquaza, the Cosmog line (including Solgaleo and Lunala), Necrozma
 * **Manifest Destiny**
 * **The Kids** - Kangaskhan, Maushold, Pichu, Cleffa, Togepi, Tyrogue, Smoochum, Elekid, Magby, Azurill, Wynaut, Budew, Roserade, Chingling, Bonsly, Mime Jr., Happiny, Munchlax, Riolu, Mantyke, Toxel
 * **Mr. Moon** - the Cleffa line, Umbreon, the Teddiursa line, Lunatone, Cresselia, Darkrai, Roaring Moon, Lycanroc, Lunala, Dawn Wings Necrozma, Celesteela
@@ -45,7 +45,7 @@ My methodology for picking Jamiroquai themed nicknames is as follows:
 ### Synkronized (1998)
 
 * **Canned Heat** - Blaziken, Rapidash, Dugtrio, Dodrio, Regieleki, Hitmonlee, Hitmontop, Quaquaval
-* **Planet Home** - Lunatone, Solrock, the Cleffa line, Deoxys, Eternatus, the Staryu line, the Elgyem line, Kyurem, Arceus, Minior, Rayquaza, the Cosmog line (including Solgaleo and Lunala), Necrozma
+* **Planet Home** - Lunatone, Solrock, the Cleffa line, Deoxys, Eternatus, the Elgyem line, Kyurem, Arceus, Minior, Rayquaza, the Cosmog line (including Solgaleo and Lunala), Necrozma
 * **Supersonic** - any Pokémon that learns Supersonic, the Igglybuff line, the Whismur line, the Kricketot line, the Chingling line, Chatot, Meloetta, Noivern, the Zubat line
 * **Butterfly** - Butterfree, Venomoth, [Beautifly](/nicknames/beautifly/), Dustox, Mothim, Frosmoth
 * **KingForADay** - Nidoking, Serperior, Empoleon, Slowking, Pyroar, Aegislash, Calyrex

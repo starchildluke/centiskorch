@@ -26,8 +26,8 @@ My methodology for picking Daft Punk themed nicknames is as follows:
 * **Phoenix** - Ho-Oh, Talonflame
 * **Teachers** - Oranguru
 * **HighFidelity** - Chatot, Meloetta
-* **Rock'n Roll** - Toxtricity
-* **Burnin'** - any Fire-type Pokémon
+* **Rock'n Roll** - [Toxtricity](/nicknames/toxtricity/)
+* **Burnin'** - any [Fire-type Pokémon](/nicknames/themes/fire-type/)
 * **Alive** - any Pokémon with Sturdy
 
 ### Discovery (2001)
@@ -37,10 +37,10 @@ My methodology for picking Daft Punk themed nicknames is as follows:
 * **Digital Love** - the Porygon line
 * **HBFS** - any Pokémon with high offensive and defensive stats that you'd use in a Trick Room team
 * **Crescendolls** - Maushold
-* **Nightvision** - Umbreon, Darkrai, Absol
-* **Superheroes** - Palafin
+* **Nightvision** - Umbreon, Darkrai, [Absol](/nicknames/absol/)
+* **Superheroes** - [Palafin](/nicknames/palafin/)
 * **High Life** - Venusaur, Meowscarada
-* **Voyager** - Lunatone, Deoxys, Eternatus, Beheeyem, Arceus, Celesteela, Rayquaza, Garchomp, or any other [extraterrestrial Pokémon](https://bulbapedia.bulbagarden.net/wiki/Extraterrestrial_Pok%C3%A9mon)
+* **Voyager** - Lunatone, Deoxys, Eternatus, Beheeyem, Arceus, Celesteela, [Rayquaza](/nicknames/rayquaza/), Garchomp, or any other [extraterrestrial Pokémon](https://bulbapedia.bulbagarden.net/wiki/Extraterrestrial_Pok%C3%A9mon)
 * **Veridis Quo** - any [roaming Pokémon](https://bulbapedia.bulbagarden.net/wiki/Roaming_Pok%C3%A9mon) ([reason why](https://archive.ph/Fl42p))
 * **Short Circuit** - any Electric-type Pokémon, Registeel, Genesect, the Porygon line, the Golett line, Magearna, the Varoom line, Future Paradox Pokémon
 * **Face to Face** - the Doduo line, the Exeggcute line, Weezing, Vanilluxe, the Klink line, Zweilous, Hydreigon, the Girafarig line, Mawile
@@ -59,7 +59,7 @@ My methodology for picking Daft Punk themed nicknames is as follows:
 ### Random Access Memories (2013)
 
 * **GameOfLove** - Luvdisc
-* **Giorgio/Moroder** - Kadabra, Alakazam, Kricketune, Sealeo, Walrein, male Jellicent, Swalot, Stoutland, Herdier, Samurott, Probopass
+* **Giorgio/Moroder** - Kadabra, Alakazam, Kricketune, Sealeo, Walrein, male Jellicent, Swalot, [Stoutland](/nicknames/stoutland/), Herdier, Samurott, Probopass
 * **Within** - Tatsugiri (if paired with Dondozo)
 * **InstantCrush** - any Pokémon that uses Attract
 * **Touch** - the Slugma line

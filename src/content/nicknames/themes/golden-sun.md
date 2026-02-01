@@ -23,13 +23,13 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 
 * **Ramses** - Cofagrigus, Lucario, Umbreon, Espeon, Heliolisk, Sigilyph, Ampharos
 * **Cybele** - Kangaskhan, Lugia, [Meganium](/nicknames/meganium/)
-* **Judgment** - Arceus, Giratina, Gengar, Gyarados, Hoopa, Mewtwo, Dialga, Palkia
+* **Judgment** - Arceus, Giratina, Gengar, Gyarados, Hoopa, [Mewtwo](/nicknames/mewtwo/), Dialga, Palkia
 * **Kirin** - [Raikou](/nicknames/raikou/), Suicune, [Walking Wake](/nicknames/walking-wake/), Arcanine, Keldeo
 * **Tiamat** - Lugia
 * **Meteor** - Minior, Solrock, Lunatone, [Deoxys](/nicknames/deoxys/), Clefable
 * **Atalanta** - Blissey, Enamorus, Florges, Froslass, Hatterene, Lilligant, Nidoqueen, Salazzle, Tsareena, Vespiquen, Gardevoir
 * **Procne** - Enamorus, Froslass, Hatterene, Lilligant, Tsareena, Vespiquen, Gardevoir, Diancie
-* **Thor** - Zapdos, Tinkaton, Raikou, [Raging Bolt](/nicknames/raging-bolt/), Zekrom, Thundurus
+* **Thor** - Zapdos, [Tinkaton](/nicknames/tinkaton/), Raikou, [Raging Bolt](/nicknames/raging-bolt/), Zekrom, Thundurus
 * **Nereid** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, [Ogerpon (Wellspring Mask)](/nicknames/ogerpon/), [Terapagos](/nicknames/terapagos/)
 * **Neptune** - Lugia, Suicune, Walking Wake, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
 * **Boreas** - Tornadus, Drifblim, Pidgeot, Ninetales (Alolan), Regice, [Abomasnow](/nicknames/abomasnow/), Beartic, Kyurem, Avalugg, Baxcalibur, Chien-Pao

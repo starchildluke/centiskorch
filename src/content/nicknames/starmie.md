@@ -102,7 +102,7 @@ lcpMediaType: image/webp
 
 * **Nocturne**
 * **Abyss**
-* **Starchild**
+* **Starchild** - from the [Jamiroquai](/nicknames/themes/jamiroquai/) song
 
 ### A-Tier
 
@@ -111,6 +111,9 @@ lcpMediaType: image/webp
 * **Nox**
 * **Meridian**
 * **Anise**
+* **Light Years**
+* **Space Cowboy**
+* **Space Clav**
 
 ### B-Tier
 

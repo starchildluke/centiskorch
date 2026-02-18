@@ -12,15 +12,6 @@ Ice types haven't had the best of times in Pokémon but they've had some of the 
 
 ## Nicknames
 
-My methodology for picking ice themed nicknames is as follows:
-
-* I will list some games from the franchise and note down characters from each
-* I will then assign Pokémon I think would match well with those characters
-* It might be that some characters lend themselves well to more than one Pokémon, particular if they're based on regular animals such as fish or horses
-* I will only mention fully evolved Pokémon (if they evolve) but if you don't plan to evolve the Pokémon in question, the name should still fit
-
-### Ice glossary
-
 Terminology sources: Global Cryosphere Watch, [AGU Publications](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/9781118663950.app1)
 
 * Cryo

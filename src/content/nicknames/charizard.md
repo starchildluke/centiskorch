@@ -53,7 +53,7 @@ lcpMediaType: image/webp
 		</tr>
 		<tr>
 			<td>French</td>
-			<td>Dracaufeu</td>
+			<td><span lang="fr">Dracaufeu</span></td>
 		</tr>
 		<tr>
 			<td>Spanish</td>
@@ -61,7 +61,7 @@ lcpMediaType: image/webp
 		</tr>
 		<tr>
 			<td>German</td>
-			<td>Glurak</td>
+			<td><span lang="de">Glurak</span></td>
 		</tr>
 		<tr>
 			<td>Italian</td>
@@ -73,19 +73,19 @@ lcpMediaType: image/webp
 		</tr>
 		<tr>
 			<td>Mandarin Chinese and Cantonese Chinese</td>
-			<td>噴火龍 / 喷火龙</td>
+			<td><span lang="zh">噴火龍 / 喷火龙</span></td>
 		</tr>
 		<tr>
 			<td>Hindi</td>
-			<td>चारिज़ार्ड</td>
+			<td><span lang="hi">चारिज़ार्ड</span></td>
 		</tr>
 		<tr>
 			<td>Russian</td>
-			<td>Чаризард</td>
+			<td><span lang="ru">Чаризард</span></td>
 		</tr>
 		<tr>
 			<td>Thai</td>
-			<td>ลิซาร์ดอน</td>
+			<td><span lang="th">ลิซาร์ดอน</span></td>
 		</tr>
 	</tbody>
 	</table>
@@ -116,6 +116,7 @@ lcpMediaType: image/webp
 * **Hellfire**
 * **Hades**
 * **Igneel**
+* **Fáfnir**
 
 ### B-Tier
 

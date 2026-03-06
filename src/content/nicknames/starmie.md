@@ -1,6 +1,6 @@
 ---
 title: Starmie nicknames
-description: A list of nicknames, their origins, and why I think they're cool.
+description: A list of Starmie nicknames, their origins, and why I think they're cool.
 pubDate: 02 Dec 2025
 pokedexNumber: "0121"
 lcpSrc: /images/starmie.webp

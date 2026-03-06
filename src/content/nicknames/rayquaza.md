@@ -147,7 +147,6 @@ Note: any nickname marked with a \* is for shiny Rayquaza, which is a dark charc
 
 ### C-Tier
 
-* **Raymiroquaza**
 * **Quetzalcōātl**
 * **Pipe Man**
 * **Tube Man** - [wacky flailing inflatable tube man! wacky flailing inflatable tube man! wacky flailing inflatable tube man!](https://www.youtube.com/watch?v=rHXvMcLrLSY)

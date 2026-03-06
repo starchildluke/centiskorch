@@ -1,6 +1,6 @@
 ---
 title: Charizard nicknames
-description: A list of nicknames, their origins, and why I think they're cool.
+description: A list of Charizard nicknames, their origins, and why I think they're cool.
 pubDate: 01 Mar 2026
 pokedexNumber: "0006"
 lcpSrc: /images/charizard.webp

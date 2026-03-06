@@ -1,6 +1,6 @@
 ---
 title: Venusaur nicknames
-description: A list of nicknames, their origins, and why I think they're cool.
+description: A list of Venusaur nicknames, their origins, and why I think they're cool.
 pubDate: 04 Mar 2026
 pokedexNumber: "0003"
 lcpSrc: /images/venusaur.webp

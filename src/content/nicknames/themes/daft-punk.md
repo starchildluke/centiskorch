@@ -39,7 +39,7 @@ My methodology for picking Daft Punk themed nicknames is as follows:
 * **Crescendolls** - Maushold
 * **Nightvision** - Umbreon, Darkrai, [Absol](/nicknames/absol/)
 * **Superheroes** - [Palafin](/nicknames/palafin/)
-* **High Life** - Venusaur, Meowscarada
+* **High Life** - [Venusaur](/nicknames/venusaur/), Meowscarada
 * **Voyager** - Lunatone, Deoxys, Eternatus, Beheeyem, Arceus, Celesteela, [Rayquaza](/nicknames/rayquaza/), Garchomp, or any other [extraterrestrial Pokémon](https://bulbapedia.bulbagarden.net/wiki/Extraterrestrial_Pok%C3%A9mon)
 * **Veridis Quo** - any [roaming Pokémon](https://bulbapedia.bulbagarden.net/wiki/Roaming_Pok%C3%A9mon) ([reason why](https://archive.ph/Fl42p))
 * **Short Circuit** - any Electric-type Pokémon, Registeel, Genesect, the Porygon line, the Golett line, Magearna, the Varoom line, Future Paradox Pokémon

@@ -40,7 +40,7 @@ My methodology for picking Jamiroquai themed nicknames is as follows:
 
 * **Cosmic Girl** - Cresselia, Enamorus, Hatterene, Nidoqueen, Ogerpon, Salazzle, Tsareena, Flutter Mane
 * **UseTheForce** - any Psychic Pokémon, any Pokémon with Levitate
-* **High Times** - Iron Leaves, Torkoal, Weezing, Venusaur, Bellossom, Oranguru, Simisage, Vileplume, Meowscarada, Drampa, Dondozo
+* **High Times** - Iron Leaves, Torkoal, Weezing, [Venusaur](/nicknames/venusaur/), Bellossom, Oranguru, Simisage, Vileplume, Meowscarada, Drampa, Dondozo
 
 ### Synkronized (1998)
 

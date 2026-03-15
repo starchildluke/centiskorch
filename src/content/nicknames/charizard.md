@@ -156,6 +156,7 @@ lcpMediaType: image/webp
 * **Spitfire**
 * **Sriracha**
 * **Disobey** - reference to the anime
+* **Red Wyvern** - from [Quest 64](/nicknames/themes/quest-64/)
 
 ### C-Tier
 

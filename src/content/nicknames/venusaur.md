@@ -116,6 +116,7 @@ lcpMediaType: image/webp
 * **Iris**
 * **Nettle**
 * **Mistletoe**
+* **High Times** - from the [Jamiroquai page](/nicknames/themes/jamiroquai/)
 
 ### B-Tier
 
@@ -133,7 +134,8 @@ lcpMediaType: image/webp
 * **Big Poppa**
 * **BiggieSmalls**
 * **Orchid**
-* **Limburger** - after Lawrence Limburger from Biker Mice from Mars 
+* **Limburger** - after Lawrence Limburger from Biker Mice from Mars
+* **High Life** - from the [Daft Punk page](/nicknames/themes/daft-punk/)
 
 ### C-Tier
 

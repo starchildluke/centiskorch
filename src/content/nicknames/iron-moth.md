@@ -56,7 +56,7 @@ With all that said, let's look at those Iron Moth nicknames!
 ### C-Tier
 
 * **Candy Corn** - devisive, I know!
-* **Flitter Mane** - just don't use this name in a VGC tournament or they could warn you or ban your Pokémon. Yeah, wild!
+* **Flitter Mane** - just don't use this name in a VGC tournament or they could warn you or ban your Pokémon.
 * **Frutterbee** - an interpolation of Butterfree
 * **i love lamp** - [i love lamp!](https://www.youtube.com/watch?v=gId6nrMDmUU)
 * **Moth**

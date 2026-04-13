@@ -3,7 +3,7 @@ title: 'Sneasler nicknames'
 description: "A list of Sneasler nicknames, their origins, and why I think they're cool."
 pubDate: '13 Apr 2026'
 pokedexNumber: ''
-lcpSrc: '/images/sneasler.jpg'
+lcpSrc: '/images/sneasler.webp'
 lcpMediaAs: 'image'
 lcpMediaType: 'image/webp'
 ---

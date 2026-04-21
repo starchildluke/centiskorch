@@ -1,0 +1,17 @@
+---
+title: 'Some thoughts on the latest shiny hunting discourse'
+description: "I keep having opinions about shinies and maths so I've put them in this blog post"
+pubDate: '20 Apr 2026'
+---
+
+There's a video going around ["elitism & hypocrisy" in the shiny hunting community](https://www.youtube.com/watch?v=t2UiDXrXyDw), particularly amongst "full odds" shiny hunters. It's got a lot of people talking and while I wasn't a fan of the video, I watched it and I recommend you do too so you get a full picture before critiquing.
+
+I have friends who shiny hunt and they're awesome and encouraging. I've also seen comments (first and second hand) that haven't been as welcoming towards other people shiny hunting (remember the last discourse about using macro controllers in Z-A?) In my experience within Pokémon communities, the number of unfriendly people and their various cliques is non-zero but generalising isn't helpful and I feel like the video does that to a large degree. 
+
+Aside from that, you've gotta learn the maths before discussing it and if you reference those who have (like adef), don't try to pick their work apart if you've not seen all of it. The video referenced adef's video on  [Using Math to Settle Pokémon's Biggest Debate](https://www.youtube.com/watch?v=D8yzP9C4-Lo) and it was called disappointing because it didn't talk about [cumulative probability distributions](https://en.wikipedia.org/wiki/Cumulative_distribution_function). Except in the video, adef recommended people watch another longer video which touched on that. The aforementioned video was 12 mins while the longer one was about half an hour. That's about the same amount of combined time that the elitism video took to get to the wrong conclusions. But let me not be too salty. Just remember that the chance of finding a shiny in up to and including the *n*th encounter in a game that has 1/*n* odds is about 63.2% when _n_ is more than 64 (this is very rough maths but it _does_ check out).
+
+The video then ends with a "can't we all jsut get along" message and I think if you spend the majority of your time discussing the bad elements of a thing from the start, you can't just say give a contrasting opinion at the end and claim some kind of balance.
+
+Ultimately, a shiny's value is added by the hunter. Whether it's genned, hunted on one cart or a thousand ROMs, a shiny is a shiny in terms of the data that made them so. The arguments about rarity and full odds being better than multi-hunts and that being cheating or being some type of advantage or how multi-hunts are actually improving odds and you can't ignore the time shortening vs. odds and the semantics and blah blah blah. Why does _anyone_ care on any side? Why aren't we catching shinies and enjoying them? Any time spent complaining about the sanctity and validity of shinies, "correct" shining hunting methods, or debating the (correct) math is time not spent catching shinies.
+
+Your efforts as a shiny hunter are not diminished if someone else doesn't do it the same way. Focus on you! Buying shinies from eBay carries its own moral implications but that doesn't negate what you have done to get your shinies. It's their collection. Don't worry about what they're do

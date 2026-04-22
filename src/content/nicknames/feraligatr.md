@@ -109,6 +109,7 @@ lcpMediaType: 'image/webp'
 ### A-Tier
 
 * **Darf** - Shout out to Shadypenguinn
+* **Gummigoo** - from TADC
 * **Miami**
 * **Orlando**
 * **Albert/Alberta** - after the Florida Gators mascots

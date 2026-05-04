@@ -36,6 +36,7 @@ Here is a collection of handy links for every generation and some general resour
 * [SVG Flag Icons](https://nucleoapp.com/svg-flag-icons) - for those who want to represent their home country, or any for that matter
 * [The 88x31 archive](https://hellnet.work/8831/) - a site containing 29,257 88x31 buttons that were scraped from the GeoCities archives.
 * [PokéPrint](https://pokeprint.kimbachu.com/site/) — the Pokémon fansite that supplies players with handy printable resources!
+* [webcraft supplies](https://ribo.zone/free/graphics/) - free to use graphics for websites (mostly 88x31 buttons)
 
 ## R/B/Y
 * [Pokémon Red/Blue speedrunning guide](https://www.speedrun.com/pkmnredblue/resources)

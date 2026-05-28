@@ -48,7 +48,7 @@ My methodology for picking Jamiroquai themed nicknames is as follows:
 * **Planet Home** - Lunatone, Solrock, the Cleffa line, Deoxys, Eternatus, the Elgyem line, Kyurem, Arceus, Minior, Rayquaza, the Cosmog line (including Solgaleo and Lunala), Necrozma
 * **Supersonic** - any Pokémon that learns Supersonic, the Igglybuff line, the Whismur line, the Kricketot line, the Chingling line, Chatot, Meloetta, Noivern, the Zubat line
 * **Butterfly** - Butterfree, Venomoth, [Beautifly](/nicknames/beautifly/), Dustox, Mothim, Frosmoth
-* **KingForADay** - Nidoking, Serperior, Empoleon, Slowking, Pyroar, Aegislash, Calyrex
+* **KingForADay** - Nidoking, Serperior, [Empoleon](/nicknames/empoleon/), Slowking, Pyroar, Aegislash, Calyrex
 
 ### A Funk Odyssey (2001)
 

@@ -31,7 +31,7 @@ My methodology for picking Golden Sun themed nicknames is as follows:
 * **Procne** - Enamorus, Froslass, Hatterene, Lilligant, Tsareena, Vespiquen, Gardevoir, Diancie
 * **Thor** - Zapdos, [Tinkaton](/nicknames/tinkaton/), Raikou, [Raging Bolt](/nicknames/raging-bolt/), Zekrom, Thundurus
 * **Nereid** - Lugia, Suicune, Walking Wake, Milotic, [Jellicent](/nicknames/jellicent/), Primarina, Tapu Fini, Toxapex, [Ogerpon (Wellspring Mask)](/nicknames/ogerpon/), [Terapagos](/nicknames/terapagos/)
-* **Neptune** - Lugia, Suicune, Walking Wake, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), Empoleon, Seaking
+* **Neptune** - Lugia, Suicune, Walking Wake, Milotic, Jellicent, Primarina, Tapu Fini, Toxapex, Ogerpon (Wellspring Mask), [Empoleon](/nicknames/empoleon/), Seaking
 * **Boreas** - Tornadus, Drifblim, Pidgeot, Ninetales (Alolan), Regice, [Abomasnow](/nicknames/abomasnow/), Beartic, Kyurem, Avalugg, Baxcalibur, Chien-Pao
 * **Alex** - Suicune, Walking Wake, Ogerpon (Wellspring Mask)
 * **Babi** - Gengar, Cacturne, Banette, Giratina

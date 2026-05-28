@@ -25,7 +25,7 @@ My methodology for picking tarot themed nicknames is as follows:
 * **The Magician** - Meowscarada, Orangaru, Delphox, Klefki, Hoopa, Alakazam, Hatterene, Mewtwo, Hypno, Espeon, Mismagius, Mew
 * **The High Priestess** - Hatterene, Ninetales, Celebi, Gothitelle, Espeon, Roserade, Flutter Mane, Audino, Diancie, Xerneas, Milotic
 * **The Empress** - Ninetales, Gothitelle, Espeon, Gardevoir, Magearna, Serperior, Vespiquen, Diancie, Dragonair, Xerneas, Milotic
-* **The Emperor** - Empoleon, Slowking, Zacian
+* **The Emperor** - [Empoleon](/nicknames/empoleon/), Slowking, Zacian
 * **The Hierophant** - Xatu, Slowking, Porygon, Audino, Zamazenta
 * **The Lovers** - Luvdisc, Umbreon/Espeon, Nidoking/Nidoqueen
 * **The Chariot** - [Miraidon](/nicknames/miraidon/), Kiraidon, Cyclizar

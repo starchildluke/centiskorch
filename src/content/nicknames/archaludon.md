@@ -100,9 +100,6 @@ With all that said, let's look at those Archaludon nicknames!
 * **Skyarrow**
 * **Tubeline**
 * **Silence** - after the bridge on Route 12 in Kanto (which I didn't know even had a name!)
-* **Stanley**
-* **Bart**
-* **Versaceludon**
 * **ReSister**
 * **Durabudon**
 * **Hoi Palloy**

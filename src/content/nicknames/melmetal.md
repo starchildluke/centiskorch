@@ -54,6 +54,7 @@ With all that said, let's look at those Melmetal nicknames!
 * **Sentinel**
 * **Rhodzilla** - rhodium + Godzilla
 * **Iron Giant**
+* **Tin Man**
 
 ### B-Tier
 

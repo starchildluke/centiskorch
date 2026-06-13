@@ -25,6 +25,8 @@ And now it's my turn. As a lover of nicknames, I thought I'd make a list of CF-r
 
 ## Nicknames
 
+(_**Note**: any yellow Pokémon can fit for any nickname since yellow is the offical theme colour_)
+
 * **CFTR** - any long/serpent-like Pokémon (e.g. Onix/Steelix, Serperior, Dragonair, Seviper, Gyarados etc.)
 * **Cilia** - Mamoswine, Weedle (because it's a _hairy_ bug!), Greavard, Grimmsnarl
 * **Enzyme** - Toxicroak, Reuniclus, Deoxys, Zygarde

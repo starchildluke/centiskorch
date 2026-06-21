@@ -106,6 +106,7 @@ lcpMediaType: 'image/webp'
 * **Mango**
 * **Tango**
 * **Cheddar**
+* **Doctor V** - from [Tobal No. 1](/nicknames/tobal/)
 
 ### B-Tier
 

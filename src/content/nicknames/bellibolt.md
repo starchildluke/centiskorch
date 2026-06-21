@@ -109,6 +109,7 @@ lcpMediaType: 'image/jpeg'
 * **Gauging Bolt**
 * **Tum Holland**
 * **Bibelot** - a small, decorative ornament or trinket.
+* **Mufu** - from [Tobal No. 1](/nicknames/tobal/)
 
 ### B-Tier
 

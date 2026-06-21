@@ -110,6 +110,7 @@ lcpMediaType: 'image/webp'
 * **Dumpling** - credit: [Ggjeed](https://pokepast.es/db81d94bdca06e97)
 * **Barbie**
 * **Tristana** - from League of Legends
+* **Epon** - from [Tobal No. 1](/nicknames/tobal/)
 
 ### B-Tier
 

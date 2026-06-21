@@ -106,6 +106,7 @@ lcpMediaType: 'image/webp'
 * **Bebop**
 * **Porco Rosso**
 * **Piggie Smalls**
+* **Nork** - from [Tobal No. 1](/nicknames/tobal/)
 
 ### A-Tier
 

@@ -55,6 +55,7 @@ With all that said, let's look at those Annihilape nicknames!
 * **Punisher**
 * **Panini**
 * **Monkey D/Luffy** - [inspired by this WeedleTwineedle tweet](https://x.com/WeedleTwineedle/status/1744963254844043528)
+* **Nork** - from [Tobal No. 1](/nicknames/tobal/)
 
 ### B-Tier
 

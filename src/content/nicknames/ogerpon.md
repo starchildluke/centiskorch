@@ -65,6 +65,7 @@ With all that said, let's look at those Ogerpon nicknames!
 * **Sweet Chilli**
 * **Ketchup**
 * **Harissa**
+* **Epon** - from [Tobal No. 1](/nicknames/tobal/)
 
 ### B-Tier
 

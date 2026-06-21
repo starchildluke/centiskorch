@@ -30,6 +30,8 @@ Tobal No. 1 and Tobal 2 are fighting games developed by DreamFactory and publish
 
 ## Tobal 2
 
+(**Please note:** Tobal 2 has over 200 playable characters. I won't list them all here but may update the list with more one day.)
+
 * **Doctor V** - Chansey, Audino, [Pawmot](/nicknames/pawmot/), Comfey
 * **Chaco** - Iron Valiant, Gallade, Gardevoir, Wobbuffet, Gholdengo, Sudowoodo
 * **Mark** - Giratina, Hoopa, Necrozma

@@ -36,7 +36,7 @@ My methodology for nicknames is as follows:
 * **Latte**
 * **Dragonwell**
 * **Muscatel**
-* **Cuppa Verde**
+* **Cuppa Verde** - a play on “Cabo Verde”
 * **Julep**
 
 ### B-Tier
@@ -46,31 +46,31 @@ My methodology for nicknames is as follows:
 * **Assam**
 * **Ceylon**
 * **Chai**
-* **Formosa**
 * **Kombucha**
 * **Smoothie**
 * **Wheatgrass**
 * **Midori**
-* **Rosie Lee**
-* **Chá Bēi**
-* **Chabana**
-* **Chasen**
-* **Usucha**
+* **Rosie Lee** - a British nickname for tea
+* **Chá Bēi** - Chinese word for “tea cup”
+* **Chabana** - Japanese for “tea flowers” 
+* **Chasen** - a bamboo whisk used in Japanese tea ceremony
+* **Usucha** - a type of matcha
+* **Koicha** - same as above
 
 ### C-Tier
 
 * **Blend**
-* **Denby**
+* **Denby** - named after a UK pottery company
 * **Soup**
 * **Fine China**
 * **Cup**
 * **Brew**
-* **Courgette**
-* **Builder's**
+* **Courgette** - thought it was cute and it's green
+* **Builder's** - from “builder's tea”, a British phrase to describe very dark strong tea
 * **Lipton's**
 * **Emerald**
 * **Qualitea**
-* **Mr Tea**
+* **Mr Tea** - I pi-_tea_ the fool!
 * **Steep**
 * **Sippy Cup**
 

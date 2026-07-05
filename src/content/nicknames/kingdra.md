@@ -49,6 +49,7 @@ With all that said, let's look at those Kingdra nicknames!
 * **Trident**
 * **Triton**
 * **The Herald**
+* **Couvade** - a set of male pregnancy rituals (it's a little play on the "male pregnancy" that seahorses go through)
 
 ### B-Tier
 

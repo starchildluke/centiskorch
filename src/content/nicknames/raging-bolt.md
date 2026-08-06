@@ -31,7 +31,9 @@ With all that said, let's look at those Raging Bolt nicknames!
 
 ### S-Tier
 
-* **Rai Charles** - something had to go in S-tier and why not a nickname based on a pun of a legendary musician?
+* **ProtecYaNeck** - [Watch your step, kid!](https://www.youtube.com/watch?v=1_-3Bh1VFI8)
+* **Neck&Neck**
+* **Shock Ness** - shock + Loch Ness
 
 ### A-Tier
 
@@ -41,12 +43,12 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Shock & Awe** - the nickname that Alex Underhill used on the Raging Bolt from his Portland Regional winning team in January 2024
 * **CultureShock**
 * **Bon Voltage**
-* **ProtecYaNeck** - [Watch your step, kid!](https://www.youtube.com/watch?v=1_-3Bh1VFI8)
 * **Abraham/Lincoln/AbrahamLncln**
 * **Furriosa**
 * **MUSTAAAAARD**
 * **NeckinWimdy**
 * **Purple Mane**
+* **Pole Volt**
 
 ### B-Tier
 
@@ -55,11 +57,8 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Indra** - the Hindu king of the devas, heaven, and associated with thunder and lightning
 * **Wolking Wake** - <span lang="nl">wolk</span> is Dutch for "cloud" (this name might get you a warning in VGC tournaments though!)
 * **Kinoi** - based on a manga character called Kinoi Natsuki who can stretch her neck at will
-* **Shock Ness** - shock + Loch Ness
 * **Big&Tall**
-* **Neck&Neck**
 * **Breakneck**
-* **Pole Volt**
 * **Broomstick**
 * **Mona** - because fangs
 * **Great Neck** - named after a region in New York
@@ -105,5 +104,6 @@ With all that said, let's look at those Raging Bolt nicknames!
 * **Banana**
 * **Fury**
 * **Tampopo** - Japanese for "dandelion"
+* **Rai Charles**
 
 Do you have a favourite Raging Bolt nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

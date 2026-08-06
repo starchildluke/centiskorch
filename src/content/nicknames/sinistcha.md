@@ -38,6 +38,7 @@ My methodology for nicknames is as follows:
 * **Muscatel**
 * **Cuppa Verde** - a play on “Cabo Verde”
 * **Julep**
+* **Carafe**
 
 ### B-Tier
 

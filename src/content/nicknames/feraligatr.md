@@ -105,6 +105,8 @@ lcpMediaType: 'image/webp'
 * **Hostgator**
 * **Colgator**
 * **Netgator**
+* **Gustopher** - from the Gator Days web comic
+* **August** - as above
 
 ### A-Tier
 

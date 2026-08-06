@@ -3,7 +3,7 @@ title: "Exeggutor nicknames"
 description: "A list of Exeggutor nicknames, their origins, and why I think they're cool."
 pubDate: "06 Aug 2026"
 pokedexNumber: '0103'
-lcpSrc: "/images/exeggutor.jpg"
+lcpSrc: "/images/exeggutor.webp"
 lcpMediaAs: "image"
 lcpMediaType: "image/webp"
 ---

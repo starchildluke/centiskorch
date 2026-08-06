@@ -90,7 +90,6 @@ With all that said, let's look at those Raging Bolt nicknames!
 ### D-Tier
 
 * **Xneckutor** - this might be my worst one yet
-* **LongNDaTooth**
 * **Long Haul**
 * **Long Story**
 * **LongDistance**

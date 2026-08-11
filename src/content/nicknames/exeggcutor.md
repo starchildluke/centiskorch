@@ -56,6 +56,7 @@ With all that said, let's look at those Exeggutor nicknames!
 * **Armless**
 * **Faberge**
 * **EggEgg&Eggy** - [credit](https://www.reddit.com/r/pokemon/comments/czbc0f/comment/j1x2j9p/)
+* **Egg Hardy**
 
 ### B-Tier
 

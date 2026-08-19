@@ -1,61 +1,43 @@
 {
-  "$ref": "#/definitions/blog",
-  "definitions": {
-    "blog": {
-      "type": "object",
-      "properties": {
-        "title": {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "ogimage": {
+      "type": "string"
+    },
+    "imgtype": {
+      "type": "string"
+    },
+    "draft": {
+      "type": "boolean"
+    },
+    "robots": {
+      "type": "string"
+    },
+    "pubDate": {
+      "anyOf": [
+        {
           "type": "string"
         },
-        "description": {
-          "type": "string"
-        },
-        "ogimage": {
-          "type": "string"
-        },
-        "imgtype": {
-          "type": "string"
-        },
-        "draft": {
-          "type": "boolean"
-        },
-        "robots": {
-          "type": "string"
-        },
-        "pubDate": {
-          "anyOf": [
-            {
-              "type": "string"
-            },
-            {
-              "anyOf": [
-                {
-                  "type": "string",
-                  "format": "date-time"
-                },
-                {
-                  "type": "string",
-                  "format": "date"
-                },
-                {
-                  "type": "integer",
-                  "format": "unix-time"
-                }
-              ]
-            }
-          ]
-        },
-        "$schema": {
-          "type": "string"
+        {
+          "type": "string",
+          "format": "date-time"
         }
-      },
-      "required": [
-        "title",
-        "description",
-        "pubDate"
-      ],
-      "additionalProperties": false
+      ]
+    },
+    "$schema": {
+      "type": "string"
     }
   },
-  "$schema": "http://json-schema.org/draft-07/schema#"
+  "required": [
+    "title",
+    "description",
+    "pubDate"
+  ]
 }

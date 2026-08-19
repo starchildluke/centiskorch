@@ -21,7 +21,7 @@ const teams = await getCollection('logs', ({ id }) => {
 			<ul class="pokeball-icons">
 				{teams.sort((a, b) => a.data.gen - b.data.gen).map((team) => (
 					<li>
-						<a href={`/logs/${team.slug}/`} class="blog-listing-title">{team.data.title}</a>
+						<a href={`/logs/${team.id}/`} class="blog-listing-title">{team.data.title}</a>
 					</li>
 					))
 				}

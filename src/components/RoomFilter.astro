@@ -3,24 +3,24 @@ import { getCollection } from 'astro:content';
 
 const { query } = Astro.props;
 
-const allBlogs = await getCollection('blog', ({slug}) => {
-	return slug.includes(query);
+const allBlogs = await getCollection('blog', ({id}) => {
+	return id.includes(query);
 }); 
 
-const allFaves = await getCollection('favourites', ({slug}) => {
-	return slug.includes(query);
+const allFaves = await getCollection('favourites', ({id}) => {
+	return id.includes(query);
 }); 
 
-const allLogs = await getCollection('logs', ({slug}) => {
-	return slug.includes(query);
+const allLogs = await getCollection('logs', ({id}) => {
+	return id.includes(query);
 }); 
 
-const allMisc = await getCollection('misc', ({slug}) => {
-	return slug.includes(query);
+const allMisc = await getCollection('misc', ({id}) => {
+	return id.includes(query);
 });
 
-const allNames = await getCollection('nicknames', ({slug}) => {
-	return slug.includes(query);
+const allNames = await getCollection('nicknames', ({id}) => {
+	return id.includes(query);
 });
 
 const combinedColl = allBlogs.concat(allFaves, allLogs, allMisc, allNames);
@@ -30,31 +30,31 @@ const combinedColl = allBlogs.concat(allFaves, allLogs, allMisc, allNames);
 {combinedColl.length > 0 ? <ul class="pokeball-icons">
 	{allBlogs.map((post) => (
 		<li>
-			<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+			<a href={`/blog/${post.id}/`}>{post.data.title}</a>
 		</li>
 		))
 	}
 	{allFaves.map((post) => (
 		<li>
-			<a href={`/favourites/${post.slug}/`}>{post.data.title}</a>
+			<a href={`/favourites/${post.id}/`}>{post.data.title}</a>
 		</li>
 		))
 	}
 	{allLogs.map((post) => (
 		<li>
-			<a href={`/logs/${post.slug}/`}>{post.data.title}</a>
+			<a href={`/logs/${post.id}/`}>{post.data.title}</a>
 		</li>
 		))
 	}
 	{allMisc.map((post) => (
 		<li>
-			<a href={`/misc/${post.slug}/`}>{post.data.title}</a>
+			<a href={`/misc/${post.id}/`}>{post.data.title}</a>
 		</li>
 		))
 	}
 	{allNames.map((post) => (
 		<li>
-			<a href={`/nicknames/${post.slug}/`}>{post.data.title}</a>
+			<a href={`/nicknames/${post.id}/`}>{post.data.title}</a>
 		</li>
 		))
 	}

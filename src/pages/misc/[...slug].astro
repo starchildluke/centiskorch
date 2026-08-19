@@ -1,19 +1,19 @@
 ---
 import { getCollection } from 'astro:content';
-import type { CollectionEntry } from 'astro:content';
+import { CollectionEntry, render } from 'astro:content';
 import Favourites from '../../layouts/Favourites.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('misc');
 	return posts.map((post) => ({
-		params: { slug: post.slug },
+		params: { slug: post.id },
 		props: post,
 	}));
 }
 type Props = CollectionEntry<'misc'>;
 
 const post = Astro.props;
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 <Favourites {...post.data}>
 	<Content />

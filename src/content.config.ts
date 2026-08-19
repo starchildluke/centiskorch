@@ -1,7 +1,9 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { z } from 'astro/zod';
+import { glob } from 'astro/loaders';
 
 const logs = defineCollection({
-	type: 'content',
+	loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/logs" }),
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -12,7 +14,7 @@ const logs = defineCollection({
 });
 
 const favourites = defineCollection({
-	type: 'content',
+	loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/favourites" }),
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -22,7 +24,7 @@ const favourites = defineCollection({
 });
 
 const misc = defineCollection({
-	type: 'content',
+	loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/misc" }),
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -32,7 +34,7 @@ const misc = defineCollection({
 });
 
 const nicknames = defineCollection({
-	type: 'content',
+	loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/nicknames" }),
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -51,7 +53,7 @@ const nicknames = defineCollection({
 });
 
 const rooms = defineCollection({
-	type: 'content',
+	loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/rooms" }),
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -69,7 +71,7 @@ const rooms = defineCollection({
 });
 
 const blog = defineCollection({
-	type: 'content',
+	loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blog" }),
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),

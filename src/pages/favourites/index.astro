@@ -22,7 +22,7 @@ const posts = await getCollection('favourites', ({data}) => {
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
 					<li>
-						<a href={`/favourites/${post.slug}/`} class="blog-listing-title">{post.data.title}</a>
+						<a href={`/favourites/${post.id}/`} class="blog-listing-title">{post.data.title}</a>
 					</li>
 					))
 				}

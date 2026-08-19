@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
-const miscPages = await getCollection('misc', ({slug}) => {
-	return slug.includes('links');
+const miscPages = await getCollection('misc', ({id}) => {
+	return id.includes('links');
 }); 
 
 const logPages = await getCollection('logs', ({ id }) => {
@@ -31,7 +31,7 @@ const rooms = await getCollection('rooms');
 			<li><a href="/logs/my-pokemon-teams/">my pokémon teams</a></li>
 			{logPages.map((page) => (
 					<li>
-						<a href={`/logs/${page.slug}/`}>{page.data.title.toLowerCase()}</a>
+						<a href={`/logs/${page.id}/`}>{page.data.title.toLowerCase()}</a>
 					</li>
 					))
 				}
@@ -45,7 +45,7 @@ const rooms = await getCollection('rooms');
 		<ul class="pokeball-icons">
 			{miscPages.map((page) => (
 					<li>
-						<a href={`/misc/${page.slug}/`}>{page.data.title.toLowerCase()}</a>
+						<a href={`/misc/${page.id}/`}>{page.data.title.toLowerCase()}</a>
 					</li>
 					))
 				}
@@ -56,7 +56,7 @@ const rooms = await getCollection('rooms');
 		<ul class="pokeball-icons">
 			{rooms.map((room) => (
 					<li>
-						<a href={`/rooms/${room.slug}/`}>{room.data.title.toLowerCase()}</a>
+						<a href={`/rooms/${room.id}/`}>{room.data.title.toLowerCase()}</a>
 					</li>
 					))
 				}

@@ -8,7 +8,7 @@
   const results = document.querySelector('.results');
   const cross = document.querySelector('#cross');
 
-  const indexKeys = ['title', 'slug'];
+  const indexKeys = ['title', 'id'];
   const highlightColour = ['<span style="color:#c4413b;">', '</span>'];
 
   cross.addEventListener("click", (e) => {
@@ -27,7 +27,7 @@
 
     if (text) {
         results.innerHTML = fuzz.length ? fuzz.map((c) => (
-          `<div class="search-result" data-score=${c.score.toFixed(3)}><a style="font-size:1rem;color:#472a2d;" href=${c['obj']['slug']}/>
+          `<div class="search-result" data-score=${c.score.toFixed(3)}><a style="font-size:1rem;color:#472a2d;" href=${c['obj']['id']}/>
               ${c[0].highlight().length === 0 ? c['obj']['title'] : c[0].highlight(highlightColour[0], highlightColour[1])}
             </a></p></div>`)).join("") : 'Nothing found ☹️';
       } else {

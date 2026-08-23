@@ -7,7 +7,7 @@ export async function GET({params, request}) {
       return {
         title: data.data.title,
         description: data.data.description,
-        slug: data.slug
+        id: data.id
       };
     });
   

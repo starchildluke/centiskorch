@@ -11,10 +11,10 @@
     "knip": "knip"
   },
   "dependencies": {
-    "@astrojs/mdx": "^7.0.7",
+    "@astrojs/mdx": "^7.0.8",
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.3",
-    "astro": "^7.1.0",
+    "astro": "^7.2.5",
     "astro-lazy-youtube-embed": "^0.4.0",
     "fuzzysort": "^3.1.0"
   },

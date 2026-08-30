@@ -39,6 +39,8 @@ My methodology for nicknames is as follows:
 * **Cuppa Verde** - a play on “Cabo Verde”
 * **Julep**
 * **Carafe**
+* **Matchamaker**
+* **Teakaboo**
 
 ### B-Tier
 
@@ -74,5 +76,6 @@ My methodology for nicknames is as follows:
 * **Mr Tea** - I pi-_tea_ the fool!
 * **Steep**
 * **Sippy Cup**
+* **Green Day**
 
 Do you have a favourite Sinistcha nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

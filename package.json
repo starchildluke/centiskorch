@@ -11,16 +11,16 @@
     "knip": "knip"
   },
   "dependencies": {
-    "@astrojs/mdx": "^7.0.8",
+    "@astrojs/mdx": "^8.0.0",
     "@astrojs/rss": "^4.0.19",
-    "@astrojs/sitemap": "^3.7.3",
-    "astro": "^7.2.5",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.2.10",
     "astro-lazy-youtube-embed": "^0.4.0",
     "fuzzysort": "^3.1.0"
   },
   "devDependencies": {
     "@types/node": "^25.9.5",
-    "knip": "^6.32.2",
+    "knip": "^6.34.0",
     "typescript": "^5.9.3"
   },
   "packageManager": "pnpm@10.3.0+sha512.ee592eda8815a8a293c206bb0917c4bb0ff274c50def7cbc17be05ec641fc2d1b02490ce660061356bd0d126a4d7eb2ec8830e6959fb8a447571c631d5a2442d"

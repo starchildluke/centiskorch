@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { CollectionEntry, render } from 'astro:content';
+import { render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 import PrevNextLinking from '../../components/PrevNextListing.astro';
 
@@ -27,14 +27,12 @@ export async function getStaticPaths() {
   }));
 }
 
-type Props = CollectionEntry<'posts'>;
-
-const { post, prevPost, nextPost, prevSlug, prevTitle, nextSlug, nextTitle, contentType } = Astro.props;
+const { post, prevPost, nextPost, prevSlug, prevTitle, nextSlug, nextTitle } = Astro.props;
 const { Content } = await render(post);
 
 ---
 
 <BlogPost {...post.data}>
 	<Content />
-	<PrevNextLinking prevPost={prevPost.data} nextPost={nextPost.data} prevSlug={prevPost?.slug} prevTitle={prevPost.data?.title} nextSlug={nextPost?.slug} nextTitle={nextPost.data?.title} />
+	<PrevNextLinking prevPost={prevPost.data} nextPost={nextPost.data} prevSlug={prevPost?.id} prevTitle={prevPost.data?.title} nextSlug={nextPost?.id} nextTitle={nextPost.data?.title} />
 </BlogPost>

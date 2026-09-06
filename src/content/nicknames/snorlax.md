@@ -43,7 +43,7 @@ With all that said, let's look at those Snorlax nicknames!
 * **Manitoba**
 * **RipVanWinkle**
 * **Bear McLane**
-* **Mufu** - from [Tobal No. 1](/nicknames/tobal/)
+* **Mufu** - from [Tobal No. 1](/nicknames/themes/tobal/)
 
 ### B-Tier
 

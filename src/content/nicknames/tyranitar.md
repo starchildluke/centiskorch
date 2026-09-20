@@ -127,6 +127,7 @@ lcpMediaType: 'image/jpeg'
 * **Tyrnoceratps** - based on Tyrannoceratops from Dragon Quest but it wouldn't all fit
 * **Dragonthorn** - also Dragon Quest
 * **Maverick**
+* **Darude**
 
 ### B-Tier
 

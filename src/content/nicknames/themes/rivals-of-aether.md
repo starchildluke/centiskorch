@@ -27,7 +27,7 @@ My methodology for picking Rivals of Aether themed nicknames is the same as [Gol
 * **Ranno** - Greninja
 * **Clairen** - Zoroark, Lucario
 * **Sylvanos** - Pyroar, Solgaleo, [Entei](/nicknames/entei/)
-* **Elliana** - Zygarde, Giratina, Steelix, Excadrill
+* **Elliana** - Zygarde, Giratina, [Steelix](/nicknames/steelix/), Excadrill
 * **Ori and Sein** - Tandemaus
 * **ShovelKnight** - Golurk, Kingambit, Aggron, Armarouge
 * **Mollo** - Zoroark, Lucario, Blaziken

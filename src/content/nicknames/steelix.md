@@ -32,6 +32,7 @@ My methodology for nicknames is as follows:
 
 * I rank nicknames by lettered tiers: S, A, B, and C. S is the best and D is the worst.
 * I'll usually list my inspiration for a nickname so you know where they came from.
+* Nicknames marked with an asterisk were courtesy of [SalarezArt](https://ko-fi.com/salarezart)
 
 With all that said, let's look at those Steelix nicknames!
 
@@ -55,6 +56,12 @@ With all that said, let's look at those Steelix nicknames!
 * **Rocksicle**
 * **LicoriceWhip** - [crack that whip!](https://www.youtube.com/watch?v=VqaiJkSvILc)
 * **[Au]raFarmer** - if it's shiny
+* **Rebar**\*
+* **Fefe**\*
+* **BiteMyShiny**\* - [metal \*ss](https://www.youtube.com/watch?v=3-79gauYW9I)
+* **Fool's Gold**\*
+* **Rock Tumbler**\*
+* **SteelSnek**\*
 
 ### B-Tier
 
@@ -94,5 +101,7 @@ With all that said, let's look at those Steelix nicknames!
 * **Metallurgy**
 * **Iron Maiden**
 * **Aluminium**
+
+Rebar, Fefe, BiteMyShiny (metal ass lol), Rock Tumbler, Fool's Gold, SteelSnek
 
 Do you have a favourite Steelix nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

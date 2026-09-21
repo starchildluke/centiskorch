@@ -44,6 +44,7 @@ With all that said, let's look at those Steelix nicknames!
 ### A-Tier
 
 * **Steely Dan** - lol
+* **Goldirocks**
 * **Solid Snake**
 * **[Fe]male** - [credit](https://www.youtube.com/watch?v=rJ21j442LOw)
 * **Elliana** - from [Rivals of Aether](/nicknames/themes/rivals-of-aether/)

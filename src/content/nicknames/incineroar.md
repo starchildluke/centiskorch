@@ -116,6 +116,7 @@ lcpMediaType: 'image/webp'
 * **Conan**
 * **Ruby**
 * **Garnet**
+* **Roary** - thanks, [Mawlerz](https://linktr.ee/mawlerz)
 
 ### B-Tier
 

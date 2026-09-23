@@ -117,6 +117,9 @@ lcpMediaType: 'image/webp'
 * **Ruby**
 * **Garnet**
 * **Roary** - thanks, [Mawlerz](https://linktr.ee/mawlerz)
+* **Kellogg** - thanks, [Cam H](https://www.youtube.com/@chccon)!
+* **Wrestless** - and again!
+
 
 ### B-Tier
 

@@ -2,7 +2,7 @@
 title: "Steelix nicknames"
 description: "A list of Steelix nicknames, their origins, and why I think they're cool."
 pubDate: "20 Sep 2026"
-pokedexNumber: '0000'
+pokedexNumber: '0208'
 lcpSrc: "/images/steelix.jpg"
 lcpMediaAs: "image"
 lcpMediaType: "image/webp"
@@ -12,7 +12,7 @@ lcpMediaType: "image/webp"
 	<figure>
 		<picture>
 			<source srcset="/images/steelix.webp" type="image/webp">
-			<img src="/images/steelix.jpg" width="627" height="281" alt="a Pokémon">
+			<img src="/images/steelix.jpg" width="627" height="281" alt="a metallic serpentine Pokémon with a helmet-like head and a body made up of silvery metallic boulders.">
 		</picture>
 		<figcaption>Steelix (left) and Mega Steelix (right)</figcaption>
 	</figure>
@@ -102,7 +102,5 @@ With all that said, let's look at those Steelix nicknames!
 * **Metallurgy**
 * **Iron Maiden**
 * **Aluminium**
-
-Rebar, Fefe, BiteMyShiny (metal ass lol), Rock Tumbler, Fool's Gold, SteelSnek
 
 Do you have a favourite Steelix nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

@@ -59,6 +59,7 @@ My methodology for nicknames is as follows:
 * **Chasen** - a bamboo whisk used in Japanese tea ceremony
 * **Usucha** - a type of matcha
 * **Koicha** - same as above
+* **Iced Coffee**
 
 ### C-Tier
 
@@ -77,5 +78,6 @@ My methodology for nicknames is as follows:
 * **Steep**
 * **Sippy Cup**
 * **Green Day**
+* **SinIce T**
 
 Do you have a favourite Sinistcha nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

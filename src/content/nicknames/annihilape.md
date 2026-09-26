@@ -56,6 +56,7 @@ With all that said, let's look at those Annihilape nicknames!
 * **Panini**
 * **Monkey D/Luffy** - [inspired by this WeedleTwineedle tweet](https://x.com/WeedleTwineedle/status/1744963254844043528)
 * **Nork** - from [Tobal No. 1](/nicknames/tobal/)
+* **Oktoberfest** - via [Prof. Beans](https://bsky.app/profile/profbeans.standingintheodds.com/post/3mwgt4zyljc2f)
 
 ### B-Tier
 

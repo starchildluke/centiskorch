@@ -19,8 +19,9 @@ const nicknames = await getCollection('nicknames');
 		align-items: center;
 	}
 
-	.columns-3 {
-		columns: 3;
+	.columns-grid {
+		display: grid;
+  		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 	}
 
 	summary {
@@ -60,7 +61,7 @@ const nicknames = await getCollection('nicknames');
 			<details>
 				<summary><strong><em>Or you can find all the nickname links in this dropdown.</em></strong></summary>
 				<h3 class="no-yellow-h3">Pokémon</h3>
-				<ul class="columns-3 pokeball-icons">
+				<ul class="columns-grid pokeball-icons">
 					{nicknames.sort((a, b) => a.data.title.localeCompare(b.data.title)).filter((nickname) => (!nickname.id.includes("themes"))).map((nickname) => (
 						<li>
 							<a href={`/nicknames/${nickname.id}/`} class="blog-listing-title">{nickname.data.title.replace(" nicknames", "")}</a>
@@ -69,7 +70,7 @@ const nicknames = await getCollection('nicknames');
 					}
 				</ul>
 				<h3 class="no-yellow-h3">Themes</h3>
-				<ul class="columns-3 pokeball-icons">
+				<ul class="columns-grid pokeball-icons">
 					{nicknames.sort((a, b) => a.data.title.localeCompare(b.data.title)).filter((nickname) => (nickname.id.includes("themes"))).map((nickname) => (
 						<li>
 							<a href={`/nicknames/${nickname.id}/`} class="blog-listing-title">{nickname.data.title.replace(" nicknames", "")}</a>

@@ -105,6 +105,7 @@ lcpMediaType: image/webp
 * **Hermes**
 * **Artemis**
 * **Justice** - from [the tarot card](/nicknames/themes/tarot-cards/)
+* **Doombroker** - from Yu-Gi-Oh!
 
 ### A-Tier
 

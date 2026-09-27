@@ -1,0 +1,47 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+*/
+
+:root {
+	--ra-search-gold: #ffd700;
+	--ra-search-silver: #c0c0c0;
+	--ra-search-bronze: #cd7f32;
+	--ra-search-glow-radius: 0 0 8px 1px;
+
+	--ra-search-gold-glow: var(--ra-search-glow-radius) var(--ra-search-gold);
+	--ra-search-silver-glow: var(--ra-search-glow-radius) var(--ra-search-silver);
+	--ra-search-bronze-glow: var(--ra-search-glow-radius) var(--ra-search-bronze);
+}
+.ra-search-error-text {
+	color: red;
+}
+
+.bases-cards-item:has([class*="ra-status"]) { 
+	border: 2px solid;
+}
+
+.bases-cards-item:has(.ra-status-none) { 
+	border: none;
+}
+
+.bases-cards-item:has(.ra-status-mastered) {
+	border-color: var(--ra-search-gold);
+	box-shadow: var(--ra-search-gold-glow);
+}
+.bases-cards-item:has(.ra-status-completed) {
+	border-color: var(--ra-search-silver);
+	box-shadow: var(--ra-search-silver-glow);
+}
+
+.bases-cards-item:has(.ra-status-beaten-hardcore),
+.bases-cards-item:has(.ra-status-beaten-casual),
+.bases-cards-item:has(.ra-status-beaten-softcore) {
+	border-color: var(--ra-search-bronze);
+}
+.bases-cards-item:has(.ra-status-beaten-hardcore) {
+	box-shadow: var(--ra-search-bronze-glow);
+}

@@ -51,6 +51,7 @@ With all that said, let's look at those Centiskorch nicknames!
 * **Therma**
 * **Fire Whip**
 * **Colossus**
+* **FruitRollUp** - thanks, [Aliza](https://www.inprnt.com/gallery/jiaminart/)!
 
 ### B-Tier
 

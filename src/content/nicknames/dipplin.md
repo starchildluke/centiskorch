@@ -3,13 +3,21 @@ title: "Dipplin nicknames"
 description: "A list of Dipplin nicknames, their origins, and why I think they're cool."
 pubDate: "26 Sep 2023"
 pokedexNumber: '1011'
+lcpSrc: "/images/dipplin.jpg"
+lcpMediaAs: "image"
+lcpMediaType: "image/webp"
 ---
+
+<div class="img-center">
+	<picture>
+		<source srcset="/images/dipplin.webp" type="image/webp">
+		<img src="/images/dipplin.jpg" width="300" height="300" alt="a red syrupy candy apple Pokémon with a tail sticking out of the back and two eyes sticking out at the top">
+	</picture>
+</div>
 
 Dipplin was introduced in Generation 9 with a Grass/Dragon typing as the evolved form of Applin so there's lots of inspiration for nicknames.
 
 Let's have a look at Dipplin's origins and some of those nicknames.
-
-**Please note**: at the time of writing, this may contain spoilers for the DLC but nothing connected to the storyline.
 
 ## Origins
 

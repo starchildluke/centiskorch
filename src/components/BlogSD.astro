@@ -1,0 +1,42 @@
+---
+const post = Astro.props;
+
+const ogImage = post.ogimage ?
+  'https://centiskor.ch' + post?.ogimage 
+  : "https://centiskor.ch/images/851.png";
+
+let sd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": post.title,
+      "datePublished": post.pubDate,
+      "image": ogImage,
+      "author": {
+        "@type": "Person",
+          "name": "Centiskorch",
+          "url": "https://centiskor.ch/",
+          "image": "https://centiskor.ch/images/851.png",
+          "sameAs": [
+            "https://bsky.app/profile/centiskor.ch",
+          ],
+          "alternateName": [
+            "Centiskorch",
+            "Skorch"
+          ]
+      },
+      "@id": Astro.url + "#richSnippet",
+      "inLanguage": "en-GB",
+      "mainEntityOfPage": {
+        "@id": Astro.url + "#webpage"
+      }
+    }
+  ]
+})
+
+---
+
+<script type="application/ld+json" set:html={sd}></script>
+
+

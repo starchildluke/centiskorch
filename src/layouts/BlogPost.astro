@@ -4,6 +4,7 @@ import Footer from '../components/Footer.astro';
 import LeftSidebar from '../components/LeftSidebar.astro';
 import type { CollectionEntry } from 'astro:content';
 import FormattedDate from '../components/FormattedDate.astro';
+import BlogSD from '../components/BlogSD.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
@@ -34,4 +35,5 @@ const { title, description, pubDate, updatedDate, ogimage, imgtype, robots } = A
 				</main>
 				<LeftSidebar />
 					<Footer />
+					<BlogSD {title} {pubDate} {ogimage} />
 				</div></div>

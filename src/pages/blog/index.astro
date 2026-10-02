@@ -21,7 +21,7 @@ const posts = (await getCollection('blog')).sort(
 			<p>This is my humble blog. I write about all things Pokémon related that doesn't already have a dedicated page. You can follow the blog via my <a href="/rss.xml">RSS feed</a>.</p>
 			<ul class="pokeball-icons">
 				{posts.map((post) => (
-					<li>
+					<li style="display:block;">
 						<a href={`/blog/${post.id}/`}>{post.data.title}</a>
 						<p class="date">
 							<FormattedDate date={post.data.pubDate} />

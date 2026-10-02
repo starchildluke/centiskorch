@@ -123,6 +123,7 @@ lcpMediaType: image/webp
 * **Pazuzu**
 * **Sheriff** - from [Robin Hood](/nicknames/themes/robin-hood/)
 * **Vande** - from [Golden Sun](/nicknames/themes/golden-sun/)
+* **Darkademia**
 
 ### B-Tier
 

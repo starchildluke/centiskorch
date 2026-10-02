@@ -57,6 +57,7 @@ With all that said, let's look at those Porygon nicknames!
 * **Cyberduck** - named after the FTP client
 * **VLC Player** - via Jake
 * **Prototype**
+* **Tamagotchi**
 
 ### B-Tier
 

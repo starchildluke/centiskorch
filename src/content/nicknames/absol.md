@@ -124,6 +124,8 @@ lcpMediaType: image/webp
 * **Sheriff** - from [Robin Hood](/nicknames/themes/robin-hood/)
 * **Vande** - from [Golden Sun](/nicknames/themes/golden-sun/)
 * **Darkademia**
+* **Destiny**
+* **Dark Angel**
 
 ### B-Tier
 

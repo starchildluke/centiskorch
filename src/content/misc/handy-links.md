@@ -37,6 +37,7 @@ Here is a collection of handy links for every generation and some general resour
 * [The 88x31 archive](https://hellnet.work/8831/) - a site containing 29,257 88x31 buttons that were scraped from the GeoCities archives.
 * [PokéPrint](https://pokeprint.kimbachu.com/site/) — the Pokémon fansite that supplies players with handy printable resources!
 * [webcraft supplies](https://ribo.zone/free/graphics/) - free to use graphics for websites (mostly 88x31 buttons)
+* [GGBotNet Fonts CC0 (All-in-1)](https://ggbot.itch.io/ggbotnet-fonts-cc0) - 45 free fonts available under the [Creative Commons Zero (CC0) v1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## R/B/Y
 * [Pokémon Red/Blue speedrunning guide](https://www.speedrun.com/pkmnredblue/resources)

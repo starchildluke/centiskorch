@@ -1,5 +1,6 @@
 
 export default new Map([
+["src/content/blog/33-minutes-of-chill-pokemon-beats.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2F33-minutes-of-chill-pokemon-beats.mdx&astroContentModuleFlag=true")],
 ["src/content/blog/8192-shiny-challenge-birmingham.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2F8192-shiny-challenge-birmingham.mdx&astroContentModuleFlag=true")],
 ["src/content/blog/adef-emerald-victory-road-trainers.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2Fadef-emerald-victory-road-trainers.mdx&astroContentModuleFlag=true")],
 ["src/content/blog/beastcoast-weak-pokemon-changed-game.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fblog%2Fbeastcoast-weak-pokemon-changed-game.mdx&astroContentModuleFlag=true")],

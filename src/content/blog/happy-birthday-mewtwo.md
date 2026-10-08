@@ -2,6 +2,8 @@
 title: 'Happy birthday, Mewtwo!'
 description: "Many happy returns to the most famous clone Pokémon in history."
 pubDate: '6 Feb 2025'
+ogimage: '/images/feb-6-mewtwo.jpg'
+imgtype: 'image/jpeg'
 ---
 
 <figure class="img-center">

@@ -2,6 +2,8 @@
 title: 'ICE SUCKS Stickers by HeyyoJojo'
 description: "Sizzlipede standing up for what's right"
 pubDate: '21 Apr 2026'
+ogimage: '/images/ice-sucks-sticker-fundraiser-1905540.webp'
+imgtype: 'image/webp'
 ---
 
 ![Stickers featuring Sizzlipede and the words "ICE SUCKS" made from melting ice](/images/ice-sucks-sticker-fundraiser-1905540.webp)

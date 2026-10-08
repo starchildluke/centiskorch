@@ -2,6 +2,8 @@
 title: 'My big shiny day'
 description: "I got a lot of shinies yesterday so I'm writing about the experience."
 pubDate: '05 Sep 2023'
+ogimage: '/images/shiny-clawitzer.jpg'
+imgtype: 'image/jpeg'
 ---
 
 It all started with a Clawitzer outbreak in Pokémon Violet. I'd recently discovered the shiny and thought I'd give it a go. The problem was the outbreak was a little... off. Clawitzer only seemed to appear 1-4 times per spawn and mostly just once. And I couldn't go directly into the area; I had to slowly creep _towards_ it to conjure the blue crustacean. I managed to get the 60 and spend the next few hours going in and out of spawn area, hoping the red shiny would appear. But it never did. I even tried sandwiches, and that's where the big shiny luck started.

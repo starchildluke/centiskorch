@@ -2,7 +2,7 @@
 title: "Chien-Pao nicknames"
 description: "A list of Chien-Pao nicknames, their origins, and why I think they're cool."
 pubDate: "02 Jun 2026"
-pokedexNumber: '0000'
+pokedexNumber: '1002'
 lcpSrc: "/images/chien-pao.jpg"
 lcpMediaAs: "image"
 lcpMediaType: "image/webp"
@@ -15,7 +15,7 @@ lcpMediaType: "image/webp"
 	</picture>
 </div>
 
-Chien-Pao is a dual Dark/Ice-type Pokémon, introduced in Generation 9 as one of the Treasures of Ruin Pokémon.
+Chien-Pao is a dual Dark/[Ice](/nicknames/themes/ice-type/)-type Pokémon, introduced in Generation 9 as one of the Treasures of Ruin Pokémon.
 
 Let's have a look at its origins and some of my suggested nicknames.
 

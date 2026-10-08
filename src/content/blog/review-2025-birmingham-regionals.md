@@ -2,6 +2,8 @@
 title: 'My review of 2025 Birmingham Regionals'
 description: 'I went to the Birmingham Regionals in 2025 and had a blast.'
 pubDate: '20 Jan 2025'
+ogimage: '/images/2025-birmingham-regionals-plushies.jpg'
+imgtype: 'image/jpeg'
 ---
 <figure class="img-center">
 	<a href="/images/2025-birmingham-regionals-plushies.jpg"><img src="/images/2025-birmingham-regionals-plushies-640.webp" width="640" height="482" alt="some Pokémon plushes in a display box"/></a>

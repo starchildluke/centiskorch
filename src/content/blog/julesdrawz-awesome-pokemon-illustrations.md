@@ -2,6 +2,8 @@
 title: 'Awesome Pokémon illustrations by Julesdrawz'
 description: 'This illustrator knows how to capture the frenetic energy of Pokémon.'
 pubDate: '27 Aug 2023'
+ogimage: '/images/espeon-julesdrawz.jpeg'
+imgtype: 'image/jpeg'
 ---
 
 Julesdrawz is an illustrator and 2D animator with an eye for detail and stunning colours. His skills lend themselves well to the world of Pokémon where vibrancy and detail are at their peak.

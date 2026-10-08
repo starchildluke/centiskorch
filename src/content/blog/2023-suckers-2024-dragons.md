@@ -2,6 +2,8 @@
 title: '2023 WAS FOR SUCKERS 2024 IS FOR DRAGONS'
 description: 'This is my motto, in the Year of the Dragon.'
 pubDate: '31 Jan 2024'
+ogimage: '/images/luke-rap-scallion-shiny-salamence.webp'
+imgtype: 'image/webp'
 ---
 
 On 31st December 2023, [2016 VGC World Champion Wolfe Glick tweeted the following](https://twitter.com/WolfeyGlick/status/1741588867025621292):

@@ -2,6 +2,8 @@
 title: 'Pokémon that learn Light Screen and Reflect'
 description: 'Here are the Pokémon that can learn two of the main defensive screen moves.'
 pubDate: '7 Oct 2025'
+ogimage: '/images/bellibolt.webp'
+imgtype: 'image/webp'
 ---
 
 Sometimes you want Reflect for a physical defence boost and sometimes you want Light Screen for a special defence boost. But what if you wanted both and didn't have space for two Pokémon? Well, you could have the best of both worlds because there are 159 Pokémon (at the time of writing) that can learn both Light Screen and Reflect.

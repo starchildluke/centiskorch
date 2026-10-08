@@ -26,7 +26,7 @@ lcpMediaType: image/webp
 				<li><strong>Height</strong>: 7'03" (2.2 m)</li>
 				<li><strong>Weight</strong>: 298.7 lbs. (135.5 kg)</li>
 			</ul>
-			<p>Abomasnow was introduced in Generation 4 with a dual Grass/Ice typing. Known as the Frost Tree Pokémon, it's a large, bipedal Pokémon with shaggy white fur all over its body and green fur on its hands, legs, and tail. It has lilac eyes, big bushy eyebrows, long fur covering its mouth (think of Zoidberg from Futurama but white, furrier, and bigger).</p>
+			<p>Abomasnow was introduced in Generation 4 with a dual <a href="/nicknames/themes/grass-type/">Grass</a>/<a href="/nicknames/themes/ice-type/">Ice</a> typing. Known as the Frost Tree Pokémon, it's a large, bipedal Pokémon with shaggy white fur all over its body and green fur on its hands, legs, and tail. It has lilac eyes, big bushy eyebrows, long fur covering its mouth (think of Zoidberg from Futurama but white, furrier, and bigger).</p>
 			<p>It also has a mega form, Mega Abomasnow, introduced in Generation 6 which has "spikier" looking fur and two ice crystals coming out of appendages on its back.</p>
 		</div>
 

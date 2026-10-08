@@ -2,6 +2,8 @@
 title: 'How I spent 10,000 Pokédollars to catch a Lunala in a Moon Ball'
 description: "Dedication and the aesthetic were crucial in making this work."
 pubDate: '02 Jan 2024'
+ogimage: '/images/me-lunala-pose-2.jpeg'
+imgtype: 'image/jpeg'
 ---
 
 Firstly, happy new year!

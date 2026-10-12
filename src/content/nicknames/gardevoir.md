@@ -38,66 +38,67 @@ With all that said, let's look at those Gardevoir nicknames!
 
 ### S-Tier
 
-* Great Gowns - [beautiful gowns](https://www.youtube.com/watch?v=fzPpZwSDcRo)
-* Jade
-* Jasmine
+* **Great Gowns - [beautiful gowns](https://www.youtube.com/watch?v=fzPpZwSDcRo)**
+* **Jade**
+* **Jasmine**
 
 ### A-Tier
 
-* Givenchy
-* Versace
-* Diana
-* MOTHER - [has arrived](https://www.youtube.com/watch?v=2mzYJGszF4s)
-* Queen
-* Sailor Jupiter
-* Jubilee
-* Geisha
-* Oracle
+* **Givenchy**
+* **Versace**
+* **Diana**
+* **MOTHER - [has arrived](https://www.youtube.com/watch?v=2mzYJGszF4s)**
+* **Queen**
+* **Sailor Jupiter**
+* **Jubilee**
+* **Geisha**
+* **Oracle**
+* **Gardi B**
 
 ### B-Tier
 
-* Lacey
-* Silk
-* Satin
-* Titania/Oberon
-* Gancanagh
-* Eleganza
-* Grace
-* Mosaic
-* Prophet
-* Psyche
-* Sakura
-* Jersey
-* Fate
-* Snowball
-* Ballgown
-* Maiden
+* **Lacey**
+* **Silk**
+* **Satin**
+* **Titania/Oberon**
+* **Gancanagh**
+* **Eleganza**
+* **Grace**
+* **Mosaic**
+* **Prophet**
+* **Psyche**
+* **Sakura**
+* **Jersey**
+* **Fate**
+* **Snowball**
+* **Ballgown**
+* **Maiden**
 
 ### C-Tier
 
-* Voir-Garde - Pokémon Stadium style nickname
-* GardeGarde - as above
-* GIRL BOSS
-* JeniferLopez - because of That Dress
-* Midori
-* Pearl
-* Serenity
-* Puck
-* Pillywiggin
-* Gaga
-* Met Gala
-* Zelda
-* Elphaba/Glinda
-* Chic
-* Majesty
-* Tailor/Taylor
-* Dress
-* Drag
-* Lipstick
-* China - as in porcelain
-* Matcha
-* Clair - as in clairvoyant
-* Emma Frost
-* Trapeze
+* **Voir-Garde - Pokémon Stadium style nickname**
+* **GardeGarde - as above**
+* **GIRL BOSS**
+* **JeniferLopez - because of That Dress**
+* **Midori**
+* **Pearl**
+* **Serenity**
+* **Puck**
+* **Pillywiggin**
+* **Gaga**
+* **Met Gala**
+* **Zelda**
+* **Elphaba/Glinda**
+* **Chic**
+* **Majesty**
+* **Tailor/Taylor**
+* **Dress**
+* **Drag**
+* **Lipstick**
+* **China - as in porcelain**
+* **Matcha**
+* **Clair - as in clairvoyant**
+* **Emma Frost**
+* **Trapeze**
 
 Do you have a favourite Gardevoir nickname or have a suggestion of your own? If you like any of my nicknames or want to suggest one of your own, head over to the contact me link on the left and email me your suggestion!

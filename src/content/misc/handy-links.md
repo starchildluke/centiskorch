@@ -18,6 +18,7 @@ Here is a collection of handy links for every generation and some general resour
 * [psypoke](https://www.psypokes.com/index.php)
 * [project pokémon](https://projectpokemon.org/home/)
 * [Pokencyclopedia.info](https://www.pokencyclopedia.info/en/index.php) - Pokémon Encyclopedia, Pokédex, Sprites
+* [Pokelingo](https://pokelingo.io/en/) - <q>Look up names, moves, and Pokédex entries across all nine modern game languages. Plus a daily riddle in your target language.</q>
 
 ## Shiny hunting
 

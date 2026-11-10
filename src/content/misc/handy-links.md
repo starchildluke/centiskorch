@@ -39,6 +39,7 @@ Here is a collection of handy links for every generation and some general resour
 * [PokéPrint](https://pokeprint.kimbachu.com/site/) — the Pokémon fansite that supplies players with handy printable resources!
 * [webcraft supplies](https://ribo.zone/free/graphics/) - free to use graphics for websites (mostly 88x31 buttons)
 * [GGBotNet Fonts CC0 (All-in-1)](https://ggbot.itch.io/ggbotnet-fonts-cc0) - 45 free fonts available under the [Creative Commons Zero (CC0) v1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/)
+* [Mazeguy Smilies](https://www.mazeguy.net/smilies.html)
 
 ## R/B/Y
 * [Pokémon Red/Blue speedrunning guide](https://www.speedrun.com/pkmnredblue/resources)
@@ -46,6 +47,11 @@ Here is a collection of handy links for every generation and some general resour
 ## G/S/C
 * [How to breed shinies with red Gyarados](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4vbh98sq1x711.png)
 * [GSC Save Converter for Virtual Console](https://bluemoonfalls.com/pages/tools/gsc-save-converter)
+
+## R/S/E
+
+* [AuraMewMultibootTool](https://github.com/aestellic/AuraMewMultibootTool) - Multiboot extractor + patcher for the [Aura Mew](https://bulbapedia.bulbagarden.net/wiki/List_of_English_event_Pok%C3%A9mon_distributions_in_Generation_III#Aura_Mew) Distribution ROM
+* [gblink-wondercards](https://github.com/GB-Link/gblink-wondercards) - Wonder Card sender for Pokémon Gen 3 games, using the GB-Link adapter in wireless adapter mode.
 
 ## Sw/Sh
 * [Candy calculator](https://richi3f.github.io/candy-calc/)

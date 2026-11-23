@@ -19,6 +19,7 @@ Here is a collection of handy links for every generation and some general resour
 * [project pokémon](https://projectpokemon.org/home/)
 * [Pokencyclopedia.info](https://www.pokencyclopedia.info/en/index.php) - Pokémon Encyclopedia, Pokédex, Sprites
 * [Pokelingo](https://pokelingo.io/en/) - <q>Look up names, moves, and Pokédex entries across all nine modern game languages. Plus a daily riddle in your target language.</q>
+* [VGC Builder](https://vgcbuilder.com/)
 
 ## Shiny hunting
 
